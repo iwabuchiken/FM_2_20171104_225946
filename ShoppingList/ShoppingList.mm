@@ -1,0 +1,8089 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<attribute_registry FONT_SIZE="24">
+<attribute_name NAME="version" VISIBLE="true"/>
+</attribute_registry>
+<node CREATED="1341225610390" ID="ID_448611909" MODIFIED="1378421318086" TEXT="ShoppingList">
+<node CREATED="1341225630906" HGAP="82" ID="ID_1385933707" MODIFIED="1378298020871" POSITION="right" TEXT="LOG" VSHIFT="134">
+<node CREATED="1341234422421" FOLDED="true" HGAP="26" ID="ID_605151210" MODIFIED="1388889694554" TEXT="DONE" VSHIFT="-82">
+<node CREATED="1341225645765" FOLDED="true" ID="ID_666287958" MODIFIED="1363305366775" TEXT="shoppinglist.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341225685718" FOLDED="true" ID="ID_1442944833" MODIFIED="1363305366775" TEXT="ListView">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341225689921" FOLDED="true" ID="ID_740377962" MODIFIED="1363305366774" TEXT="id">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341225693640" ID="ID_1315235906" MODIFIED="1341225897500" TEXT="=@android:id/list">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341225858859" FOLDED="true" ID="ID_678144722" MODIFIED="1341266756125" TEXT="ShoppingListActivity.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341225878875" ID="ID_590205232" MODIFIED="1341225901375" TEXT="content view">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341225903312" ID="ID_625325115" MODIFIED="1341232345406" TEXT="Add =&gt; Default methods">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341232349781" ID="ID_1948487267" MODIFIED="1341232430531" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232432312" FOLDED="true" ID="ID_343371954" MODIFIED="1362279855095" TEXT="master =&gt; Option menues">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="124" VALUE_WIDTH="30"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="2"/>
+<node CREATED="1341232983625" FOLDED="true" ID="ID_611281235" MODIFIED="1362279855093" TEXT="Menu 1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232447343" FOLDED="true" ID="ID_1708671753" MODIFIED="1362279855092" TEXT="strings.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232451593" ID="ID_1731645609" MODIFIED="1341232559093" TEXT="=v1_menu_1 / Option 1">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341232562468" FOLDED="true" ID="ID_1488393444" MODIFIED="1362279855093" TEXT="listmenu.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232620453" FOLDED="true" ID="ID_400780630" MODIFIED="1362279855092" TEXT="Menu 1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232595812" ID="ID_1906546852" MODIFIED="1341232762750" TEXT="id=v1_menu_1">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232631125" ID="ID_1954718288" MODIFIED="1341233455500" TEXT="title=">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232655546" ID="ID_37565498" MODIFIED="1341232762750" TEXT="icon=android:drawable/ic_menu_set_as">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341232869015" ID="ID_1952350952" MODIFIED="1341232979203" TEXT="Set menu =&gt; Inflate">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232769890" ID="ID_1339095046" MODIFIED="1341232979203" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233256328" FOLDED="true" ID="ID_1808095613" MODIFIED="1362279855093" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233264453" ID="ID_918649440" MODIFIED="1341233280265" TEXT="Shown as intended">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341233131703" FOLDED="true" ID="ID_1923419410" MODIFIED="1362279855095" TEXT="Menu 2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232447343" FOLDED="true" ID="ID_91804616" MODIFIED="1362279855094" TEXT="strings.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233173765" FOLDED="true" ID="ID_1091804563" MODIFIED="1362279855094" TEXT="item 1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233179015" FOLDED="true" ID="ID_299852922" MODIFIED="1362279855094" TEXT="name">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233191062" ID="ID_1675893196" MODIFIED="1341372037765" TEXT="=v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341233182437" FOLDED="true" ID="ID_741852616" MODIFIED="1362279855094" TEXT="value">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233207078" ID="ID_1098171707" MODIFIED="1341233354812" TEXT="=&#x54c1;&#x7269;&#x767b;&#x9332;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341232562468" FOLDED="true" ID="ID_1349805203" MODIFIED="1362279855095" TEXT="listmenu.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232595812" ID="ID_1522342846" MODIFIED="1341372037765" TEXT="id=v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232631125" ID="ID_326450325" MODIFIED="1341372037765" TEXT="title=@string/v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232655546" ID="ID_1235686262" MODIFIED="1341233664953" TEXT="icon=android:drawable/ic_menu_set_as">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341232769890" ID="ID_180359949" MODIFIED="1341233845906" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233256328" FOLDED="true" ID="ID_1061658455" MODIFIED="1362279855095" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233264453" ID="ID_22886958" MODIFIED="1341233845906" TEXT="Shown as intended">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341233928468" ID="ID_108092203" MODIFIED="1341233930359" TEXT="COMMIT"/>
+</node>
+</node>
+<node CREATED="1341234017234" FOLDED="true" ID="ID_928441014" MODIFIED="1362279855097" TEXT="B1 =&gt; New activity: Register items">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="117" VALUE_WIDTH="36"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="1"/>
+<node CREATED="1341234036390" ID="ID_25229786" MODIFIED="1341234228015" TEXT="Create branch">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232447343" FOLDED="true" ID="ID_415031630" MODIFIED="1341569601062" TEXT="strings.xml">
+<node CREATED="1341233173765" FOLDED="true" ID="ID_1148183342" MODIFIED="1341569601062" TEXT="item 1">
+<node CREATED="1341233179015" FOLDED="true" ID="ID_17694021" MODIFIED="1341569601062" TEXT="name">
+<node CREATED="1341234502390" ID="ID_1031490698" MODIFIED="1341234511625" TEXT="=v1_tv_store"/>
+</node>
+<node CREATED="1341233182437" FOLDED="true" ID="ID_1887737663" MODIFIED="1341569601062" TEXT="value">
+<node CREATED="1341235217500" ID="ID_378539551" MODIFIED="1341235221390" TEXT="=&#x304a;&#x5e97;"/>
+</node>
+</node>
+</node>
+<node CREATED="1341234109828" FOLDED="true" ID="ID_1431300862" MODIFIED="1341569601062" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341234115796" FOLDED="true" ID="ID_1102080567" MODIFIED="1341569601062" TEXT="registeritem.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341235236062" FOLDED="true" ID="ID_737989931" MODIFIED="1341569601062" TEXT="LL">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341235252968" ID="ID_1038103192" MODIFIED="1341235440765" TEXT="=v1_LL_store ">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341235444718" FOLDED="true" ID="ID_676859682" MODIFIED="1341569601062" TEXT="LL">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341236153812" ID="ID_1270245835" MODIFIED="1341236158750" TEXT="item">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341236161968" FOLDED="true" ID="ID_1594909828" MODIFIED="1341569601062" TEXT="LL">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341236163906" ID="ID_1575707645" MODIFIED="1341266882328" TEXT="price">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341266898406" ID="ID_1052153882" MODIFIED="1341267019703" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341234124718" FOLDED="true" ID="ID_145851694" MODIFIED="1341569601062" TEXT="Activity">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341234128609" FOLDED="true" ID="ID_1122891071" MODIFIED="1341569601062" TEXT="RegisterItem.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341234176921" ID="ID_138929961" MODIFIED="1341267184890" TEXT="Create file">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341225903312" ID="ID_1903093730" MODIFIED="1341267184890" TEXT="Add =&gt; Default methods">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341225878875" ID="ID_449198178" MODIFIED="1341267184890" TEXT="content view">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341267245828" FOLDED="true" ID="ID_1570315664" MODIFIED="1362279855096" TEXT="Create icon">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341267258546" FOLDED="true" ID="ID_764084161" MODIFIED="1362279855096" TEXT="Projoect icon">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341267512156" ID="ID_1270462609" MODIFIED="1341267711328" TEXT="Draw icon">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341267516765" ID="ID_364175542" MODIFIED="1341267711328" TEXT="Copy &amp; paste">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341267520640" ID="ID_1389902954" MODIFIED="1341267711328" TEXT="Edit manifest file">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341266891609" ID="ID_40812656" MODIFIED="1341267711328" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341267703546" ID="ID_141694130" MODIFIED="1341267711328" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341267208718" FOLDED="true" ID="ID_38411550" MODIFIED="1341569601062" TEXT="Set up intent">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341267187968" ID="ID_100717789" MODIFIED="1341268053890" TEXT="ShoppingListActivity.java">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341267768828" ID="ID_1181197072" MODIFIED="1341268053890" TEXT="Manifest">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341266891609" ID="ID_1207388715" MODIFIED="1341268053890" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341267703546" ID="ID_175661365" MODIFIED="1341268053890" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341266898406" ID="ID_147825321" MODIFIED="1341268215015" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341268079453" FOLDED="true" ID="ID_1908760012" MODIFIED="1341569601062" TEXT="Set up database">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341268086296" FOLDED="true" ID="ID_748808137" MODIFIED="1341569601062" TEXT="New file">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341268091484" FOLDED="true" ID="ID_828837446" MODIFIED="1341569601062" TEXT="=&gt; DBManager.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341268600859" ID="ID_1643710559" MODIFIED="1341273785109" TEXT="Constructor">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341268622875" ID="ID_1485990998" MODIFIED="1341273785109" TEXT="database name">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341270040515" ID="ID_785223949" MODIFIED="1341273785109" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341268644656" FOLDED="true" ID="ID_1724944870" MODIFIED="1341569601062" TEXT="RegisterItem.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341268638734" ID="ID_1912662969" MODIFIED="1341273785109" TEXT="Create table">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341270040515" ID="ID_133068643" MODIFIED="1341273785109" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341268691296" FOLDED="true" ID="ID_1833030524" MODIFIED="1341569601062" TEXT="method">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341268694468" ID="ID_1733296334" MODIFIED="1341273785109" TEXT="=storeData()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341268713437" FOLDED="true" ID="ID_956054063" MODIFIED="1341569601062" TEXT="Add listener">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341268719234" ID="ID_1386649692" MODIFIED="1341273063921" TEXT="=&gt; Button &quot;&#x767b;&#x9332;&quot;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341266891609" ID="ID_172077006" MODIFIED="1341273800031" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341273066734" FOLDED="true" ID="ID_932846211" MODIFIED="1341569601062" TEXT="Test">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341273071390" FOLDED="true" ID="ID_145868512" MODIFIED="1341569601062" TEXT="Inset data">
+<icon BUILTIN="button_ok"/>
+<node COLOR="#ff0033" CREATED="1341273075406" FOLDED="true" ID="ID_512333091" MODIFIED="1341569601062" TEXT="ERROR">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341273107078" ID="ID_379871843" MODIFIED="1341273775281" TEXT="07-03 08:46:55.067: E/Database(16973): android.database.sqlite.SQLiteException: no such table: shopping_item: , while compiling: INSERT INTO shopping_item(genre, price, store, name) VALUES(?, ?, ?, ?); ">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node COLOR="#33cc00" CREATED="1341273717000" FOLDED="true" ID="ID_798747915" MODIFIED="1341569601062" TEXT="SOLVED">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341273719734" ID="ID_1429277397" MODIFIED="1341273775281" TEXT="Table exists =&gt; condition inproperly coded">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341266898406" ID="ID_1828041619" MODIFIED="1341273851453" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341273883984" FOLDED="true" ID="ID_311873371" MODIFIED="1352347582087" TEXT="B2 =&gt; New option ==&gt; &#x54c1;&#x7269;&#x30ea;&#x30b9;&#x30c8;">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="116"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="1"/>
+<node CREATED="1341233131703" FOLDED="true" ID="ID_160652915" MODIFIED="1362279855099" TEXT="Menu 2">
+<node CREATED="1341232447343" FOLDED="true" ID="ID_1050640920" MODIFIED="1362279855097" TEXT="strings.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233173765" FOLDED="true" ID="ID_848643848" MODIFIED="1362279855097" TEXT="item 1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233179015" FOLDED="true" ID="ID_1175040518" MODIFIED="1362279855097" TEXT="name">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233191062" ID="ID_936573007" MODIFIED="1341372037765" TEXT="=v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341233182437" FOLDED="true" ID="ID_990789593" MODIFIED="1362279855097" TEXT="value">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233207078" ID="ID_1246692366" MODIFIED="1341274267890" TEXT="=&#x54c1;&#x7269;&#x30ea;&#x30b9;&#x30c8;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341274161453" FOLDED="true" ID="ID_346453676" MODIFIED="1362279855098" TEXT="Create icon">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341274492296" ID="ID_1613375863" MODIFIED="1341274508718" TEXT="xcf file">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341274495687" ID="ID_1274666949" MODIFIED="1341274508718" TEXT="png file">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341274498500" ID="ID_141400903" MODIFIED="1341274508718" TEXT="Copy &amp; paste">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341276019875" FOLDED="true" ID="ID_1369978313" MODIFIED="1362279855097" TEXT="META">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276023781" FOLDED="true" ID="ID_665369045" MODIFIED="1362279855097" TEXT="SIZE">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276027265" ID="ID_363509774" MODIFIED="1341276034281" TEXT="=30x30">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341232562468" FOLDED="true" ID="ID_1773386153" MODIFIED="1362279855098" TEXT="listmenu.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232595812" ID="ID_646789624" MODIFIED="1341372037765" TEXT="id=v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232631125" ID="ID_336843660" MODIFIED="1341372037765" TEXT="title=@string/v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232655546" ID="ID_1347832575" MODIFIED="1341274782375" TEXT="icon=android:drawable/ic_menu_set_as">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341232769890" ID="ID_1017155134" MODIFIED="1341276066406" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233256328" FOLDED="true" ID="ID_1576051249" MODIFIED="1362279855098" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233264453" ID="ID_188003345" MODIFIED="1341276066406" TEXT="Shown as intended">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341233928468" ID="ID_85993327" MODIFIED="1341276305593" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341276070859" FOLDED="true" HGAP="-7" ID="ID_1850777033" MODIFIED="1362279855099" TEXT="CODING" VSHIFT="34">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276093406" FOLDED="true" ID="ID_962989631" MODIFIED="1362279855098" TEXT="New file">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276097328" FOLDED="true" ID="ID_262779744" MODIFIED="1362279855098" TEXT="ItemList.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276410078" FOLDED="true" ID="ID_467396448" MODIFIED="1362279855098" TEXT="extends">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276417093" ID="ID_1552682425" MODIFIED="1341276786109" TEXT="ListActivity">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341276722343" ID="ID_1511888438" MODIFIED="1341276786109" TEXT="Default methods">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341276379750" ID="ID_156175291" MODIFIED="1341277205109" TEXT="itemlist.xml">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341276097328" FOLDED="true" ID="ID_1030952597" MODIFIED="1362279855098" TEXT="ItemList.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276725984" ID="ID_354637710" MODIFIED="1341277238343" TEXT="setContentView">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341276338703" FOLDED="true" ID="ID_347352439" MODIFIED="1362279855098" TEXT="Set intent">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276353375" FOLDED="true" ID="ID_1922637489" MODIFIED="1362279855098" TEXT="ShoppingListActivity.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276358796" ID="ID_188832844" MODIFIED="1341277352406" TEXT="Option item selected">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341277341062" FOLDED="true" ID="ID_863463974" MODIFIED="1362279855098" TEXT="Manifest">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341277344140" ID="ID_1236471326" MODIFIED="1341277443609" TEXT="Activity">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341233928468" ID="ID_775524774" MODIFIED="1341277687765" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341277748062" FOLDED="true" ID="ID_1176928849" MODIFIED="1362279855098" TEXT="New file">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341277759640" ID="ID_712610956" MODIFIED="1341280600687" TEXT="ShoppingItem.java">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341277703171" FOLDED="true" ID="ID_1011805153" MODIFIED="1362279855098" TEXT="Create adapter">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341277715031" FOLDED="true" ID="ID_807529654" MODIFIED="1362279855098" TEXT="ItemListAdapter.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341277728906" FOLDED="true" ID="ID_1231358424" MODIFIED="1362279855098" TEXT="extends">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341277732312" ID="ID_1690836271" MODIFIED="1341280857796" TEXT="ArrayAdapter&lt;ShoppingItem&gt;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341280830875" ID="ID_629575004" MODIFIED="1341280857796" TEXT="Constructor">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341280882000" FOLDED="true" ID="ID_200679421" MODIFIED="1362279855098" TEXT="New File">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341280917531" FOLDED="true" ID="ID_1533725196" MODIFIED="1362279855098" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341280886625" ID="ID_1975176141" MODIFIED="1341289907593" TEXT="adapteritem.xml">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341277703171" FOLDED="true" ID="ID_1211613815" MODIFIED="1362279855099" TEXT="Create adapter">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341277715031" FOLDED="true" ID="ID_1610414975" MODIFIED="1362279855099" TEXT="ItemListAdapter.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341280836531" ID="ID_594308470" MODIFIED="1341293232781" TEXT="getView()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341277492218" FOLDED="true" ID="ID_1811849177" MODIFIED="1362279855099" TEXT="ItemList.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341277455062" ID="ID_1608505437" MODIFIED="1341293265062" TEXT="Get cursor">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341277464671" ID="ID_1565662149" MODIFIED="1341293265062" TEXT="Set cursor to adapter">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341277471093" ID="ID_692438013" MODIFIED="1341293265062" TEXT="Set adapter to the list">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341289767171" ID="ID_1785733345" MODIFIED="1341293321859" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341289770890" ID="ID_1379772379" MODIFIED="1341293321859" TEXT="VALIDATE">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341289761906" ID="ID_409395281" MODIFIED="1341293321859" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341293453546" FOLDED="true" ID="ID_924613147" MODIFIED="1362279855100" TEXT="B2 =&gt; New option ==&gt; &#x54c1;&#x7269;&#x30ea;&#x30b9;&#x30c8;">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="142" VALUE_WIDTH="37"/>
+<attribute NAME="Version" VALUE="2"/>
+<attribute NAME="Dispatch" VALUE="1"/>
+<node CREATED="1341293332484" FOLDED="true" ID="ID_261635977" MODIFIED="1362279855100" TEXT="EDIT">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341293336234" FOLDED="true" ID="ID_1622299114" MODIFIED="1362279855099" TEXT="Show &quot;Genre&quot; as well">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341293352937" FOLDED="true" ID="ID_1376033322" MODIFIED="1362279855099" TEXT="Coding">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341293394656" ID="ID_1368064311" MODIFIED="1341293806250" TEXT="adapteritem.xml">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341293402171" ID="ID_126738078" MODIFIED="1341293873750" TEXT="ItemListAdapter.java">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341293381312" ID="ID_212684670" MODIFIED="1341294119453" TEXT="ItemList.java">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341289767171" ID="ID_1597717624" MODIFIED="1341294119453" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341289770890" ID="ID_14019277" MODIFIED="1341294119453" TEXT="VALIDATE">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341289761906" ID="ID_814404854" MODIFIED="1341294119453" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341294149171" FOLDED="true" ID="ID_1828859758" MODIFIED="1342044442722" TEXT="B3 =&gt; New option ===&gt; &#x304a;&#x5e97;&#x767b;&#x9332;">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="148" VALUE_WIDTH="38"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="1"/>
+<node CREATED="1341233131703" FOLDED="true" ID="ID_1821757434" MODIFIED="1362279855106" TEXT="Menu 3">
+<icon BUILTIN="Mail"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341451033390" FOLDED="true" HGAP="54" ID="ID_766464832" MODIFIED="1362279855101" TEXT="DONE" VSHIFT="-68">
+<node CREATED="1341232447343" FOLDED="true" ID="ID_1490983565" MODIFIED="1362279855101" TEXT="strings.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233173765" FOLDED="true" ID="ID_207029789" MODIFIED="1362279855100" TEXT="item 1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233179015" FOLDED="true" ID="ID_1459570110" MODIFIED="1362279855100" TEXT="name">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233191062" ID="ID_1481893018" MODIFIED="1341374524078" TEXT="=v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341233182437" FOLDED="true" ID="ID_903839159" MODIFIED="1362279855100" TEXT="value">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233207078" ID="ID_166396958" MODIFIED="1341374524078" TEXT="=&#x5e97;&#x8217;&#x767b;&#x9332;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341274161453" FOLDED="true" ID="ID_407936741" MODIFIED="1362279855101" TEXT="Create icon">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341274492296" ID="ID_968905735" MODIFIED="1341374524078" TEXT="xcf file">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341274495687" ID="ID_1704282000" MODIFIED="1341374524078" TEXT="png file">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341274498500" ID="ID_358558018" MODIFIED="1341374524078" TEXT="Copy &amp; paste">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341276019875" FOLDED="true" ID="ID_776142165" MODIFIED="1362279855101" TEXT="META">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276023781" FOLDED="true" ID="ID_553268733" MODIFIED="1362279855101" TEXT="SIZE">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276027265" ID="ID_475373537" MODIFIED="1341374524078" TEXT="=30x30">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341232562468" FOLDED="true" ID="ID_1616881251" MODIFIED="1362279855101" TEXT="listmenu.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232595812" ID="ID_1993567508" MODIFIED="1341374656375" TEXT="id=v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232631125" ID="ID_251349911" MODIFIED="1341374656375" TEXT="title=@string/v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232655546" ID="ID_902290666" MODIFIED="1341374656375" TEXT="icon=android:drawable/ic_menu_set_as">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341378023437" FOLDED="true" HGAP="101" ID="ID_1546513908" MODIFIED="1362279855101" TEXT="ADMIN" VSHIFT="429">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232769890" ID="ID_1309515866" MODIFIED="1341375301109" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233256328" FOLDED="true" ID="ID_754943114" MODIFIED="1362279855101" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233264453" ID="ID_658754373" MODIFIED="1341375301109" TEXT="Shown as intended">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341233928468" ID="ID_1832874914" MODIFIED="1341375301109" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341276070859" FOLDED="true" HGAP="66" ID="ID_1454062064" MODIFIED="1362279855102" TEXT="CODING 1" VSHIFT="27">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375579343" FOLDED="true" ID="ID_1513560565" MODIFIED="1362279855101" TEXT="ShoppingListActivity.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375598031" ID="ID_1632329098" MODIFIED="1341376507015" TEXT="Methods.register_store()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341375624734" FOLDED="true" ID="ID_760658038" MODIFIED="1362279855101" TEXT="Methods.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375629875" FOLDED="true" ID="ID_382312390" MODIFIED="1362279855101" TEXT="register_store()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375639281" ID="ID_1409475879" MODIFIED="1341376512000" TEXT="Dialog">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341375662640" FOLDED="true" ID="ID_88245758" MODIFIED="1362279855101" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375653734" FOLDED="true" ID="ID_1274705888" MODIFIED="1362279855101" TEXT="dlg_register_store.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341376652375" ID="ID_691464233" MODIFIED="1341376656687" TEXT="Views">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341376519453" FOLDED="true" ID="ID_1465935989" MODIFIED="1362279855101" TEXT="Strings">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341376525531" ID="ID_1221740385" MODIFIED="1341376660203" TEXT="Message">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341376528187" ID="ID_820257802" MODIFIED="1341376660203" TEXT="Ok">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341376530906" ID="ID_1325351693" MODIFIED="1341376660203" TEXT="Cancel">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341377169234" ID="ID_1740047563" MODIFIED="1341377253265" TEXT="Dialog title">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341376630968" FOLDED="true" ID="ID_1487287674" MODIFIED="1362279855101" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375653734" FOLDED="true" ID="ID_1270164096" MODIFIED="1362279855101" TEXT="dlg_register_store.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341376633718" ID="ID_291128445" MODIFIED="1341377091296" TEXT="Allocate strings">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341375624734" FOLDED="true" ID="ID_428888757" MODIFIED="1362279855102" TEXT="Methods.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375629875" FOLDED="true" ID="ID_1796794279" MODIFIED="1362279855102" TEXT="register_store()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375639281" ID="ID_606206729" MODIFIED="1341377278031" TEXT="Dialog">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341377270625" ID="ID_116548845" MODIFIED="1341377278031" TEXT="show()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341377296953" FOLDED="true" ID="ID_1931658559" MODIFIED="1362279855102" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232769890" ID="ID_1566628258" MODIFIED="1341377736953" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233256328" FOLDED="true" ID="ID_1005584635" MODIFIED="1362279855102" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233264453" ID="ID_544497545" MODIFIED="1341377736953" TEXT="Shown as intended">
+<icon BUILTIN="button_ok"/>
+</node>
+<node BACKGROUND_COLOR="#99ff99" CREATED="1341377331703" FOLDED="true" ID="ID_1688841247" MODIFIED="1362279855102" TEXT="ISSUE">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341377342890" ID="ID_1911892261" MODIFIED="1341377736953" TEXT="Buttons &quot;Ok&quot; and &quot;Cancel&quot; =&gt; Not of an equal width">
+<icon BUILTIN="button_ok"/>
+</node>
+<node BACKGROUND_COLOR="#339900" CREATED="1341377572265" ID="ID_1022980559" MODIFIED="1341377736953" TEXT="SOLVED">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#99ff99" CREATED="1341377331703" FOLDED="true" ID="ID_561882299" MODIFIED="1362279855102" TEXT="ISSUE">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341377342890" ID="ID_1120945893" MODIFIED="1341377736953" TEXT="Message =&gt; Needs paddingLeft">
+<icon BUILTIN="button_ok"/>
+</node>
+<node BACKGROUND_COLOR="#339900" CREATED="1341377572265" ID="ID_251264819" MODIFIED="1341377736953" TEXT="SOLVED">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#99ff99" CREATED="1341377331703" FOLDED="true" ID="ID_691541064" MODIFIED="1362279855102" TEXT="ISSUE">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341377342890" ID="ID_1931940331" MODIFIED="1341377736953" TEXT="Message =&gt; Let&apos;s add paddingBottom">
+<icon BUILTIN="button_ok"/>
+</node>
+<node BACKGROUND_COLOR="#339900" CREATED="1341377572265" ID="ID_1620843513" MODIFIED="1341377736953" TEXT="SOLVED">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341233928468" ID="ID_603762118" MODIFIED="1341377840671" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="119" VALUE_WIDTH="40"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="2"/>
+</node>
+</node>
+</node>
+<node CREATED="1341378008890" FOLDED="true" HGAP="34" ID="ID_1170683908" MODIFIED="1362279855106" TEXT="CODING 2" VSHIFT="67">
+<icon BUILTIN="Mail"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341377858437" FOLDED="true" ID="ID_1516772551" MODIFIED="1362279855106" TEXT="Dialog buttons =&gt; Add listeners">
+<icon BUILTIN="Mail"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341451059515" FOLDED="true" ID="ID_1042945891" MODIFIED="1362279855103" TEXT="DONE">
+<node CREATED="1341378000781" FOLDED="true" ID="ID_269731339" MODIFIED="1362279855102" TEXT="DialogButtonOnTouchListener.java">
+<node CREATED="1341378064546" ID="ID_1379609622" MODIFIED="1341379078984" TEXT="Constructor">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341378870359" FOLDED="true" ID="ID_438143097" MODIFIED="1362279855102" TEXT="onTouch">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341378873578" ID="ID_845475984" MODIFIED="1341379078984" TEXT="ACTION_DOWN">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341378873578" ID="ID_1002052106" MODIFIED="1341379078984" TEXT="ACTION_UP">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#66ff66" COLOR="#000000" CREATED="1341378932312" FOLDED="true" ID="ID_692449662" MODIFIED="1362279855102" TEXT="PROBLEM">
+<arrowlink DESTINATION="ID_692449662" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_491703354" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1341378935125" ID="ID_641701667" MODIFIED="1341378998687" TEXT="After &quot;ACTION_UP&quot;, the buttons get inflated =&gt; margins needed"/>
+<node BACKGROUND_COLOR="#339900" CREATED="1341377572265" FOLDED="true" ID="ID_718473848" MODIFIED="1362279855102" TEXT="SOLVED">
+<node CREATED="1341379720765" ID="ID_1237500925" MODIFIED="1341379740906" TEXT="Set layout_height, etc."/>
+</node>
+</node>
+</node>
+<node CREATED="1341379806390" FOLDED="true" ID="ID_339139744" MODIFIED="1362279855102" TEXT="Button cancel (Layout file)">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341379812453" FOLDED="true" ID="ID_329185427" MODIFIED="1362279855102" TEXT="=&gt; Dismiss dialog">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341379858375" ID="ID_1192134586" MODIFIED="1341382300781" TEXT="DialogButtonOnClickListener.java">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341379806390" FOLDED="true" ID="ID_1105059210" MODIFIED="1362279855103" TEXT="Button &quot;Ok&quot; (Layout file)">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341379858375" FOLDED="true" ID="ID_1522565603" MODIFIED="1362279855102" TEXT="DialogButtonOnClickListener.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341382047000" FOLDED="true" ID="ID_1741367602" MODIFIED="1362279855102" TEXT="NEW METHODS">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341382051921" ID="ID_318602265" MODIFIED="1341382300781" TEXT="Methods.dlg_input_empty(actv, dlg)">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341382068921" ID="ID_585341477" MODIFIED="1341384257156" TEXT="Methods.insertStoreName(&quot;stores&quot;, et.getText().toString())">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341382051921" FOLDED="true" ID="ID_343853720" MODIFIED="1362279855103" TEXT="Methods.dlg_input_empty(actv, dlg)">
+<node CREATED="1341382317031" ID="ID_297759597" MODIFIED="1341382917437" TEXT="signiture">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341382333296" FOLDED="true" ID="ID_1679960353" MODIFIED="1362279855103" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341382325109" FOLDED="true" ID="ID_1786743897" MODIFIED="1362279855103" TEXT="dlg_input_empty.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341382903656" ID="ID_69110308" MODIFIED="1341382913953" TEXT="Views">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341382903656" ID="ID_533437091" MODIFIED="1341382967156" TEXT="id">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341382653312" FOLDED="true" ID="ID_268996352" MODIFIED="1362279855103" TEXT="Strings">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341382658031" ID="ID_670015788" MODIFIED="1341382893968" TEXT="&#x3082;&#x3046;&#x4e00;&#x5ea6;&#x5165;&#x529b;">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341382671843" ID="ID_656187539" MODIFIED="1341382893968" TEXT="&#x53d6;&#x308a;&#x3084;&#x3081;">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341382674640" ID="ID_1443338613" MODIFIED="1341382893968" TEXT="&#x5165;&#x529b;&#x304c;&#x3042;&#x308a;&#x307e;&#x305b;&#x3093;">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341382687656" ID="ID_646348090" MODIFIED="1341382893968" TEXT="&#x6ce8;&#x610f;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341382333296" FOLDED="true" ID="ID_1849535493" MODIFIED="1362279855103" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341382325109" FOLDED="true" ID="ID_1600223760" MODIFIED="1362279855103" TEXT="dlg_input_empty.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341382940437" ID="ID_1981740074" MODIFIED="1341383067578" TEXT="strings">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341382935562" ID="ID_1906004311" MODIFIED="1341383144984" TEXT="style">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341383158015" FOLDED="true" ID="ID_1691715734" MODIFIED="1362279855103" TEXT="Listener =&gt; onTouch">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341383182093" ID="ID_1178106311" MODIFIED="1341383416421" TEXT="Button: reenter">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341383190625" ID="ID_584103519" MODIFIED="1341383416421" TEXT="Button: cancel">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341378000781" FOLDED="true" ID="ID_242061871" MODIFIED="1362279855103" TEXT="DialogButtonOnTouchListener.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341378870359" FOLDED="true" ID="ID_798452851" MODIFIED="1362279855103" TEXT="onTouch">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341378873578" ID="ID_367223147" MODIFIED="1341383895687" TEXT="ACTION_DOWN">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341378873578" ID="ID_233530956" MODIFIED="1341383895687" TEXT="ACTION_UP">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341379858375" FOLDED="true" ID="ID_19744727" MODIFIED="1362279855103" TEXT="DialogButtonOnClickListener.java">
+<icon BUILTIN="Mail"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341383915140" ID="ID_622363165" MODIFIED="1341384104265" TEXT="Cancel">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341383918250" ID="ID_271211169" MODIFIED="1341384186968" TEXT="Reenter">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341377296953" FOLDED="true" HGAP="24" ID="ID_554243781" MODIFIED="1362279855103" TEXT="ADMIN" VSHIFT="20">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232769890" ID="ID_1967782079" MODIFIED="1341384370609" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233256328" FOLDED="true" ID="ID_530571855" MODIFIED="1362279855103" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233264453" ID="ID_1831320545" MODIFIED="1341384375750" TEXT="Shown as intended">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341233928468" ID="ID_1471336550" MODIFIED="1341384422015" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="143" VALUE_WIDTH="40"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="3"/>
+</node>
+</node>
+</node>
+<node CREATED="1341384261312" FOLDED="true" HGAP="69" ID="ID_1858916678" MODIFIED="1362279855106" TEXT="Methods.insertStoreName(&quot;stores&quot;, et.getText().toString())" VSHIFT="126">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341451087390" FOLDED="true" HGAP="89" ID="ID_94693099" MODIFIED="1362279855104" TEXT="DONE" VSHIFT="-91">
+<node CREATED="1341382317031" ID="ID_227351534" MODIFIED="1341385099000" TEXT="signiture">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341384551984" ID="ID_757661674" MODIFIED="1341385099000" TEXT="DBManager dbm">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341385066171" FOLDED="true" ID="ID_1680744532" MODIFIED="1362279855104" TEXT="NEW METHODS">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341385079015" FOLDED="true" ID="ID_1603744679" MODIFIED="1362279855104" TEXT="dlg_reconfirm_store_name()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341386395109" ID="ID_1060741518" MODIFIED="1341386606312" TEXT="signiture">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341386577656" FOLDED="true" ID="ID_112504985" MODIFIED="1362279855104" TEXT="Copy &amp; paster">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341386582343" ID="ID_1665424500" MODIFIED="1341386606312" TEXT="=&gt; Methods.dlg_input_empty()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341386627968" FOLDED="true" HGAP="54" ID="ID_1708503587" MODIFIED="1362279855104" TEXT="Layout" VSHIFT="23">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341386624296" FOLDED="true" ID="ID_964044577" MODIFIED="1362279855104" TEXT="dlg_reconfirm_store_name.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341376652375" FOLDED="true" ID="ID_1520320684" MODIFIED="1362279855104" TEXT="Views">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341386577656" FOLDED="true" ID="ID_133057289" MODIFIED="1362279855104" TEXT="Copy &amp; paste">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341387130953" ID="ID_81498013" MODIFIED="1341387635859" TEXT="dlg_input_empty.xml">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341386938687" ID="ID_953066265" MODIFIED="1341387635859" TEXT="id">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341385079015" FOLDED="true" HGAP="36" ID="ID_49667554" MODIFIED="1362279855105" TEXT="dlg_reconfirm_store_name()" VSHIFT="79">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455712484" FOLDED="true" ID="ID_1376197644" MODIFIED="1362279855105" TEXT="DONE">
+<node CREATED="1341386879234" ID="ID_704723671" MODIFIED="1341387671187" TEXT="Set content view">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341387832656" FOLDED="true" ID="ID_1249252986" MODIFIED="1362279855104" TEXT="NEW">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341387816609" ID="ID_520849407" MODIFIED="1341388000937" TEXT="=&gt; Methods.DialogTags">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341376519453" FOLDED="true" HGAP="46" ID="ID_1805596178" MODIFIED="1362279855104" TEXT="Strings" VSHIFT="18">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341377169234" ID="ID_1713418381" MODIFIED="1341388574625" TEXT="Dialog title">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341376525531" ID="ID_1054254660" MODIFIED="1341388574625" TEXT="Label: Store name">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341376525531" FOLDED="true" ID="ID_1106318287" MODIFIED="1362279855104" TEXT="Message: Store name">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341388555468" ID="ID_1874575052" MODIFIED="1341388574625" TEXT="=&gt; Set dynamically">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341376525531" ID="ID_297023704" MODIFIED="1341388574625" TEXT="Message: Reconfirm">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341376528187" ID="ID_68282280" MODIFIED="1341388574625" TEXT="Ok">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341376530906" ID="ID_1878864116" MODIFIED="1341388574625" TEXT="Cancel">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341386624296" FOLDED="true" ID="ID_375041464" MODIFIED="1362279855104" TEXT="dlg_reconfirm_store_name.xml">
+<node CREATED="1341376633718" ID="ID_890870636" MODIFIED="1341386754875" TEXT="Allocate strings"/>
+<node CREATED="1341386897062" ID="ID_1706319461" MODIFIED="1341386898828" TEXT="style"/>
+</node>
+<node CREATED="1341387759296" ID="ID_1460777646" MODIFIED="1341388599046" TEXT="Change view ids">
+<icon BUILTIN="closed"/>
+</node>
+<node CREATED="1341388747796" FOLDED="true" ID="ID_1874916056" MODIFIED="1362279855104" TEXT="OnTouch">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341388753843" ID="ID_1550605920" MODIFIED="1341388772843" TEXT="Change arguements">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341388760562" FOLDED="true" ID="ID_1676681820" MODIFIED="1362279855104" TEXT="OnClick">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341388753843" ID="ID_456688775" MODIFIED="1341388772843" TEXT="Change arguements">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341388791062" FOLDED="true" ID="ID_854481037" MODIFIED="1362279855104" TEXT="DialogButtonOnTouchListener.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341388794125" FOLDED="true" ID="ID_1749891801" MODIFIED="1362279855104" TEXT="Add cases">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341388809046" ID="ID_1776902198" MODIFIED="1341389220750" TEXT="ACTION_DOWN">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341388813609" ID="ID_583554875" MODIFIED="1341389220750" TEXT="ACTION_UP">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341377296953" FOLDED="true" HGAP="122" ID="ID_1103046638" MODIFIED="1362279855105" TEXT="ADMIN" VSHIFT="61">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232769890" ID="ID_1003633774" MODIFIED="1341389279625" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233256328" FOLDED="true" ID="ID_1058607640" MODIFIED="1362279855104" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233264453" ID="ID_1787582596" MODIFIED="1341389279625" TEXT="Shown as intended">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341388791062" FOLDED="true" HGAP="14" ID="ID_1809517128" MODIFIED="1362279855105" TEXT="DialogButtonOnClickListener.java" VSHIFT="39">
+<node CREATED="1341388794125" FOLDED="true" ID="ID_212468169" MODIFIED="1362279855105" TEXT="Add cases">
+<node CREATED="1341389350937" ID="ID_43982453" MODIFIED="1341389440390" TEXT="Cancel">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341377296953" FOLDED="true" HGAP="37" ID="ID_757908809" MODIFIED="1362279855105" TEXT="ADMIN" VSHIFT="46">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232769890" ID="ID_1375536811" MODIFIED="1341451801109" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233256328" FOLDED="true" ID="ID_1151396838" MODIFIED="1362279855105" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233264453" ID="ID_517506140" MODIFIED="1341451801109" TEXT="Shown as intended">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341394760531" ID="ID_1023935748" MODIFIED="1341451848187" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341390743062" FOLDED="true" ID="ID_1515301209" MODIFIED="1362279855105" TEXT="Methods.insertStoreName(&quot;stores&quot;, et.getText().toString())">
+<arrowlink COLOR="#cc00cc" DESTINATION="ID_1858916678" ENDARROW="Default" ENDINCLINATION="-433;399;" ID="Arrow_ID_1295308629" STARTARROW="None" STARTINCLINATION="-588;131;"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341390851140" FOLDED="true" ID="ID_901360806" MODIFIED="1362279855105" TEXT="Table exists?">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341390856734" FOLDED="true" ID="ID_612257696" MODIFIED="1362279855105" TEXT="If not">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341390860203" ID="ID_1501605219" MODIFIED="1341454488375" TEXT="=&gt; Create table">
+<arrowlink COLOR="#00ffff" DESTINATION="ID_1218385740" ENDARROW="Default" ENDINCLINATION="20;86;" ID="Arrow_ID_1691750545" STARTARROW="None" STARTINCLINATION="-42;245;"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341391858406" FOLDED="true" ID="ID_1485926300" MODIFIED="1362279855105" TEXT="NEW METHODS">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341391868984" FOLDED="true" ID="ID_1218385740" MODIFIED="1362279855105" TEXT="=&gt; DBManager.createTable_generic()">
+<arrowlink COLOR="#cccc00" DESTINATION="ID_1635739220" ENDARROW="Default" ENDINCLINATION="2434;0;" ID="Arrow_ID_1257875871" STARTARROW="None" STARTINCLINATION="-91;359;"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341454572234" ID="ID_1719915499" MODIFIED="1341454585500" TEXT="Mock up">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341454578578" ID="ID_35708750" MODIFIED="1341454667546" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="138" VALUE_WIDTH="43"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="5"/>
+</node>
+<node CREATED="1341454574906" ID="ID_1504191046" MODIFIED="1341454849359" TEXT="Real">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341454882421" FOLDED="true" ID="ID_754597312" MODIFIED="1362279855105" TEXT="TEST">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341454886843" ID="ID_1123827161" MODIFIED="1341454925718" TEXT="Table created?">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341454896375" FOLDED="true" ID="ID_631846405" MODIFIED="1362279855105" TEXT="If  exists, message logged out?">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341454910250" ID="ID_1946191539" MODIFIED="1341454925718" TEXT="=&gt; &quot;Table exists&quot;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341454963734" FOLDED="true" HGAP="78" ID="ID_1241832758" MODIFIED="1362279855105" TEXT="NEW METHODS" VSHIFT="3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341454965734" FOLDED="true" ID="ID_1098301908" MODIFIED="1362279855105" TEXT="=&gt; insertStoreName_final()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455002515" ID="ID_535140608" MODIFIED="1341455420984" TEXT="Mock up">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341455005562" ID="ID_850237023" MODIFIED="1341455420984" TEXT="Real">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341455414109" ID="ID_26307419" MODIFIED="1341455464890" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341455010218" FOLDED="true" ID="ID_1929897157" MODIFIED="1362279855105" TEXT="TEST">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455016125" FOLDED="true" ID="ID_69060417" MODIFIED="1362279855105" TEXT="Message logged out?">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455022609" ID="ID_1146104812" MODIFIED="1341455464890" TEXT="=&gt; Data stored">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341454578578" HGAP="36" ID="ID_398456387" MODIFIED="1341455576593" TEXT="COMMIT" VSHIFT="14">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="138" VALUE_WIDTH="43"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="6"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341455859703" FOLDED="true" ID="ID_1403932982" MODIFIED="1362279855106" TEXT="ADMIN">
+<icon BUILTIN="Mail"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455863500" FOLDED="true" ID="ID_1550212401" MODIFIED="1362279855106" TEXT="C/O">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455876859" ID="ID_1339824817" MODIFIED="1341455920781" TEXT="=&gt; master">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341455881765" ID="ID_1079836917" MODIFIED="1341455920781" TEXT="MERGE">
+<icon BUILTIN="Mail"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341455822593" FOLDED="true" ID="ID_918943908" MODIFIED="1363477598574" TEXT="B4 =&gt; register_item_using_store_name_list">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455927828" FOLDED="true" ID="ID_213168397" MODIFIED="1362279855106" TEXT="New branch">
+<node CREATED="1341558409484" ID="ID_29328497" MODIFIED="1341558530593" TEXT="B4_set_spinner_for_store_names">
+<icon BUILTIN="info"/>
+</node>
+</node>
+<node CREATED="1341558533125" FOLDED="true" ID="ID_4572533" MODIFIED="1363477598571" TEXT="registeritem.xml">
+<node CREATED="1341558739578" FOLDED="true" ID="ID_988609242" MODIFIED="1363477598571" TEXT="ADD">
+<node CREATED="1341558741484" ID="ID_1379358822" MODIFIED="1341558744875" TEXT="=&gt; Spinner"/>
+</node>
+</node>
+<node CREATED="1341558748187" FOLDED="true" ID="ID_1118042714" MODIFIED="1363477598573" TEXT="RegisterItem.java">
+<node CREATED="1341558791250" ID="ID_607298943" MODIFIED="1341559889046" TEXT="Spinner"/>
+<node CREATED="1341559892578" FOLDED="true" ID="ID_657892878" MODIFIED="1363477598573" TEXT="MODIFY">
+<node CREATED="1341559897390" FOLDED="true" ID="ID_103163589" MODIFIED="1363477598572" TEXT="Spinner &gt;&gt; textSize">
+<node CREATED="1341559906390" ID="ID_1798304418" MODIFIED="1341559909406" TEXT="=&gt; 25dp"/>
+<node BACKGROUND_COLOR="#ff0033" COLOR="#ffffff" CREATED="1341378932312" FOLDED="true" ID="ID_1242462220" MODIFIED="1363477598571" TEXT="PROBLEM">
+<arrowlink DESTINATION="ID_1242462220" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_430232698" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1341560337078" ID="ID_1145597418" MODIFIED="1341560342828" TEXT="Size doesn&apos;t change"/>
+</node>
+</node>
+<node CREATED="1341560419687" FOLDED="true" ID="ID_1466097477" MODIFIED="1363477598572" TEXT="Set spinner items">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341560428000" ID="ID_1595158295" MODIFIED="1341560437437" TEXT="From db">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341560445000" FOLDED="true" ID="ID_675346295" MODIFIED="1363477598572" TEXT="In">
+<icon BUILTIN="info"/>
+<node CREATED="1341560450328" ID="ID_1645465548" MODIFIED="1341560461328" TEXT="=&gt; onCreate()">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+<node CREATED="1341561461000" FOLDED="true" ID="ID_525922861" MODIFIED="1363477598572" TEXT="storeData()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341561472000" ID="ID_1363201455" MODIFIED="1341561751578" TEXT="=&gt; Get store name from spinner">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341561735859" ID="ID_1168508642" MODIFIED="1341561742562" TEXT="DONE">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341455859703" FOLDED="true" ID="ID_715225643" MODIFIED="1362279855110" TEXT="ADMIN">
+<icon BUILTIN="Mail"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341561857625" ID="ID_566978093" MODIFIED="1341561944406" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="138"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="1"/>
+</node>
+<node CREATED="1341455863500" FOLDED="true" ID="ID_802781959" MODIFIED="1362279855108" TEXT="C/O">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455876859" ID="ID_1459566143" MODIFIED="1341561960781" TEXT="=&gt; master">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341455881765" ID="ID_887919985" MODIFIED="1341561960781" TEXT="MERGE">
+<icon BUILTIN="Mail"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341562001703" FOLDED="true" HGAP="33" ID="ID_1594010581" MODIFIED="1362279855114" TEXT="D1" VSHIFT="56">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341562005640" FOLDED="true" ID="ID_1432543135" MODIFIED="1362279855114" TEXT="ADD">
+<node CREATED="1341562009500" ID="ID_1764943551" MODIFIED="1341562030250" TEXT="=&gt; &quot;&#x30b8;&#x30e3;&#x30f3;&#x30eb;&#x767b;&#x9332;&quot;">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341562018593" FOLDED="true" ID="ID_233393492" MODIFIED="1346296981453" TEXT="New option menu">
+<icon BUILTIN="info"/>
+<node CREATED="1341563124421" FOLDED="true" ID="ID_1243665055" MODIFIED="1362279855111" TEXT="VIEW">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341563043625" FOLDED="true" ID="ID_560704873" MODIFIED="1362279855111" TEXT="DONE">
+<node CREATED="1341562159343" FOLDED="true" ID="ID_1025832388" MODIFIED="1362279855111" TEXT="New branch">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341562162625" ID="ID_1947321530" MODIFIED="1341562269625" TEXT="B5_add_genre">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341562121828" FOLDED="true" ID="ID_1013060599" MODIFIED="1341703022078" TEXT="New layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341562130078" ID="ID_556115315" MODIFIED="1341562269625" TEXT="=&gt; dlg_add_genre.xml">
+<icon BUILTIN="info"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341562203734" ID="ID_353321246" MODIFIED="1341562269625" TEXT="Generate file">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341562210421" FOLDED="true" ID="ID_262533759" MODIFIED="1341703022078" TEXT="Option menu">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341562215250" ID="ID_1030592195" MODIFIED="1341562701625" TEXT="=&gt; Add option">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341267245828" FOLDED="true" ID="ID_16503601" MODIFIED="1341702957234" TEXT="Create icon">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341267258546" FOLDED="true" ID="ID_1536524301" MODIFIED="1341702957234" TEXT="Projoect icon">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341267512156" ID="ID_4343607" MODIFIED="1341562868609" TEXT="Draw icon">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341267516765" ID="ID_1229409244" MODIFIED="1341562868609" TEXT="Copy &amp; paste">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341562792531" FOLDED="true" ID="ID_1512656157" MODIFIED="1341702957234" TEXT="Strings">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341562795656" ID="ID_894066046" MODIFIED="1341562864656" TEXT="=&gt; Add string">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341267520640" FOLDED="true" ID="ID_1580448227" MODIFIED="1341702957234" TEXT="Edit layout file">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341562653921" ID="ID_1797852120" MODIFIED="1341562987250" TEXT="=&gt; listmenu.xml">
+<icon BUILTIN="info"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341562968078" FOLDED="true" ID="ID_1959023963" MODIFIED="1341702957234" TEXT="Add item">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341562970953" ID="ID_548111772" MODIFIED="1341562987250" TEXT="id">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341562973140" ID="ID_656692325" MODIFIED="1341562987250" TEXT="title">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341562976078" ID="ID_1466601583" MODIFIED="1341562987250" TEXT="icon">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341562721843" FOLDED="true" ID="ID_1902701303" MODIFIED="1341702957234" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341266891609" ID="ID_755919602" MODIFIED="1341563013531" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341267703546" FOLDED="true" ID="ID_200502621" MODIFIED="1341702957234" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341562738140" ID="ID_1507530852" MODIFIED="1341563013531" TEXT="The menu added?">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341563136937" FOLDED="true" ID="ID_1443884822" MODIFIED="1362279855114" TEXT="LOGIC">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341564728703" FOLDED="true" ID="ID_804843316" MODIFIED="1362279855111" TEXT="DONE">
+<node CREATED="1341564748718" FOLDED="true" ID="ID_559762790" MODIFIED="1362279855111" TEXT="PROCESS 1">
+<node CREATED="1341563494265" FOLDED="true" ID="ID_535844487" MODIFIED="1341702957234" TEXT="Methods.registerGenre()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341563510171" ID="ID_1346448271" MODIFIED="1341563872953" TEXT="signiture">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341375662640" FOLDED="true" ID="ID_1603893792" MODIFIED="1341702957234" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375653734" FOLDED="true" ID="ID_428480404" MODIFIED="1341702957234" TEXT="dlg_register_genre.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341376652375" ID="ID_1582387315" MODIFIED="1341563872953" TEXT="Views">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341563933921" FOLDED="true" ID="ID_1616327092" MODIFIED="1341702957234" TEXT="Replace">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341563936859" ID="ID_288965537" MODIFIED="1341564003468" TEXT="=&gt; ids">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341376519453" FOLDED="true" ID="ID_353929398" MODIFIED="1341702957234" TEXT="Strings">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341563721390" FOLDED="true" ID="ID_550484096" MODIFIED="1341702957234" TEXT="Prefix">
+<icon BUILTIN="info"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341563736578" ID="ID_952072586" MODIFIED="1341563864546" TEXT="dlg_register_genre">
+<icon BUILTIN="info"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341376525531" ID="ID_1107749876" MODIFIED="1341563864546" TEXT="Message">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341376528187" FOLDED="true" ID="ID_1395513509" MODIFIED="1341702957234" TEXT="Ok">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341563696156" ID="ID_294116341" MODIFIED="1341563864546" TEXT="=&gt; Generic">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341376530906" FOLDED="true" ID="ID_188014875" MODIFIED="1341702957234" TEXT="Cancel">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341563696156" ID="ID_773672657" MODIFIED="1341563864546" TEXT="=&gt; Generic">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341377169234" ID="ID_240586111" MODIFIED="1341563864546" TEXT="Dialog title">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341376630968" FOLDED="true" ID="ID_651183280" MODIFIED="1341702957234" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375653734" FOLDED="true" ID="ID_149422849" MODIFIED="1341702957234" TEXT="dlg_register_store.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341376633718" ID="ID_558719227" MODIFIED="1341564154828" TEXT="Allocate strings">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341375624734" FOLDED="true" ID="ID_563730909" MODIFIED="1341702957234" TEXT="Methods.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341564342109" FOLDED="true" ID="ID_1502910215" MODIFIED="1341702957234" TEXT="DialogTags">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341564344281" ID="ID_1266041716" MODIFIED="1341564445359" TEXT="=&gt; New tags">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341375629875" FOLDED="true" ID="ID_1438918872" MODIFIED="1341702957234" TEXT="registerGenre()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341375639281" ID="ID_1622587385" MODIFIED="1341564445359" TEXT="Dialog">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341564266734" FOLDED="true" ID="ID_676259944" MODIFIED="1341702957234" TEXT="Edit">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341564271421" ID="ID_601623896" MODIFIED="1341564445359" TEXT="=&gt; id">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341377270625" ID="ID_546171398" MODIFIED="1341564471937" TEXT="show()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341564527546" FOLDED="true" ID="ID_1530160144" MODIFIED="1362279855111" TEXT="ShoppingListActivity.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341564530000" FOLDED="true" ID="ID_1770251800" MODIFIED="1362279855111" TEXT="onOptionsItemSelected()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341564542875" ID="ID_824682213" MODIFIED="1341564626265" TEXT="=&gt; New case">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341377296953" FOLDED="true" ID="ID_1748681933" MODIFIED="1341702957234" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232769890" ID="ID_328414325" MODIFIED="1341564648250" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233256328" FOLDED="true" ID="ID_203279191" MODIFIED="1341702957234" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341564638921" ID="ID_604862051" MODIFIED="1341564648250" TEXT="Dialog shown">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341233928468" ID="ID_924720585" MODIFIED="1341564704937" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="151" VALUE_WIDTH="40"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="1"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341564772515" FOLDED="true" HGAP="33" ID="ID_2970733" MODIFIED="1362279855113" TEXT="PROCESS 2" VSHIFT="98">
+<arrowlink DESTINATION="ID_1516772551" ENDARROW="Default" ENDINCLINATION="1340;433;" ID="Arrow_ID_1823479751" STARTARROW="None" STARTINCLINATION="1220;58;"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341377858437" ID="ID_1041828206" MODIFIED="1341564836671" TEXT="Dialog buttons">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341451059515" ID="ID_437145030" MODIFIED="1341564784296" TEXT="DONE"/>
+<node CREATED="1341564827859" FOLDED="true" ID="ID_283153452" MODIFIED="1362279855111" TEXT="Add listeners">
+<node CREATED="1341378000781" FOLDED="true" ID="ID_734474061" MODIFIED="1341702957234" TEXT="DialogButtonOnTouchListener.java">
+<node CREATED="1341378064546" ID="ID_1300065424" MODIFIED="1341564931796" TEXT="Constructor">
+<icon BUILTIN="down"/>
+</node>
+<node CREATED="1341378870359" FOLDED="true" ID="ID_708854439" MODIFIED="1341702957234" TEXT="onTouch">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341564911281" ID="ID_1199674760" MODIFIED="1341565087593" TEXT="New case">
+<icon BUILTIN="info"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341378873578" ID="ID_1618915893" MODIFIED="1341565087593" TEXT="ACTION_DOWN">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341378873578" ID="ID_1779208119" MODIFIED="1341565087593" TEXT="ACTION_UP">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341377296953" FOLDED="true" ID="ID_1221505101" MODIFIED="1341702957234" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232769890" ID="ID_460544534" MODIFIED="1341565127781" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233256328" FOLDED="true" ID="ID_788664843" MODIFIED="1341702957234" TEXT="Validate">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341564638921" ID="ID_487982386" MODIFIED="1341565127781" TEXT="Button colors change?">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341233928468" ID="ID_1977510870" MODIFIED="1341565183093" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="151" VALUE_WIDTH="40"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="2"/>
+</node>
+</node>
+</node>
+<node CREATED="1341565217421" FOLDED="true" ID="ID_952634328" MODIFIED="1362279855111" TEXT="DialogButtonOnClickListener.java">
+<node CREATED="1341379806390" FOLDED="true" ID="ID_301265736" MODIFIED="1341702957234" TEXT="Button cancel (Layout file)">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341379812453" FOLDED="true" ID="ID_1015008487" MODIFIED="1341702957234" TEXT="=&gt; Dismiss dialog">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341379858375" ID="ID_1465298839" MODIFIED="1341570315609" TEXT="DialogButtonOnClickListener.java">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341382051921" ID="ID_282445123" MODIFIED="1341570326296" TEXT="Methods.dlg_input_empty(actv, dlg)">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341379806390" ID="ID_1986870517" MODIFIED="1341570343687" TEXT="Button &quot;Ok&quot; (Layout file)">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341570349765" FOLDED="true" ID="ID_544604583" MODIFIED="1341702957234" TEXT="New case">
+<node CREATED="1341570365562" ID="ID_197757109" MODIFIED="1341570365562" TEXT="dlg_register_genre_register"/>
+<node CREATED="1341570369875" ID="ID_1122033113" MODIFIED="1341570369875" TEXT="dlg_register_genre_cancel"/>
+</node>
+</node>
+</node>
+<node CREATED="1341612024625" FOLDED="true" ID="ID_1314330385" MODIFIED="1341702957234" TEXT="New methods">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341612030203" FOLDED="true" ID="ID_1322400905" MODIFIED="1341702957234" TEXT="Methods.dlg_reconfirm_genre_name()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341612039453" ID="ID_1105746377" MODIFIED="1341612545296" TEXT="Signiture">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341612045765" FOLDED="true" ID="ID_1588332993" MODIFIED="1341702957234" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341612059468" FOLDED="true" ID="ID_1195205548" MODIFIED="1341702957234" TEXT="dlg_reconfirm_genre_name.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341612271609" ID="ID_1570758911" MODIFIED="1341612545296" TEXT="Views">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341612273609" ID="ID_898853495" MODIFIED="1341612545296" TEXT="Ids">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341612278828" FOLDED="true" ID="ID_1853044433" MODIFIED="1341702957234" TEXT="Strings">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341612306078" ID="ID_533251661" MODIFIED="1341612545296" TEXT="generic_message_register">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341612324734" ID="ID_815432144" MODIFIED="1341612545296" TEXT="&#x30b8;&#x30e3;&#x30f3;&#x30eb;&#x540d;">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341612709250" ID="ID_1504328025" MODIFIED="1341612715234" TEXT="generic_title_reconfirm"/>
+</node>
+<node CREATED="1341612518859" FOLDED="true" ID="ID_1556093349" MODIFIED="1341702957234" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341612521609" ID="ID_1248570754" MODIFIED="1341612545296" TEXT="Allocate strings">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341612776968" ID="ID_1240911409" MODIFIED="1341612791828" TEXT="Methods.DialogTags"/>
+<node CREATED="1341612030203" FOLDED="true" ID="ID_400683986" MODIFIED="1341702957234" TEXT="Methods.dlg_reconfirm_genre_name()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341612654781" FOLDED="true" ID="ID_989974343" MODIFIED="1341702957234" TEXT="Replace ids">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613124171" ID="ID_121292569" MODIFIED="1341613145046" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341613126484" ID="ID_1668957168" MODIFIED="1341613145046" TEXT="OnTouchListener">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341613133359" ID="ID_1675135862" MODIFIED="1341613145046" TEXT="OnClickListener">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341613147984" ID="ID_255019270" MODIFIED="1341613244125" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341613216750" FOLDED="true" ID="ID_461549349" MODIFIED="1341702957234" TEXT="VALIDATE">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613221406" ID="ID_1843933859" MODIFIED="1341613244125" TEXT="Reconfirm dialog shown">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341613230265" FOLDED="true" ID="ID_1812025060" MODIFIED="1341702957234" TEXT="DialogButtonOnTouchListener.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613232812" ID="ID_1506857184" MODIFIED="1341613339718" TEXT="New cases">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341613341421" FOLDED="true" ID="ID_1825488623" MODIFIED="1341702957234" TEXT="OnClick">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613350296" FOLDED="true" ID="ID_1574793214" MODIFIED="1341702957234" TEXT="Cancel">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613353328" ID="ID_439692522" MODIFIED="1341613526203" TEXT="CODING">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341613529343" FOLDED="true" ID="ID_830024184" MODIFIED="1341702957234" TEXT="Register">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613534125" ID="ID_1039842707" MODIFIED="1341613542265" TEXT="CODING">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+<node CREATED="1341615852343" FOLDED="true" ID="ID_958823900" MODIFIED="1362279855111" TEXT="VALIDATE">
+<icon BUILTIN="button_ok"/>
+<icon BUILTIN="Mail"/>
+<node CREATED="1341615896250" ID="ID_1513276810" MODIFIED="1341615995703" TEXT="&#x300c;&#x54c1;&#x7269;&#x767b;&#x9332;&#x300d;&#x306e;&#x753b;&#x9762;&#x3067;&#x3001;DB&#x304b;&#x3089;query&#x3057;&#x3066;&#x3001;Log&#x306b;&#x66f8;&#x304d;&#x51fa;&#x3057;&#x3066;&#x307f;&#x3088;&#x3046;">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341616123921" FOLDED="true" ID="ID_1863566062" MODIFIED="1341702957234" TEXT="RegisterItem.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341616137921" FOLDED="true" ID="ID_1380551738" MODIFIED="1341702957234" TEXT="New methods">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341616144078" FOLDED="true" ID="ID_1385332858" MODIFIED="1341702957234" TEXT="setSpinner_genres()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341616289953" ID="ID_875441978" MODIFIED="1341616355984" TEXT="Signiture">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341616295015" FOLDED="true" ID="ID_1442118587" MODIFIED="1341702957234" TEXT="Replace ids">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341616387906" ID="ID_368182242" MODIFIED="1341616392250" TEXT="Spinner"/>
+<node CREATED="1341616392671" ID="ID_1344456260" MODIFIED="1341616401859" TEXT="The rest">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341616303328" FOLDED="true" ID="ID_1520716247" MODIFIED="1341702957234" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341616338781" FOLDED="true" ID="ID_536943845" MODIFIED="1341702957234" TEXT="registeritem.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341616341640" FOLDED="true" ID="ID_901830379" MODIFIED="1341702957234" TEXT="New view">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341616344968" ID="ID_529745465" MODIFIED="1341617096828" TEXT="Spinner">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341616123921" FOLDED="true" ID="ID_196155228" MODIFIED="1341702957234" TEXT="RegisterItem.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341616144078" FOLDED="true" ID="ID_321989718" MODIFIED="1341702957234" TEXT="setSpinner_genres()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341616594140" ID="ID_1871212327" MODIFIED="1341617096828" TEXT="DB-related codes">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341616962218" FOLDED="true" ID="ID_611112376" MODIFIED="1341702957234" TEXT="Q&apos;s">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341616950796" ID="ID_636131138" MODIFIED="1341617082343" TEXT="Genre list shown?">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341616976000" ID="ID_1160407071" MODIFIED="1341617082343" TEXT="New item registered?">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341455859703" FOLDED="true" ID="ID_1444627503" MODIFIED="1341702957234" TEXT="ADMIN">
+<icon BUILTIN="Mail"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341561857625" ID="ID_1595623056" MODIFIED="1341617350937" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="138"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="3"/>
+</node>
+<node CREATED="1341455863500" FOLDED="true" ID="ID_1821705259" MODIFIED="1341702957234" TEXT="C/O">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455876859" ID="ID_1524877107" MODIFIED="1341617350937" TEXT="=&gt; master">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341455881765" ID="ID_1532515660" MODIFIED="1341617350937" TEXT="MERGE">
+<icon BUILTIN="Mail"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341617148812" FOLDED="true" ID="ID_890990270" MODIFIED="1362279855118" TEXT="D2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341703208375" FOLDED="true" ID="ID_1470732245" MODIFIED="1362279855115" TEXT="F2">
+<icon BUILTIN="info"/>
+<node CREATED="1341703213031" FOLDED="true" ID="ID_1212599235" MODIFIED="1362279855114" TEXT="Click item">
+<icon BUILTIN="info"/>
+<node CREATED="1341703220515" ID="ID_787856837" MODIFIED="1341703364046" TEXT="=&gt; Registered to &quot;To buy list&quot;">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+<node CREATED="1341707207843" FOLDED="true" ID="ID_812221117" MODIFIED="1341707221156" TEXT="DONE">
+<node CREATED="1341703985312" FOLDED="true" ID="ID_1242783081" MODIFIED="1362279855115" TEXT="NEW BRANCH">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341703991625" ID="ID_745888890" MODIFIED="1341705143859" TEXT="B6_get_to_buy_list">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341704097234" ID="ID_823133668" MODIFIED="1341705143859" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="118"/>
+<attribute NAME="Branch" VALUE="B6"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="1"/>
+</node>
+</node>
+<node CREATED="1341703809859" FOLDED="true" ID="ID_780317668" MODIFIED="1362279855115" TEXT="ItemLists.java">
+<node CREATED="1341703366031" FOLDED="true" ID="ID_582308618" MODIFIED="1362279855115" TEXT="&#x307e;&#x305a;&#x306f;&#x3001;item&#x3092;click&#x3057;&#x305f;&#x3068;&#x304d;&#x306b;&#x3001;getItemAtPosition()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341704136593" ID="ID_1745313609" MODIFIED="1341704172593" TEXT="=&gt; shoppinglist.main.ShoppingItem@4051bbe0">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+<node CREATED="1341704575828" FOLDED="true" ID="ID_1557359800" MODIFIED="1362279855115" TEXT="ShoppingItem&#x3092;adapter&#x306b;&#x3064;&#x3051;&#x308b;&#x969b;&#x306b;&#x3001;item&#x306e;id&#x3082;&#x52a0;&#x3048;&#x308b;">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341704408593" FOLDED="true" ID="ID_978559301" MODIFIED="1362279855115" TEXT="ShoppingItem.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341704412203" FOLDED="true" ID="ID_1222500419" MODIFIED="1362279855115" TEXT="Constructor">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341704416718" FOLDED="true" ID="ID_1120933738" MODIFIED="1362279855115" TEXT="Change">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341704421140" ID="ID_1808722285" MODIFIED="1341705075609" TEXT="=&gt; Add item id">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341704927156" FOLDED="true" ID="ID_1253798454" MODIFIED="1362279855115" TEXT="VALIDATE">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341704807187" FOLDED="true" ID="ID_384574754" MODIFIED="1362279855115" TEXT="ItemListAdapter.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341704827687" ID="ID_1317164799" MODIFIED="1341705075609" TEXT="getView()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341704973796" FOLDED="true" ID="ID_1289715744" MODIFIED="1362279855115" TEXT="ItemList.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341704986921" FOLDED="true" ID="ID_1120853172" MODIFIED="1362279855115" TEXT="onListItemClick()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341704990734" ID="ID_891486380" MODIFIED="1341705075609" TEXT="=&gt; Show data">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341705246890" FOLDED="true" ID="ID_798940142" MODIFIED="1362279855115" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341704097234" ID="ID_1485052291" MODIFIED="1341705318484" TEXT="COMMIT">
+<icon BUILTIN="button_ok"/>
+<attribute_layout NAME_WIDTH="118"/>
+<attribute NAME="Branch" VALUE="B6"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="2"/>
+</node>
+<node CREATED="1341705256656" FOLDED="true" ID="ID_261391524" MODIFIED="1362279855115" TEXT="C/O">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341705261703" ID="ID_1669279330" MODIFIED="1341705318484" TEXT="master">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341705264062" ID="ID_933887219" MODIFIED="1341705318484" TEXT="MERGE">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341703985312" FOLDED="true" ID="ID_1221397174" MODIFIED="1362279855115" TEXT="NEW BRANCH">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341703991625" ID="ID_1904780718" MODIFIED="1341705364953" TEXT="B7_new_option_menu_db_manager">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341703991625" FOLDED="true" ID="ID_754089963" MODIFIED="1342057329140" TEXT="B7_new_option_menu_db_manager">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341705366453" FOLDED="true" ID="ID_37481299" MODIFIED="1362279855115" TEXT="Layout">
+<node CREATED="1341705380562" ID="ID_1613216278" MODIFIED="1341705384203" TEXT="db_manager.xml"/>
+</node>
+<node CREATED="1341705688015" FOLDED="true" ID="ID_1511087614" MODIFIED="1362279855115" TEXT="Strings">
+<node CREATED="1341705691546" ID="ID_1281820708" MODIFIED="1341705697593" TEXT="&#x30c6;&#x30fc;&#x30d6;&#x30eb;&#x4f5c;&#x6210;"/>
+<node CREATED="1341705698359" ID="ID_742046454" MODIFIED="1341705702281" TEXT="&#x30c6;&#x30fc;&#x30d6;&#x30eb;&#x524a;&#x9664;"/>
+</node>
+<node CREATED="1341706133484" FOLDED="true" ID="ID_1294314639" MODIFIED="1362279855115" TEXT="NEW ACTIVITY">
+<node CREATED="1341706157359" ID="ID_1183417573" MODIFIED="1341706167343" TEXT="DBAdminActivity.java"/>
+</node>
+<node CREATED="1341706301078" FOLDED="true" ID="ID_1180984926" MODIFIED="1341708746734" TEXT="OptionMenu">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341274161453" FOLDED="true" ID="ID_318008212" MODIFIED="1362279855116" TEXT="Create icon">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341274492296" ID="ID_1804029777" MODIFIED="1341707477968" TEXT="xcf file">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341274495687" ID="ID_814287678" MODIFIED="1341707477968" TEXT="png file">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341274498500" ID="ID_1048079006" MODIFIED="1341707477968" TEXT="Copy &amp; paste">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341276019875" FOLDED="true" ID="ID_1128687070" MODIFIED="1362279855116" TEXT="META">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276023781" FOLDED="true" ID="ID_768236412" MODIFIED="1362279855116" TEXT="SIZE">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341276027265" ID="ID_4741513" MODIFIED="1341707477968" TEXT="=30x30">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341707180140" FOLDED="true" ID="ID_1070722810" MODIFIED="1362279855116" TEXT="String">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341707183593" FOLDED="true" ID="ID_1213042643" MODIFIED="1362279855116" TEXT="Menu title">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341707231171" ID="ID_1411576621" MODIFIED="1341707477968" TEXT="&#x30c7;&#x30fc;&#x30bf;&#x30d9;&#x30fc;&#x30b9;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341232562468" FOLDED="true" ID="ID_423945554" MODIFIED="1362279855116" TEXT="listmenu.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341232595812" ID="ID_116043838" MODIFIED="1341707477968" TEXT="id=v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232631125" ID="ID_794296218" MODIFIED="1341707477968" TEXT="title=@string/v1_menu_register_shop">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341232655546" ID="ID_1036957131" MODIFIED="1341707477968" TEXT="icon=android:drawable/ic_menu_set_as">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341707310062" ID="ID_471601269" MODIFIED="1341707477968" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341707305921" ID="ID_1456265121" MODIFIED="1341707477968" TEXT="VALIDATE">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341707421578" FOLDED="true" ID="ID_1778595694" MODIFIED="1362279855116" TEXT="ShoppingListActivity">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341707452921" FOLDED="true" ID="ID_1664745238" MODIFIED="1362279855116" TEXT="onOptionsItemSelected()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341707458437" ID="ID_1176976426" MODIFIED="1341707653421" TEXT="Set intent">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341707545906" FOLDED="true" ID="ID_1713035481" MODIFIED="1362279855117" TEXT="Manifest">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341707550187" ID="ID_1587852610" MODIFIED="1341707653421" TEXT="Add activity">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341707310062" ID="ID_1807714511" MODIFIED="1341707653421" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341707305921" ID="ID_631772287" MODIFIED="1341707653421" TEXT="VALIDATE">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341707655421" FOLDED="true" ID="ID_1107225624" MODIFIED="1362279855117" TEXT="Modify view">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341707675515" ID="ID_1541885463" MODIFIED="1341707952718" TEXT="db_manager.xml">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341707933515" FOLDED="true" ID="ID_1189416023" MODIFIED="1362279855117" TEXT="DBAdminActivity.java ">
+<icon BUILTIN="info"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341707935890" FOLDED="true" ID="ID_714146962" MODIFIED="1362279855117" TEXT="Buttons">
+<icon BUILTIN="info"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341707939203" ID="ID_662774743" MODIFIED="1341708129937" TEXT="OnTouchListener">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341708130640" ID="ID_1263203083" MODIFIED="1341708671875" TEXT="Methods.ButtonTags">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341708149875" FOLDED="true" ID="ID_1766001719" MODIFIED="1362279855117" TEXT="setListeners()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341708634734" ID="ID_1647222340" MODIFIED="1341708671875" TEXT="NEW CLASS">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341708625109" ID="ID_1318723499" MODIFIED="1341708671875" TEXT="OnTouch">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341708629343" ID="ID_58663792" MODIFIED="1341708671875" TEXT="OnClick">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341707310062" ID="ID_1122975404" MODIFIED="1341708775609" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341707305921" ID="ID_852396026" MODIFIED="1341708775609" TEXT="VALIDATE">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341708788453" FOLDED="true" ID="ID_1014551749" MODIFIED="1342048112885" TEXT="ButtonOnClickListener.java">
+<icon BUILTIN="info"/>
+<node CREATED="1341708816265" ID="ID_83044793" MODIFIED="1341708819218" TEXT="case db_manager_activity_create_table">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341709277421" FOLDED="true" ID="ID_623755258" MODIFIED="1362279855117" TEXT="Methods.dlg_createTable()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341709288765" ID="ID_1324700049" MODIFIED="1341710872031" TEXT="Signiture">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341709949125" FOLDED="true" ID="ID_679724340" MODIFIED="1362279855117" TEXT="Strings">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341709955140" ID="ID_1131971590" MODIFIED="1341710872031" TEXT="&#x30ab;&#x30e9;&#x30e0;&#x540d;">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341709959875" ID="ID_1188531159" MODIFIED="1341710872031" TEXT="&#x30c7;&#x30fc;&#x30bf;&#x30fb;&#x30bf;&#x30a4;&#x30d7;">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341709965437" ID="ID_1272740255" MODIFIED="1341710872015" TEXT="&#x30c6;&#x30fc;&#x30d6;&#x30eb;&#x4f5c;&#x6210;">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341710856140" ID="ID_1921250098" MODIFIED="1341710872015" TEXT="&#x30c6;&#x30fc;&#x30d6;&#x30eb;&#x540d;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341709297500" FOLDED="true" ID="ID_895685339" MODIFIED="1362279855117" TEXT="dlg_create_table.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341710848921" ID="ID_49879488" MODIFIED="1341710889875" TEXT="Views">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341710850953" ID="ID_66459547" MODIFIED="1341711243484" TEXT="Ids">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341709277421" FOLDED="true" ID="ID_1351607320" MODIFIED="1362279855117" TEXT="Methods.dlg_createTable()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341711251062" ID="ID_1508913444" MODIFIED="1341711501734" TEXT="content">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341711474781" FOLDED="true" ID="ID_1028748894" MODIFIED="1362279855117" TEXT="DialogButtonOnTouchListener.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341711491078" ID="ID_1707135045" MODIFIED="1341711583359" TEXT="New cases">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341709297500" FOLDED="true" ID="ID_1255174299" MODIFIED="1362279855117" TEXT="dlg_create_table.xml">
+<node CREATED="1341711573890" ID="ID_1184475982" MODIFIED="1341711577578" TEXT="Beautify views"/>
+</node>
+<node CREATED="1341711808984" FOLDED="true" ID="ID_205636028" MODIFIED="1362279855117" TEXT="Dialog">
+<node CREATED="1341711825156" ID="ID_609993375" MODIFIED="1341711826765" TEXT="Cancel"/>
+</node>
+<node CREATED="1341711808984" FOLDED="true" ID="ID_1192760428" MODIFIED="1362279855117" TEXT="Dialog">
+<node CREATED="1341711825156" ID="ID_127674227" MODIFIED="1341714000953" TEXT="Create">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341712085140" FOLDED="true" ID="ID_1971452517" MODIFIED="1362279855117" TEXT="S4">
+<arrowlink DESTINATION="ID_308045689" ENDARROW="Default" ENDINCLINATION="1103;-273;" ID="Arrow_ID_1013430344" STARTARROW="None" STARTINCLINATION="33;131;"/>
+<node CREATED="1341712088562" ID="ID_1818019622" MODIFIED="1341712095515" TEXT="Create table from dialog">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341712123578" FOLDED="true" ID="ID_1859958312" MODIFIED="1362279855117" TEXT="DBAdminActivity.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341712111234" FOLDED="true" ID="ID_235712689" MODIFIED="1362279855117" TEXT="Button">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341712116359" ID="ID_301812645" MODIFIED="1341712256531" TEXT="&#x30c6;&#x30fc;&#x30d6;&#x30eb;&#x4f5c;&#x6210;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341712171890" ID="ID_1022343009" MODIFIED="1341712256531" TEXT="ButtonOnClickListener.java">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341712201562" ID="ID_1374548661" MODIFIED="1341712256531" TEXT="Methods.dlg_createTable()">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341712221968" ID="ID_956618771" MODIFIED="1341712256531" TEXT="DialogButtonOnClickListener.java">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341712719265" FOLDED="true" ID="ID_1256157353" MODIFIED="1362279855117" TEXT="Methods.dlg_createTable_isInputEmpty()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341712741640" ID="ID_976703519" MODIFIED="1341712744984" TEXT="NEW">
+<icon BUILTIN="info"/>
+</node>
+</node>
+<node CREATED="1341712236125" ID="ID_1098659393" MODIFIED="1341713929718" TEXT="Methods.createTable_FromDialog()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341714048187" FOLDED="true" ID="ID_218899511" MODIFIED="1362279855118" TEXT="ButtonOnClickListener.java">
+<node CREATED="1341708827375" ID="ID_1491598644" MODIFIED="1341708830062" TEXT="case db_manager_activity_drop_table">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341714096500" FOLDED="true" ID="ID_1497249859" MODIFIED="1362279855118" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341714099031" FOLDED="true" ID="ID_1632196578" MODIFIED="1362279855118" TEXT="dlg_drop_table.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341714106093" ID="ID_1356975125" MODIFIED="1341714863984" TEXT="Views">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341714108906" FOLDED="true" ID="ID_115069624" MODIFIED="1362279855118" TEXT="Strings">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341714767734" FOLDED="true" ID="ID_824437653" MODIFIED="1362279855118" TEXT="Title">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341714771765" ID="ID_988444818" MODIFIED="1341714863984" TEXT="&#x30c6;&#x30fc;&#x30d6;&#x30eb;&#x524a;&#x9664;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341714096500" FOLDED="true" ID="ID_1944436255" MODIFIED="1362279855118" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341714099031" FOLDED="true" ID="ID_249405656" MODIFIED="1362279855118" TEXT="dlg_drop_table.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341714106093" ID="ID_96745128" MODIFIED="1341714858234" TEXT="Ids">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341714141640" ID="ID_1678163437" MODIFIED="1341714858234" TEXT="Styles">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341714901078" FOLDED="true" ID="ID_831231426" MODIFIED="1362279855118" TEXT="ButtonOnClickListener.java">
+<node CREATED="1341714903578" ID="ID_1900734033" MODIFIED="1341714914046" TEXT="case db_manager_activity_create_table"/>
+</node>
+<node CREATED="1341714148765" FOLDED="true" ID="ID_1386471888" MODIFIED="1362279855118" TEXT="Methods.dlg_dropTable()">
+<node CREATED="1341714157250" ID="ID_997959324" MODIFIED="1341714160531" TEXT="NEW">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341714306734" ID="ID_1184507254" MODIFIED="1341714309640" TEXT="Signiture"/>
+<node CREATED="1341714437703" ID="ID_213024159" MODIFIED="1341714441812" TEXT="Get list of tables"/>
+</node>
+<node CREATED="1341714192046" FOLDED="true" ID="ID_1695131017" MODIFIED="1362279855118" TEXT="Set listener">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341714195890" ID="ID_601132895" MODIFIED="1341715542656" TEXT="OnTouch">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341714198937" ID="ID_1939228247" MODIFIED="1341715542656" TEXT="OnClick">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341714204234" ID="ID_400344707" MODIFIED="1341715542656" TEXT="Ids">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341714219843" ID="ID_1156084279" MODIFIED="1341715546828" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341714222203" ID="ID_809499724" MODIFIED="1341715546828" TEXT="Beautify views">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341711808984" FOLDED="true" ID="ID_422738244" MODIFIED="1362279855118" TEXT="Dialog">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341711825156" FOLDED="true" ID="ID_1910214424" MODIFIED="1362279855118" TEXT="Cancel">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341714252031" ID="ID_1852173083" MODIFIED="1341721027406" TEXT="Dismiss dialog">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341711808984" FOLDED="true" ID="ID_123665048" MODIFIED="1362279855118" TEXT="Dialog">
+<node CREATED="1341711825156" ID="ID_1750680774" MODIFIED="1341714000953" TEXT="Create">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341712085140" ID="ID_1166362647" MODIFIED="1341721075031" TEXT="S5">
+<arrowlink DESTINATION="ID_308045689" ENDARROW="Default" ENDINCLINATION="1103;-273;" ID="Arrow_ID_290080440" STARTARROW="None" STARTINCLINATION="33;131;"/>
+<arrowlink DESTINATION="ID_460340070" ENDARROW="Default" ENDINCLINATION="1138;-141;" ID="Arrow_ID_1336648502" STARTARROW="None" STARTINCLINATION="188;13;"/>
+</node>
+</node>
+<node CREATED="1341712171890" ID="ID_530783125" MODIFIED="1341714331281" TEXT="ButtonOnClickListener.java"/>
+</node>
+</node>
+</node>
+<node CREATED="1341703315234" FOLDED="true" ID="ID_1200788826" MODIFIED="1342833006234" TEXT="D3">
+<icon BUILTIN="idea"/>
+<node CREATED="1341617152671" FOLDED="true" ID="ID_1377916143" MODIFIED="1362279855120" TEXT="Item list">
+<node CREATED="1341617157093" ID="ID_1163515407" MODIFIED="1342048353663" TEXT="=&gt; Filter">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1342057308781" FOLDED="true" ID="ID_38905777" MODIFIED="1342057326718" TEXT="DONE">
+<node CREATED="1342048798121" FOLDED="true" ID="ID_891133897" MODIFIED="1362279855119" TEXT="NEW BRANCH">
+<node CREATED="1342048802950" ID="ID_762849353" MODIFIED="1342048849701" TEXT="B8_new_option_menu_filter_list">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341267245828" FOLDED="true" ID="ID_1940624375" MODIFIED="1362279855119" TEXT="Create icon">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341267258546" FOLDED="true" ID="ID_805760256" MODIFIED="1362279855119" TEXT="Projoect icon">
+<node CREATED="1341267512156" ID="ID_1174558891" MODIFIED="1342048918142" TEXT="Draw icon"/>
+<node CREATED="1341267516765" ID="ID_1538683239" MODIFIED="1342048918142" TEXT="Copy &amp; paste"/>
+<node CREATED="1341267520640" ID="ID_887902452" MODIFIED="1342048918142" TEXT="Edit manifest file"/>
+<node CREATED="1341266891609" ID="ID_1109157905" MODIFIED="1342048918142" TEXT="INSTALL"/>
+<node CREATED="1341267703546" ID="ID_1029884997" MODIFIED="1342048918142" TEXT="Validate"/>
+</node>
+</node>
+<node CREATED="1342049541540" ID="ID_985766382" MODIFIED="1342050918334" TEXT="String">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1342048853545" FOLDED="true" ID="ID_1486964818" MODIFIED="1362279855119" TEXT="Layout">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342048856967" FOLDED="true" ID="ID_895330800" MODIFIED="1362279855119" TEXT="itemlist.xml">
+<node CREATED="1342049548806" ID="ID_1150212425" MODIFIED="1342049552963" TEXT="Set values"/>
+</node>
+</node>
+</node>
+<node CREATED="1342048354241" FOLDED="true" ID="ID_907816258" MODIFIED="1362279855119" TEXT="ItemList.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613608546" ID="ID_1244860635" MODIFIED="1342049613528" TEXT="onOptionsItemSelected()"/>
+<node CREATED="1342056295343" FOLDED="true" ID="ID_1381586102" MODIFIED="1362279855119" TEXT="Layout">
+<node CREATED="1342056299125" FOLDED="true" ID="ID_1120481708" MODIFIED="1362279855119" TEXT="dlg_filter_list.xml">
+<node CREATED="1342056560546" ID="ID_1592849344" MODIFIED="1342056562953" TEXT="Views"/>
+<node CREATED="1342056563265" ID="ID_155260087" MODIFIED="1342056564484" TEXT="Ids"/>
+</node>
+</node>
+<node CREATED="1342056569718" ID="ID_1934915463" MODIFIED="1342056571718" TEXT="Strings"/>
+<node CREATED="1342056299125" FOLDED="true" ID="ID_694076917" MODIFIED="1362279855119" TEXT="dlg_filter_list.xml">
+<node CREATED="1342057093750" ID="ID_1786205916" MODIFIED="1342057095828" TEXT="Set strings"/>
+<node CREATED="1342057096078" ID="ID_950604874" MODIFIED="1342057097484" TEXT="Styles"/>
+</node>
+</node>
+<node CREATED="1342057264296" FOLDED="true" ID="ID_692680520" MODIFIED="1362279855120" TEXT="Methods.dlg_filterList()">
+<arrowlink DESTINATION="ID_106461396" ENDARROW="Default" ENDINCLINATION="-109;-24;" ID="Arrow_ID_206743855" STARTARROW="None" STARTINCLINATION="-16;-37;"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342057276765" FOLDED="true" ID="ID_106461396" MODIFIED="1362279855119" TEXT="Dialog">
+<arrowlink DESTINATION="ID_1552966551" ENDARROW="Default" ENDINCLINATION="200;-248;" ID="Arrow_ID_1336658960" STARTARROW="None" STARTINCLINATION="533;-32;"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342057280234" ID="ID_232420995" MODIFIED="1342057283156" TEXT="Create"/>
+<node CREATED="1342057283531" ID="ID_351625228" MODIFIED="1342057284656" TEXT="Show"/>
+</node>
+<node CREATED="1342058676046" ID="ID_391717683" MODIFIED="1342058683171" TEXT="Set list to spinners"/>
+<node CREATED="1342063449937" FOLDED="true" ID="ID_1239093770" MODIFIED="1362279855120" TEXT="Set listeners">
+<node CREATED="1342063453281" ID="ID_1078412218" MODIFIED="1342064106281" TEXT="Touch">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1342063456484" FOLDED="true" ID="ID_1038490147" MODIFIED="1362279855120" TEXT="Click">
+<node CREATED="1342064099484" ID="ID_892296103" MODIFIED="1342064101515" TEXT="Cancel"/>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1443486311" MODIFIED="1362279855119" TEXT="ADMIN">
+<node CREATED="1342048148778" ID="ID_1659254493" MODIFIED="1342064453140" TEXT="COMMIT">
+<attribute_layout NAME_WIDTH="122"/>
+<attribute NAME="Branch" VALUE="B8"/>
+<attribute NAME="Version" VALUE="1.0"/>
+</node>
+<node CREATED="1342048255299" FOLDED="true" ID="ID_543639312" MODIFIED="1362279855119" TEXT="TIME">
+<node CREATED="1342064476140" ID="ID_1751901880" MODIFIED="1342064476140" TEXT="20120712_124112"/>
+</node>
+</node>
+<node CREATED="1342064101765" FOLDED="true" ID="ID_61381522" MODIFIED="1362279855119" TEXT="Ok">
+<node CREATED="1342064635593" ID="ID_1552966551" MODIFIED="1342068655046" TEXT="Methods.filterList()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_802218928" MODIFIED="1362279855120" TEXT="ADMIN">
+<node CREATED="1342048148778" ID="ID_200385105" MODIFIED="1342068695437" TEXT="COMMIT">
+<attribute_layout NAME_WIDTH="122"/>
+<attribute NAME="Branch" VALUE="B8"/>
+<attribute NAME="Version" VALUE="1.1"/>
+</node>
+<node CREATED="1342048239673" FOLDED="true" ID="ID_854100456" MODIFIED="1362279855119" TEXT="C/O">
+<node CREATED="1342048243704" ID="ID_299790955" MODIFIED="1342048245064" TEXT="master"/>
+</node>
+<node CREATED="1342048246892" ID="ID_498021726" MODIFIED="1342048248486" TEXT="MERGE"/>
+<node CREATED="1342048255299" ID="ID_703252587" MODIFIED="1342048257080" TEXT="TIME"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342068766328" FOLDED="true" ID="ID_1904288236" MODIFIED="1342870865125" TEXT="D4">
+<icon BUILTIN="idea"/>
+<node CREATED="1342791292718" FOLDED="true" ID="ID_447585040" MODIFIED="1342870865125" TEXT="Add column">
+<icon BUILTIN="info"/>
+<node CREATED="1342795236953" ID="ID_1816786891" MODIFIED="1342795268890" TEXT="B9_edit_register_item_yomi">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1342791296578" FOLDED="true" ID="ID_1817236044" MODIFIED="1342870865125" TEXT="&#x54c1;&#x7269;">
+<node CREATED="1342791307046" ID="ID_1162900206" MODIFIED="1342791313828" TEXT="&#x300c;&#x3088;&#x307f;&#x300d;"/>
+</node>
+<node CREATED="1342793165562" ID="ID_1975531093" MODIFIED="1342793178906" TEXT="DBAdminActivity.modify_table()">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1342793451578" FOLDED="true" ID="ID_1917955330" MODIFIED="1342870865125" TEXT="EDIT">
+<node CREATED="1342793485250" ID="ID_1762402509" MODIFIED="1342793493171" TEXT="strings"/>
+<node CREATED="1342793453546" ID="ID_1382383007" MODIFIED="1342793465000" TEXT="registeritem.xml"/>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_885905979" MODIFIED="1342870865125" TEXT="ADMIN">
+<node CREATED="1342048148778" ID="ID_248549622" MODIFIED="1342795314875" TEXT="COMMIT">
+<attribute_layout NAME_WIDTH="122"/>
+<attribute NAME="Branch" VALUE="B9"/>
+<attribute NAME="Version" VALUE="1.0"/>
+</node>
+<node CREATED="1342048239673" FOLDED="true" ID="ID_1826511195" MODIFIED="1342870865125" TEXT="C/O">
+<node CREATED="1342048243704" ID="ID_848391010" MODIFIED="1342048245064" TEXT="master"/>
+</node>
+<node CREATED="1342048246892" ID="ID_1475517404" MODIFIED="1342048248486" TEXT="MERGE"/>
+<node CREATED="1342048255299" ID="ID_764063517" MODIFIED="1342048257080" TEXT="TIME"/>
+</node>
+</node>
+<node CREATED="1342068829859" FOLDED="true" ID="ID_1979608117" MODIFIED="1342870862375" TEXT="D5">
+<icon BUILTIN="idea"/>
+<node CREATED="1342833071750" ID="ID_98913791" MODIFIED="1342833123375" TEXT="B10_layout_shoppinglist">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1342068768484" FOLDED="true" ID="ID_1518998715" MODIFIED="1342870862375" TEXT="ShoppingList.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342068779328" FOLDED="true" ID="ID_1564688151" MODIFIED="1342870862375" TEXT="EDIT">
+<node CREATED="1342068782187" FOLDED="true" ID="ID_398559210" MODIFIED="1342870862375" TEXT="Layout">
+<node CREATED="1342068787484" ID="ID_192794840" MODIFIED="1342833050750" TEXT="shoppinglist.xml"/>
+</node>
+<node CREATED="1342833297000" ID="ID_304619223" MODIFIED="1342833298546" TEXT="strings"/>
+<node CREATED="1342833452265" ID="ID_1516953126" MODIFIED="1342833453859" TEXT="style"/>
+</node>
+<node CREATED="1342834233140" FOLDED="true" ID="ID_1404135746" MODIFIED="1342870862375" TEXT="Source">
+<node CREATED="1342834235609" FOLDED="true" ID="ID_1868191916" MODIFIED="1342870862375" TEXT="Add listeners">
+<node CREATED="1342834244765" ID="ID_487346392" MODIFIED="1342834246296" TEXT="list"/>
+<node CREATED="1342834246546" ID="ID_661143512" MODIFIED="1342834248046" TEXT="register"/>
+<node CREATED="1342834249031" ID="ID_1974030839" MODIFIED="1342834249843" TEXT="db"/>
+<node CREATED="1342835440031" ID="ID_1049834969" MODIFIED="1342835443687" TEXT="Touch"/>
+<node CREATED="1342835443968" ID="ID_472864449" MODIFIED="1342835445437" TEXT="Click"/>
+</node>
+</node>
+<node CREATED="1342868101234" FOLDED="true" ID="ID_1725596410" MODIFIED="1342870862375" TEXT="LAYOUT">
+<node CREATED="1342868105968" ID="ID_1164034423" MODIFIED="1342868105968" TEXT="dlg_register_main.xml"/>
+</node>
+<node CREATED="1342868376828" FOLDED="true" ID="ID_1678796930" MODIFIED="1342870862375" TEXT="Source">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342868380218" ID="ID_806960750" MODIFIED="1342868385156" TEXT="ButtonOnClickListener"/>
+<node CREATED="1342868395156" ID="ID_1933115756" MODIFIED="1342868408984" TEXT="Methods.dlg_register_main()"/>
+<node CREATED="1342870616953" ID="ID_90549445" MODIFIED="1342870619296" TEXT="DialogOnItemClickListener.java"/>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_699803778" MODIFIED="1342870862375" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342048148778" ID="ID_1290279842" MODIFIED="1342870712937" TEXT="COMMIT">
+<attribute_layout NAME_WIDTH="122"/>
+<attribute NAME="Branch" VALUE="B10"/>
+<attribute NAME="Version" VALUE="1.0"/>
+</node>
+<node CREATED="1342048239673" FOLDED="true" ID="ID_8701080" MODIFIED="1342870862375" TEXT="C/O">
+<node CREATED="1342048243704" ID="ID_1479907806" MODIFIED="1342048245064" TEXT="master"/>
+</node>
+<node CREATED="1342048246892" ID="ID_973719592" MODIFIED="1342048248486" TEXT="MERGE"/>
+<node CREATED="1342048255299" FOLDED="true" ID="ID_1921107713" MODIFIED="1342870862375" TEXT="TIME">
+<node CREATED="1342870741000" ID="ID_1549030250" MODIFIED="1342870741000" TEXT="20120721_203857"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342791264781" FOLDED="true" ID="ID_974282191" MODIFIED="1352349019401" TEXT="D6">
+<icon BUILTIN="idea"/>
+<node CREATED="1342870804234" FOLDED="true" ID="ID_651192688" MODIFIED="1362279855120" TEXT="Create">
+<node CREATED="1342870809156" FOLDED="true" ID="ID_487008727" MODIFIED="1362279855120" TEXT="&quot;ToBuy&quot; list">
+<icon BUILTIN="info"/>
+<node CREATED="1342877741796" FOLDED="true" ID="ID_271140118" MODIFIED="1362279855120" TEXT="Edit">
+<node CREATED="1342877744515" FOLDED="true" ID="ID_1989594582" MODIFIED="1362279855120" TEXT="LAYOUT">
+<node CREATED="1342877779718" ID="ID_1614272087" MODIFIED="1342878588390" TEXT="itemlist.xml">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1342878597937" FOLDED="true" ID="ID_1698469091" MODIFIED="1362279855120" TEXT="ItemList.onListItemClick()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342880601250" ID="ID_1007094006" MODIFIED="1342880634234" TEXT="checkedPositions">
+<arrowlink DESTINATION="ID_178735812" ENDARROW="Default" ENDINCLINATION="300;0;" ID="Arrow_ID_1873918666" STARTARROW="None" STARTINCLINATION="136;51;"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1342880605718" HGAP="30" ID="ID_178735812" MODIFIED="1342881737187" TEXT="TIListAdapter.java" VSHIFT="34">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1342878597937" FOLDED="true" HGAP="29" ID="ID_1595057341" MODIFIED="1362279855120" TEXT="ItemList.onListItemClick()" VSHIFT="44">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342880650890" ID="ID_1206577872" MODIFIED="1342880650890" TEXT="toBuys"/>
+</node>
+<node CREATED="1342880667781" FOLDED="true" ID="ID_1429156405" MODIFIED="1362279855120" TEXT="ItemList.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342880672562" FOLDED="true" ID="ID_1147698168" MODIFIED="1362279855120" TEXT="set listener">
+<node CREATED="1342880678765" FOLDED="true" ID="ID_1758759663" MODIFIED="1362279855120" TEXT="&#x78ba;&#x5b9a;">
+<node CREATED="1342880973187" ID="ID_1364776987" MODIFIED="1342881320500" TEXT="Touch">
+<arrowlink DESTINATION="ID_914795608" ENDARROW="Default" ENDINCLINATION="189;0;" ID="Arrow_ID_914548873" STARTARROW="None" STARTINCLINATION="189;0;"/>
+</node>
+<node CREATED="1342880976000" ID="ID_82302199" MODIFIED="1342881337531" TEXT="Click">
+<arrowlink DESTINATION="ID_1097168236" ENDARROW="Default" ENDINCLINATION="263;0;" ID="Arrow_ID_1476129982" STARTARROW="None" STARTINCLINATION="263;0;"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342881305171" HGAP="24" ID="ID_914795608" MODIFIED="1342881737187" TEXT="ButtonOnTouchListener.java" VSHIFT="40">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1342881322468" HGAP="33" ID="ID_1097168236" MODIFIED="1342881737187" TEXT="ButtonOnClickListener" VSHIFT="69">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1342881700546" FOLDED="true" ID="ID_1414206842" MODIFIED="1362279855120" TEXT="toBuy list item">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342881710359" FOLDED="true" ID="ID_1559278535" MODIFIED="1362279855120" TEXT="Click">
+<node CREATED="1342881717906" ID="ID_800251529" MODIFIED="1342881726843" TEXT="=&gt; Unlist from toBuy list"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ff3333" COLOR="#ffffff" CREATED="1342882054218" FOLDED="true" ID="ID_367964565" MODIFIED="1362279855120" TEXT="FIX">
+<node CREATED="1342882103234" FOLDED="true" ID="ID_1451121855" MODIFIED="1362279855120" TEXT="ItemList#checkedPositions">
+<node CREATED="1342882108734" FOLDED="true" ID="ID_1574864344" MODIFIED="1362279855120" TEXT="Parameter">
+<node CREATED="1342882127312" ID="ID_78488505" MODIFIED="1342882146234" TEXT="=&gt; ShoppingItem (instead of Integer)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1346296950906" FOLDED="true" ID="ID_1878273064" MODIFIED="1352349128521" TEXT="D-7">
+<icon BUILTIN="idea"/>
+<node CREATED="1342870809156" FOLDED="true" ID="ID_1116443636" MODIFIED="1362279855121" TEXT="&quot;ToBuy&quot; list">
+<node CREATED="1346297039593" ID="ID_1793042361" MODIFIED="1346297054312" TEXT="=&gt; Show in an individual list"/>
+<node CREATED="1346297672671" ID="ID_754605867" MODIFIED="1352349115600" TEXT="B11_show_tobuy-list_only">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="23"/>
+</node>
+<node CREATED="1352347921184" FOLDED="true" ID="ID_1945502620" MODIFIED="1362279855121" TEXT="CODES">
+<node CREATED="1352347924127" FOLDED="true" ID="ID_14669851" MODIFIED="1362279855120" TEXT="SLActv">
+<node CREATED="1352347928109" ID="ID_826062145" MODIFIED="1352347929955" TEXT="add_listeners()"/>
+</node>
+<node CREATED="1352347945648" FOLDED="true" ID="ID_196341145" MODIFIED="1362279855120" TEXT="ButtonOnClickListener">
+<node CREATED="1352347969483" ID="ID_664212527" MODIFIED="1352347969483" TEXT="case sl_main_bt_item_list"/>
+</node>
+<node CREATED="1352347976544" FOLDED="true" ID="ID_481132308" MODIFIED="1362279855120" TEXT="ItemList">
+<node CREATED="1352347993973" ID="ID_1106929075" MODIFIED="1352347996258" TEXT="onCreate()"/>
+<node CREATED="1352348005104" ID="ID_802954612" MODIFIED="1352348006643" TEXT="set_listener()"/>
+</node>
+<node CREATED="1352348031711" FOLDED="true" ID="ID_203705750" MODIFIED="1362279855120" TEXT="ButtonOnClickListener">
+<node CREATED="1352348048069" ID="ID_922097623" MODIFIED="1352348048069" TEXT="case itemlist_bt_choose"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1346296950906" FOLDED="true" ID="ID_1774616229" MODIFIED="1388887974437" TEXT="D-8">
+<icon BUILTIN="idea"/>
+<node CREATED="1352345349105" ID="ID_1309454067" MODIFIED="1352345366411" TEXT="Restore db(Install the app from Mouse Computer machine"/>
+<node CREATED="1352345388015" ID="ID_1121974704" MODIFIED="1352345393792" TEXT="B12_restore_db">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1346296950906" FOLDED="true" ID="ID_1286865589" MODIFIED="1362279855121" TEXT="D-7-2">
+<node CREATED="1352349068144" ID="ID_612134944" MODIFIED="1352349082913" TEXT="Show &quot;ToBuy&quot; list in a different activity"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1916591382" MODIFIED="1360565785521" TEXT="D-9">
+<icon BUILTIN="idea"/>
+<node CREATED="1360401119924" FOLDED="true" ID="ID_782507073" MODIFIED="1362279855121" TEXT="s">
+<node CREATED="1360481102369" ID="ID_1455136757" MODIFIED="1360481102369" TEXT="20130210_162458"/>
+</node>
+<node CREATED="1360481055510" ID="ID_394518308" MODIFIED="1360481084439" TEXT="B13_refactor_packages">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360401079975" FOLDED="true" ID="ID_1693132609" MODIFIED="1362279855121" TEXT="Refactor">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1360401084888" ID="ID_539280052" MODIFIED="1360401088341" TEXT="Packages"/>
+</node>
+<node CREATED="1360481086974" FOLDED="true" ID="ID_1417055732" MODIFIED="1362279855121" TEXT="v-1.0">
+<icon BUILTIN="folder"/>
+<node CREATED="1360481501524" ID="ID_1092005579" MODIFIED="1360481503453" TEXT="Packages"/>
+</node>
+<node CREATED="1360481505863" FOLDED="true" ID="ID_989385657" MODIFIED="1362279855121" TEXT="v-2.0">
+<node CREATED="1360481514450" ID="ID_1104204612" MODIFIED="1360481518617" TEXT="CONS.java"/>
+</node>
+<node COLOR="#ff0000" CREATED="1360483885421" FOLDED="true" ID="ID_932878546" MODIFIED="1362279855122" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1360484622170" ID="ID_1601194080" MODIFIED="1360484633122" TEXT="v-2.0-e1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360483888301" ID="ID_1985051072" MODIFIED="1360483913472" TEXT="&#x753b;&#x9762;&#x304c;&#x5909;&#x308f;&#x308b;&#x524d;&#x306b;&#x3001;&#x505c;&#x6b62;&#x3059;&#x308b;"/>
+<node CREATED="1360484329499" FOLDED="true" ID="ID_1944771220" MODIFIED="1362279855121" TEXT="SUGGESTION">
+<node CREATED="1360484342862" ID="ID_174723426" MODIFIED="1360484383354" TEXT="&#x304a;&#x305d;&#x3089;&#x304f;&#x3001;&#x30de;&#x30cb;&#x30d5;&#x30a7;&#x30b9;&#x30c8;&#x306e;&#x3001;package &#x540d;&#x3092;&#x5909;&#x3048;&#x305f;&#x306e;&#x304c;&#x3001;&#x539f;&#x56e0;&#x304b;"/>
+</node>
+<node CREATED="1360484384737" FOLDED="true" ID="ID_1365550879" MODIFIED="1362279855122" TEXT="MEASURE">
+<node CREATED="1360484388559" ID="ID_796291335" MODIFIED="1360484437379" TEXT="&#x65b0;&#x305f;&#x306b; DB &#x7528;&#x306e;&#x30c7;&#x30a3;&#x30ec;&#x30af;&#x30c8;&#x30ea;&#x3092;&#x4f5c;&#x3063;&#x3066;&#x3001;&#x305d;&#x3053;&#x3078;&#x3001;&#x30d0;&#x30c3;&#x30af;&#x30a2;&#x30c3;&#x30d7;&#x3057;&#x3066;&#x3042;&#x308b; DB &#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x306e;&#x3046;&#x3061;&#x3001;&#x6700;&#x65b0;&#x306e;&#x3082;&#x306e;&#x3092;&#x3001;&#x30b3;&#x30d4;&#x30fc;&#x3059;&#x308b;"/>
+<node CREATED="1360484671854" FOLDED="true" ID="ID_592123748" MODIFIED="1362279855122" TEXT="v-2.0-e1-d1">
+<node CREATED="1360487543312" FOLDED="true" ID="ID_1157717384" MODIFIED="1362279855121" TEXT="01">
+<node CREATED="1360486968300" FOLDED="true" ID="ID_742490791" MODIFIED="1362279855121" TEXT="CODES">
+<node CREATED="1360486971139" FOLDED="true" ID="ID_1560673693" MODIFIED="1362279855121" TEXT="Methods">
+<node CREATED="1360486975931" ID="ID_1548733288" MODIFIED="1360486975931" TEXT="getFileNameFromDir_latest(this, CONS.dirPath_db_backup)"/>
+</node>
+</node>
+</node>
+<node CREATED="1360487544588" FOLDED="true" ID="ID_558486094" MODIFIED="1362279855122" TEXT="02">
+<node CREATED="1360487548469" FOLDED="true" ID="ID_1624506475" MODIFIED="1362279855122" TEXT="Execute restoration">
+<node CREATED="1360487577242" FOLDED="true" ID="ID_1718197766" MODIFIED="1362279855122" TEXT="Methods">
+<node CREATED="1360487582521" FOLDED="true" ID="ID_881584923" MODIFIED="1362279855122" TEXT="restore_db()">
+<node CREATED="1360488160150" FOLDED="true" ID="ID_1002572244" MODIFIED="1362279855121" TEXT="h">
+<node CREATED="1360488163298" ID="ID_144327393" MODIFIED="1360488163298" TEXT="20130210_182231"/>
+</node>
+</node>
+</node>
+<node CREATED="1360558813437" FOLDED="true" ID="ID_1921892435" MODIFIED="1362279855122" TEXT="s">
+<node CREATED="1360558821955" FOLDED="true" ID="ID_1040978357" MODIFIED="1362279855122" TEXT="20130211_140018">
+<node CREATED="1360558847505" FOLDED="true" ID="ID_1886495500" MODIFIED="1362279855122" TEXT="?">
+<node CREATED="1360558851457" ID="ID_1229076473" MODIFIED="1360558891590" TEXT="/data/data &#x306e;&#x30c7;&#x30a3;&#x30ec;&#x30af;&#x30c8;&#x30ea;&#x306e;&#x3001;&#x30ea;&#x30b9;&#x30c8;&#x3092;&#x898b;&#x3066;&#x307f;&#x305f;&#x3044;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360561556152" FOLDED="true" ID="ID_1530936784" MODIFIED="1362279855122" TEXT="SOLVED">
+<node CREATED="1360561565182" FOLDED="true" ID="ID_255539118" MODIFIED="1362279855122" TEXT="e">
+<node CREATED="1360561571141" ID="ID_492307892" MODIFIED="1360561571141" TEXT="20130211_144607"/>
+</node>
+</node>
+</node>
+<node CREATED="1360561580991" FOLDED="true" ID="ID_1911996037" MODIFIED="1362279855122" TEXT="e">
+<node CREATED="1360561587417" ID="ID_1456362782" MODIFIED="1360561587417" TEXT="20130211_144624"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_58249266" MODIFIED="1360565783810" TEXT="D-10">
+<icon BUILTIN="folder"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1360561619826" FOLDED="true" ID="ID_1710004871" MODIFIED="1362279855122" TEXT="Redesign">
+<node CREATED="1360561623972" ID="ID_1422594286" MODIFIED="1360561631056" TEXT="SLActv =&gt; MainActv"/>
+<node CREATED="1360564239343" ID="ID_639232730" MODIFIED="1360564242654" TEXT="And others"/>
+</node>
+<node CREATED="1360561808243" ID="ID_678166754" MODIFIED="1360562140309" TEXT="B14_redesign_slactv_mainactv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360562149709" FOLDED="true" ID="ID_912999297" MODIFIED="1362279855122" TEXT="s">
+<node CREATED="1360562161447" ID="ID_1702958843" MODIFIED="1360562161447" TEXT="20130211_145557"/>
+<node CREATED="1360564256699" FOLDED="true" ID="ID_677496977" MODIFIED="1362279855122" TEXT="v-1.0">
+<node CREATED="1360562163062" FOLDED="true" ID="ID_1944012267" MODIFIED="1362279855122" TEXT="01">
+<node CREATED="1360562190100" FOLDED="true" ID="ID_826527643" MODIFIED="1362279855122" TEXT="Rename">
+<node CREATED="1360561623972" ID="ID_418297110" MODIFIED="1360561631056" TEXT="SLActv =&gt; MainActv"/>
+<node CREATED="1360564239343" ID="ID_575482474" MODIFIED="1360564242654" TEXT="And others"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360564369899" FOLDED="true" ID="ID_397150863" MODIFIED="1362279855122" TEXT="e">
+<node CREATED="1360564377555" ID="ID_960360539" MODIFIED="1360564377555" TEXT="20130211_153253"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1847572719" MODIFIED="1360727498632" TEXT="D-11">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1360564334213" FOLDED="true" ID="ID_996641523" MODIFIED="1362279855122" TEXT="Refactor">
+<node CREATED="1360564339354" FOLDED="true" ID="ID_224096899" MODIFIED="1362279855122" TEXT="MainActv">
+<node CREATED="1360564342546" FOLDED="true" ID="ID_870376090" MODIFIED="1362279855122" TEXT="Option menues">
+<node CREATED="1360564346969" ID="ID_1902413906" MODIFIED="1360564355096" TEXT="Delete some"/>
+</node>
+</node>
+</node>
+<node CREATED="1360564384114" ID="ID_1773836281" MODIFIED="1360564422984" TEXT="B15_refactor_main-actv_option-menues">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360564379722" FOLDED="true" ID="ID_94933550" MODIFIED="1362279855123" TEXT="s">
+<node CREATED="1360564381543" ID="ID_469948736" MODIFIED="1360564381543" TEXT="20130211_153253"/>
+<node CREATED="1360564426428" FOLDED="true" ID="ID_1826875117" MODIFIED="1362279855123" TEXT="v-1.0">
+<icon BUILTIN="folder"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1360564548453" FOLDED="true" ID="ID_929662062" MODIFIED="1362279855123" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1360564549992" FOLDED="true" ID="ID_1780769033" MODIFIED="1362279855122" TEXT="Rename">
+<node CREATED="1360564552009" ID="ID_4075591" MODIFIED="1360564558676" TEXT="listmenu.xml =&gt; menu_main.xml"/>
+</node>
+</node>
+</node>
+<node CREATED="1360564723170" FOLDED="true" ID="ID_1134847087" MODIFIED="1362279855123" TEXT="v-1.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360564725827" FOLDED="true" ID="ID_1546852299" MODIFIED="1362279855123" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1360564771653" FOLDED="true" ID="ID_814864252" MODIFIED="1362279855123" TEXT="Remove">
+<node CREATED="1360564775825" ID="ID_534181430" MODIFIED="1360564789053" TEXT="&quot;&#x30c7;&#x30fc;&#x30bf;&#x30d9;&#x30fc;&#x30b9;&quot; from the list in MainActv"/>
+</node>
+</node>
+<node CREATED="1360564824282" FOLDED="true" ID="ID_448231088" MODIFIED="1362279855123" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1360564825959" FOLDED="true" ID="ID_1426108889" MODIFIED="1362279855123" TEXT="Rename">
+<node CREATED="1360564828827" ID="ID_1058465341" MODIFIED="1360564835177" TEXT="shoppinglist.xml =&gt; actv_main.xml"/>
+</node>
+</node>
+</node>
+<node CREATED="1360564937304" FOLDED="true" ID="ID_27235936" MODIFIED="1362279855123" TEXT="v-1.2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1360564994420" FOLDED="true" ID="ID_592100186" MODIFIED="1362279855123" TEXT="01">
+<node CREATED="1360564996103" FOLDED="true" ID="ID_585347701" MODIFIED="1362279855123" TEXT="No animation when transitioning to DB activity">
+<node CREATED="1360565114485" FOLDED="true" ID="ID_1025351469" MODIFIED="1362279855123" TEXT="CODES">
+<node CREATED="1360565116414" FOLDED="true" ID="ID_802897023" MODIFIED="1362279855123" TEXT="MainActv">
+<node CREATED="1360565128751" ID="ID_1869282266" MODIFIED="1360565129938" TEXT="onOptionsItemSelected()"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1360565479213" FOLDED="true" ID="ID_1495501150" MODIFIED="1362279855123" TEXT="PROBLEM">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1360565481591" FOLDED="true" ID="ID_1536545780" MODIFIED="1362279855123" TEXT="Where to write the code in DBAdminActv?">
+<node CREATED="1360565503105" ID="ID_192492945" LINK="http://stackoverflow.com/questions/5670754/android-how-to-stop-animation-between-activity-changes" MODIFIED="1360565505124" TEXT="rc"/>
+</node>
+<node CREATED="1360565506850" ID="ID_503457126" MODIFIED="1360565508358" TEXT="DROP"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360565582474" FOLDED="true" ID="ID_1255360278" MODIFIED="1362279855123" TEXT="e">
+<node CREATED="1360565590374" ID="ID_1162034621" MODIFIED="1360565590374" TEXT="20130211_155306"/>
+</node>
+</node>
+<node CREATED="1352349012608" ID="ID_15312190" MODIFIED="1388887974507" TEXT="D-12">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1360565758022" ID="ID_341569224" MODIFIED="1388887979245" TEXT="DBAdmin">
+<node CREATED="1360565763628" ID="ID_1803312747" MODIFIED="1388887979246" TEXT="Add">
+<node CREATED="1360565765313" ID="ID_1812001206" MODIFIED="1360565768328" TEXT="BackupDB"/>
+<node CREATED="1360565768555" ID="ID_322106521" MODIFIED="1360565771987" TEXT="RestoreDB"/>
+</node>
+</node>
+<node CREATED="1360565801757" ID="ID_1653989094" MODIFIED="1360565828116" TEXT="B16_dbAdmin_backup-restore-db">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360565791438" ID="ID_1067058972" MODIFIED="1388887979248" TEXT="s">
+<node CREATED="1360565799895" ID="ID_1729825730" MODIFIED="1360565799895" TEXT="20130211_155636"/>
+<node CREATED="1360565831302" ID="ID_193187123" MODIFIED="1388887979250" TEXT="v-1.0">
+<icon BUILTIN="folder"/>
+<node CREATED="1360565845379" ID="ID_1656759075" MODIFIED="1388887979251" TEXT="01">
+<node CREATED="1360565849224" ID="ID_1412388290" MODIFIED="1388887979252" TEXT="Rename">
+<node CREATED="1360565850963" ID="ID_634407955" MODIFIED="1360566273871" TEXT="DBAdminActv =&gt; DBActv">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1360566261061" ID="ID_1493805614" MODIFIED="1360566268374" TEXT="db_manager.xml =&gt; actv_db.xml"/>
+</node>
+</node>
+<node CREATED="1360565883149" ID="ID_1161301834" MODIFIED="1388887979254" TEXT="02">
+<node CREATED="1360565885418" ID="ID_877460709" MODIFIED="1388887979256" TEXT="Edit the list">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1360565899010" ID="ID_291117088" MODIFIED="1388887979257" TEXT="Delete">
+<node CREATED="1360565901491" ID="ID_723636352" MODIFIED="1360565904835" TEXT="Existing ones"/>
+</node>
+<node CREATED="1360565896542" ID="ID_1120345351" MODIFIED="1388887979259" TEXT="Add">
+<node CREATED="1360565765313" ID="ID_1609599709" MODIFIED="1360565768328" TEXT="BackupDB"/>
+<node CREATED="1360565768555" ID="ID_729513973" MODIFIED="1360565771987" TEXT="RestoreDB"/>
+</node>
+</node>
+<node CREATED="1360566371317" ID="ID_1859732372" MODIFIED="1388887979261" TEXT="Redesign">
+<node CREATED="1360566377863" ID="ID_797812882" MODIFIED="1388887979262" TEXT="DBActv">
+<node CREATED="1360566381180" ID="ID_1136425852" MODIFIED="1360566387423" TEXT="=&gt; Let&apos;s use dialog"/>
+<node CREATED="1360571826700" ID="ID_228036615" MODIFIED="1360571838286" TEXT="=&gt; This time, &quot;Backup DB&quot;"/>
+</node>
+<node CREATED="1360566394315" ID="ID_561409591" MODIFIED="1388887979264" TEXT="s">
+<node CREATED="1360566401538" ID="ID_335872163" MODIFIED="1360566401538" TEXT="20130211_160638"/>
+<node CREATED="1360566408240" ID="ID_1566423484" MODIFIED="1388887979265" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1360566676368" ID="ID_649702720" MODIFIED="1388887979267" TEXT="CODES">
+<node CREATED="1360566415578" ID="ID_1437966171" MODIFIED="1388887979268" TEXT="Copye/paste from IFM9">
+<icon BUILTIN="idea"/>
+<node CREATED="1360566485917" ID="ID_17968048" MODIFIED="1388887979271" TEXT="IFM9">
+<node CREATED="1360566888417" ID="ID_723711409" MODIFIED="1388887979272" TEXT="java">
+<node CREATED="1360566494277" ID="ID_1876139711" MODIFIED="1388887979274" TEXT="Methods_dlg">
+<node CREATED="1360566489012" ID="ID_826626642" MODIFIED="1360566579351" TEXT="dlg_db_activity(Activity actv)">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1360566572195" ID="ID_752711711" MODIFIED="1360566670691" TEXT="dlg_template_cancel()">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1360566897820" ID="ID_523660066" MODIFIED="1360567619397" TEXT="Tags.java">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1360566410183" ID="ID_1128547455" MODIFIED="1388887979275" TEXT="Layout file">
+<node CREATED="1360566662858" ID="ID_1326055844" MODIFIED="1360566742975" TEXT="dlg_db_admin.xml">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1360566725163" ID="ID_804092532" MODIFIED="1388887979276" TEXT="values">
+<node CREATED="1360566728118" ID="ID_1930769685" MODIFIED="1388887979278" TEXT="strings.xml">
+<icon BUILTIN="idea"/>
+<node CREATED="1360566736291" ID="ID_1290137743" MODIFIED="1360566736291" TEXT="generic_bt_cancel"/>
+<node CREATED="1360566817878" ID="ID_1469139884" MODIFIED="1360566818475" TEXT="dlg_db_admin_title"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360567871972" ID="ID_498567871" MODIFIED="1388887979281" TEXT="Edit">
+<node CREATED="1360567874450" ID="ID_213224265" MODIFIED="1388887979282" TEXT="Methods_dlg">
+<node CREATED="1360568802999" ID="ID_1177456964" MODIFIED="1388887979283" TEXT="dlg_db_activity()">
+<arrowlink DESTINATION="ID_659478888" ENDARROW="Default" ENDINCLINATION="49;0;" ID="Arrow_ID_8368020" STARTARROW="None" STARTINCLINATION="49;0;"/>
+<node CREATED="1360568822573" ID="ID_1061459003" MODIFIED="1360568828288" TEXT="DialogItemTags =&gt; DialogTags"/>
+</node>
+</node>
+<node CREATED="1360568901704" ID="ID_659478888" MODIFIED="1388887979285" TEXT="DialogOnItemClickListener">
+<icon BUILTIN="idea"/>
+<node CREATED="1360569808384" ID="ID_1472981315" MODIFIED="1360569823598" TEXT="onItemClick()">
+<arrowlink DESTINATION="ID_777509006" ENDARROW="Default" ENDINCLINATION="103;0;" ID="Arrow_ID_1677900141" STARTARROW="None" STARTINCLINATION="103;0;"/>
+</node>
+<node CREATED="1360569821636" ID="ID_777509006" MODIFIED="1360571805346" TEXT="dlg_db_admin_lv(String choice)">
+<arrowlink DESTINATION="ID_1911296741" ENDARROW="Default" ENDINCLINATION="23;0;" ID="Arrow_ID_204858602" STARTARROW="None" STARTINCLINATION="23;0;"/>
+</node>
+<node CREATED="1360571801612" ID="ID_1911296741" MODIFIED="1360571805345" TEXT="dlg_db_admin_lv_backupDb()"/>
+</node>
+<node CREATED="1360570434606" ID="ID_737763479" MODIFIED="1388887979286" TEXT="Methods">
+<icon BUILTIN="idea"/>
+<node CREATED="1360570438347" ID="ID_826735763" MODIFIED="1388887979286" TEXT="NEW">
+<node CREATED="1360570440276" ID="ID_1415944637" MODIFIED="1360570975899" TEXT="backupDb()">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1360569409383" ID="ID_373580548" MODIFIED="1388887979288" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1360569412023" ID="ID_1643210754" MODIFIED="1388887979289" TEXT="&quot;Cancel&quot;">
+<node CREATED="1360569417944" ID="ID_241718013" MODIFIED="1360569425781" TEXT="=&gt; Dialog doesn&apos;t close"/>
+</node>
+<node CREATED="1360569535477" ID="ID_357528099" MODIFIED="1388887979290" TEXT="SOLVED">
+<node CREATED="1360569537287" ID="ID_1834967564" MODIFIED="1388887979291" TEXT="DialogButtonOnClickListener">
+<node CREATED="1360569538337" ID="ID_348653407" MODIFIED="1388887979292" TEXT="Added">
+<node CREATED="1360569547785" ID="ID_660359484" MODIFIED="1360569555288" TEXT="=&gt; case dlg_generic_dismiss"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360571881480" ID="ID_1373865533" MODIFIED="1388887979293" TEXT="v-2.0">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1360571889345" ID="ID_1903238751" MODIFIED="1360571904049" TEXT="&quot;Restore DB&quot;">
+<icon BUILTIN="stop-sign"/>
+</node>
+</node>
+</node>
+<node CREATED="1360571969196" ID="ID_1190609804" MODIFIED="1388887979294" TEXT="e">
+<node CREATED="1360571977498" ID="ID_1369728058" MODIFIED="1360571977498" TEXT="20130211_173934"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_410512895" MODIFIED="1360798934005" TEXT="D-13">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1360572027618" FOLDED="true" ID="ID_1460381867" MODIFIED="1362279855125" TEXT="Edit db file">
+<node CREATED="1360572035078" FOLDED="true" ID="ID_252400579" MODIFIED="1362279855125" TEXT="Refactor each datum">
+<node CREATED="1360572052486" ID="ID_1107158705" MODIFIED="1360572062880" TEXT="=&gt; Each data to appropriate column"/>
+</node>
+</node>
+<node CREATED="1360711786923" ID="ID_583238173" MODIFIED="1360711901512" TEXT="B17_refactor_data">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360711903414" FOLDED="true" ID="ID_292917262" MODIFIED="1362279855127" TEXT="s">
+<node CREATED="1360711919835" ID="ID_1472512142" MODIFIED="1360711919835" TEXT="20130213_083149"/>
+<node CREATED="1360711933482" FOLDED="true" ID="ID_1240660154" MODIFIED="1362279855126" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360712101042" FOLDED="true" ID="ID_448378533" MODIFIED="1362279855126" TEXT="01">
+<node CREATED="1360712102295" ID="ID_1095676698" MODIFIED="1360712114185" TEXT="Browse the existing db file"/>
+<node CREATED="1360712384922" FOLDED="true" ID="ID_731588608" MODIFIED="1362279855125" TEXT="FOUND">
+<node CREATED="1360712475033" ID="ID_183946551" MODIFIED="1360712475033" TEXT="&#x5728; &#x201c;&#x4ef7;&#x683c;&#x201d; &#x680f;&#x91cc;&#xff0c; &#x6709;&#x4e9b;&#x9879;&#x76ee;&#x6709; &#x201c;yomi&#x201d; &#x7684;&#x6570;&#x636e;"/>
+</node>
+<node CREATED="1360712574816" FOLDED="true" ID="ID_1745026046" MODIFIED="1362279855126" TEXT="&#x6539;&#x53d8;">
+<node CREATED="1360712662098" ID="ID_1159154839" MODIFIED="1360712662098" TEXT="&#x5728; &#x201c;&#x6570;&#x636e;&#x7ba1;&#x7406;&#x5bf9;&#x8bdd;&#x201d; =&#x300b; &#x201c;Set new column&#x201d; &#xff0d;&#xff0d;&#x300b; &#x201c;Refactor DB&#x201d;"/>
+<node CREATED="1360712933584" FOLDED="true" ID="ID_1797912654" MODIFIED="1362279855125" TEXT="CODES">
+<node CREATED="1360712944735" FOLDED="true" ID="ID_652325963" MODIFIED="1362279855125" TEXT="Methods_dlg">
+<node CREATED="1360712936335" ID="ID_395397385" MODIFIED="1360712938290" TEXT="dlg_db_activity()"/>
+</node>
+<node CREATED="1360712965271" FOLDED="true" ID="ID_593949710" MODIFIED="1362279855125" TEXT="DialogOnItemClickListener">
+<node CREATED="1360712988818" ID="ID_325933139" MODIFIED="1360712990853" TEXT="dlg_db_admin_lv()"/>
+<node CREATED="1360713103323" ID="ID_1865073351" MODIFIED="1360714192958" TEXT="dlg_db_admin_lv_refactorDb()">
+<arrowlink DESTINATION="ID_395816871" ENDARROW="Default" ENDINCLINATION="156;0;" ID="Arrow_ID_1313197447" STARTARROW="None" STARTINCLINATION="156;0;"/>
+</node>
+</node>
+<node CREATED="1360714184735" FOLDED="true" ID="ID_160573639" MODIFIED="1362279855125" TEXT="Methods_sl">
+<node CREATED="1360714189141" ID="ID_395816871" MODIFIED="1360714192958" TEXT="refactorData(actv)"/>
+</node>
+</node>
+<node CREATED="1360713593861" FOLDED="true" ID="ID_1711230374" MODIFIED="1362279855126" TEXT="?">
+<icon BUILTIN="idea"/>
+<node CREATED="1360713595354" FOLDED="true" ID="ID_1811994725" MODIFIED="1362279855125" TEXT="rawQuery()">
+<node CREATED="1360713607430" ID="ID_1114848912" MODIFIED="1360713625541" TEXT="=&gt; What&apos;s the return value?"/>
+</node>
+</node>
+<node CREATED="1360715708278" FOLDED="true" ID="ID_797464857" MODIFIED="1362279855126" TEXT="DO">
+<node CREATED="1360715711365" ID="ID_162356053" MODIFIED="1360715940976" TEXT="&#x8981;&#x662f;&#x6570;&#x636e;&#x65e2;&#x4e0d;&#x662f;&#x6570;&#x5b57;&#x4e5f;&#x4e0d;&#x662f; null&#xff0c; &#x5c31;&#x628a;&#x5b83;&#x642c;&#x5230; &#x201c;yomi&quot; &#x680f; (&#x5220;&#x9664; &#x201c;price&#x201d; &#x680f;&#x5185;&#x7684;&#x6570;&#x636e;&#xff09;"/>
+<node CREATED="1360719044737" FOLDED="true" ID="ID_286769685" MODIFIED="1362279855126" TEXT="01">
+<node CREATED="1360719046858" FOLDED="true" ID="ID_1691324975" MODIFIED="1362279855126" TEXT="DBUtils">
+<node CREATED="1360719049287" FOLDED="true" ID="ID_1598046356" MODIFIED="1362279855126" TEXT="updateData_table_name()">
+<node CREATED="1360719051706" ID="ID_77770895" MODIFIED="1360719061363" TEXT="=&gt; Edit into a generic one"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360721300903" FOLDED="true" ID="ID_587242464" MODIFIED="1362279855127" TEXT="v-1.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360721310253" FOLDED="true" ID="ID_181437006" MODIFIED="1362279855127" TEXT="01">
+<node CREATED="1360712574816" FOLDED="true" ID="ID_1631878475" MODIFIED="1362279855126" TEXT="&#x6539;&#x53d8;">
+<node CREATED="1360721281493" FOLDED="true" ID="ID_1027108025" MODIFIED="1362279855126" TEXT="DO">
+<node CREATED="1360721283366" ID="ID_1046374486" MODIFIED="1360721283989" TEXT="&#x201c;genre&#x201d; &#x680f;&#x5185;&#x7684;&#x6570;&#x5b57;&#x6570;&#x636e; =&#x300b; &#x5c06;&#x5b83;&#x79fb;&#x52a8;&#x5230; &#x201c;price&#x201d; &#x680f;&#x5185;"/>
+<node CREATED="1360721285760" FOLDED="true" ID="ID_1430690144" MODIFIED="1362279855126" TEXT="01">
+<node CREATED="1360722213784" FOLDED="true" ID="ID_393968423" MODIFIED="1362279855126" TEXT="CODES">
+<node CREATED="1360722344240" FOLDED="true" ID="ID_1069212761" MODIFIED="1362279855126" TEXT="DialogOnItemClickListener">
+<node CREATED="1360722336303" ID="ID_651764551" MODIFIED="1360722364761" TEXT="dlg_db_admin_lv_refactorDb()">
+<arrowlink DESTINATION="ID_502929000" ENDARROW="Default" ENDINCLINATION="110;0;" ID="Arrow_ID_394722087" STARTARROW="None" STARTINCLINATION="110;0;"/>
+</node>
+</node>
+<node CREATED="1360722216020" FOLDED="true" ID="ID_1951728255" MODIFIED="1362279855126" TEXT="Methods_sl">
+<node CREATED="1360722220701" ID="ID_502929000" MODIFIED="1360722364760" TEXT="refactorDb_colGenre(actv)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360723506978" FOLDED="true" ID="ID_490856715" MODIFIED="1362279855127" TEXT="v-1.2">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360723510272" FOLDED="true" ID="ID_70139765" MODIFIED="1362279855127" TEXT="01">
+<node CREATED="1360712574816" FOLDED="true" ID="ID_964187561" MODIFIED="1362279855127" TEXT="&#x6539;&#x53d8;">
+<node CREATED="1360723515066" ID="ID_506077412" MODIFIED="1360723648349" TEXT="&#x5728;&#x6240;&#x6709; &#x201c;&#x30ad;&#x30e3;&#x30f3;&#x30fb;&#x30c9;&#x30a6;&#x201d; &#x9879;&#x76ee;&#x5185;&#xff0c; &#x5982;&#x679c;&#x8be5;&#x9879;&#x76ee;&#x6ca1;&#x6709; &#x201c;price&#x201d; &#x6570;&#x636e;&#xff0c; &#x63d2;&#x5165; &#x201c;100&#x201d; &#x7684;&#x4ef7;&#x683c;&#x6570;&#x636e;"/>
+<node CREATED="1360723692343" FOLDED="true" ID="ID_1399914446" MODIFIED="1362279855127" TEXT="DO">
+<node CREATED="1360723694031" FOLDED="true" ID="ID_226457474" MODIFIED="1362279855127" TEXT="01">
+<node CREATED="1360723699015" FOLDED="true" ID="ID_1551948515" MODIFIED="1362279855127" TEXT="CODES">
+<node CREATED="1360723814616" FOLDED="true" ID="ID_1063399278" MODIFIED="1362279855127" TEXT="Methods_sl">
+<node CREATED="1360723819708" ID="ID_1470593083" MODIFIED="1360723922979" TEXT="refactorDb_colPrice_CanDo(actv)">
+<arrowlink DESTINATION="ID_1552158091" ENDARROW="Default" ENDINCLINATION="25;0;" ID="Arrow_ID_1026731515" STARTARROW="None" STARTINCLINATION="25;0;"/>
+</node>
+<node CREATED="1360723911035" ID="ID_1552158091" MODIFIED="1360723922979" TEXT="refactorData_colPrice_CanDo()"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360728343664" FOLDED="true" ID="ID_728575816" MODIFIED="1362279855127" TEXT="e">
+<node CREATED="1360728352673" ID="ID_1535085174" MODIFIED="1360728352673" TEXT="20130213_130549"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1320638787" MODIFIED="1363305366786" TEXT="D-14">
+<node CREATED="1360727477176" ID="ID_1568577541" MODIFIED="1360727486312" TEXT="Get &quot;yomi&quot; data by Yahoo API"/>
+<node CREATED="1360728361953" ID="ID_956121415" MODIFIED="1360728408837" TEXT="B18_get_yomi_from_yahoo_api">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360728356684" FOLDED="true" ID="ID_449355674" MODIFIED="1363305366785" TEXT="s">
+<node CREATED="1360728357826" ID="ID_639758086" MODIFIED="1360728357826" TEXT="20130213_130549"/>
+<node CREATED="1360735192145" FOLDED="true" ID="ID_1222979808" MODIFIED="1361599083653" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1360728410725" FOLDED="true" ID="ID_716449212" MODIFIED="1361599083651" TEXT="01">
+<node CREATED="1360728415046" ID="ID_848326967" MODIFIED="1360728428084" TEXT="See &quot;JSONObject&quot;-related codes in the previous projects"/>
+<node CREATED="1360728525917" FOLDED="true" ID="ID_1474125907" MODIFIED="1361599083651" TEXT="CODES">
+<node CREATED="1360728563127" FOLDED="true" ID="ID_961994868" MODIFIED="1361599083650" TEXT="strings.xml">
+<node CREATED="1360728571864" ID="ID_907953606" MODIFIED="1360728571864" TEXT="Get Yomi data"/>
+</node>
+<node CREATED="1360728664334" FOLDED="true" ID="ID_152850341" MODIFIED="1361599083650" TEXT="DialogOnItemClickListener">
+<node CREATED="1360728659163" ID="ID_574139271" MODIFIED="1360728679670" TEXT="dlg_db_admin_lv()"/>
+<node CREATED="1360728675714" ID="ID_791378293" MODIFIED="1360728677531" TEXT="dlg_db_admin_lv_GetYomi()"/>
+</node>
+<node CREATED="1360728965683" FOLDED="true" ID="ID_1713023196" MODIFIED="1361599083650" TEXT="Methods_sl">
+<node CREATED="1360728970056" ID="ID_1558792411" MODIFIED="1360728970056" TEXT="getYomi(actv, dlg)"/>
+</node>
+</node>
+</node>
+<node CREATED="1360734483011" FOLDED="true" ID="ID_1127929829" MODIFIED="1361599083651" TEXT="01-02">
+<icon BUILTIN="idea"/>
+<node CREATED="1360734500816" FOLDED="true" ID="ID_1656797177" MODIFIED="1361599083651" TEXT="getYomi(actv, dlg)">
+<node CREATED="1360734505367" ID="ID_72224572" MODIFIED="1360734513777" TEXT="=&gt; Move to a task class"/>
+</node>
+</node>
+<node CREATED="1360729040663" FOLDED="true" ID="ID_1326620549" MODIFIED="1361599083652" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1360729043234" ID="ID_67358084" MODIFIED="1360729049548" TEXT="Setup Yahoo API"/>
+</node>
+<node CREATED="1360731865682" FOLDED="true" ID="ID_1787459192" MODIFIED="1361599083653" TEXT="03">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1360731867727" FOLDED="true" ID="ID_1971553775" MODIFIED="1361599083653" TEXT="Refactor">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1360731870011" FOLDED="true" ID="ID_930021840" MODIFIED="1361599083652" TEXT="strings.xml">
+<node CREATED="1360731888988" FOLDED="true" ID="ID_125101555" MODIFIED="1361599083652" TEXT="dlg_db_admin.xml">
+<node CREATED="1360731890786" ID="ID_1068502715" MODIFIED="1360731907407" TEXT="Strings =&gt; Convert to: String array"/>
+</node>
+</node>
+<node CREATED="1360734393616" FOLDED="true" ID="ID_1658794562" MODIFIED="1361599083652" TEXT="DROP">
+<node CREATED="1360734436815" ID="ID_208508970" MODIFIED="1360734456569" TEXT="We need each string in other sections of the project"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360735201875" FOLDED="true" ID="ID_223405135" MODIFIED="1361599083660" TEXT="v-1.3">
+<icon BUILTIN="idea"/>
+<node CREATED="1360735205049" ID="ID_1375536081" MODIFIED="1360735223453" TEXT="Get data from &quot;Word&quot; tag in the response"/>
+<node CREATED="1360736829817" FOLDED="true" ID="ID_621656823" MODIFIED="1361599083654" TEXT="01">
+<node CREATED="1360736831398" FOLDED="true" ID="ID_156142543" MODIFIED="1361599083654" TEXT="ERROR">
+<node CREATED="1360736834173" ID="ID_464499182" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\error_20130213_152630.log" MODIFIED="1360736837344" TEXT="log"/>
+<node CREATED="1360736840369" FOLDED="true" ID="ID_699954595" MODIFIED="1361599083653" TEXT="TRY">
+<node CREATED="1360736842484" ID="ID_735464612" LINK="http://stackoverflow.com/questions/10908664/xml-to-json-in-android" MODIFIED="1360736878836" TEXT="rc"/>
+<node CREATED="1360736879390" ID="ID_1130185294" LINK="http://stackoverflow.com/questions/1823264/quickest-way-to-convert-xml-to-json-in-java" MODIFIED="1360736885875" TEXT="rc"/>
+</node>
+</node>
+</node>
+<node CREATED="1360737453023" FOLDED="true" ID="ID_905278639" MODIFIED="1361599083654" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1360737454630" ID="ID_722756271" MODIFIED="1360737458862" TEXT="&quot;XML.java&quot;"/>
+</node>
+<node CREATED="1360739253651" FOLDED="true" ID="ID_1418609855" MODIFIED="1361599083658" TEXT="03">
+<node CREATED="1360739301296" FOLDED="true" ID="ID_894694038" MODIFIED="1360798960847" TEXT="JSON-lib">
+<node CREATED="1360739303688" ID="ID_252767089" LINK="http://d.hatena.ne.jp/Naotsugu/20090803/1249316901" MODIFIED="1360739687709" TEXT="Blog"/>
+<node CREATED="1360739525825" ID="ID_1867562803" LINK="http://commons.apache.org/beanutils/download_beanutils.cgi" MODIFIED="1360739537743" TEXT="BeanUtils"/>
+<node CREATED="1360739662629" ID="ID_851535200" LINK="http://commons.apache.org/collections/download_collections.cgi" MODIFIED="1360739672270" TEXT="commons-collections"/>
+<node CREATED="1360739851631" ID="ID_1702838432" LINK="http://commons.apache.org/logging/download_logging.cgi" MODIFIED="1360739862981" TEXT="logging"/>
+<node CREATED="1360739836879" ID="ID_1788114871" LINK="http://www.xom.nu/" MODIFIED="1360739840428" TEXT="xom"/>
+<node COLOR="#ff3333" CREATED="1360740232686" FOLDED="true" ID="ID_444314820" MODIFIED="1361599083658" TEXT="ERROR">
+<node CREATED="1360740309879" ID="ID_1200098603" MODIFIED="1360740319822" TEXT="v-1.1-e1"/>
+<node CREATED="1360740285892" FOLDED="true" ID="ID_27492608" MODIFIED="1361599083658" TEXT="TRY">
+<node CREATED="1360740428791" ID="ID_134432961" MODIFIED="1360740433982" TEXT="v-1.1-e1-d1"/>
+<node CREATED="1360740288063" FOLDED="true" ID="ID_843252186" MODIFIED="1361599083654" TEXT="Delete">
+<node CREATED="1360740289827" ID="ID_781619973" MODIFIED="1360740290602" TEXT="commons-collections-3.2.1.jar"/>
+</node>
+<node COLOR="#ff3333" CREATED="1360740636770" FOLDED="true" ID="ID_693564115" MODIFIED="1361599083658" TEXT="ERROR">
+<node CREATED="1360740639732" ID="ID_260578140" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\error_20130213_162958.log" MODIFIED="1360740644274" TEXT="log"/>
+<node CREATED="1360741006615" FOLDED="true" ID="ID_205553445" MODIFIED="1361599083657" TEXT="TRY">
+<node CREATED="1360740752435" FOLDED="true" ID="ID_454263687" MODIFIED="1361599083654" TEXT="Reinstall">
+<node CREATED="1360740757633" FOLDED="true" ID="ID_1612011314" MODIFIED="1361599083654" TEXT="xom-samples.jar">
+<node CREATED="1360740829879" ID="ID_527104398" MODIFIED="1360740835830" TEXT="=&gt; full version"/>
+</node>
+<node CREATED="1360740289827" ID="ID_1975635483" MODIFIED="1360740290602" TEXT="commons-collections-3.2.1.jar"/>
+</node>
+<node COLOR="#ff3333" CREATED="1360741012751" FOLDED="true" ID="ID_664338874" MODIFIED="1361599083657" TEXT="ERROR">
+<node CREATED="1360741016521" ID="ID_1345231505" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\errorr_20130213_163616.log" MODIFIED="1360741032025" TEXT="log"/>
+<node CREATED="1360741149779" FOLDED="true" ID="ID_625764514" MODIFIED="1361599083655" TEXT="TRY">
+<node CREATED="1360741151274" ID="ID_1536497771" MODIFIED="1360741163937" TEXT="Let&apos;s browse the list of xom.jar"/>
+</node>
+<node CREATED="1360741494147" FOLDED="true" ID="ID_797669071" MODIFIED="1361599083657" TEXT="TRY">
+<node CREATED="1360741577143" ID="ID_1076303324" LINK="http://stackoverflow.com/questions/6790214/could-not-find-a-suitable-sax2-parser-when-i-try-parsing-xml-with-xom-tutorial" MODIFIED="1360741586017" TEXT="QA"/>
+<node CREATED="1360741497530" FOLDED="true" ID="ID_1570866170" MODIFIED="1361599083655" TEXT="Install">
+<node CREATED="1360741501991" ID="ID_585455847" LINK="http://www.java2s.com/Code/Jar/x/DownloadxercesImpljar.htm" MODIFIED="1360741510632" TEXT="xercesimple.jar"/>
+</node>
+<node COLOR="#ff3333" CREATED="1360741743479" FOLDED="true" ID="ID_639393089" MODIFIED="1361599083657" TEXT="ERROR">
+<node CREATED="1360741746977" FOLDED="true" ID="ID_1801427898" MODIFIED="1361599083655" TEXT="Missing">
+<node CREATED="1360741749316" ID="ID_540379441" MODIFIED="1360741750887" TEXT="=&gt; org.apache.commons.collections.map.ListOrderedMap"/>
+</node>
+<node CREATED="1360741753222" ID="ID_213778315" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\error_20130213_164808.log" MODIFIED="1360741769984" TEXT="log"/>
+<node CREATED="1360741829548" ID="ID_62236950" MODIFIED="1360741848855" TEXT="v-1.1-e4"/>
+<node CREATED="1360741903987" FOLDED="true" ID="ID_925345999" MODIFIED="1361599083657" TEXT="TRY">
+<node CREATED="1360741906785" ID="ID_10921729" MODIFIED="1360741913998" TEXT="Checkout back the jar"/>
+<node COLOR="#ff3333" CREATED="1360742136612" FOLDED="true" ID="ID_1269404888" MODIFIED="1361599083657" TEXT="ERROR">
+<node CREATED="1360743712747" FOLDED="true" ID="ID_1396581664" MODIFIED="1361599083655" TEXT="v-1.1-e5">
+<node CREATED="1360742138978" FOLDED="true" ID="ID_566791177" MODIFIED="1361599083655" TEXT="same errro as">
+<node CREATED="1360740309879" FOLDED="true" ID="ID_269060323" MODIFIED="1361599083655" TEXT="v-1.1-e1">
+<node CREATED="1360740295058" ID="ID_580095843" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\error_20130213_162421.log" MODIFIED="1360740352795" TEXT="log"/>
+</node>
+</node>
+</node>
+<node CREATED="1360742185080" FOLDED="true" ID="ID_1119712086" MODIFIED="1361599083655" TEXT="TRY">
+<node CREATED="1360742186762" ID="ID_889648121" MODIFIED="1360742192716" TEXT="Clean the project"/>
+<node CREATED="1360742325189" FOLDED="true" ID="ID_6697358" LINK="http://stackoverflow.com/questions/7870265/unable-to-execute-dex-multiple-dex-files-define-lcom-myapp-rarray" MODIFIED="1361599083655" TEXT="QA &quot;answered Oct 25 &apos;11 at 5:04&quot;">
+<node CREATED="1360742339566" ID="ID_856325870" MODIFIED="1360742345198" TEXT="Delete the bin dir"/>
+<node CREATED="1360742345877" ID="ID_217516748" MODIFIED="1360742349422" TEXT="Restart Eclipse"/>
+</node>
+<node COLOR="#ff3333" CREATED="1360743592063" ID="ID_563904696" MODIFIED="1360744875635" TEXT="N/C"/>
+<node CREATED="1360743723581" ID="ID_52042118" MODIFIED="1360743729214" TEXT="v-1.1-e5-d1"/>
+</node>
+<node CREATED="1360743730579" FOLDED="true" ID="ID_1730386523" MODIFIED="1361599083655" TEXT="TRY">
+<node CREATED="1360743723581" FOLDED="true" ID="ID_483129751" MODIFIED="1361599083655" TEXT="v-1.1-e5-d2">
+<node CREATED="1360744054204" ID="ID_651227261" LINK="http://stackoverflow.com/questions/7870265/unable-to-execute-dex-multiple-dex-files-define-lcom-myapp-rarray" MODIFIED="1360744062888" TEXT="QA: answered Apr 21 &apos;12 at 6:46"/>
+</node>
+<node COLOR="#ff3333" CREATED="1360743592063" ID="ID_770198773" MODIFIED="1360744875636" TEXT="N/C"/>
+</node>
+<node CREATED="1360744883628" FOLDED="true" ID="ID_1709152245" MODIFIED="1361599083656" TEXT="TRY">
+<node CREATED="1360744915331" FOLDED="true" ID="ID_356730772" MODIFIED="1361599083656" TEXT="v-1.1-e5-d3">
+<node CREATED="1360744925403" ID="ID_343996635" LINK="http://stackoverflow.com/questions/7870265/unable-to-execute-dex-multiple-dex-files-define-lcom-myapp-rarray" MODIFIED="1360744930753" TEXT="answered May 16 &apos;12 at 15:43"/>
+<node CREATED="1360745007906" ID="ID_1847484952" MODIFIED="1360745015082" TEXT="Delete both &quot;gen&quot; and &quot;bin&quot; dirs"/>
+</node>
+<node COLOR="#ff3333" CREATED="1360743592063" ID="ID_532644670" MODIFIED="1360744875636" TEXT="N/C"/>
+</node>
+<node CREATED="1360745191584" FOLDED="true" ID="ID_1854716664" MODIFIED="1361599083657" TEXT="TRY">
+<node CREATED="1360745396354" ID="ID_768828179" LINK="http://stackoverflow.com/questions/10908664/xml-to-json-in-android" MODIFIED="1360745433515" TEXT="QA: answered Jun 6 &apos;12 at 6:01">
+<arrowlink DESTINATION="ID_106241470" ENDARROW="Default" ENDINCLINATION="146;0;" ID="Arrow_ID_98526163" STARTARROW="None" STARTINCLINATION="146;0;"/>
+</node>
+<node CREATED="1360745421859" ID="ID_106241470" LINK="http://answers.oreilly.com/topic/278-how-to-convert-xml-to-json-in-java/" MODIFIED="1360745433515" TEXT="Blog"/>
+<node CREATED="1360745618554" FOLDED="true" ID="ID_1902507166" MODIFIED="1361599083657" TEXT="TRY">
+<node CREATED="1360745620855" ID="ID_1552623326" MODIFIED="1360745629918" TEXT="Delete jars except: json-lib"/>
+<node CREATED="1360745740344" FOLDED="true" ID="ID_1293165535" MODIFIED="1361599083656" TEXT="FOUND">
+<node CREATED="1360745742310" ID="ID_1721471500" MODIFIED="1360745765580" TEXT="Could not find class &apos;net.sf.json.xml.XMLSerializer$XomSerializer&apos;, referenced from method net.sf.json.xml.XMLSerializer.writeDocument "/>
+</node>
+<node CREATED="1360746047824" FOLDED="true" ID="ID_1866947353" MODIFIED="1361599083656" TEXT="HALT">
+<node CREATED="1360746054375" ID="ID_1827549382" MODIFIED="1360746296460" TEXT="Let&apos;s re-try: https://github.com/douglascrockford/JSON-java.git">
+<arrowlink DESTINATION="ID_1206810933" ENDARROW="Default" ENDINCLINATION="372;0;" ID="Arrow_ID_953092219" STARTARROW="None" STARTINCLINATION="311;64;"/>
+</node>
+</node>
+<node CREATED="1360746274854" FOLDED="true" ID="ID_1206810933" MODIFIED="1361599083657" TEXT="TRY">
+<node CREATED="1360744915331" ID="ID_1479825430" MODIFIED="1360746284873" TEXT="v-1.1-e5-d4"/>
+<node CREATED="1360747332668" FOLDED="true" ID="ID_549765966" MODIFIED="1361599083657" TEXT="ERROR">
+<node CREATED="1360747336139" ID="ID_1667827041" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\error_20130213_182143.log" MODIFIED="1360747338356" TEXT="log"/>
+<node CREATED="1360747347403" ID="ID_1223710748" MODIFIED="1360747351082" TEXT="NullPointer"/>
+<node CREATED="1360747642983" FOLDED="true" ID="ID_376974993" MODIFIED="1361599083657" TEXT="WORKAROUND">
+<node CREATED="1360747646444" ID="ID_1336748156" MODIFIED="1360747653060" TEXT="Let&apos;s use xml parser"/>
+<node CREATED="1360753064992" FOLDED="true" ID="ID_1366617794" MODIFIED="1361599083656" TEXT="01">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1360752337706" FOLDED="true" ID="ID_756065485" MODIFIED="1361599083656" TEXT="CODES">
+<node CREATED="1360752342059" FOLDED="true" ID="ID_354900314" MODIFIED="1361599083656" TEXT="Methods_sl">
+<node CREATED="1360752347085" ID="ID_1980027016" MODIFIED="1360752347085" TEXT="getYomi_xml(actv, dlg)"/>
+</node>
+</node>
+</node>
+<node CREATED="1360753066270" FOLDED="true" ID="ID_1151452247" MODIFIED="1361599083656" TEXT="02">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360764553658" ID="ID_769184688" MODIFIED="1360766019380" TEXT="v-1.2a">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360753068822" FOLDED="true" ID="ID_214673134" MODIFIED="1361599083656" TEXT="Let&apos;s see">
+<node CREATED="1360753099128" ID="ID_821490370" MODIFIED="1360753101092" TEXT="=&gt; EntityUtils.toString(entity)"/>
+</node>
+</node>
+<node CREATED="1360766062705" FOLDED="true" ID="ID_1944732605" MODIFIED="1361599083656" TEXT="03">
+<node CREATED="1360766066051" ID="ID_1191715265" MODIFIED="1360766070989" TEXT="v-1.2b">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360766076130" ID="ID_1196063996" MODIFIED="1360766103806" TEXT="Let&apos;s get &quot;&#x67ff;&#x30d4;&#x30fc;&quot;, instead of &quot;&#x30d4;&#x30fc;&quot;, etc."/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360741829548" ID="ID_636287494" MODIFIED="1360741844163" TEXT="v-1.1-e3"/>
+</node>
+</node>
+<node CREATED="1360741829548" ID="ID_84606104" MODIFIED="1360741834825" TEXT="v-1.1-e2"/>
+</node>
+</node>
+<node CREATED="1360740295058" ID="ID_1144818902" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\error_20130213_162421.log" MODIFIED="1360740352795" TEXT="log"/>
+</node>
+</node>
+</node>
+<node CREATED="1360798996400" FOLDED="true" ID="ID_958416334" MODIFIED="1360810285896" TEXT="s">
+<node CREATED="1360799005601" ID="ID_1483026876" MODIFIED="1360799005601" TEXT="20130214_084321"/>
+<node CREATED="1360798895810" FOLDED="true" ID="ID_1837836531" MODIFIED="1361599083658" TEXT="04">
+<node CREATED="1360798898414" FOLDED="true" ID="ID_1550261858" MODIFIED="1361599083658" TEXT="EXPERI">
+<node CREATED="1360798906327" FOLDED="true" ID="ID_211472088" MODIFIED="1361599083658" TEXT="&quot;DocumentBuilder&quot;">
+<node CREATED="1360798913420" ID="ID_593090289" LINK="http://www.fireproject.jp/feature/xml/programing/java-dom.html" MODIFIED="1360798920374" TEXT="BLog"/>
+</node>
+</node>
+</node>
+<node CREATED="1360803297178" FOLDED="true" ID="ID_458831112" MODIFIED="1361599083659" TEXT="v-1.3a">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360801170541" FOLDED="true" ID="ID_1310617598" MODIFIED="1361599083659" TEXT="01">
+<node CREATED="1360801233236" ID="ID_1665188288" MODIFIED="1360803305115" TEXT="Let&apos;s complete getting yomi from remote api, using XMLPullParser">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360801352051" FOLDED="true" ID="ID_1446431836" MODIFIED="1361599083658" TEXT="CODES">
+<node CREATED="1360801353852" FOLDED="true" ID="ID_1001190112" MODIFIED="1361599083658" TEXT="Methods_sl">
+<node CREATED="1360801358826" ID="ID_576314714" MODIFIED="1360802533312" TEXT="getYomi_B18_v_1_3(actv, dlg)">
+<arrowlink DESTINATION="ID_1309679528" ENDARROW="Default" ENDINCLINATION="74;0;" ID="Arrow_ID_1852720401" STARTARROW="None" STARTINCLINATION="74;0;"/>
+<arrowlink DESTINATION="ID_1155163487" ENDARROW="Default" ENDINCLINATION="76;0;" ID="Arrow_ID_1292058393" STARTARROW="None" STARTINCLINATION="76;0;"/>
+<arrowlink DESTINATION="ID_462234845" ENDARROW="Default" ENDINCLINATION="143;0;" ID="Arrow_ID_196328370" STARTARROW="None" STARTINCLINATION="143;0;"/>
+</node>
+<node CREATED="1360801517260" ID="ID_1155163487" MODIFIED="1360801520373" TEXT="getYomi_B18_v_1_3__1_getHttpEntity(sen)"/>
+<node CREATED="1360802187975" ID="ID_1309679528" MODIFIED="1360802195490" TEXT="getYomi_B18_v_1_3__2_getXmlParser()"/>
+<node CREATED="1360802527502" ID="ID_462234845" MODIFIED="1360802533312" TEXT="getYomi_B18_v_1_3__3_getFurigana(xmlPullParser)"/>
+</node>
+</node>
+<node CREATED="1360802875837" FOLDED="true" ID="ID_1093999296" MODIFIED="1361599083659" TEXT="STRATEGY">
+<node CREATED="1360802880653" ID="ID_1816429585" MODIFIED="1360802906035" TEXT="If found a first &quot;Furigana&quot; tagged element, then exit the process">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360803370024" FOLDED="true" ID="ID_50353198" MODIFIED="1361599083659" TEXT="v-1.3b">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360803373358" FOLDED="true" ID="ID_222365563" MODIFIED="1361599083659" TEXT="01">
+<node CREATED="1360803405608" ID="ID_1947039923" MODIFIED="1360804493493" TEXT="Overload: Methods_sl.Methods_sl.getYomi_B18_v_1_3__3_getFurigana()">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1360804493883" FOLDED="true" ID="ID_50586891" MODIFIED="1361599083659" TEXT="Overload: getYomi_B18_v_1_3__2_getXmlParser(HttpEntity entity)">
+<icon BUILTIN="idea"/>
+<node CREATED="1360804525228" ID="ID_403569658" MODIFIED="1360804530760" TEXT="=&gt; Add param: String"/>
+</node>
+</node>
+</node>
+<node CREATED="1360805604733" FOLDED="true" ID="ID_1507886606" MODIFIED="1361599083660" TEXT="v-1.4">
+<node CREATED="1360805613699" FOLDED="true" ID="ID_605214907" MODIFIED="1361599083659" TEXT="Let&apos;s make an official method(i.e. stored in Methods.java) to get a string array containing a target tag, a Surface value and a Furigana value">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1360808308670" ID="ID_1613473033" MODIFIED="1360808313206" TEXT=""/>
+</node>
+<node CREATED="1360807419075" FOLDED="true" ID="ID_1185824628" MODIFIED="1361599083659" TEXT="v-1.4a">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360805931875" FOLDED="true" ID="ID_1756065552" MODIFIED="1361599083659" TEXT="01">
+<node CREATED="1360806652430" FOLDED="true" ID="ID_1106206728" MODIFIED="1361599083659" TEXT="Change the name and copy to Methods.java">
+<node CREATED="1360806642954" FOLDED="true" ID="ID_1614667651" MODIFIED="1361599083659" TEXT="Methods_sl">
+<node CREATED="1360806651023" ID="ID_1604012330" MODIFIED="1360806677204" TEXT="convert_HttpEntity2XmlString(entity)">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1360806747127" ID="ID_1960756230" MODIFIED="1360807006137" TEXT="getYomi_B18_v_1_3__2_getXmlParser(xmlString)">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1360806988763" ID="ID_22531973" MODIFIED="1360807382174" TEXT="getYomi_B18_v_1_3__3_getFurigana( &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;xmlPullParser, &quot;Furigana&quot;)">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360807493077" FOLDED="true" ID="ID_243276544" MODIFIED="1361599083659" TEXT="v-1.4b">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360807496605" FOLDED="true" ID="ID_1383206399" MODIFIED="1361599083659" TEXT="Code cleanup">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1360808043222" ID="ID_1251056133" MODIFIED="1360808046709" TEXT="Methods_sl.java"/>
+<node CREATED="1360808047061" ID="ID_1423947136" MODIFIED="1360808050049" TEXT="Methods.java"/>
+</node>
+</node>
+<node CREATED="1360808078397" FOLDED="true" ID="ID_1191446799" MODIFIED="1361599083660" TEXT="v-1.4c">
+<arrowlink DESTINATION="ID_605214907" ENDARROW="Default" ENDINCLINATION="585;0;" ID="Arrow_ID_54865607" STARTARROW="None" STARTINCLINATION="585;0;"/>
+<node CREATED="1360808319987" FOLDED="true" ID="ID_1328474960" MODIFIED="1361599083660" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1360808321854" FOLDED="true" ID="ID_1271099252" MODIFIED="1361599083659" TEXT="Methods_sl">
+<node CREATED="1360808348811" ID="ID_570598359" MODIFIED="1360809664235" TEXT="getYomi_full(actv, dlg)">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+</node>
+<node CREATED="1360809668726" FOLDED="true" ID="ID_186862822" MODIFIED="1361599083660" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1360809670510" FOLDED="true" ID="ID_1557252660" MODIFIED="1361599083660" TEXT="Copy the method to Methods.java">
+<node CREATED="1360808348811" ID="ID_459880246" MODIFIED="1360810172626" TEXT="getYomi_full(actv, dlg)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360810274281" FOLDED="true" ID="ID_1931063486" MODIFIED="1363305366784" TEXT="v-2.0">
+<node CREATED="1360810292573" FOLDED="true" ID="ID_497406983" MODIFIED="1361087596475" TEXT="Let&apos;s insert Furigana data into db">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1360810317711" FOLDED="true" ID="ID_1023938607" MODIFIED="1361087596474" TEXT="r">
+<node CREATED="1360810328255" ID="ID_1554778416" MODIFIED="1360810328255" TEXT="20130214_115203"/>
+</node>
+</node>
+<node CREATED="1360814415154" FOLDED="true" ID="ID_1402295423" MODIFIED="1361087596477" TEXT="v-2.0a">
+<node CREATED="1360810333161" FOLDED="true" ID="ID_1487594728" MODIFIED="1361087596476" TEXT="01">
+<node CREATED="1360811233750" FOLDED="true" ID="ID_324492917" MODIFIED="1361087596475" TEXT="CODES">
+<node CREATED="1360811236903" FOLDED="true" ID="ID_1591459510" MODIFIED="1361087596475" TEXT="Task_GetYomi">
+<node CREATED="1360811268033" ID="ID_1479945773" MODIFIED="1360811430048" TEXT="doInBackground()">
+<arrowlink DESTINATION="ID_658456210" ENDARROW="Default" ENDINCLINATION="30;0;" ID="Arrow_ID_604349274" STARTARROW="None" STARTINCLINATION="30;0;"/>
+</node>
+<node CREATED="1360811426939" ID="ID_658456210" MODIFIED="1360811430048" TEXT="doInBackground__1()"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1360813506230" FOLDED="true" ID="ID_1705864095" MODIFIED="1361087596476" TEXT="PROBLEM">
+<arrowlink DESTINATION="ID_511716601" ENDARROW="Default" ENDINCLINATION="101;0;" ID="Arrow_ID_636668540" STARTARROW="None" STARTINCLINATION="101;0;"/>
+<node CREATED="1360813508929" FOLDED="true" ID="ID_1504173961" MODIFIED="1361087596475" TEXT="name=&#x76ee;&#x7389;&#x30af;&#x30ea;&#x30c3;&#x30d7;&#xff08;&#x5c0f;&#x5c0f;&#xff09;/yomi=null ">
+<node CREATED="1360813529228" ID="ID_803517764" MODIFIED="1360813551881" TEXT="=&gt; Furigana=&#x3081;&#x3060;&#x307e; Surface=&#x76ee;&#x7389; yomi=&#x3081;&#x3060;&#x307e; "/>
+</node>
+<node CREATED="1360813968046" FOLDED="true" ID="ID_496020183" MODIFIED="1361087596476" TEXT="See">
+<node CREATED="1360813970839" ID="ID_822365856" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\rec_20130214_125232.log" MODIFIED="1360813994158" TEXT="log"/>
+</node>
+<node CREATED="1360814165414" FOLDED="true" ID="ID_1680740103" MODIFIED="1361087596476" TEXT="FOUND">
+<node CREATED="1360814169561" ID="ID_1849611194" MODIFIED="1360814179856" TEXT="Multiple &quot;Word&quot; tags"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360814421633" FOLDED="true" ID="ID_1658980586" MODIFIED="1363305366782" TEXT="v-2.0b">
+<node CREATED="1360814391294" FOLDED="true" ID="ID_511716601" MODIFIED="1363305366782" TEXT="TRY">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1360814393183" FOLDED="true" ID="ID_1187603168" MODIFIED="1363305366781" TEXT="Let&apos;s edit =&gt;">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1360814400101" FOLDED="true" ID="ID_1794733176" MODIFIED="1363305366779" TEXT="Methods">
+<node CREATED="1360814405167" ID="ID_531319062" MODIFIED="1360815106511" TEXT="getYomi_getFurigana(xmlPullParser, &quot;Furigana&quot;)">
+<icon BUILTIN="stop-sign"/>
+</node>
+</node>
+<node CREATED="1360815109203" FOLDED="true" ID="ID_1984952280" MODIFIED="1363305366781" TEXT="Methods_sl">
+<node CREATED="1360815130965" FOLDED="true" ID="ID_1780052458" MODIFIED="1363305366780" TEXT="getYomi_full(String kw, String enc)">
+<node CREATED="1360815455737" ID="ID_1031746805" MODIFIED="1360815468277" TEXT="=&gt; This method currentlyt is using: Methods.getYomi_getFurigana(xmlPullParser, &quot;Surface&quot;)"/>
+<node CREATED="1360815702562" ID="ID_1115346518" MODIFIED="1360815746672" TEXT="=&gt; Let&apos;s create a new method: Methods_sl.getYomi_B18_v_2_0__3_getFurigana(xmlPullParser, &quot;Furigana&quot;)"/>
+</node>
+</node>
+</node>
+<node CREATED="1360815399587" ID="ID_1815294479" MODIFIED="1360815401421" TEXT="CODES"/>
+<node CREATED="1360816392919" FOLDED="true" ID="ID_215069501" MODIFIED="1361087596478" TEXT="DROP">
+<node CREATED="1360816397263" FOLDED="true" ID="ID_1351221602" MODIFIED="1361087596478" TEXT="b/c">
+<node CREATED="1360816399073" ID="ID_248738099" MODIFIED="1360816405554" TEXT="Too complicated"/>
+<node CREATED="1360816405905" ID="ID_1835519544" MODIFIED="1360816415093" TEXT="Let&apos;s just learn &quot;XMLBuilder&quot;"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360817144336" FOLDED="true" ID="ID_1666948200" MODIFIED="1361087596481" TEXT="v-2.0c">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360817151271" FOLDED="true" ID="ID_1514774812" MODIFIED="1361087596479" TEXT="Learn">
+<node CREATED="1360817514154" FOLDED="true" ID="ID_1191626865" MODIFIED="1361087596479" TEXT="DOM">
+<node CREATED="1360817516965" ID="ID_1878989571" LINK="http://axbeak.blog60.fc2.com/blog-entry-287.html" MODIFIED="1360819478045" TEXT="Blog"/>
+<node CREATED="1360817555591" FOLDED="true" ID="ID_1341222194" MODIFIED="1361087596479" TEXT="Java project">
+<node CREATED="1360817572246" ID="ID_728862567" MODIFIED="1360817572246" TEXT="C:\WORKS\WS\WS_Android\Learn_Java\src\dom\main"/>
+</node>
+</node>
+</node>
+<node CREATED="1360819465599" FOLDED="true" ID="ID_1078380356" MODIFIED="1361087596479" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1360819470175" ID="ID_824269408" MODIFIED="1360819484169" TEXT="Try the sample">
+<arrowlink DESTINATION="ID_1878989571" ENDARROW="Default" ENDINCLINATION="59;0;" ID="Arrow_ID_1045228943" STARTARROW="None" STARTINCLINATION="59;0;"/>
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1360819487597" FOLDED="true" ID="ID_1147325692" MODIFIED="1361087596479" TEXT="02">
+<node CREATED="1360819490678" ID="ID_1016500821" MODIFIED="1360819507119" TEXT="Copy the codes to Android project"/>
+</node>
+<node CREATED="1360820634046" FOLDED="true" ID="ID_1663007783" MODIFIED="1361087596481" TEXT="03">
+<node CREATED="1360820635792" FOLDED="true" ID="ID_729217523" MODIFIED="1361087596480" TEXT="CODES">
+<node CREATED="1360820659941" FOLDED="true" ID="ID_1896360143" MODIFIED="1361087596479" TEXT="Task_GetYomi">
+<node CREATED="1360820639976" ID="ID_10770969" MODIFIED="1360820642210" TEXT="doInBackground__2__1__XmlHandler()"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1360821706934" FOLDED="true" ID="ID_1466397665" MODIFIED="1361087596480" TEXT="ERROR">
+<icon BUILTIN="idea"/>
+<node CREATED="1360821711065" ID="ID_601162087" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\error_20130214_150219.log" MODIFIED="1360821905052" TEXT="log"/>
+<node CREATED="1360821882503" FOLDED="true" ID="ID_791145625" MODIFIED="1361087596480" TEXT="TRY">
+<node CREATED="1360821884088" ID="ID_1360148876" LINK="http://stackoverflow.com/questions/5162063/http-request-for-xml-file" MODIFIED="1360821887739" TEXT="QA"/>
+<node CREATED="1360823514862" FOLDED="true" ID="ID_1430589276" MODIFIED="1361087596480" TEXT="SOLVED">
+<node CREATED="1360823517553" ID="ID_707567452" MODIFIED="1360823535040" TEXT="Changed &quot;xmlString&quot; to a url string"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360839100517" FOLDED="true" ID="ID_282505704" MODIFIED="1361087596484" TEXT="v-2.0d">
+<icon BUILTIN="folder"/>
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1360836022572" FOLDED="true" ID="ID_1532727639" MODIFIED="1361087596484" TEXT="01">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1360817151271" FOLDED="true" ID="ID_1666427259" MODIFIED="1361087596483" TEXT="Learn">
+<node CREATED="1360817514154" FOLDED="true" ID="ID_423364403" MODIFIED="1361087596483" TEXT="DOM">
+<node CREATED="1360836039883" FOLDED="true" ID="ID_1088012443" LINK="http://www.roseindia.net/xml/dom/DOMCloneElements.shtml" MODIFIED="1361087596481" TEXT="rc">
+<node CREATED="1360836050701" ID="ID_462689941" MODIFIED="1360836058891" TEXT="Cloning an Element object"/>
+</node>
+</node>
+</node>
+<node CREATED="1360846125732" FOLDED="true" ID="ID_1992128579" MODIFIED="1361087596484" TEXT="CODES">
+<node CREATED="1360846129053" FOLDED="true" ID="ID_476407857" MODIFIED="1361087596483" TEXT="Task_GetYomi">
+<node CREATED="1360846137080" ID="ID_192120043" MODIFIED="1360846249539" TEXT="doInBackground_B18_v_2_0_d()">
+<arrowlink DESTINATION="ID_437940223" ENDARROW="Default" ENDINCLINATION="96;0;" ID="Arrow_ID_1929002010" STARTARROW="None" STARTINCLINATION="96;0;"/>
+</node>
+</node>
+<node CREATED="1360846242406" FOLDED="true" ID="ID_935587120" MODIFIED="1361087596483" TEXT="Methods_sl">
+<node CREATED="1360846246794" ID="ID_437940223" MODIFIED="1360846249539" TEXT="getXmlHandler(url)"/>
+</node>
+</node>
+<node CREATED="1360848736125" FOLDED="true" ID="ID_1040211479" MODIFIED="1361087596484" TEXT="NOT WORKING">
+<node CREATED="1360848744313" ID="ID_1302171408" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\rec_20130214_223137.log" MODIFIED="1360848747079" TEXT="log"/>
+</node>
+</node>
+</node>
+<node CREATED="1360848611097" FOLDED="true" ID="ID_1702234924" MODIFIED="1361087596491" TEXT="v-2.0d-t2">
+<icon BUILTIN="stop-sign"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1360898323952" FOLDED="true" ID="ID_24471986" MODIFIED="1361087596487" TEXT="01">
+<node CREATED="1360848616634" FOLDED="true" ID="ID_670506635" MODIFIED="1361087596485" TEXT="Let&apos;s try in a Java project, first">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1360904300478" ID="ID_505627295" LINK="C:\WORKS\WS\WS_Android\Learn_Java\src\and\sl\main\B18_v_2_0.java" MODIFIED="1360904303619" TEXT="File"/>
+</node>
+<node CREATED="1360898325599" FOLDED="true" ID="ID_1185602291" MODIFIED="1361087596486" TEXT="NodeList">
+<node CREATED="1360898344553" ID="ID_1933884416" MODIFIED="1360898348036" TEXT=".getLength()"/>
+</node>
+<node COLOR="#ff3333" CREATED="1360900284563" FOLDED="true" ID="ID_1928265871" MODIFIED="1361087596487" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1360900287276" ID="ID_1497631192" MODIFIED="1360900288059" TEXT="nSurface.getNodeValue()=null"/>
+<node CREATED="1360900307447" FOLDED="true" ID="ID_284834312" MODIFIED="1361087596486" TEXT="TRY">
+<node CREATED="1360900309493" ID="ID_323402231" LINK="http://www.fireproject.jp/feature/xml/programing/java-dom.html" MODIFIED="1360900319992" TEXT="This tutorial sample"/>
+</node>
+<node CREATED="1360903734764" FOLDED="true" ID="ID_1115651990" MODIFIED="1361087596486" TEXT="SOLVED">
+<node CREATED="1360903737020" ID="ID_1191730259" MODIFIED="1360903766988" TEXT="&quot;Node&quot; includes &quot;&#x6d17;&#x6fef;&quot;"/>
+</node>
+</node>
+</node>
+<node CREATED="1360904374713" FOLDED="true" ID="ID_1787020206" MODIFIED="1361087596490" TEXT="02">
+<node CREATED="1360904376496" ID="ID_428210117" MODIFIED="1360904396306" TEXT="New method in a Task class in the SL project">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1360906617184" FOLDED="true" ID="ID_733662968" MODIFIED="1361087596487" TEXT="CODES">
+<node CREATED="1360906623779" FOLDED="true" ID="ID_1579557603" MODIFIED="1361087596487" TEXT="Task_GetYomi">
+<node CREATED="1360906628563" ID="ID_1377244352" MODIFIED="1360906628563" TEXT="doInBackground_B18_v_2_0_d_t_2()"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1360908672964" FOLDED="true" ID="ID_1371050019" MODIFIED="1361087596490" TEXT="PROBLEM">
+<node CREATED="1360908677588" ID="ID_359993552" MODIFIED="1360908692483" TEXT="[197:doInBackground_B18_v_2_0_d_t_2](24410): 1: Name=#text/Type=3/Value=?"/>
+<node CREATED="1360908703484" FOLDED="true" ID="ID_777413450" MODIFIED="1361087596488" TEXT="TRY">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1360908705223" FOLDED="true" ID="ID_505989012" MODIFIED="1361087596488" TEXT="Clean the project">
+<node CREATED="1360908714319" ID="ID_1158696149" LINK="http://stackoverflow.com/questions/8426830/android-node-getnodevalue-returns-null-in-some-cases" MODIFIED="1360908720212" TEXT="As mentioned here"/>
+<node CREATED="1360909557955" ID="ID_1134979566" MODIFIED="1360909559683" TEXT="N/C"/>
+</node>
+</node>
+<node CREATED="1360909564765" FOLDED="true" ID="ID_361307297" MODIFIED="1361087596489" TEXT="TRY">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1360909569099" FOLDED="true" ID="ID_1382818509" MODIFIED="1361087596488" TEXT="Cast to &quot;Element&quot;">
+<node CREATED="1360909575095" ID="ID_572499058" MODIFIED="1360909576621" TEXT="N/C"/>
+<node CREATED="1360909585233" FOLDED="true" ID="ID_1164651397" MODIFIED="1361087596488" TEXT="ERROR">
+<node CREATED="1360909577145" ID="ID_602966063" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\error_20130215_152529.log" MODIFIED="1360909581347" TEXT="log"/>
+</node>
+</node>
+</node>
+<node CREATED="1360910407979" FOLDED="true" ID="ID_1638142160" MODIFIED="1361087596489" TEXT="TRY">
+<node CREATED="1360910410261" FOLDED="true" ID="ID_1214385863" LINK="http://androidforums.com/application-development/36357-getnodevalue-returning-null-xml-dom.html" MODIFIED="1361087596489" TEXT="QA">
+<node CREATED="1360910428715" ID="ID_1070487991" MODIFIED="1360910442874" TEXT="&quot;January 14th, 2010, 05:30 PM&quot;"/>
+</node>
+</node>
+<node CREATED="1360909599640" FOLDED="true" ID="ID_1168224773" MODIFIED="1361087596490" TEXT="TRY">
+<node CREATED="1360909620586" FOLDED="true" ID="ID_358017499" MODIFIED="1361087596490" TEXT="private static void doInBackground_B18_v_2_0_d_t_2()">
+<node CREATED="1360909623628" ID="ID_1396139690" MODIFIED="1360909652097" TEXT="=&gt; Create another method with the signiture ending with &quot;...t_3&quot;"/>
+<node CREATED="1360909656884" ID="ID_211807212" MODIFIED="1360909717873">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      =&gt; In it, change the code &quot;Node n = nlChildrenOfSurface.item(i)&quot; to &quot;Element elem = (Element) nlChildrenOfSurface.item(i)&quot;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361010519051" FOLDED="true" ID="ID_691917267" MODIFIED="1361087596491" TEXT="v-2.0d-t3">
+<icon BUILTIN="stop-sign"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361010548977" FOLDED="true" ID="ID_13053132" MODIFIED="1361087596491" TEXT="01">
+<node CREATED="1361010558061" FOLDED="true" ID="ID_1229762478" MODIFIED="1361087596491" TEXT="TRY">
+<node CREATED="1361010574089" ID="ID_161654363" MODIFIED="1361010577533" TEXT="private static void doInBackground_B18_v_2_0_d_t_3()"/>
+</node>
+</node>
+</node>
+<node CREATED="1361026209490" FOLDED="true" ID="ID_1384556086" MODIFIED="1361087596492" TEXT="v-2.0d-t4">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1361026216973" FOLDED="true" ID="ID_1555064442" MODIFIED="1361087596492" TEXT="01">
+<node CREATED="1361026301148" FOLDED="true" ID="ID_1865487793" MODIFIED="1361087596491" TEXT="TRY">
+<node CREATED="1361026303936" ID="ID_721204438" LINK="http://www.ibm.com/developerworks/jp/xml/library/x-android/" MODIFIED="1361026328650" TEXT="IBM: developer...">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1361071775992" FOLDED="true" ID="ID_672512244" MODIFIED="1361087596492" TEXT="DROP">
+<node CREATED="1361071789678" ID="ID_738038526" MODIFIED="1361071861047" TEXT="The site of the feed mentioned in this column =&gt; On the front page says &quot;NOTICE: This domain name expired on 02/09/2013 and is pending renewal or deletion.&quot;"/>
+</node>
+</node>
+<node CREATED="1361074623933" FOLDED="true" ID="ID_1290150712" MODIFIED="1361087596493" TEXT="v-2.0d-t5">
+<icon BUILTIN="stop-sign"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361074626196" FOLDED="true" ID="ID_1930460420" MODIFIED="1361087596492" TEXT="&quot;DomSamle.java&quot;">
+<node CREATED="1361074631664" ID="ID_765718204" MODIFIED="1361074650348" TEXT="=&gt; Copy and modify in the Android project"/>
+</node>
+<node COLOR="#ff0033" CREATED="1361074652585" FOLDED="true" ID="ID_683863683" MODIFIED="1361087596493" TEXT="PROBLEM">
+<node CREATED="1361074655910" FOLDED="true" ID="ID_322770388" MODIFIED="1361087596492" TEXT="&quot;value=?&quot;">
+<node CREATED="1361074659953" ID="ID_1920501394" MODIFIED="1361074666982" TEXT="=&gt; Persists"/>
+</node>
+</node>
+</node>
+<node CREATED="1361075024714" FOLDED="true" ID="ID_523273764" MODIFIED="1361087596494" TEXT="v-2.0d-t6">
+<icon BUILTIN="stop-sign"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361075034677" FOLDED="true" ID="ID_1392315791" MODIFIED="1361087596494" TEXT="TRY">
+<node CREATED="1361075037427" FOLDED="true" ID="ID_1929305373" LINK="http://androidforums.com/application-development/36357-getnodevalue-returning-null-xml-dom.html" MODIFIED="1361087596493" TEXT="This suggestion in a QA site">
+<node CREATED="1361075063155" ID="ID_1868542646" MODIFIED="1361075063886" TEXT="January 14th, 2010, 03:57 PM"/>
+</node>
+</node>
+<node CREATED="1361077875113" ID="ID_24284388" MODIFIED="1361077876706" TEXT="N/C"/>
+</node>
+<node CREATED="1361079066937" FOLDED="true" ID="ID_123550440" MODIFIED="1361087596498" TEXT="v-2.0d-t7">
+<node CREATED="1361079075024" FOLDED="true" ID="ID_1711674044" MODIFIED="1361087596498" TEXT="?">
+<node CREATED="1361080473988" FOLDED="true" ID="ID_373265651" MODIFIED="1361084585168" TEXT="01">
+<node CREATED="1361079079560" FOLDED="true" ID="ID_499586609" MODIFIED="1361087596494" TEXT="Class?">
+<node CREATED="1361079084883" ID="ID_1434345506" MODIFIED="1361079086998" TEXT="=&gt; String"/>
+</node>
+<node CREATED="1361079089569" FOLDED="true" ID="ID_119027484" MODIFIED="1361087596495" TEXT="Length?">
+<node CREATED="1361079092628" ID="ID_1553538292" MODIFIED="1361079095337" TEXT="=&gt; 1"/>
+</node>
+<node CREATED="1361079099000" FOLDED="true" ID="ID_1216955153" MODIFIED="1361087596495" TEXT="The source code of &quot;getNodeValue()&quot;">
+<node CREATED="1361079668012" FOLDED="true" ID="ID_1624958844" MODIFIED="1361087596495" TEXT="=&gt; This is an interface">
+<node CREATED="1361079673375" FOLDED="true" ID="ID_1564822288" MODIFIED="1361087596495" TEXT="=&gt; No code">
+<node CREATED="1361079685908" ID="ID_1597132400" LINK="http://stackoverflow.com/questions/6996444/is-the-source-code-for-org-w3c-dom-node-available-anywhere" MODIFIED="1361079696132" TEXT="answered Aug 9 &apos;11 at 12:53"/>
+</node>
+</node>
+</node>
+<node CREATED="1361079699711" FOLDED="true" ID="ID_648314292" MODIFIED="1361087596495" TEXT="The class of childOfSurface">
+<node CREATED="1361079712716" ID="ID_1402078972" MODIFIED="1361079721722" TEXT="=&gt; org.apache.harmony.xml.dom.TextImpl"/>
+</node>
+<node CREATED="1361079723825" FOLDED="true" ID="ID_731913529" MODIFIED="1361087596495" TEXT="Then, the source of org.apache.harmony.xml.dom.TextImpl?">
+<node CREATED="1361079776926" ID="ID_1626105281" MODIFIED="1361079791612" TEXT="=&gt; This class iteself doesn&apos;t have a method with this name"/>
+</node>
+<node CREATED="1361079794218" FOLDED="true" ID="ID_933068051" MODIFIED="1361087596495" TEXT="The super class of org.apache.harmony.xml.dom.TextImpl?">
+<node CREATED="1361079823234" ID="ID_744771056" MODIFIED="1361079825752" TEXT="=&gt; &quot;extends CharacterDataImpl&quot;"/>
+</node>
+<node CREATED="1361079834922" FOLDED="true" ID="ID_684586569" MODIFIED="1361087596495" TEXT="Javadoc of &quot;CharacterDataImpl&quot;?">
+<node CREATED="1361080168284" ID="ID_519815751" LINK="http://www.java2s.com/Open-Source/Android/android-core/platform-libcore/org/apache/harmony/xml/dom/CharacterDataImpl.java.htm" MODIFIED="1361080175998" TEXT="=&gt; org.apache.harmony.xml.dom.CharacterDataImpl"/>
+</node>
+<node CREATED="1361080178435" FOLDED="true" ID="ID_683401191" MODIFIED="1361087596495" TEXT="Does this class have &quot;getNodeValue()&quot;?">
+<node CREATED="1361080187498" ID="ID_1278911890" MODIFIED="1361080189420" TEXT="=&gt; Yes"/>
+<node CREATED="1361080213958" ID="ID_494258286" MODIFIED="1361080640072" TEXT="=&gt; Returns the value gotten from &quot;getData()&quot;">
+<arrowlink DESTINATION="ID_1514004723" ENDARROW="None" ENDINCLINATION="322;0;" ID="Arrow_ID_958981965" STARTARROW="Default" STARTINCLINATION="322;0;"/>
+</node>
+</node>
+<node CREATED="1361080225601" FOLDED="true" ID="ID_1514004723" MODIFIED="1361087596495" TEXT="What does this method return?">
+<node CREATED="1361080262486" ID="ID_1223343066" MODIFIED="1361080275498" TEXT="=&gt; buffer.toString()"/>
+</node>
+<node CREATED="1361080266245" FOLDED="true" ID="ID_1826111735" MODIFIED="1361087596495" TEXT="What is &quot;buffer&quot;?">
+<node CREATED="1361080322684" ID="ID_1897640327" MODIFIED="1361080650481" TEXT="=&gt; StringBuilder"/>
+</node>
+<node CREATED="1361080328106" FOLDED="true" ID="ID_160365639" MODIFIED="1361087596495" TEXT="How does this object get data?">
+<node CREATED="1361080347324" ID="ID_300716493" MODIFIED="1361080349872" TEXT="=&gt; appendData(String arg)"/>
+</node>
+<node CREATED="1361080353730" FOLDED="true" ID="ID_1606579363" MODIFIED="1361087596495" TEXT="When &quot;appendData(String arg)&quot; is used?">
+<node CREATED="1361080380712" ID="ID_1992044330" MODIFIED="1361080394539" TEXT="=&gt; Just once in ths class"/>
+</node>
+<node CREATED="1361080408463" FOLDED="true" ID="ID_1522662088" MODIFIED="1361087596495" TEXT="Is this method static?">
+<node CREATED="1361080415109" ID="ID_650956930" MODIFIED="1361080417293" TEXT="=&gt; No"/>
+</node>
+<node CREATED="1361080437597" FOLDED="true" ID="ID_550775267" MODIFIED="1361087596495" TEXT="What&apos;s the scope?">
+<arrowlink DESTINATION="ID_1247230538" ENDARROW="Default" ENDINCLINATION="220;0;" ID="Arrow_ID_1917769536" STARTARROW="None" STARTINCLINATION="220;0;"/>
+<node CREATED="1361080442243" ID="ID_1955127620" MODIFIED="1361080453178" TEXT="=&gt; Public"/>
+</node>
+</node>
+<node CREATED="1361080481703" FOLDED="true" ID="ID_1343225797" MODIFIED="1361085923985" TEXT="02">
+<node CREATED="1361080484848" ID="ID_1247230538" MODIFIED="1361080666913" TEXT="Then, when and/or where does this class get instantiated?"/>
+<node CREATED="1361080823198" ID="ID_747537084" MODIFIED="1361080838161" TEXT="=&gt; Maybe, when this object get instantiated?"/>
+<node CREATED="1361080855994" FOLDED="true" ID="ID_252595352" MODIFIED="1361087596495" TEXT="When is that?">
+<node CREATED="1361080870659" ID="ID_926283422" MODIFIED="1361080873992" TEXT="=&gt; el_Surface.getFirstChild()"/>
+</node>
+<node CREATED="1361080890696" ID="ID_598139023" MODIFIED="1361080897941" TEXT="Let&apos;s see the source of &quot;.getFirstChild()&quot;"/>
+<node CREATED="1361081048384" FOLDED="true" ID="ID_1092062026" MODIFIED="1361087596495" TEXT="What&apos;s the class name?">
+<node CREATED="1361081055578" ID="ID_642388198" MODIFIED="1361081058071" TEXT="=&gt; org.apache.harmony.xml.dom.ElementImpl"/>
+</node>
+<node CREATED="1361081065487" FOLDED="true" ID="ID_1253018125" MODIFIED="1361087596495" TEXT="The source of org.apache.harmony.xml.dom.ElementImpl?">
+<node CREATED="1361081107703" ID="ID_1917042500" LINK="http://wiki.open-mika.org/browser/Mika/trunk/core-vm/java5/org/apache/harmony/xml/dom/ElementImpl.java?rev=1302" MODIFIED="1361081114273" TEXT="=&gt; Here"/>
+</node>
+<node CREATED="1361081123956" FOLDED="true" ID="ID_1312554420" MODIFIED="1361087596496" TEXT="The code of &quot;getFirstChild()&quot;?">
+<node CREATED="1361081138848" ID="ID_175432704" MODIFIED="1361081150906" TEXT="=&gt; This class has no such method"/>
+</node>
+<node CREATED="1361081153510" FOLDED="true" ID="ID_1068956132" MODIFIED="1361087596496" TEXT="The super class?">
+<node CREATED="1361081322714" ID="ID_1157714008" LINK="http://www.androidadb.com/source/toolib-read-only/frameworks/base/core/java/org/apache/harmony/xml/dom/InnerNodeImpl.java.html" MODIFIED="1361081328693" TEXT="=&gt; Source is here"/>
+<node CREATED="1361081317608" ID="ID_9595974" MODIFIED="1361081342409" TEXT="=&gt; org.apache.harmony.xml.dom.InnerNodeImpl"/>
+</node>
+<node CREATED="1361081398159" FOLDED="true" ID="ID_482717765" MODIFIED="1361087596496" TEXT="Has the method &quot;getFirstChild()&quot;">
+<node CREATED="1361081404704" ID="ID_385611346" MODIFIED="1361081406922" TEXT="=&gt; Yes"/>
+</node>
+<node CREATED="1361081413088" FOLDED="true" ID="ID_884104694" MODIFIED="1361087596496" TEXT="What does this method return?">
+<node CREATED="1361081430783" ID="ID_1364225684" MODIFIED="1361081431255" TEXT="(!children.isEmpty() ? children.get(0) : null)"/>
+</node>
+<node CREATED="1361081433757" FOLDED="true" ID="ID_336598898" MODIFIED="1361087596496" TEXT="What is &quot;children&quot;?">
+<node CREATED="1361081458146" ID="ID_639879915" MODIFIED="1361081466634" TEXT="=&gt; An instance of List&lt;LeafNodeImpl&gt;"/>
+</node>
+<node CREATED="1361081736699" FOLDED="true" ID="ID_175440385" MODIFIED="1361087596496" TEXT="=&gt; Seems">
+<node CREATED="1361081739553" ID="ID_27406176" MODIFIED="1361081782875" TEXT="When the Surface obejct gets instantiated, the children get included in to the Surface"/>
+</node>
+<node CREATED="1361081788331" FOLDED="true" ID="ID_1853728079" MODIFIED="1361087596496" TEXT="So, when the surface gets instantiated?">
+<node CREATED="1361081849848" ID="ID_1563675960" MODIFIED="1361081851248" TEXT="=&gt; Element el_Surface = (Element) surfaces.item(0)"/>
+</node>
+<node CREATED="1361081852531" FOLDED="true" ID="ID_1241624584" MODIFIED="1361087596496" TEXT="Then, when surfaces gets instantiated?">
+<node CREATED="1361081877924" ID="ID_314587638" MODIFIED="1361081879467" TEXT="=&gt; NodeList surfaces = root.getElementsByTagName(&quot;Surface&quot;)"/>
+</node>
+<node CREATED="1361081885808" FOLDED="true" ID="ID_1934551929" MODIFIED="1361087596496" TEXT="What&apos;s the class name of root?">
+<node CREATED="1361081973942" ID="ID_1996774342" MODIFIED="1361081977266" TEXT="=&gt; org.apache.harmony.xml.dom.ElementImpl"/>
+</node>
+<node CREATED="1361081995412" FOLDED="true" ID="ID_1734473097" MODIFIED="1361087596496" TEXT="Now, let&apos;s see the souce of ElementImpl.getElementsByTagName(&quot;Surface&quot;)">
+<node CREATED="1361082076490" ID="ID_1391107344" MODIFIED="1361082106885">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      =&gt; NodeListImpl list = new NodeListImpl();&#160;&#160;&#160;&#160;
+    </p>
+    <p>
+      getElementsByTagName(list, name);
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1361082109686" FOLDED="true" ID="ID_1693742737" MODIFIED="1361087596496" TEXT="What&apos;s the super class of ElementImpl?">
+<node CREATED="1361081317608" ID="ID_1909035345" MODIFIED="1361081342409" TEXT="=&gt; org.apache.harmony.xml.dom.InnerNodeImpl"/>
+</node>
+<node CREATED="1361082176529" FOLDED="true" ID="ID_945914663" MODIFIED="1361087596496" TEXT="Let&apos;s see the code of InnerNodeImpl.getElementsByTagName(list, name)">
+<node CREATED="1361082238235" ID="ID_742679211" MODIFIED="1361082244768" TEXT="=&gt; This class has no such method"/>
+</node>
+<node CREATED="1361082109686" FOLDED="true" ID="ID_1694722583" MODIFIED="1361087596496" TEXT="What&apos;s the super class of InnerNodeImpl?">
+<node CREATED="1361082563094" ID="ID_1378950246" MODIFIED="1361082565074" TEXT="=&gt; org.apache.harmony.xml.dom.LeafNodeImpl"/>
+</node>
+<node CREATED="1361082569851" FOLDED="true" ID="ID_276851383" MODIFIED="1361087596496" TEXT="Let&apos;s see the code">
+<node CREATED="1361082653920" ID="ID_565333827" MODIFIED="1361082663445" TEXT="=&gt; The class also has no method with the name"/>
+<node CREATED="1361082664506" ID="ID_1789773935" MODIFIED="1361082681563" TEXT="=&gt; The super class is NodeImpl"/>
+</node>
+<node CREATED="1361082683939" FOLDED="true" ID="ID_1792394982" MODIFIED="1361087596496" TEXT="And, the code?">
+<node CREATED="1361082736515" ID="ID_687701682" MODIFIED="1361082747256" TEXT="=&gt; NodeImpl also has no such method"/>
+<node CREATED="1361082751934" ID="ID_1952513258" MODIFIED="1361082761444" TEXT="Super class -&gt; Node"/>
+</node>
+<node CREATED="1361082904386" FOLDED="true" ID="ID_138005510" MODIFIED="1361087596496" TEXT="Code of Node?">
+<node CREATED="1361083535352" ID="ID_1062115372" MODIFIED="1361083555641" TEXT="=&gt; Again, the class Node is an interface ---&gt; No definition"/>
+</node>
+<node CREATED="1361083592040" FOLDED="true" ID="ID_1166337299" MODIFIED="1361087596496" TEXT="So... What shall I do?">
+<node CREATED="1361083611750" ID="ID_1704997545" MODIFIED="1361083659029" TEXT="=&gt; Let&apos;s find out the class among the classes inspected so far, which does have the definition of the method &quot;getElementsByTagName&quot;"/>
+</node>
+<node CREATED="1361083679346" FOLDED="true" ID="ID_1007556219" MODIFIED="1361087596497" TEXT="Good idea. The classes are...?">
+<node CREATED="1361083843173" FOLDED="true" ID="ID_1648428839" MODIFIED="1361087596496" TEXT="=&gt; ElementImpl does have the method, which has the definition">
+<node CREATED="1361083862521" ID="ID_1920265585" MODIFIED="1361083895834" TEXT="--&gt; getElementsByTagName(list, name)"/>
+</node>
+</node>
+<node CREATED="1361083898667" FOLDED="true" ID="ID_571856993" MODIFIED="1361087596497" TEXT="Seems the class has a static verison of the method?">
+<node CREATED="1361083959375" ID="ID_1598089406" MODIFIED="1361084017098" TEXT="=&gt; Has a same-named method(i.e. an overloaded one), with the return type being &quot;void&quot;"/>
+</node>
+<node CREATED="1361084018293" FOLDED="true" ID="ID_470369912" MODIFIED="1361087596497" TEXT="Yes! That&apos;s the one we want to look into!">
+<node CREATED="1361084095013" FOLDED="true" ID="ID_1924343377" MODIFIED="1361087596497" TEXT="=&gt; The code concering the additon of the node semms to be">
+<node CREATED="1361084109776" ID="ID_1399285315" MODIFIED="1361084126804">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ---&gt; if (matchesName(name, true)) { list.add(this);}
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1361084133648" FOLDED="true" ID="ID_1448390320" MODIFIED="1361087596497" TEXT="What&apos;s the method &quot;matchesName&quot;?">
+<node CREATED="1361084193689" ID="ID_1857934516" MODIFIED="1361084215057" TEXT="=&gt; The class ElementImpl has no such method"/>
+</node>
+<node CREATED="1361084216885" FOLDED="true" ID="ID_1107006749" MODIFIED="1361087596497" TEXT="How about the super class?">
+<node CREATED="1361084237857" ID="ID_392226312" MODIFIED="1361084240425" TEXT="=&gt; InnerNodeImpl"/>
+<node CREATED="1361084258421" ID="ID_1011608576" MODIFIED="1361084262253" TEXT="=&gt; No such method"/>
+</node>
+<node CREATED="1361084272493" FOLDED="true" ID="ID_1998818289" MODIFIED="1361087596497" TEXT="The super class thereof?">
+<node CREATED="1361084330543" ID="ID_446627407" MODIFIED="1361084332201" TEXT="=&gt; LeafNodeImpl"/>
+<node CREATED="1361084258421" ID="ID_639106412" MODIFIED="1361084262253" TEXT="=&gt; No such method"/>
+</node>
+<node CREATED="1361084272493" FOLDED="true" ID="ID_1715850289" MODIFIED="1361087596497" TEXT="The super class thereof?">
+<node CREATED="1361084369564" ID="ID_901074690" MODIFIED="1361084372759" TEXT="=&gt; NodeImpl"/>
+<node CREATED="1361084457063" FOLDED="true" ID="ID_1298148465" MODIFIED="1361087596497" TEXT="=&gt; Does have methods">
+<node CREATED="1361084474606" ID="ID_249482916" MODIFIED="1361084475201" TEXT="private static boolean matchesName(String required, String actual, boolean wildcard)"/>
+<node CREATED="1361084483350" ID="ID_787538038" MODIFIED="1361084485442" TEXT="public boolean matchesName(String name, boolean wildcard)"/>
+</node>
+</node>
+</node>
+<node CREATED="1361084587773" FOLDED="true" ID="ID_816586345" MODIFIED="1361085920551" TEXT="03">
+<node CREATED="1361084600698" ID="ID_768235712" MODIFIED="1361084640912" TEXT="So... Let&apos;s  browse the code again of &quot;ElementImpl.getElementsByTagName(NodeListImpl list, String name)"/>
+<node CREATED="1361084659330" ID="ID_1988804687" MODIFIED="1361084668169" TEXT="It says: &quot;list.add(this)&quot;"/>
+<node CREATED="1361084671512" FOLDED="true" ID="ID_1114645372" MODIFIED="1361087596497" TEXT="So, &quot;this&quot; is an instance of ElementImpl.">
+<node CREATED="1361084692992" ID="ID_606498084" MODIFIED="1361084698830" TEXT="=&gt; Yes, I assume so"/>
+</node>
+<node CREATED="1361084699796" FOLDED="true" ID="ID_1416770613" MODIFIED="1361087596497" TEXT="Then, let&apos;s see the constructor code of this class">
+<node CREATED="1361084755271" ID="ID_452360869" MODIFIED="1361084776929" TEXT="=&gt; The object is created by Document.getDocumentElement()"/>
+</node>
+<node CREATED="1361084781494" FOLDED="true" ID="ID_1943800063" MODIFIED="1361087596497" TEXT="Let&apos;s  browse the code of the method">
+<node CREATED="1361084804474" ID="ID_682108482" MODIFIED="1361084806070" TEXT="=&gt; org.w3c.dom.Document"/>
+<node CREATED="1361084881761" ID="ID_1286465871" LINK="http://www.docjar.com/html/api/org/w3c/dom/Document.java.html" MODIFIED="1361084885811" TEXT="=&gt; Site here"/>
+<node CREATED="1361084934372" ID="ID_1303684346" MODIFIED="1361084942943" TEXT="=&gt; The class Document is an interface!"/>
+</node>
+<node CREATED="1361084961384" FOLDED="true" ID="ID_1722682384" MODIFIED="1361087596497" TEXT="Then, what does &quot;xh.getDoc(url)&quot; return?">
+<node CREATED="1361085013991" ID="ID_303657410" MODIFIED="1361085016340" TEXT="=&gt; newDocumentBuilder().parse(uri)"/>
+</node>
+<node CREATED="1361085019809" FOLDED="true" ID="ID_663288673" MODIFIED="1361087596497" TEXT="Let&apos;s  browse the code of &quot;DocumentBuilder.parse(uri)&quot;">
+<node CREATED="1361085072959" ID="ID_1109743991" MODIFIED="1361085077951" TEXT="=&gt; The class is a class"/>
+<node CREATED="1361085113023" FOLDED="true" ID="ID_656714305" MODIFIED="1361087596497" TEXT="=&gt; An abstract class">
+<node CREATED="1361085121143" ID="ID_152748082" LINK="http://www.docjar.com/html/api/javax/xml/parsers/DocumentBuilder.java.html" MODIFIED="1361085127141" TEXT="Code here"/>
+</node>
+<node CREATED="1361085172385" ID="ID_448813103" MODIFIED="1361085174628" TEXT="=&gt; public Document parse(String uri)"/>
+</node>
+<node CREATED="1361085187819" FOLDED="true" ID="ID_1622224307" MODIFIED="1361087596497" TEXT="Let&apos;s browse &quot;public Document parse(String uri)&quot;">
+<node CREATED="1361085245719" ID="ID_471817565" MODIFIED="1361085253685">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      InputSource in = new InputSource(uri);&#160;return parse(in)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1361085293603" FOLDED="true" ID="ID_296643276" MODIFIED="1361087596497" TEXT="&quot;public abstract Document parse(InputSource is)&quot;?">
+<node CREATED="1361085327646" ID="ID_705176163" MODIFIED="1361085330935" TEXT="=&gt; Not defined"/>
+</node>
+<node CREATED="1361085521951" ID="ID_677051145" MODIFIED="1361085568838" TEXT="Ok. We&apos;ve come so far. You are getting tired of the whole process, which is understandable, and I appreciate your effort"/>
+<node CREATED="1361085569335" FOLDED="true" ID="ID_1721516171" MODIFIED="1361087596498" TEXT="Now, as the final attempt, why don&apos;t we just browse the code of DocumentBuilderFactory.newDocumentBuilder(), just to see if this constructor performs any defining of pertaining to &quot;parse&quot; method">
+<node BACKGROUND_COLOR="#3333ff" COLOR="#ffffff" CREATED="1361080517011" FOLDED="true" ID="ID_1643080864" MODIFIED="1361087596498" TEXT="$1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#999999" CREATED="1361080558379" FOLDED="true" ID="ID_1867469068" MODIFIED="1361087596498" TEXT="What does this symbol signify?">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361080571221" ID="ID_733094091" MODIFIED="1361080593340" TEXT="=&gt; The next action to take in this tree and below"/>
+</node>
+</node>
+<node CREATED="1361085787060" ID="ID_909883832" MODIFIED="1361085806096" TEXT="=&gt; The class has the method, but has no definition"/>
+<node CREATED="1361085806982" ID="ID_1412637524" MODIFIED="1361085815826" TEXT="=&gt; The class is of an abstract class"/>
+</node>
+<node CREATED="1361085816891" ID="ID_377804503" MODIFIED="1361085881997" TEXT="All right. Thank you very much. I do appreciate your cooperation and energy. I, uh, will figure out the next move based on the findings that you so patiently provided me with."/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361087617495" FOLDED="true" ID="ID_675090532" MODIFIED="1362279855127" TEXT="s">
+<node CREATED="1361087631593" ID="ID_914890433" MODIFIED="1361087634964" TEXT="20130217_165348">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361085947441" FOLDED="true" ID="ID_1057013159" MODIFIED="1361598694858" TEXT="v-3.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<icon BUILTIN="group"/>
+<icon BUILTIN="up"/>
+<node CREATED="1361085950221" ID="ID_1177693185" MODIFIED="1361085986110" TEXT="Get yomi data from API, using a web service in other remote server, which is written in PHP language">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361087318153" FOLDED="true" ID="ID_80334176" MODIFIED="1361599080729" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361087320066" ID="ID_1366946047" MODIFIED="1361087379502" TEXT="Setup php dev environment on Windows">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361087379955" FOLDED="true" ID="ID_666966616" MODIFIED="1361599080728" TEXT="01">
+<node CREATED="1361087381478" FOLDED="true" ID="ID_790952166" MODIFIED="1361599080728" TEXT="Install">
+<node CREATED="1361087383468" FOLDED="true" ID="ID_1790198092" MODIFIED="1361599080728" TEXT="Apache">
+<icon BUILTIN="idea"/>
+<node CREATED="1361087460860" FOLDED="true" ID="ID_537012115" MODIFIED="1361599080727" TEXT="=&gt; Let&apos;s install XAMPP">
+<node CREATED="1361087476580" ID="ID_254484438" LINK="http://www.apachefriends.org/jp/xampp-windows.html" MODIFIED="1361087481695" TEXT="Site here"/>
+</node>
+<node CREATED="1361087996148" FOLDED="true" ID="ID_1115117719" MODIFIED="1361599080728" TEXT="DIALOGOS">
+<node CREATED="1361088002309" FOLDED="true" ID="ID_1899210932" MODIFIED="1361599080728" TEXT="=&gt; Now installing">
+<node CREATED="1361088016631" ID="ID_128507166" MODIFIED="1361088016631" TEXT="20130217_170013"/>
+</node>
+<node CREATED="1361088090853" FOLDED="true" ID="ID_498736163" MODIFIED="1361599080728" TEXT="=&gt; Done">
+<node CREATED="1361088094301" ID="ID_678216049" MODIFIED="1361088105841" TEXT="--&gt; It took: 3:45.44"/>
+</node>
+<node CREATED="1361088223601" FOLDED="true" ID="ID_691337341" MODIFIED="1361599080728" TEXT="=&gt; Accessed to http://localhost">
+<node CREATED="1361088251242" ID="ID_1771191449" MODIFIED="1361088264357" TEXT="--&gt; Shown the main page of XAMPP"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361088276056" FOLDED="true" ID="ID_72309584" MODIFIED="1361599080729" TEXT="02">
+<node CREATED="1361087381478" FOLDED="true" ID="ID_46221171" MODIFIED="1361599080729" TEXT="Install">
+<icon BUILTIN="idea"/>
+<node CREATED="1361088282131" FOLDED="true" ID="ID_1110595294" MODIFIED="1361599080729" TEXT="Eclipse">
+<node CREATED="1361088284416" FOLDED="true" ID="ID_1048409270" MODIFIED="1361599080729" TEXT="PHP plugin">
+<node CREATED="1361088294849" FOLDED="true" ID="ID_1801336337" MODIFIED="1361599080729" TEXT="DIALOGOS">
+<node CREATED="1361088298463" FOLDED="true" ID="ID_1435504679" MODIFIED="1361599080729" TEXT="?">
+<node CREATED="1361088304331" FOLDED="true" ID="ID_1245961731" MODIFIED="1361599080729" TEXT="Any plugin of PHP?">
+<node CREATED="1361088477985" FOLDED="true" ID="ID_128964903" MODIFIED="1361599080728" TEXT="=&gt; PDT for Indigo">
+<node CREATED="1361088491195" ID="ID_580750172" MODIFIED="1361088493306" TEXT="--&gt; The Eclipse Project Updates - http://download.eclipse.org/eclipse/updates/3.7"/>
+<node CREATED="1361088596203" ID="ID_609691583" LINK="http://wiki.eclipse.org/PDT/Installation#Eclipse_3.7_.2F_Indigo_.2F_PDT_3.0" MODIFIED="1361088603856" TEXT="--&gt; Instruction here"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361087337098" FOLDED="true" ID="ID_497170178" MODIFIED="1361599080730" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361087342415" FOLDED="true" ID="ID_385752647" MODIFIED="1361599080730" TEXT="Write a file">
+<node CREATED="1361087520518" FOLDED="true" ID="ID_1011515180" MODIFIED="1361599080729" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361088895899" FOLDED="true" ID="ID_539512579" MODIFIED="1361599080729" TEXT="Create a new project">
+<node CREATED="1361088901338" ID="ID_1890521767" LINK="../Learn_php/Learn_php.mm" MODIFIED="1361089041101" TEXT="--&gt; Learn_php"/>
+</node>
+</node>
+<node CREATED="1361087535551" FOLDED="true" ID="ID_104175056" MODIFIED="1361599080729" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361087537285" ID="ID_776717662" MODIFIED="1361087558690" TEXT="Convert the xml data obtained from the target url, into a JSON-formatted data"/>
+</node>
+<node CREATED="1361087567058" FOLDED="true" ID="ID_753035792" MODIFIED="1361172208084" TEXT="03">
+<icon BUILTIN="idea"/>
+<node CREATED="1361087569095" ID="ID_65267957" MODIFIED="1361087576713" TEXT="Echo the converted data"/>
+</node>
+<node CREATED="1361088884952" FOLDED="true" ID="ID_1629166684" MODIFIED="1361599080730" TEXT="04">
+<icon BUILTIN="idea"/>
+<node CREATED="1361087522847" ID="ID_702751988" MODIFIED="1361087534576" TEXT="Receive via http the target url"/>
+</node>
+<node CREATED="1361142176209" ID="ID_495200965" MODIFIED="1361172208083" TEXT="05">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+</node>
+<node CREATED="1361087349917" FOLDED="true" ID="ID_1740119028" MODIFIED="1361599080730" TEXT="03">
+<icon BUILTIN="idea"/>
+<node CREATED="1361087351762" ID="ID_910798247" MODIFIED="1361087363403" TEXT="Upload the file to Lollipop site"/>
+</node>
+<node CREATED="1361087364407" FOLDED="true" ID="ID_1308763189" MODIFIED="1361599080730" TEXT="04">
+<icon BUILTIN="idea"/>
+<node CREATED="1361087366076" ID="ID_596325417" MODIFIED="1361087371469" TEXT="Try browsing the file"/>
+</node>
+<node CREATED="1361172222533" FOLDED="true" ID="ID_955692206" MODIFIED="1361599080731" TEXT="05">
+<node CREATED="1361173764518" FOLDED="true" ID="ID_1348496075" MODIFIED="1361599080730" TEXT="01">
+<node CREATED="1361173766574" FOLDED="true" ID="ID_1628638859" MODIFIED="1361599080730" TEXT="PHP programs">
+<node CREATED="1361173773064" ID="ID_661050315" MODIFIED="1361173777616" TEXT="&quot;header()&quot;"/>
+<node CREATED="1361173778790" ID="ID_938584972" MODIFIED="1361173781056" TEXT="Upload"/>
+</node>
+</node>
+<node CREATED="1361175480632" FOLDED="true" ID="ID_892452661" MODIFIED="1361599080731" TEXT="02">
+<node CREATED="1361175482314" FOLDED="true" ID="ID_712700312" MODIFIED="1361599080731" TEXT="Accsess">
+<node COLOR="#ff3333" CREATED="1361175488212" FOLDED="true" ID="ID_1060377466" MODIFIED="1361599080730" TEXT="ERROR">
+<icon BUILTIN="idea"/>
+<node CREATED="1361175490273" ID="ID_373876763" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\error_20130218_171738.log" MODIFIED="1361175492879" TEXT="log"/>
+<node CREATED="1361175616390" FOLDED="true" ID="ID_1078383631" MODIFIED="1361599080730" TEXT="FOUND">
+<node CREATED="1361175618715" FOLDED="true" ID="ID_355140191" MODIFIED="1361599080730" TEXT="The device indicator for net connection">
+<node CREATED="1361175637941" ID="ID_1531171455" MODIFIED="1361175648605" TEXT="=&gt; Gray"/>
+</node>
+</node>
+<node CREATED="1361175652218" FOLDED="true" ID="ID_1487976652" MODIFIED="1361599080730" TEXT="TRY">
+<node CREATED="1361175653834" ID="ID_1984633261" MODIFIED="1361175667577" TEXT="Wait until it gets blue"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361328864691" FOLDED="true" ID="ID_430500241" MODIFIED="1361599080731" TEXT="03">
+<icon BUILTIN="idea"/>
+<node CREATED="1361175482314" FOLDED="true" ID="ID_433330319" MODIFIED="1361599080731" TEXT="Accsess">
+<node CREATED="1361328874072" FOLDED="true" ID="ID_189282199" MODIFIED="1361599080731" TEXT="01">
+<node CREATED="1361328875460" FOLDED="true" ID="ID_1587083142" MODIFIED="1361599080731" TEXT="ifm9::Methods.java">
+<node CREATED="1361328884285" ID="ID_1003481842" MODIFIED="1361328909663" TEXT="Strings maldisplayed due to encoding change"/>
+</node>
+</node>
+<node CREATED="1361329394760" FOLDED="true" ID="ID_1987392714" MODIFIED="1361599080731" TEXT="02">
+<node CREATED="1361329396000" FOLDED="true" ID="ID_381239210" MODIFIED="1361599080731" TEXT="SEGWAY">
+<icon BUILTIN="idea"/>
+<node CREATED="1361329398726" FOLDED="true" ID="ID_34414219" MODIFIED="1361599080731" TEXT="Fix">
+<node CREATED="1361329401237" ID="ID_166910786" MODIFIED="1361329407131" TEXT="=&gt; ifm9::Methods.java"/>
+</node>
+</node>
+</node>
+<node CREATED="1361338011527" FOLDED="true" ID="ID_1302547512" MODIFIED="1361599080731" TEXT="RESULT">
+<node CREATED="1361338013551" ID="ID_906241372" MODIFIED="1361338020992" TEXT="&quot;&#x6d17;&#x6fef;&quot;"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361338737109" FOLDED="true" ID="ID_185653293" MODIFIED="1361599080732" TEXT="Symbol">
+<node CREATED="1361338744344" ID="ID_1832449544" MODIFIED="1361338751098" TEXT="Merge">
+<icon BUILTIN="group"/>
+</node>
+</node>
+</node>
+<node CREATED="1361338028008" FOLDED="true" ID="ID_771027884" MODIFIED="1361598697864" TEXT="v-4.0">
+<icon BUILTIN="folder"/>
+<node CREATED="1361338035688" ID="ID_372465528" MODIFIED="1361338047986" TEXT="Create a JSON lib">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361338756309" FOLDED="true" ID="ID_545659051" MODIFIED="1361598697864" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361339754451" FOLDED="true" ID="ID_92927266" MODIFIED="1361598697863" TEXT="CODES">
+<icon BUILTIN="idea"/>
+<node CREATED="1361339756253" FOLDED="true" ID="ID_554876163" MODIFIED="1361598697862" TEXT="YahooFurigana.java">
+<node CREATED="1361339764096" ID="ID_549315679" MODIFIED="1361339764096" TEXT="getFurigana(true)"/>
+<node CREATED="1361343773144" ID="ID_1878813751" MODIFIED="1361343783043" TEXT="getJsonObjectFromKeyWord(String keyWord2)"/>
+<node CREATED="1361344219300" ID="ID_1048459557" MODIFIED="1361344219932" TEXT="YahooFurigana(String keyWord)"/>
+<node CREATED="1361344329143" ID="ID_1987560378" MODIFIED="1361344329750" TEXT="getInstance()"/>
+<node CREATED="1361344340434" ID="ID_556907686" MODIFIED="1361344341277" TEXT="YahooFurigana()"/>
+<node CREATED="1361348561252" ID="ID_839768562" MODIFIED="1361348561252" TEXT="getFurigana(String keyWord, boolean flag)"/>
+</node>
+<node CREATED="1361345119875" FOLDED="true" ID="ID_1742611409" MODIFIED="1361598697863" TEXT="SEGWAY">
+<node CREATED="1361345124996" ID="ID_498796888" LINK="http://www.oracle.com/technetwork/java/javase/documentation/index-137868.html" MODIFIED="1361345146597" TEXT="How to write comments for the javadoc tool"/>
+</node>
+</node>
+<node CREATED="1361348570896" FOLDED="true" ID="ID_386957783" MODIFIED="1361598697864" TEXT="RESULT">
+<node CREATED="1361348573403" ID="ID_1328441227" MODIFIED="1361348580869" TEXT="Furigana =&gt; Obtained!"/>
+</node>
+</node>
+</node>
+<node CREATED="1361349117529" FOLDED="true" ID="ID_1266448515" MODIFIED="1361598691550" TEXT="v-5.0">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#999999" CREATED="1361349125442" ID="ID_1635629610" MODIFIED="1361349334547" TEXT="Get furiganas of, say, 10 entries in the main table of the db">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361349125442" ID="ID_567872659" MODIFIED="1361349342564" TEXT="Get furiganas of, say, 10 entries in the main table of the db">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361349165112" FOLDED="true" ID="ID_1084534083" MODIFIED="1361599080732" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361350232598" ID="ID_944763090" MODIFIED="1361350247054" TEXT="Furigana =&gt; Convert to hiragana"/>
+<node CREATED="1361349182458" FOLDED="true" ID="ID_611694875" MODIFIED="1361599080732" TEXT="CODES">
+<node CREATED="1361350260412" ID="ID_291559437" MODIFIED="1361350260412" TEXT="private static void doInBackground_B18_v_4_1()"/>
+</node>
+</node>
+<node CREATED="1361350225706" FOLDED="true" ID="ID_1742395225" MODIFIED="1361599080734" TEXT="02">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1361491623699" FOLDED="true" ID="ID_469916887" MODIFIED="1361599080732" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361491625587" ID="ID_1896459540" MODIFIED="1361491654302" TEXT="No-param constructor + keyword-param method"/>
+</node>
+<node CREATED="1361491918457" FOLDED="true" ID="ID_248924162" MODIFIED="1361599080734" TEXT="02">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1361498711573" FOLDED="true" ID="ID_40698734" MODIFIED="1361599080733" TEXT="01">
+<node CREATED="1361491923244" FOLDED="true" ID="ID_1245921414" MODIFIED="1361599080732" TEXT="CODES">
+<node CREATED="1361491929246" ID="ID_1649058666" MODIFIED="1361491939362" TEXT="Get &quot;name&quot;s from the table"/>
+</node>
+<node COLOR="#ff3333" CREATED="1361496648231" FOLDED="true" ID="ID_406349196" MODIFIED="1361599080733" TEXT="PROBLEM">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1361496650796" ID="ID_597253446" MODIFIED="1361496681143" TEXT="WordList -- Word ==&gt; &quot;Word&quot; key can be a single child"/>
+<node CREATED="1361496696172" FOLDED="true" ID="ID_1680767366" MODIFIED="1361599080732" TEXT="TRY">
+<node CREATED="1361496697832" ID="ID_158535125" MODIFIED="1361496715485" TEXT="Use &quot;Object&quot; class to receive &quot;getJSONArray&quot;"/>
+<node CREATED="1361496740158" FOLDED="true" ID="ID_456326488" MODIFIED="1361599080732" TEXT="v-5.0-e1-t1">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361497264441" FOLDED="true" ID="ID_1462908902" MODIFIED="1361599080732" TEXT="CODES">
+<node CREATED="1361497273849" FOLDED="true" ID="ID_953772690" MODIFIED="1361599080732" TEXT="YahooFurigana">
+<node CREATED="1361497267054" ID="ID_1360701571" MODIFIED="1361497267054" TEXT="getFurigana_B18_v_5_0_e_1_t_1(boolean flag)"/>
+</node>
+</node>
+</node>
+<node CREATED="1361498546492" FOLDED="true" ID="ID_1586006831" MODIFIED="1361599080732" TEXT="WORKAROUND">
+<node CREATED="1361498557034" ID="ID_1535188928" MODIFIED="1361498590473" TEXT="If exception occurred, then in the catch block, process the object as an JSONObject"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361498713030" FOLDED="true" ID="ID_1226145042" MODIFIED="1361599080734" TEXT="02">
+<arrowlink DESTINATION="ID_38563715" ENDARROW="Default" ENDINCLINATION="192;0;" ID="Arrow_ID_646410237" STARTARROW="None" STARTINCLINATION="192;0;"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1361498721146" FOLDED="true" ID="ID_558878850" MODIFIED="1361599080734" TEXT="REFACTOR">
+<node CREATED="1361499721634" FOLDED="true" ID="ID_468893090" MODIFIED="1361599080733" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361498726067" FOLDED="true" ID="ID_1042548880" MODIFIED="1361599080733" TEXT="YahooFurigana">
+<node CREATED="1361499382357" FOLDED="true" ID="ID_938245195" MODIFIED="1361599080733" TEXT="getFuriganaFromJSONObjectWord(JSONObject joWord)">
+<node CREATED="1361499383923" ID="ID_615378626" MODIFIED="1361499394980" TEXT="NEW"/>
+</node>
+</node>
+</node>
+<node CREATED="1361499727527" FOLDED="true" ID="ID_1366325058" MODIFIED="1361599080733" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361499728718" FOLDED="true" ID="ID_1433816982" MODIFIED="1361599080733" TEXT="TEST">
+<icon BUILTIN="idea"/>
+<node CREATED="1361499730542" FOLDED="true" ID="ID_848275404" MODIFIED="1361599080733" TEXT="01">
+<node CREATED="1361499732226" ID="ID_847959136" MODIFIED="1361499759006" TEXT="&#x306e;&#x3069;&#x98f4;">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1361499737450" ID="ID_289206459" MODIFIED="1361499784938" TEXT="&#x304b;&#x308a;&#x3093;&#x3068;&#x3046;">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361499885555" FOLDED="true" ID="ID_350833209" MODIFIED="1361599080734" TEXT="03">
+<icon BUILTIN="idea"/>
+<node CREATED="1361496740158" FOLDED="true" ID="ID_164619921" MODIFIED="1361599080734" TEXT="v-5.0-e1-t1-a1">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361499939601" FOLDED="true" ID="ID_1863795524" MODIFIED="1361599080733" TEXT="&quot;a1&quot;">
+<cloud/>
+<node CREATED="1361499948920" ID="ID_495489850" MODIFIED="1361499989811" TEXT="=&gt; NO new method created">
+<cloud/>
+</node>
+</node>
+<node CREATED="1361499728718" FOLDED="true" ID="ID_85239313" MODIFIED="1361599080733" TEXT="TEST">
+<icon BUILTIN="idea"/>
+<node CREATED="1361499730542" FOLDED="true" ID="ID_1291750530" MODIFIED="1361599080733" TEXT="01">
+<node CREATED="1361499739910" ID="ID_1598917023" MODIFIED="1361499750588" TEXT="&#x6d17;&#x6fef;&#x7db2;&#xff08;&#x4e2d;&#xff09;&#x76ee;&#x7389;&#x30af;&#x30ea;&#x30c3;&#x30d7;"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361501134480" FOLDED="true" ID="ID_423828876" MODIFIED="1361599080734" TEXT="04">
+<icon BUILTIN="idea"/>
+<node CREATED="1361501136074" FOLDED="true" ID="ID_1395767097" MODIFIED="1361599080734" TEXT="Edit">
+<node CREATED="1361501198539" ID="ID_1269948332" MODIFIED="1361501202821" TEXT="v-5.0-e1-t1-a2">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361501720616" FOLDED="true" ID="ID_705435121" MODIFIED="1361599080734" TEXT="YahooFurigana">
+<node CREATED="1361501725649" ID="ID_416602938" MODIFIED="1361501725649" TEXT="getFurigana(keyWord, true)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361501763036" FOLDED="true" ID="ID_811662695" MODIFIED="1361599080735" TEXT="v-5.1">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1361501120630" ID="ID_1950444529" MODIFIED="1361502450354" TEXT="Get names from the table"/>
+<node CREATED="1361502610544" FOLDED="true" ID="ID_440424936" MODIFIED="1361599080735" TEXT="v-5.1a">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361501117474" FOLDED="true" ID="ID_38563715" MODIFIED="1361599080735" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361502451701" FOLDED="true" ID="ID_1426611594" MODIFIED="1361599080735" TEXT="Create a new class">
+<node CREATED="1361502456728" ID="ID_536475851" MODIFIED="1361502463114" TEXT="=&gt; Furi.java"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361504301318" FOLDED="true" ID="ID_796172335" MODIFIED="1361599080736" TEXT="v-5.2">
+<icon BUILTIN="idea"/>
+<node CREATED="1361504278837" FOLDED="true" ID="ID_1717187138" MODIFIED="1361599080736" TEXT="01">
+<node CREATED="1361504280390" FOLDED="true" ID="ID_560887827" MODIFIED="1361599080736" TEXT="Apply Furi.java to all the entry in the table">
+<icon BUILTIN="idea"/>
+<node CREATED="1361504904772" ID="ID_1906108169" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\rec_20130222_124833.log" MODIFIED="1361504934688" TEXT="log"/>
+</node>
+</node>
+</node>
+<node CREATED="1361504954984" FOLDED="true" ID="ID_759625510" MODIFIED="1361599080738" TEXT="v-5.3">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361504958788" FOLDED="true" ID="ID_1980930191" MODIFIED="1361599080738" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361504960420" FOLDED="true" ID="ID_193179924" MODIFIED="1361599080736" TEXT="Enter &quot;gana&quot; value into the table">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361542786320" ID="ID_1655211963" MODIFIED="1361542797762" TEXT="First 20 entries in the table">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1361508330560" FOLDED="true" ID="ID_386616166" MODIFIED="1361599080737" TEXT="REFACTOR">
+<icon BUILTIN="idea"/>
+<node CREATED="1361508040608" FOLDED="true" ID="ID_1681824713" MODIFIED="1361599080736" TEXT="Task_GetYomi">
+<node CREATED="1361508343449" ID="ID_324312139" MODIFIED="1361508343449" TEXT="doInBackground_B18_v_5_3()"/>
+</node>
+</node>
+<node CREATED="1361508027747" FOLDED="true" ID="ID_1806110553" MODIFIED="1361599080738" TEXT="CODES">
+<node CREATED="1361508040608" FOLDED="true" ID="ID_1369988370" MODIFIED="1361599080737" TEXT="Task_GetYomi">
+<node CREATED="1361508031021" ID="ID_1934903262" MODIFIED="1361508031021" TEXT="doInBackground_B18_v_5_3__1_getFuriganaList"/>
+<node CREATED="1361508498989" ID="ID_541285979" MODIFIED="1361508499748" TEXT="doInBackground_B18_v_5_3__2_updateTable"/>
+</node>
+<node CREATED="1361537560848" FOLDED="true" ID="ID_1955753034" MODIFIED="1361599080737" TEXT="DBUtils">
+<node CREATED="1361537565224" ID="ID_213588859" MODIFIED="1361537567251" TEXT="updateData_shoppingItem()"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361542810296" FOLDED="true" ID="ID_557931364" MODIFIED="1361599080742" TEXT="v-5.4">
+<icon BUILTIN="stop-sign"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361542815119" FOLDED="true" ID="ID_536205465" MODIFIED="1361599080738" TEXT="Enter &quot;gana&quot; to all the entries">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361542830021" ID="ID_58317981" MODIFIED="1361542933818" TEXT="=&gt; If already gana value exists, then skip the entry">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1361586169096" FOLDED="true" ID="ID_642009514" MODIFIED="1361599080739" TEXT="s">
+<node CREATED="1361586180763" ID="ID_1439785047" MODIFIED="1361586180763" TEXT="11:22:54 02/23/2013"/>
+</node>
+<node CREATED="1361586224978" FOLDED="true" ID="ID_1026025848" MODIFIED="1361599080742" TEXT="01">
+<node CREATED="1361586227275" ID="ID_1585703984" MODIFIED="1361586256874" TEXT="Will the value be &quot;null&quot;, where the value has not been inserted?">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361586271245" FOLDED="true" ID="ID_595807573" MODIFIED="1361599080739" TEXT="CODES">
+<node CREATED="1361586279394" FOLDED="true" ID="ID_787513910" MODIFIED="1361599080739" TEXT="Task_GetYomi">
+<node CREATED="1361586273502" ID="ID_493278099" MODIFIED="1361586273502" TEXT="doInBackground_B18_v_5_4__2_getFurigana(furiganaList)"/>
+<node CREATED="1361587752329" ID="ID_1210847926" MODIFIED="1361587752871" TEXT="doInBackground_B18_v_5_4__3_getGana(furiganaList)"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1361589854821" FOLDED="true" ID="ID_1797063174" MODIFIED="1361599080741" TEXT="PROBLEM">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1361508040608" FOLDED="true" ID="ID_1163015035" MODIFIED="1361599080739" TEXT="Task_GetYomi">
+<node CREATED="1361589857195" ID="ID_221119412" MODIFIED="1361589858393" TEXT="f.getFuri() != null"/>
+</node>
+<node CREATED="1361589916386" FOLDED="true" ID="ID_306985311" MODIFIED="1361599080741" TEXT="TRY">
+<node CREATED="1361589918155" FOLDED="true" ID="ID_1943716903" MODIFIED="1361599080740" TEXT="INSPECT">
+<node CREATED="1361589921788" ID="ID_692108443" MODIFIED="1361589922200" TEXT="doInBackground_B18_v_5_4__2_getFurigana(furiganaList)"/>
+</node>
+<node CREATED="1361589918155" FOLDED="true" ID="ID_1956180915" MODIFIED="1361599080740" TEXT="INSPECT">
+<node CREATED="1361590027231" FOLDED="true" ID="ID_1906397627" MODIFIED="1361599080740" TEXT="doInBackground_B18_v_5_4__2_getFurigana">
+<node CREATED="1361590010386" ID="ID_1621583614" MODIFIED="1361590010386" TEXT="objFuri.getGana()"/>
+</node>
+<node CREATED="1361590051012" ID="ID_924266107" MODIFIED="1361590051012" TEXT="doInBackground_B18_v_5_4__1_getFuriganaList"/>
+</node>
+</node>
+<node CREATED="1361590377054" FOLDED="true" ID="ID_1084172457" MODIFIED="1361599080741" TEXT="DROP">
+<node CREATED="1361590382237" ID="ID_1354431982" MODIFIED="1361590395200" TEXT="Let&apos;s refactor: &quot;Furi.java&quot; --&gt; &quot;Word.java&quot;"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361590407992" FOLDED="true" ID="ID_737024013" MODIFIED="1361599080742" TEXT="v-6.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361594001564" ID="ID_325593481" MODIFIED="1361594021772" TEXT="CODE CLEANUP"/>
+</node>
+<node CREATED="1361593997622" FOLDED="true" ID="ID_986186152" MODIFIED="1361599080744" TEXT="v-6.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1361596981820" FOLDED="true" ID="ID_1335557855" MODIFIED="1361599080743" TEXT="01">
+<node CREATED="1361595108083" FOLDED="true" ID="ID_160668120" MODIFIED="1361599080743" TEXT="CONCERN">
+<node CREATED="1361595113822" FOLDED="true" ID="ID_1711495411" MODIFIED="1361599080742" TEXT="Http connection times out">
+<node CREATED="1361595121726" ID="ID_480711385" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\rec_20130223_135107.log" MODIFIED="1361595124284" TEXT="log"/>
+</node>
+</node>
+</node>
+<node CREATED="1361596987504" FOLDED="true" ID="ID_1153815613" MODIFIED="1361599080744" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361596989733" FOLDED="true" ID="ID_1616664641" MODIFIED="1361599080743" TEXT="First try">
+<node CREATED="1361596997385" FOLDED="true" ID="ID_1550567401" MODIFIED="1361599080743" TEXT="=&gt; First 10 entries">
+<node CREATED="1361597082111" ID="ID_1830928244" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\rec_20130223_142417.log" MODIFIED="1361597084838" TEXT="log"/>
+</node>
+</node>
+</node>
+<node CREATED="1361597003608" FOLDED="true" ID="ID_1690416607" MODIFIED="1361599080744" TEXT="03">
+<icon BUILTIN="idea"/>
+<node CREATED="1361597010784" FOLDED="true" ID="ID_1937112816" MODIFIED="1361599080744" TEXT="Second">
+<node CREATED="1361598653510" ID="ID_908104607" MODIFIED="1361598659545" TEXT="=&gt; All entries done">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1678196271" MODIFIED="1361601303797" TEXT="D-15">
+<node CREATED="1361599002527" FOLDED="true" ID="ID_565515113" MODIFIED="1361601303797" TEXT="MISC">
+<node CREATED="1361600776497" FOLDED="true" ID="ID_890247818" MODIFIED="1361601303797" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361599004637" ID="ID_1661745396" MODIFIED="1361599023708" TEXT="Set the title of each activity to the name of the class"/>
+<node CREATED="1361600758943" ID="ID_22451322" MODIFIED="1361600761193" TEXT="m">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361600762433" ID="ID_895311790" MODIFIED="1361600765616" TEXT="v-1.9"/>
+</node>
+<node CREATED="1361600786163" FOLDED="true" ID="ID_1268970741" MODIFIED="1361601303797" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361600787814" ID="ID_1848518823" MODIFIED="1361600789118" TEXT="Push"/>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1869786813" MODIFIED="1362279855128" TEXT="D-16">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361600851379" FOLDED="true" ID="ID_1744976537" MODIFIED="1362279855127" TEXT="Change UI">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361600856124" FOLDED="true" ID="ID_102774311" MODIFIED="1362279855127" TEXT="ItemListActv">
+<node CREATED="1361600860191" ID="ID_1934948684" MODIFIED="1361600876838" TEXT="Delete the button &quot;&#x898b;&#x308b;&quot;"/>
+</node>
+</node>
+<node CREATED="1361600926338" ID="ID_1647688187" MODIFIED="1361600939857" TEXT="B19_change_ui_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361601030404" FOLDED="true" ID="ID_1471651383" MODIFIED="1362279855128" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1361601034378" FOLDED="true" ID="ID_1504958656" MODIFIED="1362279855127" TEXT="01">
+<node CREATED="1361601038542" FOLDED="true" ID="ID_1866328497" MODIFIED="1362279855127" TEXT="CODES">
+<node CREATED="1361601036122" ID="ID_984934238" MODIFIED="1361601037433" TEXT="ItemListActv"/>
+<node CREATED="1361601191763" ID="ID_1783479667" MODIFIED="1361601194626" TEXT="itemlist.xml"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_615397734" MODIFIED="1362276928253" TEXT="D-17">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1361601254381" ID="ID_1354897208" MODIFIED="1361601273859" TEXT="Button &quot;&#x78ba;&#x5b9a;&quot; =&gt; Show only the chosen item"/>
+<node CREATED="1361601307251" ID="ID_1212419369" MODIFIED="1361601340960" TEXT="B20_show_tobuy-list_only">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361601359573" FOLDED="true" ID="ID_124020473" MODIFIED="1362279855128" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361601362303" FOLDED="true" ID="ID_42088481" MODIFIED="1362279855128" TEXT="01">
+<node CREATED="1361601363670" FOLDED="true" ID="ID_697440469" MODIFIED="1362279855128" TEXT="Let&apos;s see">
+<node CREATED="1361601367507" ID="ID_1317968882" MODIFIED="1361601375469" TEXT="=&gt; B11_show_tobuy-list_only"/>
+</node>
+<node CREATED="1361601977316" FOLDED="true" ID="ID_1729725040" MODIFIED="1362279855128" TEXT="Copy/paste and edit">
+<icon BUILTIN="idea"/>
+<node CREATED="1361601984928" ID="ID_1812180489" MODIFIED="1361602023371" TEXT="B11::ButtonOnClickListener::case itemlist_bt_choose"/>
+</node>
+</node>
+</node>
+<node CREATED="1361602032493" FOLDED="true" ID="ID_1967912571" MODIFIED="1362279855128" TEXT="v-1.1">
+<node CREATED="1361602073256" FOLDED="true" ID="ID_1833484645" MODIFIED="1362279855128" TEXT="01">
+<node CREATED="1361602075763" ID="ID_204924905" MODIFIED="1361602094942" TEXT="&quot;&#x78ba;&#x5b9a;&quot; =&gt; Then, &quot;checkedPositions&quot; --&gt; Clear"/>
+<node COLOR="#ff3333" CREATED="1361602182552" FOLDED="true" ID="ID_1769513917" MODIFIED="1362279855128" TEXT="PROBLEM">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1361602185352" FOLDED="true" ID="ID_416897154" MODIFIED="1362279855128" TEXT="Color green">
+<node CREATED="1361602202906" ID="ID_1468610769" MODIFIED="1361602202906" TEXT="=&gt; Persists"/>
+</node>
+<node CREATED="1361602244093" FOLDED="true" ID="ID_993387060" MODIFIED="1362279855128" TEXT="FOUND">
+<node CREATED="1361602250806" ID="ID_1255920432" MODIFIED="1361602269205" TEXT="&quot;ItemListActv.toBuys&quot;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1809796065" MODIFIED="1361670914964" TEXT="D-18">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1361600926338" ID="ID_97109493" MODIFIED="1361600939857" TEXT="B19_change_ui_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361602939982" FOLDED="true" ID="ID_890027324" MODIFIED="1362279855128" TEXT="Sort list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361602944552" ID="ID_1489733593" MODIFIED="1361602949671" TEXT="=&gt; yomi"/>
+</node>
+<node CREATED="1361602935213" FOLDED="true" ID="ID_181483811" MODIFIED="1362279855128" TEXT="v-2.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361602971231" FOLDED="true" ID="ID_134077447" MODIFIED="1362279855128" TEXT="01">
+<node CREATED="1361602972946" FOLDED="true" ID="ID_982618768" MODIFIED="1362279855128" TEXT="ItemListActv">
+<node CREATED="1361603638482" ID="ID_1058995041" MODIFIED="1361603640444" TEXT="setList()"/>
+</node>
+<node CREATED="1361603646757" FOLDED="true" ID="ID_291949928" MODIFIED="1362279855128" TEXT="Methods_sl">
+<node CREATED="1361603650929" FOLDED="true" ID="ID_528577441" MODIFIED="1362279855128" TEXT="sortItemList(list)">
+<node CREATED="1361603654578" ID="ID_1521491663" MODIFIED="1361603656841" TEXT="NEW">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361603667261" FOLDED="true" ID="ID_940839908" MODIFIED="1362279855128" TEXT="v-2.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361603669796" FOLDED="true" ID="ID_791794311" MODIFIED="1362279855128" TEXT="01">
+<node CREATED="1361603679751" FOLDED="true" ID="ID_215989051" MODIFIED="1362279855128" TEXT="Sort item">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361603682792" ID="ID_795296630" MODIFIED="1361603686964" TEXT="=&gt; yomi"/>
+</node>
+<node CREATED="1361604327301" FOLDED="true" ID="ID_936642289" MODIFIED="1362279855128" TEXT="CODES">
+<node CREATED="1361604309194" FOLDED="true" ID="ID_1605361941" MODIFIED="1362279855128" TEXT="New constructor">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361604315333" ID="ID_106351904" MODIFIED="1361604317097" TEXT="ShoppingItem()"/>
+</node>
+<node CREATED="1361604329561" FOLDED="true" ID="ID_1574757903" MODIFIED="1362279855128" TEXT="Methods_sl">
+<node CREATED="1361604340705" ID="ID_1454582040" MODIFIED="1361604340705" TEXT="sortItemList(list)"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361605003625" FOLDED="true" ID="ID_667369604" MODIFIED="1362279855128" TEXT="v-2.2">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361605015676" FOLDED="true" ID="ID_1486035360" MODIFIED="1362279855128" TEXT="01">
+<node CREATED="1361605017121" FOLDED="true" ID="ID_1933459637" MODIFIED="1362279855128" TEXT="Sort list">
+<node CREATED="1361605041287" ID="ID_1082910331" MODIFIED="1361605044340" TEXT="=&gt; &quot;toBuy&quot; list"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1194363697" MODIFIED="1362279946301" TEXT="D-19">
+<icon BUILTIN="hourglass"/>
+<node CREATED="1361605607508" ID="ID_205174146" MODIFIED="1361605615784" TEXT="Save list in ItemListActv"/>
+<node CREATED="1361605643923" ID="ID_1398634846" MODIFIED="1361605664746" TEXT="B21_Save_list_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361605679255" FOLDED="true" ID="ID_1273782092" MODIFIED="1362279946301" TEXT="v-1.0">
+<node CREATED="1361605682014" FOLDED="true" ID="ID_1808781696" MODIFIED="1362279946301" TEXT="01">
+<node COLOR="#ff3333" CREATED="1361608441728" FOLDED="true" ID="ID_408210035" MODIFIED="1362279946301" TEXT="ERROR">
+<icon BUILTIN="idea"/>
+<node CREATED="1361615606754" ID="ID_644048136" MODIFIED="1361615676650" TEXT="v-1.0-e1">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361608447493" FOLDED="true" ID="ID_1711310876" MODIFIED="1362279946299" TEXT="NullPointerException">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361609108338" ID="ID_1690153248" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\error_20130223_174414.log" MODIFIED="1361609111990" TEXT="log"/>
+</node>
+<node CREATED="1361609191707" FOLDED="true" ID="ID_388467387" MODIFIED="1362279946300" TEXT="SEE">
+<node CREATED="1361609193430" FOLDED="true" ID="ID_808779696" MODIFIED="1362279946299" TEXT="Methods_sl">
+<node CREATED="1361609196522" ID="ID_1188489952" MODIFIED="1361609198469" TEXT="sortItemList()"/>
+</node>
+</node>
+<node CREATED="1361609658662" FOLDED="true" ID="ID_1022445339" MODIFIED="1362279946300" TEXT="FOUND">
+<node CREATED="1361609660337" ID="ID_1407530460" MODIFIED="1361609669721" TEXT="ButtonOnClickListener.java[171:onClick](6569): si.getName()=&#x67ff;&#x30d4;&#x30fc;/si.getYomi()=null "/>
+<node CREATED="1361609674813" FOLDED="true" ID="ID_210501396" MODIFIED="1362279946300" TEXT="SUPPOSE">
+<node CREATED="1361609686700" ID="ID_873699540" MODIFIED="1361609710489" TEXT="&#x30d5;&#x30a3;&#x30eb;&#x30bf;&#x30fc;&#x3057;&#x305f;&#x3068;&#x304d;&#x306e;&#x3001;&#x65b0;&#x305f;&#x306a;&#x30ea;&#x30b9;&#x30c8;&#x4f5c;&#x6210;&#x6642;&#x306b;&#x3001;&#x4e0d;&#x9069;&#x5207;&#x304c;&#x3042;&#x308b;"/>
+</node>
+</node>
+<node CREATED="1361615678609" FOLDED="true" ID="ID_972276015" MODIFIED="1362279946300" TEXT="TRY">
+<icon BUILTIN="idea"/>
+<node CREATED="1361615606754" ID="ID_1226272016" MODIFIED="1361615688583" TEXT="v-1.0-e1-t1">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361615697720" FOLDED="true" ID="ID_1073637102" MODIFIED="1362279946300" TEXT="01">
+<node CREATED="1361615788226" FOLDED="true" ID="ID_1918799573" MODIFIED="1362279946300" TEXT="CODES">
+<node CREATED="1361615786843" FOLDED="true" ID="ID_1779474671" MODIFIED="1362279946300" TEXT="DialogButtonOnClickListener">
+<node CREATED="1361615801439" ID="ID_23453370" MODIFIED="1361615801439" TEXT="case dlg_filter_list_ok"/>
+</node>
+<node CREATED="1361615808000" FOLDED="true" ID="ID_942544299" MODIFIED="1362279946300" TEXT="Methods">
+<node CREATED="1361615812556" ID="ID_895530975" MODIFIED="1361615812556" TEXT="filterList(actv, dlg)"/>
+</node>
+</node>
+</node>
+<node CREATED="1361616781114" ID="ID_980433516" MODIFIED="1361616783573" TEXT="FIXED"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361616801610" FOLDED="true" ID="ID_999358990" MODIFIED="1362279946301" TEXT="V-1.1">
+<node CREATED="1361616793484" FOLDED="true" ID="ID_1175183333" MODIFIED="1362279946301" TEXT="01">
+<node CREATED="1361605685986" ID="ID_1486592830" MODIFIED="1361605690351" TEXT="Option menu title"/>
+</node>
+</node>
+<node CREATED="1361628376420" ID="ID_243651302" MODIFIED="1361628401434" TEXT="&#x30bf;&#x30d6;&#x8868;&#x793a;&#x306e;UI&#x3092;&#x4f5c;&#x3063;&#x3066;&#x304b;&#x3089;">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_679437770" MODIFIED="1363305366790" TEXT="D-20">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1361670886781" ID="ID_526984835" MODIFIED="1361670900279" TEXT="Use tab to show the lists"/>
+<node CREATED="1361676921509" ID="ID_51861280" MODIFIED="1361676932636" TEXT="B22_use_tab_to_show_lists">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361689691552" FOLDED="true" ID="ID_46056314" MODIFIED="1361689703325" TEXT="DONE">
+<node CREATED="1361676942104" FOLDED="true" ID="ID_1593665131" MODIFIED="1361689695188" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1361676946256" FOLDED="true" ID="ID_1578349063" MODIFIED="1362016209534" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361676948775" FOLDED="true" ID="ID_208134902" MODIFIED="1362016209534" TEXT="Create icon">
+<node CREATED="1361676953984" ID="ID_1980630443" MODIFIED="1361676960634" TEXT="=&gt; &quot;Add&quot; in the list tab"/>
+</node>
+</node>
+<node CREATED="1361677746811" FOLDED="true" ID="ID_134734644" MODIFIED="1362016209534" TEXT="02">
+<node CREATED="1361677748687" FOLDED="true" ID="ID_1813055070" MODIFIED="1362016209534" TEXT="CREATE">
+<node CREATED="1361677752495" FOLDED="true" ID="ID_1561440920" MODIFIED="1362016209534" TEXT="Layout file">
+<node CREATED="1361677790350" ID="ID_728658707" MODIFIED="1361677795217" TEXT="itemlist_tabs.xml"/>
+</node>
+</node>
+</node>
+<node CREATED="1361678121760" FOLDED="true" ID="ID_149843068" MODIFIED="1362016209535" TEXT="03">
+<node CREATED="1361678123639" FOLDED="true" ID="ID_1468844414" MODIFIED="1362016209534" TEXT="Tab sample">
+<node CREATED="1361678127196" ID="ID_1317259138" LINK="http://techbooster.org/android/ui/9629/" MODIFIED="1361678138703" TEXT="&lt;= Techbooster"/>
+</node>
+<node CREATED="1361679950970" FOLDED="true" ID="ID_1848339750" MODIFIED="1362016209534" TEXT="IDEA">
+<node CREATED="1361679952919" ID="ID_1131676931" MODIFIED="1361679978629" TEXT="From MainActv, start TabActv through an option menu item in MainActv"/>
+</node>
+</node>
+<node CREATED="1361679988717" FOLDED="true" ID="ID_539107035" MODIFIED="1362016209535" TEXT="04">
+<node CREATED="1361679990923" FOLDED="true" ID="ID_386801809" MODIFIED="1362016209535" TEXT="CODES">
+<node CREATED="1361680602462" ID="ID_207254311" MODIFIED="1361680812504" TEXT="strings.xml">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1361680607677" ID="ID_655568250" MODIFIED="1361680812505" TEXT="menu_main.xml">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1361680619175" FOLDED="true" ID="ID_839353628" MODIFIED="1362016209535" TEXT="MainActv">
+<icon BUILTIN="idea"/>
+<node CREATED="1361680628876" FOLDED="true" ID="ID_1576947490" MODIFIED="1362016209535" TEXT="onOptionsItemSelected(MenuItem item)">
+<node CREATED="1361680636800" ID="ID_525177347" MODIFIED="1361680636800" TEXT="case R.id.menu_main_tab_actv"/>
+</node>
+</node>
+<node CREATED="1361680751509" ID="ID_1327199548" MODIFIED="1361680812505" TEXT="Manifest">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361681236625" FOLDED="true" ID="ID_44340960" MODIFIED="1362016209535" TEXT="v-1.1a">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361681270637" FOLDED="true" ID="ID_1245320032" MODIFIED="1362016209535" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361681272957" ID="ID_1315695885" MODIFIED="1361681281464" TEXT="Reduce the number of tabs to 2">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1361682419180" FOLDED="true" ID="ID_1658219243" MODIFIED="1362016209536" TEXT="v-1.1b">
+<icon BUILTIN="idea"/>
+<node CREATED="1361682353189" FOLDED="true" ID="ID_1791336145" MODIFIED="1362016209536" TEXT="01">
+<node CREATED="1361682362672" FOLDED="true" ID="ID_119053156" MODIFIED="1362016209535" TEXT="Tab 2">
+<node CREATED="1361682364204" ID="ID_1777480671" MODIFIED="1361682374267" TEXT="Replace the text view with a list view"/>
+</node>
+<node CREATED="1361682576583" FOLDED="true" ID="ID_983512158" MODIFIED="1362016209536" TEXT="CODES">
+<node CREATED="1361682621955" FOLDED="true" ID="ID_970446175" MODIFIED="1362016209536" TEXT="TabActv">
+<node CREATED="1361682578406" ID="ID_1441458195" MODIFIED="1361682580143" TEXT="setupListView_B22_v_1_1_b()"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361683350362" FOLDED="true" ID="ID_1708623740" MODIFIED="1361689697461" TEXT="v-1.2">
+<icon BUILTIN="idea"/>
+<node CREATED="1361683354657" FOLDED="true" ID="ID_490194759" MODIFIED="1362016209536" TEXT="01">
+<node CREATED="1361683356562" FOLDED="true" ID="ID_1891401450" MODIFIED="1362016209536" TEXT="Tab 1">
+<node CREATED="1361683360287" ID="ID_162525676" MODIFIED="1361683365229" TEXT="=&gt; Also, show a list"/>
+</node>
+<node CREATED="1361683561205" FOLDED="true" ID="ID_775027070" MODIFIED="1362016209536" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361683564301" ID="ID_1465302530" MODIFIED="1361683566900" TEXT="Refactor">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361683573958" ID="ID_309000746" MODIFIED="1361683582435" TEXT="v-1.2a">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361683754870" FOLDED="true" ID="ID_974499511" MODIFIED="1362016209536" TEXT="CODES">
+<node CREATED="1361682621955" FOLDED="true" ID="ID_624525565" MODIFIED="1362016209536" TEXT="TabActv">
+<node CREATED="1361683757177" ID="ID_1978001710" MODIFIED="1361683759123" TEXT="setupTabs()"/>
+</node>
+</node>
+</node>
+<node CREATED="1361683886722" FOLDED="true" ID="ID_1566859967" MODIFIED="1362016209536" TEXT="02">
+<node CREATED="1361683889019" ID="ID_1143841257" MODIFIED="1361683891925" TEXT="v-1.2b"/>
+<node CREATED="1361683894378" ID="ID_476198360" MODIFIED="1361683907474" TEXT="Set content to the list in tab 1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1361683550822" FOLDED="true" ID="ID_766842200" MODIFIED="1362016209536" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361686064529" FOLDED="true" ID="ID_958375502" MODIFIED="1362016209536" TEXT="CREATE">
+<node CREATED="1361686068445" ID="ID_571655043" MODIFIED="1361686087352" TEXT="Icons for the tab indicators"/>
+</node>
+</node>
+<node CREATED="1361687517952" FOLDED="true" ID="ID_152432983" MODIFIED="1362016209536" TEXT="03">
+<icon BUILTIN="idea"/>
+<node CREATED="1361687519704" ID="ID_1748282287" MODIFIED="1361687522537" TEXT="Set new icons"/>
+</node>
+</node>
+<node CREATED="1361687815634" FOLDED="true" ID="ID_1248229846" MODIFIED="1361798146443" TEXT="v-2.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361687817853" FOLDED="true" ID="ID_1267970412" MODIFIED="1362016209537" TEXT="In the items tab, show the real items list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361687850389" ID="ID_1070496241" MODIFIED="1361687865437" TEXT="Using a layout file for the row view"/>
+<node CREATED="1361687865866" ID="ID_1878176068" MODIFIED="1361687870290" TEXT="Using data from db"/>
+</node>
+<node CREATED="1361687872983" FOLDED="true" ID="ID_1958678394" MODIFIED="1362016209537" TEXT="01">
+<node CREATED="1361688261856" FOLDED="true" ID="ID_937472098" MODIFIED="1362016209537" TEXT="REFACTOR">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1361688265625" ID="ID_1779513663" MODIFIED="1361688274513" TEXT="Move fields to CONS.java"/>
+</node>
+</node>
+<node CREATED="1361688254437" FOLDED="true" ID="ID_431832021" MODIFIED="1362016209537" TEXT="02">
+<node CREATED="1361687920882" FOLDED="true" ID="ID_1844439901" MODIFIED="1362016209537" TEXT="Get data from db">
+<node CREATED="1361687925604" ID="ID_1921066044" MODIFIED="1361687940903" TEXT="=&gt; Show the size of data in the logcat"/>
+</node>
+<node CREATED="1361688622227" FOLDED="true" ID="ID_27196000" MODIFIED="1362016209537" TEXT="01">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361689145786" ID="ID_1758160688" MODIFIED="1361689150829" TEXT="v-2.0a">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361688636789" FOLDED="true" ID="ID_467670791" MODIFIED="1362016209537" TEXT="TabActv">
+<node CREATED="1361688625339" ID="ID_1142381493" MODIFIED="1361688626849" TEXT="prepareItemList()"/>
+</node>
+</node>
+<node CREATED="1361689156163" FOLDED="true" ID="ID_1630212495" MODIFIED="1362016209537" TEXT="02">
+<node CREATED="1361689157830" ID="ID_700402353" MODIFIED="1361689181705" TEXT="v-2.0b">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361689163389" ID="ID_788754784" MODIFIED="1361689548152" TEXT="Setup adapter">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361689548860" FOLDED="true" ID="ID_603720947" MODIFIED="1362016209537" TEXT="01">
+<node CREATED="1361689550377" FOLDED="true" ID="ID_1621950206" MODIFIED="1362016209537" TEXT="CODES">
+<node CREATED="1361689553159" ID="ID_1221391938" MODIFIED="1361689554226" TEXT="ItemListAdapter2"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361689750051" FOLDED="true" ID="ID_564101521" MODIFIED="1361798147954" TEXT="v-2.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361689779006" FOLDED="true" ID="ID_942916685" MODIFIED="1362016209537" TEXT="UI">
+<node CREATED="1361689752518" ID="ID_1321373743" MODIFIED="1361689777274" TEXT="Add &quot;Add&quot; button to the tab 1"/>
+</node>
+<node COLOR="#ff3333" CREATED="1361690497838" FOLDED="true" ID="ID_1711739151" MODIFIED="1361692547917" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1361690499978" FOLDED="true" ID="ID_234536833" MODIFIED="1362016209537" TEXT="ImageButton">
+<node CREATED="1361690503429" ID="ID_4620995" MODIFIED="1361690509181" TEXT="=&gt; Not shown in the tab 1"/>
+</node>
+<node CREATED="1361690521573" FOLDED="true" ID="ID_1039735377" MODIFIED="1362016209538" TEXT="TRY">
+<node CREATED="1361690523639" FOLDED="true" ID="ID_1114246301" MODIFIED="1362016209537" TEXT="Get info">
+<node CREATED="1361690910301" ID="ID_573577457" LINK="http://stackoverflow.com/questions/9708267/how-to-add-common-button-to-all-tabs-of-tab-host-in-android" MODIFIED="1361690923883" TEXT="&quot;answered Mar 14 &apos;12 at 19:07&quot;"/>
+</node>
+</node>
+<node CREATED="1361690686517" FOLDED="true" ID="ID_1090789797" MODIFIED="1362016209538" TEXT="SOLVED">
+<node CREATED="1361690688440" FOLDED="true" ID="ID_1794999787" MODIFIED="1362016209538" TEXT="LinearLayout(@+id/first_content)">
+<node CREATED="1361690694958" ID="ID_563370336" MODIFIED="1361690704447" TEXT="=&gt; Orientation wasn&apos;t defined"/>
+<node CREATED="1361690705122" FOLDED="true" ID="ID_1959199110" MODIFIED="1362016209538" TEXT="=&gt; Hence, the default was being used, which is &quot;horizontal&quot;">
+<node CREATED="1361690776326" ID="ID_759169665" LINK="http://developer.android.com/reference/android/widget/LinearLayout.html" MODIFIED="1361690783839" TEXT="--&gt; &quot;The default orientation is horizontal.&quot;"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1361690497838" FOLDED="true" ID="ID_551242125" MODIFIED="1361692550029" TEXT="PROBLEM">
+<icon BUILTIN="folder"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1361690950379" ID="ID_1842057984" MODIFIED="1361690955502" TEXT="v-2.1-e2">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361690867908" FOLDED="true" ID="ID_529993575" MODIFIED="1361692550026" TEXT="List view in the tab 1">
+<node CREATED="1361690879328" ID="ID_1991581903" MODIFIED="1361690890603" TEXT="=&gt; Layout width gets narrow"/>
+</node>
+<node COLOR="#009933" CREATED="1361690893685" FOLDED="true" ID="ID_573705769" MODIFIED="1361692550028" TEXT="TRY 1">
+<node CREATED="1361690950379" ID="ID_201367866" MODIFIED="1361691245764" TEXT="v-2.1-e2-t1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="folder"/>
+</node>
+<node CREATED="1361691047676" FOLDED="true" ID="ID_1823294362" MODIFIED="1361692550027" TEXT="Change the layout width of ImageButton">
+<node CREATED="1361691071413" ID="ID_1567060825" MODIFIED="1361691072341" TEXT="wrap_content"/>
+<node CREATED="1361691076528" ID="ID_1367282746" MODIFIED="1361691078381" TEXT="=&gt; match_parent"/>
+</node>
+<node CREATED="1361691115183" ID="ID_1788330962" MODIFIED="1361691117016" TEXT="SOLVED"/>
+</node>
+<node CREATED="1361691040516" FOLDED="true" ID="ID_744244952" MODIFIED="1361692550028" TEXT="TRY 2">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1361690523639" ID="ID_384531592" MODIFIED="1361690525458" TEXT="Get info"/>
+</node>
+</node>
+<node CREATED="1361691177433" FOLDED="true" ID="ID_1063907463" MODIFIED="1362016209538" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361691179225" ID="ID_145686632" MODIFIED="1361691181185" TEXT="v-2.1a"/>
+<node CREATED="1361691182468" FOLDED="true" ID="ID_1434461651" MODIFIED="1362016209538" TEXT="The height of the ImageButton">
+<node CREATED="1361691196495" FOLDED="true" ID="ID_461699176" MODIFIED="1362016209538" TEXT="=&gt; Lower">
+<node CREATED="1361691380202" ID="ID_1123215017" MODIFIED="1361691381887" TEXT="wrap_content"/>
+<node CREATED="1361691387181" ID="ID_1199141620" MODIFIED="1361691390275" TEXT="=&gt; 50dp"/>
+</node>
+<node CREATED="1361691603652" ID="ID_1980023632" MODIFIED="1361691611894" TEXT="New LinearLayout"/>
+</node>
+</node>
+</node>
+<node CREATED="1361689796708" FOLDED="true" ID="ID_438877710" MODIFIED="1363305366788" TEXT="v-3.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361692677895" ID="ID_1673932210" MODIFIED="1361692684972" TEXT="NEW TASK">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361692527444" FOLDED="true" ID="ID_1899849361" MODIFIED="1362016209538" TEXT="NEW">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361692532464" ID="ID_1131973980" MODIFIED="1361692653546" TEXT="PrefActv">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1361692656818" FOLDED="true" ID="ID_790341340" MODIFIED="1362016209539" TEXT="Reference">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361692660561" ID="ID_442975927" MODIFIED="1361692768330" TEXT="=&gt; ifm9">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1361692655120" FOLDED="true" ID="ID_810807174" MODIFIED="1362016209541" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361692769457" ID="ID_4794793" MODIFIED="1361692775360" TEXT="Add item to menu"/>
+<node CREATED="1361692777371" FOLDED="true" ID="ID_534531748" MODIFIED="1362016209539" TEXT="CODES">
+<node CREATED="1361692997431" ID="ID_203409024" MODIFIED="1361692997431" TEXT="menu_main.xml"/>
+<node CREATED="1361693002843" ID="ID_1056178062" MODIFIED="1361693005181" TEXT="strings.xml"/>
+</node>
+</node>
+<node CREATED="1361693011349" FOLDED="true" ID="ID_622881669" MODIFIED="1363305366787" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361693020122" FOLDED="true" ID="ID_1682522371" MODIFIED="1362016209541" TEXT="Copy/paste">
+<icon BUILTIN="idea"/>
+<node CREATED="1361693066133" ID="ID_862152912" MODIFIED="1361693067764" TEXT="PrefActv.java"/>
+<node CREATED="1361693110135" ID="ID_163219062" MODIFIED="1361693110135" TEXT="main_pref.xml"/>
+<node CREATED="1361693165334" ID="ID_178241727" MODIFIED="1361693165831" TEXT="preferences.xml"/>
+</node>
+<node CREATED="1361693044373" FOLDED="true" ID="ID_809155056" MODIFIED="1363305366786" TEXT="Edit">
+<node CREATED="1361693165334" ID="ID_797989155" MODIFIED="1361693165831" TEXT="preferences.xml"/>
+<node CREATED="1361693002843" ID="ID_1426476452" MODIFIED="1361693005181" TEXT="strings.xml"/>
+</node>
+</node>
+<node CREATED="1361693845780" FOLDED="true" ID="ID_666651250" MODIFIED="1362016209543" TEXT="03">
+<icon BUILTIN="idea"/>
+<node CREATED="1361693848004" FOLDED="true" ID="ID_325797364" MODIFIED="1362016209543" TEXT="CODES">
+<node CREATED="1361693996441" FOLDED="true" ID="ID_1607167889" MODIFIED="1362016209543" TEXT="MainActv">
+<node CREATED="1361693999176" FOLDED="true" ID="ID_1114631635" MODIFIED="1362016209543" TEXT="onOptionsItemSelected(MenuItem item)">
+<node CREATED="1361694009264" ID="ID_483452085" MODIFIED="1361694009264" TEXT="case R.id.menu_main_pref_actv"/>
+</node>
+</node>
+<node CREATED="1361694031788" ID="ID_1419830552" MODIFIED="1361694032476" TEXT="AndroidManifest.xml"/>
+</node>
+</node>
+<node CREATED="1361694042552" FOLDED="true" ID="ID_1365628734" MODIFIED="1362016209545" TEXT="04">
+<icon BUILTIN="idea"/>
+<node CREATED="1361694045003" FOLDED="true" ID="ID_1551458367" MODIFIED="1362016209544" TEXT="Try to obtan a value from the key">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361694415261" ID="ID_346261327" MODIFIED="1361694425984" TEXT="=&gt; See memos(photo)">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1361797478206" ID="ID_1629940640" MODIFIED="1361797478206" TEXT="22:04:33 02/25/2013"/>
+<node CREATED="1361798000720" FOLDED="true" ID="ID_985836846" MODIFIED="1362016209545" TEXT="DONE">
+<node CREATED="1361798025552" FOLDED="true" ID="ID_1056113720" MODIFIED="1362016209544" TEXT="CODES">
+<node CREATED="1361798030811" FOLDED="true" ID="ID_212169181" MODIFIED="1362016209544" TEXT="MainActv">
+<node CREATED="1361798033626" ID="ID_353541989" MODIFIED="1361798036878" TEXT="onResume()"/>
+</node>
+</node>
+<node CREATED="1361802469506" ID="ID_1552168270" LINK="C:\WORKS\WS\WS_Android~\ShoppingList\assets\rec_20130225_232720.log" MODIFIED="1361802472819" TEXT="log"/>
+</node>
+</node>
+</node>
+<node CREATED="1361691915276" FOLDED="true" ID="ID_544341364" MODIFIED="1362016083932" TEXT="v-4.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1361835958250" ID="ID_1782042727" MODIFIED="1361835964220" TEXT="BGM">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361835444029" FOLDED="true" ID="ID_718411689" MODIFIED="1362016083928" TEXT="s">
+<node CREATED="1361835442408" ID="ID_1173472976" MODIFIED="1361835450242" TEXT="08:37:02 02/26/2013">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1361836296996" FOLDED="true" ID="ID_815788098" MODIFIED="1362016083929" TEXT="01">
+<node CREATED="1361836304041" FOLDED="true" ID="ID_404686211" MODIFIED="1362016083929" TEXT="SEGWAY">
+<node CREATED="1361836311288" FOLDED="true" ID="ID_1932400506" MODIFIED="1362016083929" TEXT="LEARN">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1361836314459" ID="ID_779682913" MODIFIED="1361836321792" TEXT="&quot;Cyclic&quot;"/>
+<node CREATED="1361839763365" ID="ID_721371135" MODIFIED="1361839785578" TEXT="Can&apos;t find the app in the search lists">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361839788788" FOLDED="true" ID="ID_796856755" MODIFIED="1362016083930" TEXT="02">
+<node CREATED="1361839790160" FOLDED="true" ID="ID_673307193" MODIFIED="1362016083930" TEXT="Create a bgm">
+<node CREATED="1361839798490" ID="ID_475374875" MODIFIED="1361839813044" TEXT="=&gt; C:\WORKS\WS\WS_Android~\ShoppingList\res\raw\bgm_1.wav"/>
+</node>
+</node>
+<node CREATED="1361839824354" FOLDED="true" ID="ID_1270060181" MODIFIED="1362016083931" TEXT="03">
+<node CREATED="1361839826356" ID="ID_1558856421" MODIFIED="1361840377679" TEXT="Play the file">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361840378847" FOLDED="true" ID="ID_737731659" MODIFIED="1362016083931" TEXT="01">
+<node CREATED="1361840479070" FOLDED="true" ID="ID_1228694486" MODIFIED="1362016083931" TEXT="CODES">
+<node CREATED="1361840480995" FOLDED="true" ID="ID_223132806" MODIFIED="1362016083930" TEXT="MainActv">
+<node CREATED="1361840488718" ID="ID_656139584" MODIFIED="1361840490447" TEXT="onResume()"/>
+</node>
+<node CREATED="1361840499656" FOLDED="true" ID="ID_1793170117" MODIFIED="1362016083930" TEXT="Methods_sl">
+<node CREATED="1361840504661" ID="ID_1400265524" MODIFIED="1361840504661" TEXT="playSound()"/>
+</node>
+<node CREATED="1361840949585" ID="ID_1962346213" MODIFIED="1361840949585" TEXT="TaskAudioTrack"/>
+</node>
+</node>
+</node>
+<node CREATED="1361845858959" ID="ID_1388040425" LINK="http://stackoverflow.com/questions/12263671/audiotrack-android-playing-sounds-from-raw-folder" MODIFIED="1361845861427" TEXT="ref"/>
+</node>
+<node CREATED="1361692516600" FOLDED="true" ID="ID_970320119" MODIFIED="1362016084860" TEXT="v-5.0(5.3)">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1361691921035" FOLDED="true" ID="ID_1042327093" MODIFIED="1362016084855" TEXT="FUNC">
+<node CREATED="1361691922810" FOLDED="true" ID="ID_399518751" MODIFIED="1362016084855" TEXT="Click item">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361691928608" ID="ID_995361960" MODIFIED="1361691939756" TEXT="=&gt; Background turns blue">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1361691989354" FOLDED="true" ID="ID_1084518001" MODIFIED="1362016084856" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361841733247" ID="ID_1588488050" MODIFIED="1361841743209" TEXT="Set listener to the list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1361692012535" FOLDED="true" ID="ID_1573056879" MODIFIED="1362016084857" TEXT="02">
+<node CREATED="1361692006483" FOLDED="true" ID="ID_1462569141" MODIFIED="1362016084857" TEXT="&quot;chosenItem&quot; list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361844937966" FOLDED="true" ID="ID_727967021" MODIFIED="1362016084856" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361846555350" ID="ID_589414565" MODIFIED="1361846559179" TEXT="v-5.1">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361844942042" ID="ID_1704077632" MODIFIED="1361845096808" TEXT="Is the position already in the list?"/>
+<node CREATED="1361845097483" ID="ID_843383450" MODIFIED="1361845110914" TEXT="If so, remove the position number from the list"/>
+<node CREATED="1361845113022" ID="ID_1684976705" MODIFIED="1361845124747" TEXT="If not, add it into the list"/>
+</node>
+<node CREATED="1361846548662" FOLDED="true" ID="ID_602022861" MODIFIED="1362016084857" TEXT="02">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1361846571843" ID="ID_549485978" MODIFIED="1361846575101" TEXT="v-5.2">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1361846583401" FOLDED="true" ID="ID_1174086843" MODIFIED="1362016084857" TEXT="CODE">
+<node CREATED="1361846585078" ID="ID_1966935043" MODIFIED="1361846589788" TEXT="Notify the adapter"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361841720031" FOLDED="true" ID="ID_1556916560" MODIFIED="1362016084859" TEXT="03">
+<node CREATED="1361692014302" FOLDED="true" ID="ID_1044869727" MODIFIED="1362016084859" TEXT="Edit adapter source code">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361846770845" FOLDED="true" ID="ID_1219575044" MODIFIED="1362016084858" TEXT="01">
+<icon BUILTIN="folder"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1361846772728" FOLDED="true" ID="ID_256273726" MODIFIED="1362016084858" TEXT="If the id of the item is in the list">
+<node CREATED="1361846787258" ID="ID_821570418" MODIFIED="1361846793927" TEXT="=&gt; Change the background"/>
+</node>
+</node>
+<node CREATED="1361847344038" FOLDED="true" ID="ID_435846587" MODIFIED="1362016084859" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361847345839" FOLDED="true" ID="ID_158396152" MODIFIED="1362016084858" TEXT="SEGWAY">
+<node CREATED="1361847349676" FOLDED="true" ID="ID_180249389" MODIFIED="1362016084858" TEXT="Screen orientation">
+<node CREATED="1361847355700" ID="ID_988933383" MODIFIED="1361847360185" TEXT="=&gt; Portrait"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1361835941678" FOLDED="true" ID="ID_1469546476" MODIFIED="1362016188564" TEXT="v-6.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1361689799170" FOLDED="true" ID="ID_435029746" MODIFIED="1362016185747" TEXT="FUNC">
+<node CREATED="1361689802295" FOLDED="true" ID="ID_575446954" MODIFIED="1362016185746" TEXT="&quot;Add&quot; button">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361689808016" ID="ID_1514367210" MODIFIED="1361691943056" TEXT="=&gt; Item put into &quot;toBuy&quot; list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1361847727772" FOLDED="true" ID="ID_1627655738" MODIFIED="1362016185747" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361847731558" ID="ID_122615651" MODIFIED="1361847739235" TEXT="Add listener">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1361847742774" FOLDED="true" ID="ID_1345919005" MODIFIED="1362016185747" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361847744267" ID="ID_1047501438" MODIFIED="1361847770899" TEXT="Add the item id to &quot;toBuyItemIds&quot;"/>
+</node>
+<node CREATED="1361863935420" FOLDED="true" ID="ID_1609796751" MODIFIED="1362016185748" TEXT="02-02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361863940499" ID="ID_725411357" MODIFIED="1361863944354" TEXT="Sort list in tab 1"/>
+</node>
+<node CREATED="1361847898572" FOLDED="true" ID="ID_1137631026" MODIFIED="1362016185749" TEXT="03">
+<icon BUILTIN="idea"/>
+<node CREATED="1361867832657" ID="ID_1390492543" MODIFIED="1361867849893" TEXT="Initialise &quot;toBuyList&quot;">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1361847900484" ID="ID_1344125341" MODIFIED="1361847903773" TEXT="Notify the adapter"/>
+<node CREATED="1361847904139" ID="ID_977590651" MODIFIED="1361847919729" TEXT="=&gt; Background ---&gt; Green"/>
+<node CREATED="1361871183328" FOLDED="true" ID="ID_1518638960" MODIFIED="1362016185748" TEXT="CODES">
+<node CREATED="1361871226461" FOLDED="true" ID="ID_1825357107" MODIFIED="1362016185748" TEXT="ItemListAdapter">
+<node CREATED="1361871237512" ID="ID_569449957" MODIFIED="1361871237512" TEXT="getView__2_setupBackground(View convertView, ShoppingItem si, int position)"/>
+</node>
+</node>
+</node>
+<node CREATED="1361847924214" FOLDED="true" ID="ID_870424470" MODIFIED="1362016185752" TEXT="04">
+<node CREATED="1362010114126" FOLDED="true" ID="ID_116685762" MODIFIED="1362016185752" TEXT="v-6.1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362010478268" FOLDED="true" ID="ID_820011502" MODIFIED="1362016185749" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1361847927489" FOLDED="true" ID="ID_1970800374" MODIFIED="1362016185749" TEXT="Build">
+<node CREATED="1361847934888" ID="ID_1022558433" MODIFIED="1361847972152" TEXT="=&gt; &quot;toBuyItemsList&quot;: List&lt;ShoppingItem&gt;"/>
+<node CREATED="1361847974296" ID="ID_636899506" MODIFIED="1361848009944" TEXT="adpToBuyItems : ItemListAdapter2"/>
+</node>
+</node>
+<node CREATED="1362010479936" FOLDED="true" ID="ID_1644871056" MODIFIED="1362016185749" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1361848027363" ID="ID_1591844312" MODIFIED="1361848035187" TEXT="Set adapter to the tab 2"/>
+</node>
+<node CREATED="1362010497641" FOLDED="true" ID="ID_1240244875" MODIFIED="1362016185752" TEXT="03">
+<node CREATED="1362010499906" FOLDED="true" ID="ID_732821265" MODIFIED="1362016185750" TEXT="&quot;Add&quot; button">
+<node CREATED="1362010504642" ID="ID_19355113" MODIFIED="1362010515471" TEXT="=&gt; Update the to-buy list"/>
+</node>
+<node CREATED="1362010691282" FOLDED="true" ID="ID_374105628" MODIFIED="1362016185750" TEXT="CODES">
+<node CREATED="1362010901384" ID="ID_1742463430" MODIFIED="1362010950657" TEXT="Create a new List object which contains only those in the item list that the to buy list doesn&apos;t">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362010693464" FOLDED="true" ID="ID_825926009" MODIFIED="1362016185750" TEXT="Methods_sl">
+<node CREATED="1362010698430" ID="ID_674544390" MODIFIED="1362010698430" TEXT="updateToBuyList(actv)"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1362012285542" FOLDED="true" ID="ID_1530027528" MODIFIED="1362016185751" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1362012296376" ID="ID_439801339" MODIFIED="1362012309478" TEXT="In the tab &quot;Basket&quot;, no item shown"/>
+<node CREATED="1362013207418" FOLDED="true" ID="ID_267104589" MODIFIED="1362016185751" TEXT="FOUND">
+<node CREATED="1362013209429" FOLDED="true" ID="ID_139973250" MODIFIED="1362016185751" TEXT="&quot;setAdapter()...&quot;">
+<node CREATED="1362013219327" ID="ID_1681411909" MODIFIED="1362013225450" TEXT="=&gt; The code was uncommented"/>
+</node>
+</node>
+<node CREATED="1362013226789" ID="ID_1994981867" MODIFIED="1362013229604" TEXT="SOLVED"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362013239594" FOLDED="true" ID="ID_1990179229" MODIFIED="1362016185756" TEXT="05">
+<node CREATED="1362013241451" FOLDED="true" ID="ID_97032173" MODIFIED="1362016185755" TEXT="v-6.2">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362013244695" FOLDED="true" ID="ID_741826023" MODIFIED="1362016185753" TEXT="Adapter for &quot;toBuyList&quot;">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362013255256" ID="ID_966726884" MODIFIED="1362013263131" TEXT="=&gt; USe a different one">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1362013609847" FOLDED="true" ID="ID_1880740885" MODIFIED="1362016185753" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1362013627560" FOLDED="true" ID="ID_386266499" MODIFIED="1362016185753" TEXT="CODES">
+<node CREATED="1362013623153" ID="ID_582798874" MODIFIED="1362013623153" TEXT="ToBuyListAdapter.java"/>
+</node>
+</node>
+<node CREATED="1362013631990" FOLDED="true" ID="ID_245473210" MODIFIED="1362016185755" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1362013656840" FOLDED="true" ID="ID_1613287963" MODIFIED="1362016185754" TEXT="UI">
+<node CREATED="1362013641272" FOLDED="true" ID="ID_1328433068" MODIFIED="1362016185754" TEXT="Name">
+<node CREATED="1362013633660" FOLDED="true" ID="ID_600693118" MODIFIED="1362016185754" TEXT="Background">
+<node CREATED="1362013645171" ID="ID_555255558" MODIFIED="1362013668208" TEXT="=&gt; White"/>
+</node>
+<node CREATED="1362013671016" FOLDED="true" ID="ID_1567696341" MODIFIED="1362016185754" TEXT="Text">
+<node CREATED="1362013673946" ID="ID_1320468102" MODIFIED="1362013676078" TEXT="=&gt; Black"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1868831868" MODIFIED="1362276943261" TEXT="D-21">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="up"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1362016070207" ID="ID_1798603440" MODIFIED="1362105089594" TEXT="Filter the item list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362105082061" ID="ID_161255147" MODIFIED="1362105100204" TEXT="B23_Filter_item_list">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362105103783" FOLDED="true" ID="ID_247745218" MODIFIED="1363305366790" TEXT="01">
+<node CREATED="1362105109388" FOLDED="true" ID="ID_827369432" MODIFIED="1363305366790" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1362015495919" FOLDED="true" ID="ID_1802461028" MODIFIED="1363305366790" TEXT="UI">
+<node CREATED="1362015497671" FOLDED="true" ID="ID_1480867224" MODIFIED="1363305366790" TEXT="&quot;Add&quot; button">
+<node CREATED="1362015505692" FOLDED="true" ID="ID_81788529" MODIFIED="1363305366790" TEXT="=&gt; New image for">
+<node CREATED="1362015511692" ID="ID_685922271" MODIFIED="1362015522468" TEXT="&quot;ACTION_DOWN&quot;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362105485143" FOLDED="true" ID="ID_1839864758" MODIFIED="1363305366791" TEXT="02">
+<node CREATED="1362105487596" FOLDED="true" ID="ID_1542599360" MODIFIED="1363305366791" TEXT="v-1.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362105504387" FOLDED="true" ID="ID_1531487587" MODIFIED="1363305366791" TEXT="01">
+<node CREATED="1362105505942" ID="ID_1794563850" MODIFIED="1362105508312" TEXT="Option menu"/>
+<node CREATED="1362106033556" FOLDED="true" ID="ID_1365363440" MODIFIED="1363305366791" TEXT="CODES">
+<node CREATED="1362106038063" FOLDED="true" ID="ID_1564972376" MODIFIED="1363305366790" TEXT="TabActv">
+<node CREATED="1362106036378" ID="ID_1290751303" MODIFIED="1362106036378" TEXT="onOptionsItemSelected(MenuItem item)"/>
+</node>
+<node CREATED="1362106048273" FOLDED="true" ID="ID_1873861867" MODIFIED="1363305366791" TEXT="Methods">
+<node CREATED="1362106052302" ID="ID_1259960312" MODIFIED="1362106052302" TEXT="dlg_filterList2(this)"/>
+</node>
+<node CREATED="1362106828679" ID="ID_1790004376" MODIFIED="1362106829254" TEXT="DialogButtonOnClickListener"/>
+<node CREATED="1362106839499" FOLDED="true" ID="ID_1266747524" MODIFIED="1363305366791" TEXT="Methods">
+<node CREATED="1362106843971" ID="ID_860744772" MODIFIED="1362106843971" TEXT="filterList2(actv, dlg)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1006279881" MODIFIED="1362273628637" TEXT="D-22">
+<node CREATED="1362111879908" ID="ID_979044708" MODIFIED="1362111890147" TEXT="Delete items from the toBuyList"/>
+<node CREATED="1362111897537" ID="ID_177797568" MODIFIED="1362111922671" TEXT="B24_Delete_items_from_toBuyList">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362112112180" FOLDED="true" ID="ID_35388413" MODIFIED="1363305366791" TEXT="01">
+<node CREATED="1362112393462" FOLDED="true" ID="ID_984211493" MODIFIED="1363305366791" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362112396085" ID="ID_1211070814" MODIFIED="1362112408981" TEXT="List item click"/>
+<node CREATED="1362113264148" FOLDED="true" ID="ID_1492741502" MODIFIED="1363305366791" TEXT="CODES">
+<node CREATED="1362113278230" FOLDED="true" ID="ID_298689899" MODIFIED="1363305366791" TEXT="TabActv">
+<node CREATED="1362113266795" ID="ID_392059844" MODIFIED="1362113282354" TEXT="setupListeners()"/>
+</node>
+<node CREATED="1362113810876" FOLDED="true" ID="ID_331996280" MODIFIED="1363305366791" TEXT="Methods_dlg">
+<node CREATED="1362113816040" ID="ID_1270903296" MODIFIED="1362113816040" TEXT="dlg_tabActv_tab2Lv(actv, si)"/>
+</node>
+<node CREATED="1362114612768" FOLDED="true" ID="ID_823477085" MODIFIED="1363305366791" TEXT="DialogOnItemClickListener">
+<node CREATED="1362114625945" ID="ID_818444351" MODIFIED="1362114629235" TEXT="dlg_tabactv_tab2_lv()"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_796139742" MODIFIED="1362902453979" TEXT="D-23">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1362116206086" ID="ID_1956593895" MODIFIED="1362116243132" TEXT="B25_FIX_TabActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362116090381" FOLDED="true" ID="ID_764780774" MODIFIED="1363305366793" TEXT="FIX">
+<node CREATED="1362116092183" FOLDED="true" ID="ID_955658299" MODIFIED="1363305366792" TEXT="Choice &quot;&#x30ad;&#x30e3;&#x30f3;&#x30fb;&#x30c9;&#x30a6; + &#x6587;&#x623f;&#x5177;&quot;">
+<node CREATED="1362116112715" ID="ID_101800130" MODIFIED="1362116115715" TEXT="=&gt; No item shown"/>
+</node>
+<node CREATED="1362117064074" FOLDED="true" ID="ID_1701662065" MODIFIED="1363305366793" TEXT="FOUND">
+<node CREATED="1362117066337" ID="ID_1798156539" MODIFIED="1362117091186" TEXT="In the column &quot;genre&quot;, &quot;100&quot; is being inserted"/>
+<node CREATED="1362117095687" FOLDED="true" ID="ID_351818393" MODIFIED="1363305366792" TEXT="TRY">
+<node CREATED="1362117098314" FOLDED="true" ID="ID_463784660" MODIFIED="1363305366792" TEXT="01">
+<node CREATED="1362117101481" FOLDED="true" ID="ID_863971664" MODIFIED="1363305366792" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362117104045" FOLDED="true" ID="ID_524578754" MODIFIED="1363305366792" TEXT="FIX">
+<node CREATED="1362117108942" ID="ID_290707677" MODIFIED="1362117118624" TEXT="=&gt; Function &quot;Register item&quot;"/>
+<node CREATED="1362117264623" FOLDED="true" ID="ID_1822822191" MODIFIED="1363305366792" TEXT="CODES">
+<node CREATED="1362117324862" FOLDED="true" ID="ID_928195203" MODIFIED="1363305366792" TEXT="MainActv">
+<node CREATED="1362117332107" ID="ID_1002758457" MODIFIED="1362117333986" TEXT="add_listeners()"/>
+</node>
+<node CREATED="1362117386519" FOLDED="true" ID="ID_853891482" MODIFIED="1363305366792" TEXT="ButtonOnClickListener">
+<node CREATED="1362117405250" ID="ID_734287068" MODIFIED="1362117405250" TEXT="case sl_main_bt_register"/>
+</node>
+<node CREATED="1362117412024" FOLDED="true" ID="ID_811654931" MODIFIED="1363305366792" TEXT="Methods">
+<node CREATED="1362117416941" ID="ID_495568297" MODIFIED="1362117416941" TEXT="dlg_register_main(actv)"/>
+</node>
+<node CREATED="1362117456223" FOLDED="true" ID="ID_1226679149" MODIFIED="1363305366792" TEXT="DialogOnItemClickListener">
+<node CREATED="1362117499702" ID="ID_1278842813" MODIFIED="1362117501981" TEXT="onItemClick()"/>
+</node>
+<node CREATED="1362117533055" FOLDED="true" ID="ID_165603596" MODIFIED="1363305366792" TEXT="RegisterItemActv.class">
+<node CREATED="1362117572433" ID="ID_1064441363" MODIFIED="1362117572433" TEXT="setLister()"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1605031230" MODIFIED="1362531061772" TEXT="D-24">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1362111879908" ID="ID_1795836868" MODIFIED="1362268224891" TEXT="Delete items from the toBuyList">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362111897537" ID="ID_272931333" MODIFIED="1362268291229" TEXT="B24_Delete_items_from_toBuyList">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362115993317" FOLDED="true" ID="ID_183952166" MODIFIED="1363305366793" TEXT="02">
+<node CREATED="1362117144296" FOLDED="true" ID="ID_1398569537" MODIFIED="1363305366793" TEXT="v-2.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362117148706" FOLDED="true" ID="ID_1808836253" MODIFIED="1363305366793" TEXT="NEW">
+<node CREATED="1362117151905" ID="ID_821769873" MODIFIED="1362117162521" TEXT="Long click listener on the list in the tab 1"/>
+</node>
+<node CREATED="1362268465842" FOLDED="true" ID="ID_115901977" MODIFIED="1363305366793" TEXT="01">
+<node CREATED="1362268467964" FOLDED="true" ID="ID_1224457334" MODIFIED="1363305366793" TEXT="CODES">
+<node CREATED="1362268469974" ID="ID_1893396918" MODIFIED="1362268470848" TEXT="ListOnItemLongClickListener"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362117142949" FOLDED="true" ID="ID_1920747476" MODIFIED="1363305366794" TEXT="03">
+<node CREATED="1362115994456" FOLDED="true" ID="ID_1944147453" MODIFIED="1363305366794" TEXT="v-3.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362115999444" FOLDED="true" ID="ID_1155836301" MODIFIED="1363305366793" TEXT="Option menu">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362116037000" ID="ID_1093743751" MODIFIED="1362116040715" TEXT="=&gt; Clear the basket"/>
+<node CREATED="1362268950455" ID="ID_58945334" MODIFIED="1362268955978" TEXT="=&gt; &quot;Uncheck all&quot;"/>
+</node>
+<node CREATED="1362275187124" FOLDED="true" ID="ID_14167543" MODIFIED="1363305366794" TEXT="01">
+<node CREATED="1362275189210" FOLDED="true" ID="ID_856234147" MODIFIED="1363305366793" TEXT="CODES">
+<node CREATED="1362275205863" ID="ID_1172307520" MODIFIED="1362275207989" TEXT="strings.xml"/>
+<node CREATED="1362275408526" ID="ID_1913784666" MODIFIED="1362275416720" TEXT="Icon for the option">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362276148753" ID="ID_1270626866" MODIFIED="1362276149671" TEXT="itemlist.xml"/>
+<node CREATED="1362276463683" FOLDED="true" ID="ID_1168243011" MODIFIED="1363305366793" TEXT="TabActv">
+<node CREATED="1362276471206" ID="ID_1960291151" MODIFIED="1362276471206" TEXT="onOptionsItemSelected(MenuItem item)"/>
+</node>
+</node>
+<node CREATED="1362276533993" FOLDED="true" ID="ID_63732039" MODIFIED="1363305366793" TEXT="LOGIC">
+<node CREATED="1362276537727" FOLDED="true" ID="ID_638461765" MODIFIED="1363305366793" TEXT="Delete item from">
+<node CREATED="1362276604019" ID="ID_414034850" MODIFIED="1362276604019" TEXT="CONS.toBuyList"/>
+<node CREATED="1362276610648" ID="ID_1038788627" MODIFIED="1362276610648" TEXT="CONS.tab_toBuyItemIds"/>
+</node>
+<node CREATED="1362276612465" ID="ID_1634235258" MODIFIED="1362276616455" TEXT="Notify adapters"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_449306435" MODIFIED="1362902452379" TEXT="D-25">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1361600926338" ID="ID_1999624285" MODIFIED="1362276750381" TEXT="B19_change_ui_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362277016139" FOLDED="true" ID="ID_720653122" MODIFIED="1363305366794" TEXT="v-3.0">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362279139182" FOLDED="true" ID="ID_1474701769" MODIFIED="1363305366794" TEXT="Tab: toBuy">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362279150430" ID="ID_114950395" MODIFIED="1362279161455" TEXT="=&gt; Background blue when clicked"/>
+</node>
+<node CREATED="1362277034361" FOLDED="true" ID="ID_453426461" MODIFIED="1363305366794" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1362277204401" FOLDED="true" ID="ID_1527595341" MODIFIED="1363305366794" TEXT="MERGE">
+<node CREATED="1362277206766" ID="ID_910995632" MODIFIED="1362277209748" TEXT="=&gt; master"/>
+</node>
+</node>
+<node CREATED="1362277647136" FOLDED="true" ID="ID_1946785246" MODIFIED="1363305366794" TEXT="02">
+<node CREATED="1362277655571" FOLDED="true" ID="ID_391810410" MODIFIED="1363305366794" TEXT="CODES">
+<node CREATED="1362277671322" FOLDED="true" ID="ID_649059382" MODIFIED="1363305366794" TEXT="DialogOnItemClickListener">
+<node CREATED="1362277664575" ID="ID_1305459759" MODIFIED="1362277664575" TEXT="tab_toBuyList(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1362277905641" FOLDED="true" ID="ID_510630823" MODIFIED="1363305366794" TEXT="ToBuyListAdapter">
+<node CREATED="1362277921009" ID="ID_1133090227" MODIFIED="1362277921009" TEXT="getView__2_setupBackground(View convertView, ShoppingItem si, int position)"/>
+</node>
+<node CREATED="1362278852596" FOLDED="true" ID="ID_441120073" MODIFIED="1363305366794" TEXT="CONS">
+<node CREATED="1362279066507" ID="ID_966090712" MODIFIED="1362279066507" TEXT="tab_boughtItemIds"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362279234607" FOLDED="true" ID="ID_1434448025" MODIFIED="1363305366795" TEXT="v-4.0">
+<icon BUILTIN="folder"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1362279246667" FOLDED="true" ID="ID_1028530160" MODIFIED="1363305366794" TEXT="Tab: Items">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362279252522" ID="ID_1077978102" MODIFIED="1362279295332" TEXT="=&gt; If the item is in toBuy list, then uneffectuate list item listener">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1362279299452" FOLDED="true" ID="ID_1705701029" MODIFIED="1363305366795" TEXT="01">
+<node CREATED="1362279324744" FOLDED="true" ID="ID_14590312" MODIFIED="1363305366795" TEXT="CODES">
+<node CREATED="1362279603329" FOLDED="true" ID="ID_1520313171" MODIFIED="1363305366795" TEXT="DialogOnItemClickListener">
+<node CREATED="1362279597903" ID="ID_1336610336" MODIFIED="1362279597903" TEXT="tab_itemList(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_959052314" MODIFIED="1366027060235" TEXT="D-26">
+<node CREATED="1361605643923" ID="ID_1823594091" MODIFIED="1361605664746" TEXT="B21_Save_list_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362279837417" FOLDED="true" ID="ID_341642122" MODIFIED="1363305366795" TEXT="v-2.0">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362279994502" FOLDED="true" ID="ID_15654462" MODIFIED="1363305366795" TEXT="01">
+<node CREATED="1362279996415" FOLDED="true" ID="ID_1302434936" MODIFIED="1363305366795" TEXT="CREATE">
+<node CREATED="1362280243359" FOLDED="true" ID="ID_889318448" MODIFIED="1363305366795" TEXT="01">
+<node CREATED="1362280009606" ID="ID_847534548" MODIFIED="1362280240295" TEXT="Icon"/>
+</node>
+<node CREATED="1362280250009" FOLDED="true" ID="ID_1867896449" MODIFIED="1363305366795" TEXT="02">
+<node CREATED="1362280001596" ID="ID_151773430" MODIFIED="1362280006878" TEXT="Option menu"/>
+</node>
+</node>
+<node CREATED="1362281025761" FOLDED="true" ID="ID_1813590307" MODIFIED="1363305366795" TEXT="CODES">
+<node CREATED="1362281029492" ID="ID_1489812903" MODIFIED="1362281032170" TEXT="strings.xml"/>
+</node>
+</node>
+</node>
+<node CREATED="1362281379380" FOLDED="true" ID="ID_1834517264" MODIFIED="1363305366796" TEXT="v-2.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362281383390" ID="ID_1774472174" MODIFIED="1362281387646" TEXT="Open dialog">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362282059634" FOLDED="true" ID="ID_321207535" MODIFIED="1363305366796" TEXT="01">
+<node CREATED="1362282061355" FOLDED="true" ID="ID_212163691" MODIFIED="1363305366796" TEXT="CODES">
+<node CREATED="1362282063320" FOLDED="true" ID="ID_1393237138" MODIFIED="1363305366795" TEXT="Methods_dlg">
+<node CREATED="1362282071461" ID="ID_1314438302" MODIFIED="1362282071461" TEXT="dlg_tabActv_admin_db(this)"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362282537857" FOLDED="true" ID="ID_1371840715" MODIFIED="1362892071100" TEXT="v-2.2">
+<icon BUILTIN="idea"/>
+<node CREATED="1362282540033" FOLDED="true" ID="ID_539633636" MODIFIED="1363305366796" TEXT="Save list data">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362283339178" ID="ID_1294116092" MODIFIED="1362283363146" TEXT="Serializable &#x3067;&#x306f;&#x306a;&#x304f;&#x3001;id &#x3092; db &#x306b;&#x4fdd;&#x5b58;&#x3057;&#x3088;&#x3046;">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1362282551397" FOLDED="true" ID="ID_49216963" MODIFIED="1363305366796" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1362282613545" FOLDED="true" ID="ID_1801740996" MODIFIED="1363305366796" TEXT="CODES">
+<node CREATED="1362282615769" FOLDED="true" ID="ID_1621825798" MODIFIED="1363305366796" TEXT="DialogOnItemClickListener">
+<node CREATED="1362282775142" ID="ID_640887252" MODIFIED="1362282775142" TEXT="case_dlg_tabActv_adminDb(choice)"/>
+</node>
+<node CREATED="1362283413003" FOLDED="true" ID="ID_639480303" MODIFIED="1363305366796" TEXT="Methods_sl">
+<node CREATED="1362283417243" FOLDED="true" ID="ID_1682093878" MODIFIED="1363305366796" TEXT="saveToBuyList(actv)">
+<node CREATED="1362286002124" ID="ID_1978181436" MODIFIED="1362286005797" TEXT="SIGNITURE"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362284751512" FOLDED="true" ID="ID_943039842" MODIFIED="1363305366797" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1362284755875" FOLDED="true" ID="ID_671187697" MODIFIED="1363305366796" TEXT="CREATE">
+<node CREATED="1362284758724" FOLDED="true" ID="ID_1408901108" MODIFIED="1363305366796" TEXT="Layout file">
+<node CREATED="1362285171476" ID="ID_969975592" MODIFIED="1362285183808" TEXT="dlg_save_tobuy_list.xml"/>
+</node>
+<node CREATED="1362285574074" FOLDED="true" ID="ID_1215699859" MODIFIED="1363305366796" TEXT="CODES">
+<node CREATED="1362285579702" ID="ID_1190480685" MODIFIED="1362285582589" TEXT="strings.xml"/>
+</node>
+</node>
+</node>
+<node CREATED="1362284770183" FOLDED="true" ID="ID_120184910" MODIFIED="1363305366799" TEXT="03">
+<node CREATED="1362296198745" FOLDED="true" ID="ID_517534241" MODIFIED="1363305366797" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1362282613545" FOLDED="true" ID="ID_838104389" MODIFIED="1363305366797" TEXT="CODES">
+<node CREATED="1362294697991" FOLDED="true" ID="ID_865522064" MODIFIED="1363305366797" TEXT="Methods_dlg">
+<node CREATED="1362294711462" ID="ID_1677123689" MODIFIED="1362294711462" TEXT="dlg_saveToBuyList(actv)"/>
+</node>
+<node CREATED="1362283413003" FOLDED="true" ID="ID_1255466408" MODIFIED="1363305366797" TEXT="Methods_sl">
+<node CREATED="1362283417243" FOLDED="true" ID="ID_1231260535" MODIFIED="1363305366797" TEXT="saveToBuyList(actv)">
+<node CREATED="1362286043494" ID="ID_852813247" MODIFIED="1362286046741" TEXT="BODY"/>
+</node>
+</node>
+<node CREATED="1362294631438" ID="ID_999717916" MODIFIED="1362294631438" TEXT="DialogOnItemClickListener"/>
+</node>
+</node>
+<node CREATED="1362296200471" FOLDED="true" ID="ID_177967362" MODIFIED="1363305366797" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1362295698661" FOLDED="true" ID="ID_1688068249" MODIFIED="1363305366797" TEXT="LAYOUT">
+<node CREATED="1362295703039" ID="ID_1598422707" MODIFIED="1362295708930" TEXT="DatePicker"/>
+<node CREATED="1362295709178" FOLDED="true" ID="ID_1976888873" MODIFIED="1363305366797" TEXT="Buttons">
+<node CREATED="1362295712610" ID="ID_1145534597" MODIFIED="1362295714884" TEXT="OK"/>
+<node CREATED="1362295715217" ID="ID_1845215487" MODIFIED="1362295716743" TEXT="Cancel"/>
+</node>
+</node>
+</node>
+<node CREATED="1362296201929" FOLDED="true" ID="ID_720620858" MODIFIED="1363305366798" TEXT="03">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1362296325570" FOLDED="true" ID="ID_843575943" MODIFIED="1363305366798" TEXT="Set listeners">
+<node CREATED="1362295709178" FOLDED="true" ID="ID_610231478" MODIFIED="1363305366798" TEXT="Buttons">
+<node CREATED="1362295715217" ID="ID_1680634803" MODIFIED="1362297857029" TEXT="Cancel">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1362295712610" FOLDED="true" ID="ID_1210793241" MODIFIED="1363305366798" TEXT="OK">
+<node CREATED="1362296615965" FOLDED="true" ID="ID_1624244566" MODIFIED="1363305366798" TEXT="CODES">
+<node CREATED="1362297423978" FOLDED="true" ID="ID_844614241" MODIFIED="1363305366797" TEXT="Methods_dlg">
+<node CREATED="1362297411232" ID="ID_1324180999" MODIFIED="1362297415625" TEXT="dlg_template_okCancel_2Dialogues()"/>
+</node>
+<node CREATED="1362296703485" FOLDED="true" ID="ID_150070009" MODIFIED="1363305366797" TEXT="DialogButtonOnClickListener">
+<node CREATED="1362296712544" ID="ID_1602986011" MODIFIED="1362296719003" TEXT="case_dlg_save_tobuy_list_bt_ok()"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362298904614" FOLDED="true" ID="ID_778330465" MODIFIED="1363305366798" TEXT="04">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1362298906540" FOLDED="true" ID="ID_241070841" MODIFIED="1363305366798" TEXT="LAYOUT">
+<node CREATED="1362298909270" ID="ID_12329808" MODIFIED="1362298911794" TEXT="The rest"/>
+</node>
+</node>
+<node CREATED="1362298916771" FOLDED="true" ID="ID_162330823" MODIFIED="1363305366799" TEXT="05">
+<node CREATED="1362298918579" FOLDED="true" ID="ID_496210272" MODIFIED="1363305366798" TEXT="LAYOUT">
+<node CREATED="1362525039427" FOLDED="true" ID="ID_1855783721" MODIFIED="1363305366798" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1362298926242" FOLDED="true" ID="ID_561851189" MODIFIED="1363305366798" TEXT="Spinner">
+<node CREATED="1362298929318" ID="ID_1962604664" MODIFIED="1362298937329" TEXT="=&gt; Set selection"/>
+</node>
+<node CREATED="1362523554768" FOLDED="true" ID="ID_118107042" MODIFIED="1363305366798" TEXT="s">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362523556581" ID="ID_944868569" MODIFIED="1362523568849" TEXT="07:45:40 03/06/2013">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1362525049344" FOLDED="true" ID="ID_1923209383" MODIFIED="1363305366798" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1362525052147" ID="ID_51517669" MODIFIED="1362525060918" TEXT="&quot;amount&quot;">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362531072334" FOLDED="true" ID="ID_359732419" MODIFIED="1363077219548" TEXT="v-2.3">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362286011816" FOLDED="true" ID="ID_631386630" MODIFIED="1363077219544" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1362284755875" FOLDED="true" ID="ID_1853554093" MODIFIED="1363077219543" TEXT="CREATE">
+<node CREATED="1362284817076" ID="ID_761384505" MODIFIED="1362284819152" TEXT="Table"/>
+</node>
+<node CREATED="1362532210255" FOLDED="true" ID="ID_1315338810" MODIFIED="1363077219544" TEXT="CODES">
+<node CREATED="1362532212093" FOLDED="true" ID="ID_458448500" MODIFIED="1363077219543" TEXT="MainActv">
+<node CREATED="1362532223786" ID="ID_508308131" MODIFIED="1362532225065" TEXT="admin_createTable_purchaseSchedule()"/>
+</node>
+</node>
+</node>
+<node CREATED="1362533920002" FOLDED="true" ID="ID_598262895" MODIFIED="1363077219547" TEXT="02">
+<node CREATED="1362533925005" ID="ID_824050839" MODIFIED="1362533929158" TEXT="Store data">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362534081410" FOLDED="true" ID="ID_1733290046" MODIFIED="1363077219547" TEXT="01">
+<node CREATED="1362534082714" FOLDED="true" ID="ID_361303957" MODIFIED="1363077219545" TEXT="CREATE">
+<node CREATED="1362534089416" FOLDED="true" ID="ID_21956859" MODIFIED="1363077219544" TEXT="NEW CLASS">
+<node CREATED="1362534092858" ID="ID_1305221277" MODIFIED="1362534106494" TEXT="PS.java (Purchase schedule)"/>
+</node>
+</node>
+<node CREATED="1362535660618" FOLDED="true" ID="ID_1508138217" MODIFIED="1363077219547" TEXT="CODES">
+<node CREATED="1362535679070" FOLDED="true" ID="ID_49158618" MODIFIED="1363077219545" TEXT="DialogButtonOnClickListener">
+<node CREATED="1362535673352" ID="ID_195202184" MODIFIED="1362537385376" TEXT="case_dlg_save_tobuy_list_bt_ok()">
+<arrowlink DESTINATION="ID_199872574" ENDARROW="Default" ENDINCLINATION="154;0;" ID="Arrow_ID_1934902920" STARTARROW="None" STARTINCLINATION="154;0;"/>
+<arrowlink DESTINATION="ID_881185870" ENDARROW="Default" ENDINCLINATION="139;0;" ID="Arrow_ID_69525369" STARTARROW="None" STARTINCLINATION="139;0;"/>
+</node>
+</node>
+<node CREATED="1362535691886" FOLDED="true" ID="ID_1354954187" MODIFIED="1363077219545" TEXT="Methods">
+<node CREATED="1362535696983" ID="ID_881185870" MODIFIED="1362537369516" TEXT="getTableSize(actv, CONS.dbName, CONS.DBAdmin.tname_purchaseSchedule)"/>
+</node>
+<node CREATED="1362535679070" FOLDED="true" ID="ID_980783922" MODIFIED="1363077219546" TEXT="DialogButtonOnClickListener">
+<node CREATED="1362537380372" ID="ID_199872574" MODIFIED="1362537385376" TEXT="case_dlg_save_tobuy_list_bt_ok__convertToBuyList2String()"/>
+</node>
+<node CREATED="1362546372128" FOLDED="true" ID="ID_888043095" MODIFIED="1363077219546" TEXT="DBUtils">
+<node CREATED="1362546379723" ID="ID_4609448" MODIFIED="1362546381880" TEXT="storeData_PS()"/>
+<node CREATED="1362546391311" ID="ID_503515020" MODIFIED="1362546391311" TEXT="storeData_PS__getContentValues(ps)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362547794793" FOLDED="true" ID="ID_447791594" MODIFIED="1366027060234" TEXT="v-3.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362547796941" ID="ID_628512548" MODIFIED="1362547803844" TEXT="Load schedule data">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362653799736" FOLDED="true" ID="ID_562759760" MODIFIED="1363305366799" TEXT="01">
+<node CREATED="1362720025701" FOLDED="true" ID="ID_1102940319" MODIFIED="1363305366799" TEXT="Show dialog">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362653801068" FOLDED="true" ID="ID_1704167578" MODIFIED="1363305366799" TEXT="CODES">
+<node CREATED="1362653811587" FOLDED="true" ID="ID_1835062116" MODIFIED="1363305366799" TEXT="DialogOnItemClickListener">
+<node CREATED="1362653803221" ID="ID_561986170" MODIFIED="1362653803221" TEXT="case_dlg_tabActv_adminDb(String choice)"/>
+</node>
+<node CREATED="1362653832798" FOLDED="true" ID="ID_1226128667" MODIFIED="1363305366799" TEXT="Methods_dlg">
+<node CREATED="1362653839895" ID="ID_1922283975" MODIFIED="1362718450079" TEXT="dlg_LoadToBuyList(actv, dlg)">
+<arrowlink DESTINATION="ID_308811711" ENDARROW="Default" ENDINCLINATION="195;0;" ID="Arrow_ID_982271155" STARTARROW="None" STARTINCLINATION="195;0;"/>
+<arrowlink DESTINATION="ID_914358702" ENDARROW="Default" ENDINCLINATION="86;0;" ID="Arrow_ID_1666624282" STARTARROW="None" STARTINCLINATION="86;0;"/>
+</node>
+</node>
+<node CREATED="1362714246425" FOLDED="true" ID="ID_448731036" MODIFIED="1363305366799" TEXT="Methods_sl">
+<node CREATED="1362714250909" ID="ID_914358702" MODIFIED="1362718446215" TEXT="getPSList(actv)">
+<arrowlink DESTINATION="ID_508603397" ENDARROW="Default" ENDINCLINATION="32;0;" ID="Arrow_ID_1297408291" STARTARROW="None" STARTINCLINATION="32;0;"/>
+</node>
+</node>
+<node CREATED="1362714311033" FOLDED="true" ID="ID_1197995366" MODIFIED="1363305366799" TEXT="DBUtils">
+<node CREATED="1362714318989" ID="ID_508603397" MODIFIED="1362718446215" TEXT="getPSList(actv)"/>
+</node>
+<node CREATED="1362716633491" ID="ID_308811711" MODIFIED="1362718450079" TEXT="PSListAdapter"/>
+</node>
+</node>
+</node>
+<node CREATED="1362720035204" FOLDED="true" ID="ID_529175040" MODIFIED="1363305366800" TEXT="v-3.1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1362720044202" ID="ID_1873737691" MODIFIED="1362720064746" TEXT="Show due date in a formatted label">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362721277018" FOLDED="true" ID="ID_1758563896" MODIFIED="1363305366799" TEXT="CODES">
+<node CREATED="1362721280179" FOLDED="true" ID="ID_622359156" MODIFIED="1363305366799" TEXT="Methods">
+<node CREATED="1362721284736" ID="ID_1588551448" MODIFIED="1362721284736" TEXT="getTimeLabel_Japanese(ps.getDueDate())"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1362721206810" FOLDED="true" ID="ID_1567359638" MODIFIED="1363305366800" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1362721214257" FOLDED="true" ID="ID_213238634" MODIFIED="1363305366800" TEXT="The date label">
+<node CREATED="1362721220976" ID="ID_998002859" MODIFIED="1362721231532" TEXT="=&gt; &quot;1&#x6708;13&#x65e5;&quot;"/>
+</node>
+<node CREATED="1362721253884" ID="ID_237381382" MODIFIED="1362721258229" TEXT="v-3.1-e1"/>
+<node CREATED="1362721375047" FOLDED="true" ID="ID_338777975" MODIFIED="1363305366800" TEXT="TRY">
+<node CREATED="1362721380158" FOLDED="true" ID="ID_259708487" MODIFIED="1363305366800" TEXT="&quot;yyyyMMdd...&quot;">
+<node CREATED="1362721391045" ID="ID_827510949" MODIFIED="1362721398841" TEXT="=&gt; &quot;19700113...&quot;"/>
+</node>
+<node CREATED="1362721253884" ID="ID_391873704" MODIFIED="1362721407953" TEXT="v-3.1-e1-t1"/>
+</node>
+<node CREATED="1362722090590" FOLDED="true" ID="ID_303217348" MODIFIED="1363305366800" TEXT="?">
+<node CREATED="1362721253884" ID="ID_1079806963" MODIFIED="1362722834359" TEXT="v-3.1-e1-t1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362722093848" ID="ID_1610739773" MODIFIED="1362722110919" TEXT="&#x30ea;&#x30b9;&#x30c8;&#x4f5c;&#x6210;&#x6642;&#x306b;&#x3001;&#x8aa4;&#x308a;&#x304c;&#x3042;&#x308b;&#xff1f;"/>
+<node CREATED="1362722822519" FOLDED="true" ID="ID_1307034745" MODIFIED="1363305366800" TEXT="FOUND">
+<node CREATED="1362722836084" ID="ID_1686985373" MODIFIED="1362722853924" TEXT="Using &quot;getInt&quot;, where &quot;due_date&quot; value is a long"/>
+<node CREATED="1362722865774" ID="ID_1000572459" MODIFIED="1362722868077" TEXT="SOLVED"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362723164334" FOLDED="true" ID="ID_1145698853" MODIFIED="1366027060234" TEXT="v-3.2">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362723169779" ID="ID_813599159" MODIFIED="1362723171364" TEXT="MISC"/>
+<node CREATED="1362723171923" FOLDED="true" ID="ID_638238164" MODIFIED="1366027060233" TEXT="01">
+<node CREATED="1362723173151" FOLDED="true" ID="ID_1786876584" MODIFIED="1363305366800" TEXT="Sort list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362723179633" ID="ID_596931084" MODIFIED="1362723185597" TEXT="=&gt; by: Due date"/>
+</node>
+<node CREATED="1362870809766" FOLDED="true" ID="ID_1044117782" MODIFIED="1366027060233" TEXT="CODES">
+<node CREATED="1362870811766" FOLDED="true" ID="ID_1329511308" MODIFIED="1366027060233" TEXT="Methods_sl">
+<node CREATED="1362870817180" ID="ID_955601132" MODIFIED="1362870817180" TEXT="sortPSList(psList, Tags.SortTags.pslist_due_date)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362561853852" FOLDED="true" ID="ID_1763627919" MODIFIED="1363305366800" TEXT="v-4.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1362561860611" ID="ID_757503448" MODIFIED="1362562128927" TEXT="Re-create table (Clean up the existing  entries">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1362878380131" FOLDED="true" ID="ID_1397299910" MODIFIED="1362892067018" TEXT="v-5.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362878385021" ID="ID_152170047" MODIFIED="1362878404216" TEXT="Show scheduled items in the &quot;to-buy&quot; tab">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362879767296" FOLDED="true" ID="ID_578985851" MODIFIED="1363305366801" TEXT="01">
+<node CREATED="1362879769290" ID="ID_1421767680" MODIFIED="1362879775250" TEXT="Set listener to the list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362880047786" FOLDED="true" ID="ID_390900515" MODIFIED="1363305366801" TEXT="CODES">
+<node CREATED="1362880055227" FOLDED="true" ID="ID_849086629" MODIFIED="1363305366801" TEXT="DialogOnItemClickListener">
+<node CREATED="1362880049661" ID="ID_118422600" MODIFIED="1362880059244" TEXT="onItemClick()"/>
+<node CREATED="1362880083439" ID="ID_1558783166" MODIFIED="1362880084632" TEXT="load_toBuyList(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1362881240825" FOLDED="true" ID="ID_1827779588" MODIFIED="1363305366801" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1362881243625" FOLDED="true" ID="ID_1804958701" MODIFIED="1363305366801" TEXT="&quot;Due date&quot; text view">
+<node CREATED="1362881253590" ID="ID_1501335912" MODIFIED="1362881258179" TEXT="=&gt; Doesn&apos;t show"/>
+</node>
+<node CREATED="1362886330257" FOLDED="true" ID="ID_972155528" MODIFIED="1363305366801" TEXT="SOLVED">
+<node CREATED="1362886332663" ID="ID_1582980867" MODIFIED="1362886342571" TEXT="Set list view height to a certain vlaue"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362886386288" FOLDED="true" ID="ID_431797352" MODIFIED="1363077217322" TEXT="v-5.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1362886351452" FOLDED="true" ID="ID_1975641793" MODIFIED="1363077217322" TEXT="01">
+<node CREATED="1362886359204" ID="ID_1110789051" MODIFIED="1362886363833" TEXT="Set item list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362886364963" FOLDED="true" ID="ID_1826409666" MODIFIED="1363077217317" TEXT="CODES">
+<node CREATED="1362880055227" FOLDED="true" ID="ID_605244226" MODIFIED="1363077217316" TEXT="DialogOnItemClickListener">
+<node CREATED="1362880049661" ID="ID_1503817776" MODIFIED="1362880059244" TEXT="onItemClick()"/>
+<node CREATED="1362880083439" ID="ID_1917540471" MODIFIED="1362880084632" TEXT="load_toBuyList(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1362886774644" FOLDED="true" ID="ID_626003391" MODIFIED="1363077217317" TEXT="Methods_sl">
+<node CREATED="1362886780092" ID="ID_1522810909" MODIFIED="1362887086098" TEXT="getSIListFromItemList(actv, s_ItemList)">
+<arrowlink DESTINATION="ID_329524180" ENDARROW="Default" ENDINCLINATION="81;0;" ID="Arrow_ID_1667644015" STARTARROW="None" STARTINCLINATION="81;0;"/>
+</node>
+</node>
+<node CREATED="1362887072766" FOLDED="true" ID="ID_837158253" MODIFIED="1363077217317" TEXT="DBUtils">
+<node CREATED="1362887079350" ID="ID_329524180" MODIFIED="1362887086098" TEXT="getSIFromDbId(ary_ItemList)"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1362888629130" FOLDED="true" ID="ID_514838758" MODIFIED="1363077217317" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1362889667772" ID="ID_1383278895" MODIFIED="1362889684050" TEXT="v-5.1-e1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362888631723" ID="ID_1816295010" MODIFIED="1362888650809" TEXT="android.database.sqlite.SQLiteException: bind or column index out of range: handle 0x38b578 "/>
+<node CREATED="1362889595002" FOLDED="true" ID="ID_1042281107" MODIFIED="1363077217317" TEXT="WORKAROUND">
+<node CREATED="1362889603024" ID="ID_794941748" MODIFIED="1362889613287" TEXT="Use &quot;rawQuery()&quot;"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1362889618662" FOLDED="true" ID="ID_1775742685" MODIFIED="1363077217318" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1362889621427" FOLDED="true" ID="ID_1001845682" MODIFIED="1363077217318" TEXT="Load list">
+<node CREATED="1362889626270" ID="ID_225636569" MODIFIED="1362889634101" TEXT="=&gt; List doesn&apos;t show"/>
+</node>
+<node CREATED="1362889667772" ID="ID_1408635948" MODIFIED="1362889691142" TEXT="v-5.1-e2">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1362889618662" FOLDED="true" ID="ID_922415154" MODIFIED="1363077217320" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1362889651706" FOLDED="true" ID="ID_1526865280" MODIFIED="1363077217318" TEXT="Button &quot;Choose&quot;">
+<node CREATED="1362889626270" ID="ID_1331292766" MODIFIED="1362889634101" TEXT="=&gt; List doesn&apos;t show"/>
+</node>
+<node CREATED="1362889667772" ID="ID_916034803" MODIFIED="1362889695708" TEXT="v-5.1-e3">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362890022388" FOLDED="true" ID="ID_387347383" MODIFIED="1363077217319" TEXT="TRY">
+<node CREATED="1362889667772" FOLDED="true" ID="ID_247211123" MODIFIED="1363077217318" TEXT="v-5.1-e3-t1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362890023757" FOLDED="true" ID="ID_840930518" MODIFIED="1363077217318" TEXT="Review codes">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362890028064" ID="ID_1849690595" MODIFIED="1362890029986" TEXT="ButtonOnClickListener"/>
+<node CREATED="1362890042074" FOLDED="true" ID="ID_1926383135" MODIFIED="1363077217318" TEXT="Methods_sl">
+<node CREATED="1362890047127" ID="ID_715647708" MODIFIED="1362890047127" TEXT="updateListView_ToBuyList(actv)"/>
+</node>
+</node>
+</node>
+<node CREATED="1362890259248" FOLDED="true" ID="ID_1359923079" MODIFIED="1363077217319" TEXT="FOUND">
+<node CREATED="1362890263312" FOLDED="true" ID="ID_693262113" MODIFIED="1363077217319" TEXT="Choose =&gt; to-buy list shown">
+<node CREATED="1362890298668" ID="ID_1530424910" MODIFIED="1362890317037" TEXT="=&gt; Load a shcedule item =&gt; The tab goes blank"/>
+<node CREATED="1362890318668" FOLDED="true" ID="ID_1818273124" MODIFIED="1363077217318" TEXT="=&gt; Again, &quot;choose&quot;">
+<node CREATED="1362890326100" ID="ID_133998717" MODIFIED="1362890331491" TEXT="=&gt; The tab remains blank"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362890343135" FOLDED="true" ID="ID_25161859" MODIFIED="1363077217319" TEXT="TRY">
+<node CREATED="1362889667772" FOLDED="true" ID="ID_64617067" MODIFIED="1363077217319" TEXT="v-5.1-e3-t2">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362890023757" FOLDED="true" ID="ID_127785100" MODIFIED="1363077217319" TEXT="Review codes">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362890367947" ID="ID_1897684472" MODIFIED="1362890391425" TEXT="What&apos;s done when loading a schedule?">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1362890595011" FOLDED="true" ID="ID_1887060464" MODIFIED="1363077217319" TEXT="FOUND">
+<node CREATED="1362890596918" ID="ID_1690616784" MODIFIED="1362890628291" TEXT="&quot;addAll()&quot; =&gt; Not used"/>
+</node>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1362889618662" FOLDED="true" ID="ID_203073955" MODIFIED="1363077217321" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1362889667772" FOLDED="true" ID="ID_268855777" MODIFIED="1363077217320" TEXT="v-5.1-e4">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362890643547" FOLDED="true" ID="ID_1410070762" MODIFIED="1363077217320" TEXT="Load list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362890650451" ID="ID_1303554253" MODIFIED="1362890664648" TEXT="=&gt; ALl items are &quot;&#x30b3;&#x30ed;&#x30b3;&#x30ed;&quot;">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1362890712366" FOLDED="true" ID="ID_1687061517" MODIFIED="1363077217321" TEXT="TRY">
+<node CREATED="1362889667772" FOLDED="true" ID="ID_1487606058" MODIFIED="1363077217320" TEXT="v-5.1-e4-t1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362890735127" FOLDED="true" ID="ID_199515492" MODIFIED="1363077217320" TEXT="CODE REVIEW">
+<node CREATED="1362890740792" FOLDED="true" ID="ID_1740007288" MODIFIED="1363077217320" TEXT="Methods_sl">
+<node CREATED="1362890746587" ID="ID_984502005" MODIFIED="1362890746587" TEXT="getSIListFromItemList(actv, s_ItemList)"/>
+</node>
+</node>
+</node>
+<node CREATED="1362891558094" FOLDED="true" ID="ID_757226834" MODIFIED="1363077217321" TEXT="FOUND">
+<node CREATED="1362891560106" FOLDED="true" ID="ID_1582894330" MODIFIED="1363077217320" TEXT="sql string">
+<node CREATED="1362891565684" ID="ID_359211942" MODIFIED="1362891577756" TEXT="=&gt; &quot;WHERE...&quot; =&gt; Not used"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_835500349" MODIFIED="1363305366805" TEXT="D-27">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1361600926338" ID="ID_1749114276" MODIFIED="1362892151161" TEXT="B19_change_ui_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362892133736" FOLDED="true" ID="ID_1034259155" MODIFIED="1363305366801" TEXT="Item list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362892136884" ID="ID_1378972035" MODIFIED="1362892163099" TEXT="Clear checked item list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362892540427" ID="ID_26358419" MODIFIED="1362892548325" TEXT="=&gt; Let&apos;s use option menu">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1362892455078" FOLDED="true" ID="ID_300196383" MODIFIED="1363305366802" TEXT="v-5.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362892457447" FOLDED="true" ID="ID_447289470" MODIFIED="1363305366802" TEXT="MERGE">
+<node CREATED="1362892462076" ID="ID_1553819945" MODIFIED="1362892465409" TEXT="master"/>
+</node>
+</node>
+<node CREATED="1362892449534" FOLDED="true" ID="ID_1394181605" MODIFIED="1363305366804" TEXT="v-5.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362892136884" ID="ID_534184484" MODIFIED="1362892163099" TEXT="Clear checked item list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362892478247" FOLDED="true" ID="ID_771776141" MODIFIED="1363305366804" TEXT="01">
+<node CREATED="1362892481733" FOLDED="true" ID="ID_688431139" MODIFIED="1363305366804" TEXT="CODES">
+<node CREATED="1362892560117" ID="ID_932923551" MODIFIED="1362892565178" TEXT="strings.xml"/>
+<node CREATED="1362892572790" ID="ID_255602060" MODIFIED="1362892575019" TEXT="menu"/>
+<node CREATED="1362893216328" FOLDED="true" ID="ID_1642375825" MODIFIED="1363077210232" TEXT="TabActv">
+<node CREATED="1362893204537" ID="ID_1748981127" MODIFIED="1362893298548" TEXT="onOptionsItemSelected(MenuItem item)">
+<arrowlink DESTINATION="ID_1444385421" ENDARROW="Default" ENDINCLINATION="25;0;" ID="Arrow_ID_1350095642" STARTARROW="None" STARTINCLINATION="25;0;"/>
+</node>
+</node>
+<node CREATED="1362893292135" FOLDED="true" ID="ID_112273054" MODIFIED="1363077210233" TEXT="Methods_dlg">
+<node CREATED="1362893296257" ID="ID_1444385421" MODIFIED="1362893298548" TEXT="dlg_tabActv_clearSelections(this)"/>
+</node>
+<node CREATED="1362892575913" FOLDED="true" ID="ID_392364415" MODIFIED="1363077210233" TEXT="Dialog">
+<node CREATED="1362892580523" ID="ID_1130756571" MODIFIED="1362893674496" TEXT="dlg_db_admin.xml"/>
+</node>
+<node CREATED="1362893661285" FOLDED="true" ID="ID_1245831668" MODIFIED="1363305366803" TEXT="DialogOnItemClickListener">
+<node CREATED="1362893761951" ID="ID_1273766864" MODIFIED="1362893761951" TEXT="case_dlg_clear_selections(String choice)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1843265154" MODIFIED="1363305366805" TEXT="D-28">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1362116206086" FOLDED="true" ID="ID_1979270890" MODIFIED="1363077205251" TEXT="B25_FIX_TabActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362900255877" FOLDED="true" ID="ID_1006814351" MODIFIED="1363077205251" TEXT="v-2.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1362900160903" FOLDED="true" ID="ID_260886494" MODIFIED="1363077205249" TEXT="FIX">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362900164991" FOLDED="true" ID="ID_1346307986" MODIFIED="1363077205249" TEXT="to-buy list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362900170267" FOLDED="true" ID="ID_1226738038" MODIFIED="1363077205248" TEXT="=&gt; Click one item">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1362900178570" ID="ID_516466319" MODIFIED="1362900246813" TEXT="=&gt; Every item goes blue">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1362900284184" FOLDED="true" ID="ID_1661289820" MODIFIED="1363077205250" TEXT="01">
+<node CREATED="1362890735127" FOLDED="true" ID="ID_592265557" MODIFIED="1363077205250" TEXT="CODE REVIEW">
+<node CREATED="1362900596903" FOLDED="true" ID="ID_1450135032" MODIFIED="1363077205249" TEXT="ListOnItemClickListener">
+<node CREATED="1362900611418" ID="ID_45549028" MODIFIED="1362900611418" TEXT="tab_toBuyList(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1362900621595" ID="ID_1540980158" MODIFIED="1362900622190" TEXT="ToBuyListAdapter"/>
+</node>
+<node CREATED="1362902172746" FOLDED="true" ID="ID_1437202553" MODIFIED="1363077205250" TEXT="FOUND">
+<node CREATED="1362902174795" ID="ID_512169097" MODIFIED="1362902213410" TEXT="When getting siList in loading the list, db id wasn&apos;t included in the sql"/>
+</node>
+<node CREATED="1362902217393" ID="ID_1300766301" MODIFIED="1362902222401" TEXT="FIXED"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1787966238" MODIFIED="1363305361366" TEXT="D-29">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1361605643923" ID="ID_1427599140" MODIFIED="1361605664746" TEXT="B21_Save_list_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362902409249" ID="ID_959727754" MODIFIED="1362902442655" TEXT="When the schedule already exists in db, show confirmatin dialog">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362902681268" FOLDED="true" ID="ID_572452195" MODIFIED="1363077198485" TEXT="v-6.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1363041429093" ID="ID_438964303" MODIFIED="1363041440326" TEXT="Already exists?">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362902687829" FOLDED="true" ID="ID_1792954787" MODIFIED="1363077198484" TEXT="CODES">
+<node CREATED="1362902965089" FOLDED="true" ID="ID_450443138" MODIFIED="1363077198482" TEXT="DialogButtonOnClickListener">
+<node CREATED="1362902959676" ID="ID_1091953925" MODIFIED="1362902986405" TEXT="case_dlg_save_tobuy_list_bt_ok()">
+<arrowlink DESTINATION="ID_1921945442" ENDARROW="Default" ENDINCLINATION="69;0;" ID="Arrow_ID_207429192" STARTARROW="None" STARTINCLINATION="69;0;"/>
+</node>
+</node>
+<node CREATED="1362902977723" FOLDED="true" ID="ID_1550857475" MODIFIED="1363077198483" TEXT="Methods_sl">
+<node CREATED="1362902984363" ID="ID_1921945442" MODIFIED="1362904825908" TEXT="isInDb_PS(actv, storeName, cal)">
+<arrowlink DESTINATION="ID_490263221" ENDARROW="Default" ENDINCLINATION="27;0;" ID="Arrow_ID_1111752903" STARTARROW="None" STARTINCLINATION="27;0;"/>
+</node>
+</node>
+<node CREATED="1362904811811" FOLDED="true" ID="ID_642822525" MODIFIED="1363077198483" TEXT="Methods">
+<node CREATED="1362904815738" ID="ID_490263221" MODIFIED="1362904825908" TEXT="getDateArrayFromLongData(dueDate)"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1363041059045" FOLDED="true" ID="ID_1812459539" MODIFIED="1363077198485" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1363041063458" FOLDED="true" ID="ID_899537919" MODIFIED="1363077198484" TEXT="Due dates obtained from db">
+<node CREATED="1363041073063" ID="ID_1177961619" MODIFIED="1363041094901" TEXT="=&gt; All &quot;3&#x6708;10&#x65e5;&quot;"/>
+</node>
+<node CREATED="1363041225014" FOLDED="true" ID="ID_932064153" MODIFIED="1363077198484" TEXT="FOUND">
+<node CREATED="1363041226931" ID="ID_521920493" MODIFIED="1363041240697" TEXT="Yes, other dates also included"/>
+</node>
+</node>
+</node>
+<node CREATED="1363041477229" FOLDED="true" ID="ID_186488126" MODIFIED="1363305361360" TEXT="v-6.1">
+<node CREATED="1363041482330" ID="ID_697787977" MODIFIED="1363041561162" TEXT="Show dialog">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363042059789" FOLDED="true" ID="ID_1510665338" MODIFIED="1363305361360" TEXT="01">
+<node CREATED="1363042062490" FOLDED="true" ID="ID_872682750" MODIFIED="1363305361359" TEXT="CODES">
+<node CREATED="1363042112136" FOLDED="true" ID="ID_1066895448" MODIFIED="1363305361358" TEXT="DialogButtonOnClickListener">
+<node CREATED="1363042106171" ID="ID_1318411314" MODIFIED="1363042106171" TEXT="case_dlg_save_tobuy_list_bt_ok"/>
+</node>
+<node CREATED="1363042065176" FOLDED="true" ID="ID_1309845968" MODIFIED="1363305361359" TEXT="Methods_dlg">
+<node CREATED="1363042123915" ID="ID_799697897" MODIFIED="1363042123915" TEXT="dlg_scheduleInDb(actv, dlg1, dlg2)"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1363041477229" FOLDED="true" ID="ID_797230187" MODIFIED="1363305361365" TEXT="v-6.3">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1363041546868" ID="ID_960384009" MODIFIED="1363041561163" TEXT="Execute saving data">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363068823942" FOLDED="true" ID="ID_32287365" MODIFIED="1363305361361" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1363068825827" FOLDED="true" ID="ID_1940318821" MODIFIED="1363305361361" TEXT="CODES">
+<node CREATED="1363068836226" FOLDED="true" ID="ID_1393875997" MODIFIED="1363305361360" TEXT="DialogButtonOnClickListener">
+<node CREATED="1363068828042" ID="ID_955297962" MODIFIED="1363068841323" TEXT="case_dlg_save_tobuy_list_bt_ok_execute()"/>
+</node>
+</node>
+</node>
+<node CREATED="1363069597650" FOLDED="true" ID="ID_1228485312" MODIFIED="1363305361362" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1363070032236" ID="ID_22219417" MODIFIED="1363070046353" TEXT="Save (not update) data">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363070046684" FOLDED="true" ID="ID_1585494123" MODIFIED="1363305361362" TEXT="CODES">
+<node CREATED="1363069736455" FOLDED="true" ID="ID_779275890" MODIFIED="1363305361361" TEXT="DialogButtonOnClickListener">
+<node CREATED="1363069728883" ID="ID_745706460" MODIFIED="1363069728883" TEXT="case_dlg_scheduleInDb_ok()"/>
+</node>
+</node>
+</node>
+<node CREATED="1363070025159" FOLDED="true" ID="ID_1393281609" MODIFIED="1363305361364" TEXT="03">
+<icon BUILTIN="idea"/>
+<node CREATED="1363069599996" ID="ID_650914492" MODIFIED="1363069616889" TEXT="Update data after validation">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363069726661" FOLDED="true" ID="ID_1168814079" MODIFIED="1363305361363" TEXT="CODES">
+<node CREATED="1363069736455" FOLDED="true" ID="ID_496507479" MODIFIED="1363305361363" TEXT="DialogButtonOnClickListener">
+<node CREATED="1363070144276" ID="ID_77406851" MODIFIED="1363070323570" TEXT="case_dlg_scheduleInDb_update()">
+<arrowlink DESTINATION="ID_47470565" ENDARROW="Default" ENDINCLINATION="54;0;" ID="Arrow_ID_1031433054" STARTARROW="None" STARTINCLINATION="54;0;"/>
+</node>
+<node CREATED="1363070318267" ID="ID_47470565" MODIFIED="1363070879566" TEXT="case_dlg_scheduleInDb_update_execute()">
+<arrowlink DESTINATION="ID_795584192" ENDARROW="Default" ENDINCLINATION="24;0;" ID="Arrow_ID_162420586" STARTARROW="None" STARTINCLINATION="24;0;"/>
+</node>
+</node>
+<node CREATED="1363070872202" FOLDED="true" ID="ID_742247934" MODIFIED="1363305361363" TEXT="DBUtils">
+<node CREATED="1363070876640" ID="ID_795584192" MODIFIED="1363073983860" TEXT="updateData_PS_ItemIds(actv, storeName, dueDate, itemIdsString)">
+<arrowlink DESTINATION="ID_1254726218" ENDARROW="Default" ENDINCLINATION="176;0;" ID="Arrow_ID_1229502911" STARTARROW="None" STARTINCLINATION="176;0;"/>
+</node>
+<node CREATED="1363073980236" ID="ID_1254726218" MODIFIED="1363073983860" TEXT="getDbId_PS(storeName, dueDate)"/>
+</node>
+</node>
+</node>
+<node CREATED="1363076471682" FOLDED="true" ID="ID_627187629" MODIFIED="1363305361364" TEXT="04">
+<icon BUILTIN="idea"/>
+<node CREATED="1363076473742" FOLDED="true" ID="ID_948762144" MODIFIED="1363305361364" TEXT="MISC">
+<node CREATED="1363076475825" ID="ID_1214232023" MODIFIED="1363076520309" TEXT="In confirm dialog, set text &quot;Update&quot; to the text view currently texted with &quot;choice&quot;">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" ID="ID_250573289" MODIFIED="1369535086364" TEXT="D-30">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<node COLOR="#ff3333" CREATED="1362944738917" ID="ID_1553965060" MODIFIED="1369535090628" TEXT="PROBLEM">
+<node CREATED="1362944742475" ID="ID_1248347595" MODIFIED="1369535090630" TEXT="Load list">
+<node CREATED="1362944748450" ID="ID_395163744" MODIFIED="1369535090631" TEXT="=&gt; Then, choose item, add to basket">
+<node CREATED="1362944764002" ID="ID_1144622963" MODIFIED="1362944771998" TEXT="=&gt; Loaded items get removed"/>
+</node>
+</node>
+</node>
+<node CREATED="1363080978550" ID="ID_757202972" MODIFIED="1363081055714" TEXT="B26_FIX-2_Loaded-itms-get-removed">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363081114199" ID="ID_797302037" MODIFIED="1369535090635" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1363081158660" ID="ID_1931752266" MODIFIED="1369535090637" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1363081160688" ID="ID_326981402" MODIFIED="1369535090646" TEXT="REVIEW CODES">
+<node CREATED="1363081198013" ID="ID_148504111" MODIFIED="1369535090648" TEXT="ButtonOnClickListener">
+<node CREATED="1363081344244" ID="ID_1257438816" MODIFIED="1363081344244" TEXT="itemlist_tabs_bt_choose()"/>
+</node>
+<node CREATED="1363081325211" ID="ID_821978603" MODIFIED="1369535090650" TEXT="Methods_sl">
+<node CREATED="1363081330016" ID="ID_1180298626" MODIFIED="1363081330016" TEXT="updateListView_ToBuyList(actv)"/>
+</node>
+<node CREATED="1363093581052" ID="ID_1087170299" MODIFIED="1369535090655" TEXT="DialogOnItemClickListener">
+<node CREATED="1363093574290" ID="ID_896286140" MODIFIED="1363093574290" TEXT="load_toBuyList(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+</node>
+</node>
+<node CREATED="1363093595122" ID="ID_1256272323" MODIFIED="1369535090660" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1363093596848" ID="ID_143659295" MODIFIED="1363093607404" TEXT="Sort load SI list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363093609027" ID="ID_1881112244" MODIFIED="1369535090663" TEXT="CODES">
+<node CREATED="1363093581052" ID="ID_1695284105" MODIFIED="1369535090665" TEXT="DialogOnItemClickListener">
+<node CREATED="1363093574290" ID="ID_1767002886" MODIFIED="1363093574290" TEXT="load_toBuyList(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1363093843103" ID="ID_1336017519" MODIFIED="1369535090667" TEXT="Methods_sl">
+<node CREATED="1363093832293" ID="ID_871318277" MODIFIED="1363093832293" TEXT="updateToBuyList(Activity actv)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1190314906" MODIFIED="1366027061470" TEXT="D-31">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1362902564589" ID="ID_345545026" MODIFIED="1362902598626" TEXT="B26_tabactv_clear_selections">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362902535887" FOLDED="true" ID="ID_1528089641" MODIFIED="1366027061470" TEXT="TabActv">
+<node CREATED="1362902539962" FOLDED="true" ID="ID_1931092527" MODIFIED="1366027061470" TEXT="Clear selections">
+<node CREATED="1362902544207" ID="ID_1524325108" MODIFIED="1362902550464" TEXT="=&gt; Add &quot;All&quot; option"/>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_309777526" MODIFIED="1366027061471" TEXT="D-32">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1363077453252" FOLDED="true" ID="ID_115083798" MODIFIED="1366027061471" TEXT="Delete schedule item from db">
+<node CREATED="1363077462306" ID="ID_1132839987" MODIFIED="1363077485101" TEXT="=&gt; Let&apos;s add another option in &quot;Admin db&quot; dialog in tab 2"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_907206533" MODIFIED="1363477606628" TEXT="D-34">
+<icon BUILTIN="gohome"/>
+<node CREATED="1363299943834" ID="ID_526196347" MODIFIED="1363300105560" TEXT="B30_change_ui_to-buy-tab_sum">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363303622115" FOLDED="true" ID="ID_555980436" MODIFIED="1363477606628" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1363303625280" FOLDED="true" ID="ID_1347233699" MODIFIED="1363477606628" TEXT="01">
+<node CREATED="1363303655337" FOLDED="true" ID="ID_1036887086" MODIFIED="1363477606626" TEXT="CODES">
+<node CREATED="1363303662869" ID="ID_790724453" MODIFIED="1363303665793" TEXT="strings.xml"/>
+<node CREATED="1363303657425" FOLDED="true" ID="ID_1309796959" MODIFIED="1363477606625" TEXT="Layout">
+<node CREATED="1363303706942" ID="ID_296663998" MODIFIED="1363303706942" TEXT="itemlist_tabs.xml"/>
+</node>
+<node CREATED="1363081198013" FOLDED="true" ID="ID_663137982" MODIFIED="1363477606626" TEXT="ButtonOnClickListener">
+<node CREATED="1363081344244" ID="ID_1727368991" MODIFIED="1363304159624" TEXT="itemlist_tabs_bt_choose()">
+<arrowlink DESTINATION="ID_611765010" ENDARROW="Default" ENDINCLINATION="37;0;" ID="Arrow_ID_390973094" STARTARROW="None" STARTINCLINATION="37;0;"/>
+</node>
+</node>
+<node CREATED="1363304152406" FOLDED="true" ID="ID_103207095" MODIFIED="1363477606626" TEXT="Methods_sl">
+<node CREATED="1363304156821" ID="ID_611765010" MODIFIED="1363304159623" TEXT="updateListView_ToBuyList(actv)"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1363304988371" FOLDED="true" ID="ID_1980741927" MODIFIED="1363477606628" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1363304992486" FOLDED="true" ID="ID_1044781125" MODIFIED="1363477606627" TEXT="When clearing the item lists">
+<node CREATED="1363305003573" ID="ID_110786683" MODIFIED="1363305013607" TEXT="=&gt; The sum remains displayed"/>
+</node>
+<node CREATED="1363305025908" FOLDED="true" ID="ID_1989093720" MODIFIED="1363477606627" TEXT="TRY">
+<node CREATED="1363303655337" FOLDED="true" ID="ID_136179325" MODIFIED="1363477606627" TEXT="CODES">
+<node CREATED="1362893661285" FOLDED="true" ID="ID_1432147824" MODIFIED="1363477606627" TEXT="DialogOnItemClickListener">
+<node CREATED="1362893761951" ID="ID_1851116572" MODIFIED="1362893761951" TEXT="case_dlg_clear_selections(String choice)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1854923319" MODIFIED="1363477608529" TEXT="D-35">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1363299943834" ID="ID_572653402" MODIFIED="1363305349520" TEXT="B30-2_change_ui_to-buy-tab_store_name">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363305372789" FOLDED="true" ID="ID_1672503876" MODIFIED="1363477608528" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1363305376160" FOLDED="true" ID="ID_752117278" MODIFIED="1363477608528" TEXT="01">
+<node CREATED="1363305378589" FOLDED="true" ID="ID_1753932366" MODIFIED="1363477608528" TEXT="CODES">
+<node CREATED="1363308096885" FOLDED="true" ID="ID_1853190761" MODIFIED="1363477608528" TEXT="When">
+<node CREATED="1363308099596" FOLDED="true" ID="ID_499522030" MODIFIED="1363477608525" TEXT="=&gt; Choose">
+<icon BUILTIN="idea"/>
+<node CREATED="1363308949331" FOLDED="true" ID="ID_1617120337" MODIFIED="1363477608524" TEXT="CODES">
+<node CREATED="1363308957326" FOLDED="true" ID="ID_1829079985" MODIFIED="1363477608524" TEXT="Methods_sl">
+<node CREATED="1363308951838" ID="ID_1428522857" MODIFIED="1363308951838" TEXT="updateToBuyList(Activity actv)"/>
+</node>
+</node>
+</node>
+<node CREATED="1363308104349" FOLDED="true" ID="ID_681345912" MODIFIED="1363477608526" TEXT="=&gt; Load">
+<node CREATED="1363308182152" ID="ID_1061322853" MODIFIED="1363308186331" TEXT="Sum"/>
+<node CREATED="1363308186589" ID="ID_1896339912" MODIFIED="1363308188583" TEXT="Store name"/>
+<node CREATED="1363308878731" FOLDED="true" ID="ID_1478692229" MODIFIED="1363477608526" TEXT="CODES">
+<node CREATED="1363308896878" FOLDED="true" ID="ID_665837516" MODIFIED="1363477608525" TEXT="DialogOnItemClickListener">
+<node CREATED="1363308871002" ID="ID_1129607935" MODIFIED="1363308871593" TEXT="load_toBuyList(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1363309017215" FOLDED="true" ID="ID_1456561600" MODIFIED="1363477608526" TEXT="REF">
+<node CREATED="1363309025819" FOLDED="true" ID="ID_1648404108" MODIFIED="1363477608525" TEXT="DialogOnItemClickListener">
+<node CREATED="1363309018857" ID="ID_1234867582" MODIFIED="1363309018857" TEXT="case_dlg_clear_selections(String choice)"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1363308109282" FOLDED="true" ID="ID_814513272" MODIFIED="1363477608527" TEXT="=&gt; Clear selections">
+<node CREATED="1363308182152" FOLDED="true" ID="ID_502419419" MODIFIED="1363477608527" TEXT="Sum">
+<node CREATED="1363308197322" ID="ID_344207346" MODIFIED="1363308199818" TEXT="=&gt; 0"/>
+</node>
+<node CREATED="1363308186589" FOLDED="true" ID="ID_1951127122" MODIFIED="1363477608527" TEXT="Store name">
+<node CREATED="1363308200980" ID="ID_1798158663" MODIFIED="1363308205155" TEXT="=&gt; No"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_292577122" MODIFIED="1366027063892" TEXT="D-33">
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1363267799160" ID="ID_436496050" MODIFIED="1363267800951" TEXT="B29_make_items_editable">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363309399440" FOLDED="true" ID="ID_82754104" MODIFIED="1366027063892" TEXT="In the item list, long-click an item">
+<node CREATED="1363309413149" ID="ID_623628879" MODIFIED="1363309418207" TEXT="=&gt; Dialog shows up"/>
+</node>
+<node CREATED="1363309371385" FOLDED="true" ID="ID_1810164580" MODIFIED="1363477571778" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1363305376160" FOLDED="true" ID="ID_94184401" MODIFIED="1363477571778" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1363313215193" ID="ID_1911862372" MODIFIED="1363313227584" TEXT="Show dialog">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363313220705" ID="ID_1266949668" MODIFIED="1363313227574" TEXT="Get store name">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363305378589" FOLDED="true" ID="ID_846191015" MODIFIED="1363477571778" TEXT="CODES">
+<node CREATED="1363311526839" ID="ID_870929797" MODIFIED="1363311530295" TEXT="strings.xml"/>
+<node CREATED="1363310861650" FOLDED="true" ID="ID_909490475" MODIFIED="1363477571777" TEXT="TabActv">
+<node CREATED="1363310857311" ID="ID_269930114" MODIFIED="1363310857311" TEXT="setupListeners()"/>
+</node>
+<node CREATED="1363312188241" FOLDED="true" ID="ID_1245852525" MODIFIED="1363477571777" TEXT="Tags">
+<node CREATED="1363312193034" ID="ID_436781988" MODIFIED="1363312193034" TEXT="DialogTags.dlg_edit_items_bt_ok"/>
+</node>
+<node CREATED="1363310876783" FOLDED="true" ID="ID_761310249" MODIFIED="1363477571777" TEXT="ListOnItemLongClickListener">
+<node CREATED="1363311257466" ID="ID_817558871" MODIFIED="1363312384221" TEXT="case_tab_itemList(AdapterView&lt;?&gt; parent, int position)">
+<arrowlink COLOR="#999900" DESTINATION="ID_385023792" ENDARROW="Default" ENDINCLINATION="91;0;" ID="Arrow_ID_962499876" STARTARROW="None" STARTINCLINATION="91;0;"/>
+</node>
+<node CREATED="1363312373008" ID="ID_385023792" MODIFIED="1363312376755" TEXT="case_tab_itemList__setStoreName(si)"/>
+</node>
+<node CREATED="1363312583958" FOLDED="true" ID="ID_845592068" MODIFIED="1363477571777" TEXT="DButils">
+<node CREATED="1363312590539" ID="ID_843480227" MODIFIED="1363312590539" TEXT="getAllData(db, &quot;stores&quot;, CONS.columns_for_table_stores_with_index)"/>
+</node>
+</node>
+</node>
+<node CREATED="1363313232754" FOLDED="true" ID="ID_786494841" MODIFIED="1363477571778" TEXT="02">
+<icon BUILTIN="idea"/>
+<node CREATED="1363313235127" ID="ID_1293851213" MODIFIED="1363313244690" TEXT="Get name, and on">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363305378589" FOLDED="true" ID="ID_1224814234" MODIFIED="1363477571778" TEXT="CODES">
+<node CREATED="1363310876783" FOLDED="true" ID="ID_482235880" MODIFIED="1363477571778" TEXT="ListOnItemLongClickListener">
+<node CREATED="1363325055746" ID="ID_86296293" MODIFIED="1363325055746" TEXT="case_tab_itemList__setItemName(si, dlg)"/>
+<node CREATED="1363325580109" ID="ID_562495789" MODIFIED="1363325581065" TEXT="case_tab_itemList__setPriceAndGenre(si, dlg)"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1363346840520" FOLDED="true" ID="ID_1590692551" MODIFIED="1363477573673" TEXT="v-1.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1363346846541" ID="ID_998910839" MODIFIED="1363346851591" TEXT="Update data">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363346851937" FOLDED="true" ID="ID_1333729127" MODIFIED="1363477573672" TEXT="01">
+<node CREATED="1363346966565" FOLDED="true" ID="ID_1700741118" MODIFIED="1363477573669" TEXT="CODES">
+<node CREATED="1363347835624" FOLDED="true" ID="ID_761135470" MODIFIED="1363477573665" TEXT="Methods_dlg">
+<node CREATED="1363347822184" ID="ID_1761662144" MODIFIED="1363347844347" TEXT="dlg_template_okCancel(...si)"/>
+</node>
+<node CREATED="1363347200839" FOLDED="true" ID="ID_1548105255" MODIFIED="1363477573665" TEXT="DialogButtonOnClickListener">
+<node CREATED="1363347282621" ID="ID_686221826" MODIFIED="1363347549378" TEXT="case_dlg_edit_items_bt_ok()">
+<arrowlink DESTINATION="ID_1157744785" ENDARROW="Default" ENDINCLINATION="160;0;" ID="Arrow_ID_1768160596" STARTARROW="None" STARTINCLINATION="160;0;"/>
+</node>
+</node>
+<node CREATED="1363347536342" FOLDED="true" ID="ID_584226940" MODIFIED="1363477573665" TEXT="DBUtils">
+<node CREATED="1363347546155" ID="ID_1157744785" MODIFIED="1363347549377" TEXT="updateData_SI_all(si)"/>
+</node>
+<node CREATED="1363472228724" FOLDED="true" ID="ID_953175165" MODIFIED="1363477573668" TEXT="REF">
+<node CREATED="1341558748187" FOLDED="true" ID="ID_1029347138" MODIFIED="1363477573668" TEXT="RegisterItem.java">
+<node CREATED="1341558791250" ID="ID_637237994" MODIFIED="1363346977709" TEXT="Spinner"/>
+<node CREATED="1341559892578" FOLDED="true" ID="ID_1012160060" MODIFIED="1363477573667" TEXT="MODIFY">
+<node CREATED="1341559897390" FOLDED="true" ID="ID_1397818826" MODIFIED="1363477573666" TEXT="Spinner &gt;&gt; textSize">
+<node CREATED="1341559906390" ID="ID_728882457" MODIFIED="1363346977708" TEXT="=&gt; 25dp"/>
+<node BACKGROUND_COLOR="#ff0033" COLOR="#ffffff" CREATED="1341378932312" FOLDED="true" ID="ID_375877918" MODIFIED="1363477573666" TEXT="PROBLEM">
+<arrowlink DESTINATION="ID_375877918" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1105357789" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1341560337078" ID="ID_432227591" MODIFIED="1363346977708" TEXT="Size doesn&apos;t change"/>
+</node>
+</node>
+<node CREATED="1341560419687" FOLDED="true" ID="ID_84274186" MODIFIED="1363477573666" TEXT="Set spinner items">
+<node CREATED="1341560428000" ID="ID_135166017" MODIFIED="1363346977708" TEXT="From db"/>
+<node CREATED="1341560445000" FOLDED="true" ID="ID_1263622299" MODIFIED="1363477573666" TEXT="In">
+<node CREATED="1341560450328" ID="ID_1786758545" MODIFIED="1363346977708" TEXT="=&gt; onCreate()"/>
+</node>
+</node>
+<node CREATED="1341561461000" FOLDED="true" ID="ID_870489039" MODIFIED="1363477573667" TEXT="storeData()">
+<node CREATED="1341561472000" ID="ID_633634145" MODIFIED="1363346977708" TEXT="=&gt; Get store name from spinner"/>
+<node CREATED="1341561735859" ID="ID_463104086" MODIFIED="1363346977708" TEXT="DONE"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1363472295513" FOLDED="true" ID="ID_1769928175" MODIFIED="1363477573668" TEXT="ListOnItemLongClickListener">
+<node CREATED="1363472324677" ID="ID_1419822793" MODIFIED="1363472324677" TEXT="case_tab_itemList(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1363472364917" FOLDED="true" ID="ID_1986141025" MODIFIED="1363477573668" TEXT="DialogButtonOnClickListener">
+<node CREATED="1363472406987" ID="ID_1189301615" MODIFIED="1363472406987" TEXT="case_dlg_edit_items_bt_ok()"/>
+</node>
+<node CREATED="1363472382861" FOLDED="true" ID="ID_171945907" MODIFIED="1363477573669" TEXT="DBUtils">
+<node CREATED="1363472389163" ID="ID_591525005" MODIFIED="1363472389163" TEXT="updateData_SI_all(ShoppingItem si)"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1363473421058" FOLDED="true" ID="ID_32504895" MODIFIED="1363477573670" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1363473424145" FOLDED="true" ID="ID_918179654" MODIFIED="1363477573670" TEXT="&#x300c;&#x8155;&#x6642;&#x8a08;&#x300d;">
+<node CREATED="1363473434923" ID="ID_1044684505" MODIFIED="1363473445894" TEXT="=&gt; Genre not updated (browsing db file)"/>
+</node>
+<node CREATED="1363474975398" FOLDED="true" ID="ID_1265279373" MODIFIED="1363477573670" TEXT="SOLVED">
+<node CREATED="1363474977613" ID="ID_17009994" MODIFIED="1363474995219" TEXT="Build a new shopping item, then save the data of it"/>
+</node>
+</node>
+<node COLOR="#660099" CREATED="1363474998702" FOLDED="true" ID="ID_643245792" MODIFIED="1363477573672" TEXT="ISSUE">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1363475002921" ID="ID_1309002740" MODIFIED="1363475018152" TEXT="After updating, the item list doesn&apos;t change"/>
+<node CREATED="1363475470117" FOLDED="true" ID="ID_1565201461" MODIFIED="1363477573672" TEXT="TRY">
+<node CREATED="1363475471889" FOLDED="true" ID="ID_1594479894" MODIFIED="1363477573671" TEXT="CODES">
+<node CREATED="1363472364917" FOLDED="true" ID="ID_1102737435" MODIFIED="1363477573671" TEXT="DialogButtonOnClickListener">
+<node CREATED="1363472406987" ID="ID_1390966656" MODIFIED="1363472406987" TEXT="case_dlg_edit_items_bt_ok()"/>
+<node CREATED="1363475494455" ID="ID_758014768" MODIFIED="1363475494455" TEXT="case_dlg_edit_items_bt_ok__updateItemList()"/>
+</node>
+</node>
+<node CREATED="1363475955776" FOLDED="true" ID="ID_785182611" MODIFIED="1363477573671" TEXT="MEMO">
+<node CREATED="1363475958368" FOLDED="true" ID="ID_1285417630" MODIFIED="1363477573671" TEXT="Edit item list only">
+<node CREATED="1363475966535" ID="ID_1237643533" MODIFIED="1363476001146" TEXT="=&gt; As for to-buy id list and to-buy list, handle them later"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_988591664" MODIFIED="1366080070188" TEXT="D-36">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1363476507130" FOLDED="true" ID="ID_457475694" MODIFIED="1366080070182" TEXT="Filtering">
+<node CREATED="1363476511424" ID="ID_742544809" MODIFIED="1363476520568" TEXT="=&gt; Use &quot;Selection changed&quot; listener"/>
+</node>
+<node CREATED="1363477621474" ID="ID_1496246560" MODIFIED="1363477639395" TEXT="B31_filter_by_selection_listener">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363477649814" FOLDED="true" ID="ID_862253265" MODIFIED="1366080070184" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1363477652614" FOLDED="true" ID="ID_401629903" MODIFIED="1366080070183" TEXT="01">
+<node CREATED="1363478850332" FOLDED="true" ID="ID_1698304888" MODIFIED="1366080070182" TEXT="Show spinners">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1363478856960" ID="ID_1287296396" MODIFIED="1363478872175" TEXT="Show labels, too">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1363478176803" FOLDED="true" ID="ID_1929396487" MODIFIED="1366080070183" TEXT="CODES">
+<node CREATED="1363477655691" FOLDED="true" ID="ID_396477524" MODIFIED="1366080070182" TEXT="Layout">
+<node CREATED="1363478173205" ID="ID_1642240192" MODIFIED="1363478173205" TEXT="itemlist_tabs.xml"/>
+</node>
+<node CREATED="1363478501554" FOLDED="true" ID="ID_168473451" MODIFIED="1366080070183" TEXT="TabActv">
+<node CREATED="1363478504053" ID="ID_980938956" MODIFIED="1363478504053" TEXT="setupTabs__first()"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1363478881613" FOLDED="true" ID="ID_1831613716" MODIFIED="1366080070186" TEXT="v-1.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1363478883658" FOLDED="true" ID="ID_1783133614" MODIFIED="1366080070186" TEXT="01">
+<node CREATED="1363478850332" FOLDED="true" ID="ID_1104776295" MODIFIED="1366080070184" TEXT="Show spinners">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1363478856960" ID="ID_1765383912" MODIFIED="1363478894023" TEXT="No labels">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1363479785545" FOLDED="true" ID="ID_1641521812" MODIFIED="1366080070185" TEXT="CODES">
+<node CREATED="1363479790398" FOLDED="true" ID="ID_1396156636" MODIFIED="1366080070184" TEXT="TabActv">
+<node CREATED="1363479787377" ID="ID_1433841289" MODIFIED="1363479787377" TEXT="setupListeners()"/>
+</node>
+<node CREATED="1363480696974" FOLDED="true" ID="ID_688904471" MODIFIED="1366080070184" TEXT="ItemSelectedListener">
+<node CREATED="1363480704181" ID="ID_1169707204" MODIFIED="1363480706321" TEXT="onItemSelected()"/>
+</node>
+<node CREATED="1363480794433" FOLDED="true" ID="ID_81211869" MODIFIED="1366080070185" TEXT="REF">
+<node CREATED="1363480799836" FOLDED="true" ID="ID_35622463" MODIFIED="1366080070185" TEXT="Methods">
+<node CREATED="1363480796820" ID="ID_882110128" MODIFIED="1363480796820" TEXT="filterList2(Activity actv, Dialog dlg)"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1363487271666" FOLDED="true" ID="ID_1168522313" MODIFIED="1366080070187" TEXT="v-2.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1363487274575" ID="ID_257655355" MODIFIED="1363487289177" TEXT="Listener =&gt; Genre spinner">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363487339307" FOLDED="true" ID="ID_1481914195" MODIFIED="1366080070187" TEXT="01">
+<node CREATED="1363487347154" ID="ID_1995688320" MODIFIED="1363487354516" TEXT="Add tab to each spinner">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363487376190" FOLDED="true" ID="ID_1277757024" MODIFIED="1366080070187" TEXT="CODES">
+<node CREATED="1363487378527" FOLDED="true" ID="ID_207635532" MODIFIED="1366080070186" TEXT="TabActv">
+<node CREATED="1363487381417" ID="ID_788053077" MODIFIED="1363487381417" TEXT="setupTabs__first()"/>
+<node CREATED="1363487405794" ID="ID_145099579" MODIFIED="1363487405794" TEXT="setupListeners()"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1589226893" MODIFIED="1378297849360" TEXT="D-37">
+<icon BUILTIN="button_ok"/>
+<icon BUILTIN="gohome"/>
+<icon BUILTIN="up"/>
+<node CREATED="1366026821303" FOLDED="true" ID="ID_1315696793" MODIFIED="1378297849352" TEXT="NEW">
+<node CREATED="1366026827727" FOLDED="true" ID="ID_705109558" MODIFIED="1378297849351" TEXT="feature">
+<node CREATED="1366026830827" ID="ID_417680835" MODIFIED="1366026832833" TEXT="Sort list"/>
+</node>
+</node>
+<node CREATED="1366026999030" ID="ID_986112085" MODIFIED="1366027006021" TEXT="B32_sort_list">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1366027070328" FOLDED="true" ID="ID_1115489431" MODIFIED="1378297849352" TEXT="v-1.0">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1366027220457" ID="ID_494406800" MODIFIED="1366027223297" TEXT="Create menu"/>
+</node>
+<node CREATED="1366027782302" FOLDED="true" ID="ID_1322094833" MODIFIED="1378297849354" TEXT="v-1.1">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1366027787100" FOLDED="true" ID="ID_19333800" MODIFIED="1378297849353" TEXT="Create logic">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1366028503639" FOLDED="true" ID="ID_1031453541" MODIFIED="1378297849353" TEXT="=&gt;">
+<node CREATED="1366028505778" ID="ID_1484652961" MODIFIED="1366028527506" TEXT="Show dialog">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1334733907" MODIFIED="1378297849354" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_916050" MODIFIED="1378297849354" TEXT="CODES">
+<node CREATED="1366027934415" FOLDED="true" ID="ID_1193661853" MODIFIED="1378297849353" TEXT="Methods_dlg">
+<node CREATED="1366027940349" ID="ID_1792210055" MODIFIED="1366027940349" TEXT="dlg_SortList(this)"/>
+</node>
+<node CREATED="1366028142288" FOLDED="true" ID="ID_1581951860" MODIFIED="1378297849353" TEXT="DialogOnItemClickListener">
+<node CREATED="1366028274937" ID="ID_149415320" MODIFIED="1366028274937" TEXT="case_dlg_sort_list_lv(choice)"/>
+<node CREATED="1366028446879" ID="ID_580489306" MODIFIED="1366028446879" TEXT="case_dlg_sort_list_Genre()"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1366028530220" FOLDED="true" ID="ID_944343073" MODIFIED="1378297849358" TEXT="v-1.2">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="folder"/>
+<node CREATED="1366028532433" ID="ID_1751611561" MODIFIED="1366028536289" TEXT="Sort">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1366076944024" FOLDED="true" ID="ID_1725794108" MODIFIED="1378297849358" TEXT="01">
+<icon BUILTIN="idea"/>
+<node CREATED="1366076946531" FOLDED="true" ID="ID_1310998968" MODIFIED="1378297849355" TEXT="Write a new method for sorting">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1366077836153" FOLDED="true" ID="ID_660182238" MODIFIED="1378297849355" TEXT="Sort by">
+<node CREATED="1366077845488" FOLDED="true" ID="ID_333217853" MODIFIED="1378297849354" TEXT="1">
+<node CREATED="1366077840334" ID="ID_1383704352" MODIFIED="1366077843650" TEXT="Item name"/>
+</node>
+<node CREATED="1366077847075" FOLDED="true" ID="ID_1554318868" MODIFIED="1378297849355" TEXT="2">
+<node CREATED="1366077851308" ID="ID_69525641" MODIFIED="1366077855750" TEXT="Genre/Item name"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1326144887" MODIFIED="1378297849357" TEXT="CODES">
+<node CREATED="1366077942734" ID="ID_413646194" MODIFIED="1366077945392" TEXT="strings.xml"/>
+<node CREATED="1366027934415" FOLDED="true" ID="ID_1259507593" MODIFIED="1378297849355" TEXT="Methods_dlg">
+<node CREATED="1366027940349" ID="ID_1768239931" MODIFIED="1366027940349" TEXT="dlg_SortList(this)"/>
+</node>
+<node CREATED="1366028142288" FOLDED="true" ID="ID_439367552" MODIFIED="1378297849357" TEXT="DialogOnItemClickListener">
+<node CREATED="1366028274937" ID="ID_805452711" MODIFIED="1366079284215" TEXT="case_dlg_sort_list_lv(choice)">
+<arrowlink COLOR="#999900" DESTINATION="ID_780522166" ENDARROW="Default" ENDINCLINATION="47;0;" ID="Arrow_ID_685676214" STARTARROW="None" STARTINCLINATION="47;0;"/>
+<arrowlink COLOR="#999900" DESTINATION="ID_1456102113" ENDARROW="Default" ENDINCLINATION="53;0;" ID="Arrow_ID_1708898830" STARTARROW="None" STARTINCLINATION="53;0;"/>
+</node>
+<node CREATED="1366078175116" FOLDED="true" ID="ID_1456102113" MODIFIED="1378297849356" TEXT="case_dlg_sort_list_GenreItemName()">
+<icon BUILTIN="idea"/>
+<node CREATED="1366079954166" ID="ID_1731192201" MODIFIED="1366079956728" TEXT="Item list"/>
+<node CREATED="1366079957144" ID="ID_192859985" MODIFIED="1366079960249" TEXT="To-buy list"/>
+</node>
+<node CREATED="1366079262962" FOLDED="true" ID="ID_780522166" MODIFIED="1378297849356" TEXT="case_dlg_sort_list_ItemName()">
+<icon BUILTIN="idea"/>
+<node CREATED="1366079954166" ID="ID_1671072785" MODIFIED="1366079956728" TEXT="Item list"/>
+<node CREATED="1366079957144" ID="ID_1252412308" MODIFIED="1366079960249" TEXT="To-buy list"/>
+</node>
+</node>
+<node CREATED="1366078264100" FOLDED="true" ID="ID_29973232" MODIFIED="1378297849357" TEXT="Methods_sl">
+<node CREATED="1366078268035" ID="ID_1033251665" MODIFIED="1366078268035" TEXT="sortItemList_GenreItemName()"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1366079198250" FOLDED="true" ID="ID_52873069" MODIFIED="1378297849359" TEXT="v-1.2a">
+<icon BUILTIN="closed"/>
+<node CREATED="1366077836153" FOLDED="true" ID="ID_589443414" MODIFIED="1378297849359" TEXT="Sort by">
+<node CREATED="1366077866651" FOLDED="true" ID="ID_1898597984" MODIFIED="1378297849358" TEXT="3">
+<node CREATED="1366077867731" ID="ID_979759711" MODIFIED="1366077876367" TEXT="Store/Item name"/>
+</node>
+<node CREATED="1366077866651" FOLDED="true" ID="ID_866841580" MODIFIED="1378297849358" TEXT="4">
+<node CREATED="1366077867731" ID="ID_1459931632" MODIFIED="1366077889690" TEXT="Store/Genre/Item name"/>
+</node>
+</node>
+<node CREATED="1366080023356" ID="ID_566083469" MODIFIED="1366080029581" TEXT="For later">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_277391033" MODIFIED="1366080074363" TEXT="N2@"/>
+<node CREATED="1352349012608" ID="ID_1774201236" MODIFIED="1366080533396" TEXT="D-38">
+<node CREATED="1366080507116" ID="ID_1719533027" MODIFIED="1366080527551" TEXT="Upload db file to remote; Download a db file , then restore db"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1868724945" MODIFIED="1378297844629" TEXT="D-39">
+<icon BUILTIN="stop-sign"/>
+<node CREATED="1363080978550" ID="ID_1255030269" MODIFIED="1369535610667" TEXT="B26_FIX-3_load-to-buy-list_sorting">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1369535167282" FOLDED="true" ID="ID_1336688070" MODIFIED="1378297844629" TEXT="v-1.0">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_797061780" MODIFIED="1378297844628" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_344081067" MODIFIED="1378297844618" TEXT="CODES">
+<node CREATED="1369535620966" FOLDED="true" ID="ID_202078009" MODIFIED="1378297844615" TEXT="TabActv">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1369535603821" ID="ID_1792593520" MODIFIED="1369535617199" TEXT="onOptionsItemSelected(MenuItem item)"/>
+</node>
+<node CREATED="1369535639356" FOLDED="true" ID="ID_367895032" MODIFIED="1378297844616" TEXT="Methods_dlg">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1369535643622" ID="ID_672773517" MODIFIED="1369535643622" TEXT="dlg_tabActv_adminDb(this)"/>
+</node>
+<node CREATED="1369535666498" ID="ID_674580403" MODIFIED="1369536022078" TEXT="DialogOnItemClickListener">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1369535716500" FOLDED="true" ID="ID_1632112440" MODIFIED="1378297844616" TEXT="Methods_dlg">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1369535720807" ID="ID_1858498319" MODIFIED="1369550808585" TEXT="dlg_LoadToBuyList(actv, dlg)">
+<arrowlink COLOR="#999900" DESTINATION="ID_1110223979" ENDARROW="Default" ENDINCLINATION="106;0;" ID="Arrow_ID_1691948267" STARTARROW="None" STARTINCLINATION="106;0;"/>
+<arrowlink COLOR="#999900" DESTINATION="ID_52114334" ENDARROW="Default" ENDINCLINATION="118;0;" ID="Arrow_ID_1337098807" STARTARROW="None" STARTINCLINATION="118;0;"/>
+</node>
+</node>
+<node CREATED="1369535743931" FOLDED="true" ID="ID_990629145" MODIFIED="1378297844617" TEXT="Methods_sl">
+<node CREATED="1369550724830" ID="ID_1110223979" MODIFIED="1369550794042" TEXT="getPSList(actv)">
+<arrowlink COLOR="#999900" DESTINATION="ID_1333179807" ENDARROW="Default" ENDINCLINATION="33;0;" ID="Arrow_ID_470533137" STARTARROW="None" STARTINCLINATION="33;0;"/>
+</node>
+</node>
+<node CREATED="1369550758668" FOLDED="true" ID="ID_1156990338" MODIFIED="1378297844617" TEXT="DBUtils">
+<node CREATED="1369550763625" ID="ID_1333179807" MODIFIED="1369550788091" TEXT="getPSList(actv)"/>
+</node>
+<node CREATED="1369535743931" FOLDED="true" ID="ID_547816514" MODIFIED="1378297844617" TEXT="Methods_sl">
+<node CREATED="1369535748331" ID="ID_52114334" MODIFIED="1369550799710" TEXT="sortPSList(psList, Tags.SortTags.pslist_due_date)"/>
+</node>
+</node>
+<node CREATED="1369535893464" FOLDED="true" ID="ID_454098865" MODIFIED="1378297844619" TEXT="LETS">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1369535895356" FOLDED="true" ID="ID_48962806" MODIFIED="1378297844618" TEXT="DB&#x30d5;&#x30a1;&#x30a4;&#x30eb;&#x3092;&#x898b;&#x3066;&#x307f;&#x3088;&#x3046;">
+<node CREATED="1369535902923" ID="ID_1027726658" MODIFIED="1369535911656" TEXT="=&gt; &quot;Due date&quot; in?"/>
+<node CREATED="1369536004003" ID="ID_327878312" MODIFIED="1369536008812" TEXT="=&gt; All in"/>
+</node>
+</node>
+<node CREATED="1369535893464" FOLDED="true" ID="ID_268313062" MODIFIED="1378297844619" TEXT="LETS">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1369536311624" ID="ID_187534618" MODIFIED="1369536326001" TEXT="SI &#x306e;&#x3001;getDueDate() &#x3092;&#x3001;&#x307f;&#x308b;"/>
+</node>
+<node CREATED="1369537179303" FOLDED="true" ID="ID_1575574009" MODIFIED="1378297844619" TEXT="FOUND">
+<node CREATED="1369537182494" ID="ID_1908473135" MODIFIED="1369537196844" TEXT="&#x30bd;&#x30fc;&#x30c8;&#x306e;&#x6642;&#x70b9;&#x3067;&#x3001;due date &#x9806;&#x306b;&#x306a;&#x3063;&#x3066;&#x3044;&#x306a;&#x3044;"/>
+</node>
+<node CREATED="1369537304673" FOLDED="true" ID="ID_216806171" MODIFIED="1378297844620" TEXT="TRY">
+<node CREATED="1369537309973" FOLDED="true" ID="ID_433088316" MODIFIED="1378297844620" TEXT="Change formula in the return line">
+<node CREATED="1369537335003" ID="ID_1331369155" MODIFIED="1369537338831" TEXT="=&gt; i2 - i1"/>
+</node>
+</node>
+<node CREATED="1369537698430" FOLDED="true" ID="ID_236701893" MODIFIED="1378297844621" TEXT="FOUND">
+<node CREATED="1369537703042" FOLDED="true" ID="ID_99287589" MODIFIED="1378297844620" TEXT="1">
+<node CREATED="1369537704110" FOLDED="true" ID="ID_1356534425" MODIFIED="1378297844620" TEXT="5&#x6708;&#x306e;&#x5206;&#x304c;&#x3001;&#x307b;&#x304b;&#x306e;&#x30a2;&#x30a4;&#x30c6;&#x30e0;&#x306e;&#x4e2d;&#x306b;&#x3001;&#x7d1b;&#x308c;&#x8fbc;&#x3093;&#x3067;&#x3044;&#x308b;">
+<node CREATED="1369537749846" ID="ID_886766781" MODIFIED="1369537783388" TEXT="e.g.: 3/29, 5/15, 3/26, 5/13,..."/>
+</node>
+</node>
+<node CREATED="1369537731998" FOLDED="true" ID="ID_15526356" MODIFIED="1378297844621" TEXT="2">
+<node CREATED="1369537733035" ID="ID_1122717299" MODIFIED="1369537747130" TEXT="5&#x6708;&#x5206;&#x81ea;&#x4f53;&#x306f;&#x3001;&#x30bd;&#x30fc;&#x30c8;&#x3055;&#x308c;&#x3066;&#x3044;&#x308b;"/>
+</node>
+<node CREATED="1369537818082" FOLDED="true" ID="ID_1115639420" MODIFIED="1378297844621" TEXT="3">
+<node CREATED="1369537819516" ID="ID_435035604" MODIFIED="1369537855017" TEXT="Due date &#x306e;&#x30c7;&#x30fc;&#x30bf;&#x81ea;&#x4f53;&#x306f;&#x3001;5&#x6708;&#x5206;&#x306e;&#x3082;&#x3001;&#x307b;&#x304b;&#x306e;&#x6708;&#x306e;&#x5206;&#x306e;&#x3082;&#x3001;13&#x6841;&#x3067;&#x5165;&#x3063;&#x3066;&#x3044;&#x308b;"/>
+</node>
+</node>
+<node CREATED="1369537931747" FOLDED="true" ID="ID_708123523" MODIFIED="1378297844625" TEXT="WORKAROUND">
+<node CREATED="1369537937448" FOLDED="true" ID="ID_1722502514" MODIFIED="1378297844622" TEXT="1">
+<node CREATED="1369537938273" ID="ID_350696629" MODIFIED="1369537944992" TEXT="Backup the db file"/>
+</node>
+<node CREATED="1369537945832" FOLDED="true" ID="ID_1903450447" MODIFIED="1378297844622" TEXT="2">
+<node CREATED="1369537947090" ID="ID_1873963968" MODIFIED="1369537954282" TEXT="Commit the current change"/>
+</node>
+<node CREATED="1369537955561" FOLDED="true" ID="ID_255720089" MODIFIED="1378297844623" TEXT="3">
+<node CREATED="1369537956783" ID="ID_1623802572" MODIFIED="1369537978504" TEXT="Delete all the data of March and April"/>
+</node>
+<node CREATED="1369537980900" FOLDED="true" ID="ID_1215161169" MODIFIED="1378297844624" TEXT="4">
+<node CREATED="1369537982147" FOLDED="true" ID="ID_1830380431" MODIFIED="1378297844624" TEXT="Try">
+<node CREATED="1369538398753" FOLDED="true" ID="ID_581476221" MODIFIED="1378297844623" TEXT="1">
+<node CREATED="1369537983786" FOLDED="true" ID="ID_418590788" MODIFIED="1378297844623" TEXT="Add schedule of June">
+<node CREATED="1369537998561" ID="ID_746785159" MODIFIED="1369538006741" TEXT="=&gt; See if sort done properly"/>
+</node>
+</node>
+<node CREATED="1369538401852" FOLDED="true" ID="ID_458944766" MODIFIED="1378297844624" TEXT="2">
+<node CREATED="1369538404994" ID="ID_1665830925" MODIFIED="1369538426322" TEXT="Schedule of June, July, August =&gt; Each month with 3 schedules"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1369552330880" FOLDED="true" ID="ID_1773720787" MODIFIED="1378297844628" TEXT="PROBLEM">
+<node CREATED="1369552333057" FOLDED="true" ID="ID_36529170" MODIFIED="1378297844625" TEXT="4/26, Can-do">
+<node CREATED="1369552338566" ID="ID_1957796471" MODIFIED="1369552348680" TEXT="=&gt; Inserted as 4/10, Can"/>
+</node>
+<node CREATED="1369552468438" FOLDED="true" ID="ID_73506290" MODIFIED="1378297844627" TEXT="REVIEW">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1628518163" MODIFIED="1378297844627" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1904056298" MODIFIED="1378297844626" TEXT="CODES">
+<node CREATED="1369552536266" FOLDED="true" ID="ID_641701392" MODIFIED="1378297844625" TEXT="Methods_dlg">
+<node CREATED="1369552541370" ID="ID_1086542802" MODIFIED="1369552541370" TEXT="dlg_saveToBuyList(actv, dlg)"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1369553940731" FOLDED="true" ID="ID_1786527247" MODIFIED="1378297844627" TEXT="WORKAROUND">
+<node CREATED="1369553944850" FOLDED="true" ID="ID_91133744" MODIFIED="1378297844627" TEXT="Save/Load to-buy list">
+<node CREATED="1369553961941" ID="ID_148903095" MODIFIED="1369553973198" TEXT="=&gt; Let&apos;s code from the beginning"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1369554097350" FOLDED="true" ID="ID_1450693685" MODIFIED="1378297844629" TEXT="Fixing =&gt; Give up">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1369554107395" ID="ID_1792937902" MODIFIED="1369554129988" TEXT="Start: Coding for save/load to-buy list">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" ID="ID_11484039" MODIFIED="1369574093605" TEXT="D-40">
+<node CREATED="1369574065891" ID="ID_37855427" MODIFIED="1369574078791" TEXT="Save to-buy list"/>
+<node CREATED="1369574110931" ID="ID_1466575375" MODIFIED="1369574126790" TEXT="B33_save_to-buy_list">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1369574236937" FOLDED="true" ID="ID_1930728185" MODIFIED="1378297831811" TEXT="v-1.0">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1530384634" MODIFIED="1378297831811" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1257391463" MODIFIED="1378297831802" TEXT="CODES">
+<node CREATED="1369535620966" FOLDED="true" ID="ID_380474729" MODIFIED="1378297831800" TEXT="TabActv">
+<node CREATED="1369535603821" ID="ID_862467323" MODIFIED="1369535617199" TEXT="onOptionsItemSelected(MenuItem item)"/>
+</node>
+<node CREATED="1369535639356" FOLDED="true" ID="ID_1174360997" MODIFIED="1378297831800" TEXT="Methods_dlg">
+<node CREATED="1369535643622" ID="ID_107708599" MODIFIED="1369535643622" TEXT="dlg_tabActv_adminDb(this)"/>
+</node>
+<node CREATED="1369535666498" FOLDED="true" ID="ID_1634941052" MODIFIED="1378297831801" TEXT="DialogOnItemClickListener">
+<node CREATED="1369574324961" ID="ID_928089321" MODIFIED="1369574336861" TEXT="case_dlg_tabActv_adminDb(String choice)">
+<arrowlink DESTINATION="ID_1750594158" ENDARROW="Default" ENDINCLINATION="155;0;" ID="Arrow_ID_556645871" STARTARROW="None" STARTINCLINATION="155;0;"/>
+</node>
+</node>
+<node CREATED="1369574330390" FOLDED="true" ID="ID_57627527" MODIFIED="1378297831801" TEXT="Methods_dlg">
+<node CREATED="1369574334672" ID="ID_1750594158" MODIFIED="1369574336861" TEXT="dlg_saveToBuyList(actv, dlg)"/>
+</node>
+<node CREATED="1369574405737" FOLDED="true" ID="ID_1261980722" MODIFIED="1378297831801" TEXT="DialogButtonOnClickListener">
+<node CREATED="1369574522827" ID="ID_134383101" MODIFIED="1369574673174" TEXT="case_dlg_save_tobuy_list_bt_ok()">
+<arrowlink DESTINATION="ID_144843798" ENDARROW="Default" ENDINCLINATION="255;0;" ID="Arrow_ID_1881748906" STARTARROW="None" STARTINCLINATION="255;0;"/>
+</node>
+<node CREATED="1369574659276" ID="ID_144843798" MODIFIED="1369574673174" TEXT="case_dlg_save_tobuy_list_bt_ok_execute(spStoreNames, storeName, dueDate)"/>
+</node>
+<node CREATED="1369574903757" FOLDED="true" ID="ID_1916168260" MODIFIED="1378297831802" TEXT="DBUtils">
+<node CREATED="1369574909530" ID="ID_23723293" MODIFIED="1369574937754" TEXT="storeData_PS()">
+<arrowlink DESTINATION="ID_1976883545" ENDARROW="Default" ENDINCLINATION="128;0;" ID="Arrow_ID_189030231" STARTARROW="None" STARTINCLINATION="128;0;"/>
+</node>
+<node CREATED="1369574935589" ID="ID_1976883545" MODIFIED="1369574937754" TEXT="storeData_PS__getContentValues(ps)"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1369575334078" FOLDED="true" ID="ID_1355992422" MODIFIED="1378297831810" TEXT="PROBLEM">
+<icon BUILTIN="idea"/>
+<node CREATED="1369575336625" FOLDED="true" ID="ID_1619835767" MODIFIED="1378297831803" TEXT="&quot;Load to-buy list&quot;">
+<node CREATED="1369575345074" ID="ID_1106029829" MODIFIED="1369575363688" TEXT="=&gt; List shows items in order of the registration date"/>
+</node>
+<node CREATED="1369575433318" FOLDED="true" ID="ID_616211533" MODIFIED="1378297831806" TEXT="REVIEW">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1434561106" MODIFIED="1378297831806" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1340216536" MODIFIED="1378297831805" TEXT="CODES">
+<node CREATED="1369535620966" FOLDED="true" ID="ID_413439237" MODIFIED="1378297831803" TEXT="TabActv">
+<node CREATED="1369535603821" ID="ID_1222216673" MODIFIED="1369575471723" TEXT="onOptionsItemSelected(MenuItem item)"/>
+</node>
+<node CREATED="1369535639356" FOLDED="true" ID="ID_399207591" MODIFIED="1378297831803" TEXT="Methods_dlg">
+<node CREATED="1369535643622" ID="ID_511097571" MODIFIED="1369575471723" TEXT="dlg_tabActv_adminDb(this)"/>
+</node>
+<node CREATED="1369535666498" ID="ID_1667260675" MODIFIED="1369575471723" TEXT="DialogOnItemClickListener"/>
+<node CREATED="1369535716500" FOLDED="true" ID="ID_107303346" MODIFIED="1378297831804" TEXT="Methods_dlg">
+<node CREATED="1369535720807" ID="ID_1246543263" MODIFIED="1369575471722" TEXT="dlg_LoadToBuyList(actv, dlg)">
+<arrowlink COLOR="#999900" DESTINATION="ID_1110223979" ENDARROW="Default" ENDINCLINATION="106;0;" ID="Arrow_ID_966009233" STARTARROW="None" STARTINCLINATION="106;0;"/>
+<arrowlink COLOR="#999900" DESTINATION="ID_52114334" ENDARROW="Default" ENDINCLINATION="118;0;" ID="Arrow_ID_884870268" STARTARROW="None" STARTINCLINATION="118;0;"/>
+</node>
+</node>
+<node CREATED="1369535743931" FOLDED="true" ID="ID_25412652" MODIFIED="1378297831804" TEXT="Methods_sl">
+<node CREATED="1369550724830" ID="ID_163151884" MODIFIED="1369575471722" TEXT="getPSList(actv)">
+<arrowlink COLOR="#999900" DESTINATION="ID_1333179807" ENDARROW="Default" ENDINCLINATION="33;0;" ID="Arrow_ID_890447263" STARTARROW="None" STARTINCLINATION="33;0;"/>
+</node>
+</node>
+<node CREATED="1369550758668" FOLDED="true" ID="ID_1256376941" MODIFIED="1378297831804" TEXT="DBUtils">
+<node CREATED="1369550763625" ID="ID_180536639" MODIFIED="1369575471722" TEXT="getPSList(actv)"/>
+</node>
+<node CREATED="1369535743931" FOLDED="true" ID="ID_384747175" MODIFIED="1378297831805" TEXT="Methods_sl">
+<node CREATED="1369535748331" ID="ID_321720434" MODIFIED="1369575471722" TEXT="sortPSList(psList, Tags.SortTags.pslist_due_date)"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1369576505181" FOLDED="true" ID="ID_1315318035" MODIFIED="1378297831810" TEXT="SOLVED">
+<node CREATED="1369576508968" FOLDED="true" ID="ID_951122018" MODIFIED="1378297831810" TEXT="=&gt; The return values in compare()">
+<node CREATED="1369576519496" FOLDED="true" ID="ID_1399114483" MODIFIED="1378297831809" TEXT="=&gt; Explicitly designated to any of 1, 0 or -1">
+<node CREATED="1369576542855" FOLDED="true" ID="ID_1473218446" LINK="http://stackoverflow.com/questions/6968676/collections-sort-with-custom-comparator-does-not-work" MODIFIED="1378297831806" TEXT="REF">
+<node CREATED="1369576570128" ID="ID_785409698" MODIFIED="1369576591839" TEXT="&quot;answered Aug 6 &apos;11 at 18:16&quot;"/>
+<node CREATED="1369576573651" ID="ID_1539336166" MODIFIED="1369576624030" TEXT="&quot;answered Aug 6 &apos;11 at 18:17&quot;"/>
+<node CREATED="1369576860138" ID="ID_822728607" MODIFIED="1369576862944" TEXT="&quot;answered Aug 6 &apos;11 at 18:18&quot;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1380138549" MODIFIED="1388110866266" TEXT="D-41">
+<icon BUILTIN="idea"/>
+<node CREATED="1378298001147" ID="ID_706412499" MODIFIED="1378298014472" TEXT="Delete item"/>
+<node CREATED="1378298036758" ID="ID_694861173" MODIFIED="1378298043812" TEXT="B34_delete-item">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1378298326725" FOLDED="true" ID="ID_1602302074" MODIFIED="1378567012479" TEXT="v-1.0">
+<node CREATED="1378309490688" FOLDED="true" ID="ID_1249623046" MODIFIED="1388110866251" TEXT="UPTO">
+<node CREATED="1378309496103" ID="ID_58993870" MODIFIED="1378309516609" TEXT="Show menu on long click">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1579622690" MODIFIED="1388110866252" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1871064923" MODIFIED="1388110866252" TEXT="FILES">
+<node CREATED="1378299154230" FOLDED="true" ID="ID_1164350872" MODIFIED="1388110866252" TEXT="1">
+<node CREATED="1378298344260" FOLDED="true" ID="ID_680380622" MODIFIED="1388110866251" TEXT="TabActv">
+<node CREATED="1378298331200" ID="ID_1823329058" MODIFIED="1378298342234" TEXT="setupListeners"/>
+</node>
+<node CREATED="1378298370613" FOLDED="true" ID="ID_1336491745" MODIFIED="1388110866252" TEXT="ListOnItemLongClickListener">
+<node CREATED="1378298390496" ID="ID_839540921" MODIFIED="1378298390496" TEXT="case_tab_itemList(parent, position)"/>
+</node>
+<node CREATED="1378300149436" FOLDED="true" ID="ID_1723125215" MODIFIED="1388110866252" TEXT="DialogOnItemClickListener">
+<node CREATED="1378300252395" ID="ID_182292633" MODIFIED="1378300252395" TEXT="case_dlg_item_list_long_click"/>
+</node>
+</node>
+<node CREATED="1378299160230" FOLDED="true" ID="ID_1960844403" MODIFIED="1388110866252" TEXT="2">
+<node CREATED="1378299186246" ID="ID_472344917" MODIFIED="1378299189921" TEXT="REF">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1378299126085" FOLDED="true" ID="ID_934621182" MODIFIED="1388110866252" TEXT="MainActv">
+<node CREATED="1378299137374" ID="ID_1971291137" MODIFIED="1378299137374" TEXT="add_listeners"/>
+</node>
+<node CREATED="1378299165899" ID="ID_1403563974" MODIFIED="1378299165899" TEXT="ButtonOnClickListener"/>
+<node CREATED="1378299200698" FOLDED="true" ID="ID_1151423371" MODIFIED="1388110866252" TEXT="Methods">
+<node CREATED="1378299205909" ID="ID_1588597582" MODIFIED="1378299205909" TEXT="dlg_register_main(actv)"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1378310810577" FOLDED="true" ID="ID_78919900" MODIFIED="1388110866253" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1378312227121" ID="ID_1193904587" MODIFIED="1378312232670" TEXT="v-1.0-p1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1378310814193" ID="ID_1601733080" MODIFIED="1378310835620" TEXT="TabActv &#x3092;&#x9078;&#x3076;&#x3068;&#x3001;&#x5f37;&#x5236;&#x7d42;&#x4e86;"/>
+<node CREATED="1378310842945" FOLDED="true" ID="ID_1550744224" MODIFIED="1388110866253" TEXT="TRY">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1378310846657" ID="ID_1189574312" MODIFIED="1378310849631" TEXT="Review code"/>
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1884398674" MODIFIED="1388110866252" TEXT="CODES">
+<node CREATED="1378310886113" FOLDED="true" ID="ID_1225783172" MODIFIED="1388110866252" TEXT="MainActv">
+<node CREATED="1378310889386" ID="ID_59113564" MODIFIED="1378310889386" TEXT="onOptionsItemSelected"/>
+</node>
+<node CREATED="1378310991472" FOLDED="true" ID="ID_155346296" MODIFIED="1388110866252" TEXT="TabActv">
+<node CREATED="1378311010969" ID="ID_1575083071" MODIFIED="1378311010969" TEXT="onCreate"/>
+<node CREATED="1378311017462" ID="ID_1787736150" MODIFIED="1378311017462" TEXT="setupItemListView()"/>
+<node CREATED="1378311045270" FOLDED="true" ID="ID_1158852785" MODIFIED="1388110866252" TEXT="prepareItemList">
+<node CREATED="1378311388097" ID="ID_130711221" MODIFIED="1378311397957" TEXT="=&gt; &quot;c.getCount()&quot; ==&gt; 60"/>
+</node>
+</node>
+</node>
+<node CREATED="1378312017713" FOLDED="true" ID="ID_1474454644" MODIFIED="1388110866253" TEXT="FOUND">
+<node CREATED="1378312022065" FOLDED="true" ID="ID_953277419" MODIFIED="1388110866253" TEXT="debug_restore_db()">
+<node CREATED="1378312041441" ID="ID_189122540" MODIFIED="1378312067013" TEXT="=&gt; Backup db file ==&gt; shoppinglist_backup_20121108_122426.bk"/>
+</node>
+</node>
+</node>
+<node CREATED="1378312071586" FOLDED="true" ID="ID_633839091" MODIFIED="1388110866253" TEXT="TRY">
+<node CREATED="1378312227121" ID="ID_1415378426" MODIFIED="1378312239412" TEXT="v-1.0-p1-t2">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1378312073841" ID="ID_279840727" MODIFIED="1378312086132" TEXT="Restore db with the latest db file"/>
+<node COLOR="#33ff33" CREATED="1378312195393" ID="ID_1583626788" MODIFIED="1378312204584" TEXT="SOLVED"/>
+</node>
+</node>
+</node>
+<node CREATED="1378309518913" FOLDED="true" ID="ID_1303052015" MODIFIED="1388110866257" TEXT="v-1.1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1378312293618" ID="ID_534849870" MODIFIED="1378312302096" TEXT="Show &quot;edit&quot; dialog">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1779892443" MODIFIED="1388110866254" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_481249011" MODIFIED="1387351476710" TEXT="FILES">
+<node CREATED="1378312623250" FOLDED="true" ID="ID_1594820478" MODIFIED="1388110866253" TEXT="1">
+<node CREATED="1378298344260" FOLDED="true" ID="ID_141693819" MODIFIED="1388110866253" TEXT="TabActv">
+<node CREATED="1378298331200" ID="ID_1924173551" MODIFIED="1378298342234" TEXT="setupListeners"/>
+</node>
+<node CREATED="1378298370613" FOLDED="true" ID="ID_1224588163" MODIFIED="1388110866253" TEXT="ListOnItemLongClickListener">
+<node CREATED="1378298390496" ID="ID_1106360999" MODIFIED="1378298390496" TEXT="case_tab_itemList(parent, position)"/>
+</node>
+<node CREATED="1378300149436" FOLDED="true" ID="ID_773452778" MODIFIED="1388110866253" TEXT="DialogOnItemClickListener">
+<node CREATED="1378313629179" ID="ID_706619885" MODIFIED="1378313639840" TEXT="DialogOnItemClickListener(Activity actv, Dialog dlg1, DialogTags dlgTag, ShoppingItem si)"/>
+<node CREATED="1378300252395" ID="ID_1365690945" MODIFIED="1378313860038" TEXT="case_dlg_item_list_long_click(String choice)"/>
+</node>
+<node CREATED="1378312760785" FOLDED="true" ID="ID_1979796069" MODIFIED="1388110866253" TEXT="Methods_dlg">
+<node CREATED="1378313842517" ID="ID_1484569573" MODIFIED="1378313868135" TEXT="dlg_tab1_edit_item(actv, si, dlg)"/>
+<node CREATED="1378312764567" FOLDED="true" ID="ID_266663690" MODIFIED="1388110866253" TEXT="dlg_template_okCancel_2Dialogues_SI">
+<node CREATED="1378312765762" ID="ID_1274835682" MODIFIED="1378312768546" TEXT="NEW">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1378312846582" FOLDED="true" ID="ID_1485498769" MODIFIED="1388110866253" TEXT="DialogButtonOnClickListener">
+<node CREATED="1378312855478" ID="ID_1091509589" MODIFIED="1378312855478" TEXT="DialogButtonOnClickListener(actv, dlg1, dlg2, si)"/>
+</node>
+</node>
+<node CREATED="1378312624690" FOLDED="true" ID="ID_418743694" MODIFIED="1388110866254" TEXT="2">
+<node CREATED="1378312599841" FOLDED="true" ID="ID_331244143" MODIFIED="1388110866254" TEXT="REF">
+<node CREATED="1378312609202" FOLDED="true" ID="ID_129288092" MODIFIED="1388110866254" TEXT="IFM10">
+<node CREATED="1378312615587" FOLDED="true" ID="ID_1659814608" MODIFIED="1388110866253" TEXT="Methods_dlg">
+<node CREATED="1378312602107" ID="ID_1203379924" MODIFIED="1378312620056" TEXT="dlg_template_okCancel_2Dialogues_TI"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1378314100802" FOLDED="true" ID="ID_262745526" MODIFIED="1388110866255" TEXT="2">
+<node COLOR="#ff3333" CREATED="1378314102642" FOLDED="true" ID="ID_1652641944" MODIFIED="1387351472103" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1378396273019" ID="ID_824301519" MODIFIED="1378396279740" TEXT="v-1.1-p1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1378314110818" FOLDED="true" ID="ID_1878126533" MODIFIED="1388110866254" TEXT="Click on &quot;edit&quot; menu item">
+<node CREATED="1378314122993" ID="ID_1443014908" MODIFIED="1378314131847" TEXT="=&gt; Dialog dosen&apos;t show up"/>
+</node>
+<node CREATED="1378314133810" FOLDED="true" ID="ID_1038364462" MODIFIED="1388110866255" TEXT="TRY">
+<node CREATED="1378314135778" ID="ID_687873931" MODIFIED="1378314138838" TEXT="Review code"/>
+<node CREATED="1378314408434" FOLDED="true" ID="ID_399888303" MODIFIED="1388110866254" TEXT="FOUND">
+<node CREATED="1378314419633" ID="ID_408769367" MODIFIED="1378314429847" TEXT="=&gt; &quot;DialogOnItemClickListener&quot; &#x4ee5;&#x964d;&#x304c;&#x3001;&#x539f;&#x56e0;"/>
+</node>
+<node CREATED="1378314574418" FOLDED="true" ID="ID_1978874774" MODIFIED="1388110866255" TEXT="FOUND">
+<node CREATED="1378314576706" FOLDED="true" ID="ID_1007587231" MODIFIED="1388110866254" TEXT="=&gt; Click on &quot;Edit&quot;">
+<node CREATED="1378314587298" ID="ID_1195651263" MODIFIED="1378314604071" TEXT="==&gt; &quot;DialogOnItemClickListener&quot;"/>
+<node CREATED="1378314631554" ID="ID_1284573419" MODIFIED="1378314642743" TEXT="==&gt; &quot;&quot;Tags.DialogTags tag&quot;&quot;  ~~&gt; null"/>
+</node>
+</node>
+</node>
+<node CREATED="1378314669858" FOLDED="true" ID="ID_1110254531" MODIFIED="1388110866255" TEXT="TRY">
+<node CREATED="1378314672194" FOLDED="true" ID="ID_1251628502" MODIFIED="1388110866255" TEXT="Review">
+<node CREATED="1378314682945" ID="ID_767935459" MODIFIED="1378314685990" TEXT="=&gt; ListOnItemLongClickListener"/>
+</node>
+<node CREATED="1378314820178" FOLDED="true" ID="ID_740566906" MODIFIED="1388110866255" TEXT="FOUND">
+<node CREATED="1378314823394" ID="ID_541268272" MODIFIED="1378314878228" TEXT="=&gt; onItemClick() &#x306e;&#x4e2d;&#x3067;&#x3001;&quot;Edit&quot; &#x306e;&#x5834;&#x5408;&#x306e;&#x634c;&#x304d;&#x304c;&#x3001;&#x9069;&#x5207;&#x3067;&#x306a;&#x3044;">
+<arrowlink DESTINATION="ID_59861293" ENDARROW="Default" ENDINCLINATION="354;0;" ID="Arrow_ID_523495135" STARTARROW="None" STARTINCLINATION="354;0;"/>
+</node>
+</node>
+</node>
+<node CREATED="1378314868946" FOLDED="true" ID="ID_1117059195" MODIFIED="1388110866255" TEXT="TRY">
+<node CREATED="1378396273019" ID="ID_314164204" MODIFIED="1378396290180" TEXT="v-1.1-p1-t3">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1378314872418" FOLDED="true" ID="ID_59861293" MODIFIED="1388110866255" TEXT="Edit code">
+<node CREATED="1378397014177" FOLDED="true" ID="ID_276602887" MODIFIED="1388110866255" TEXT="UPTO">
+<node CREATED="1378397018046" FOLDED="true" ID="ID_909890893" MODIFIED="1388110866255" TEXT="DialogOnItemClickListener.java">
+<node CREATED="1378397021041" ID="ID_421681120" MODIFIED="1378397026136" TEXT="=&gt; See &quot;aa&quot;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1378565914057" FOLDED="true" ID="ID_1516469624" MODIFIED="1388110866256" TEXT="3">
+<node COLOR="#ff3333" CREATED="1378314102642" FOLDED="true" ID="ID_543756982" MODIFIED="1387351475477" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1378396273019" ID="ID_367553773" MODIFIED="1378566804169" TEXT="v-1.1-p2">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1378565925545" FOLDED="true" ID="ID_1238425919" MODIFIED="1388110866256" TEXT="&quot;Cancel&quot;">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1378565932452" ID="ID_760209712" MODIFIED="1378565944584" TEXT="=&gt; Forced termination">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1378566129304" FOLDED="true" ID="ID_106825548" MODIFIED="1388110866256" TEXT="TRY">
+<node CREATED="1378396273019" ID="ID_1833048765" MODIFIED="1378566811814" TEXT="v-1.1-p2-t1">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1378566131308" FOLDED="true" ID="ID_361892316" MODIFIED="1388110866256" TEXT="Review code">
+<node CREATED="1378566310169" FOLDED="true" ID="ID_484983506" MODIFIED="1388110866256" TEXT="Methods_dlg">
+<node CREATED="1378566314776" ID="ID_1035022968" MODIFIED="1378566368698" TEXT="dlg_tab1_edit_item(actv, si, dlg)">
+<arrowlink DESTINATION="ID_1995487090" ENDARROW="Default" ENDINCLINATION="51;0;" ID="Arrow_ID_677264122" STARTARROW="None" STARTINCLINATION="51;0;"/>
+</node>
+<node CREATED="1378566366738" FOLDED="true" ID="ID_1995487090" MODIFIED="1388110866256" TEXT="dlg_template_okCancel_2Dialogues_SI">
+<node CREATED="1378566570280" ID="ID_500237127" MODIFIED="1378566647836" TEXT="=&gt; &quot;cancelTag&quot; = &quot;dlg_generic_cancel&quot;"/>
+</node>
+</node>
+<node CREATED="1378566462668" FOLDED="true" ID="ID_924343399" MODIFIED="1388110866256" TEXT="DialogButtonOnClickListener">
+<node CREATED="1378566476364" ID="ID_652199775" MODIFIED="1378566485032" TEXT="DialogButtonOnClickListener(Activity actv, Dialog dlg1,Dialog dlg2, ShoppingItem si)"/>
+</node>
+</node>
+<node CREATED="1378566712489" FOLDED="true" ID="ID_616324050" MODIFIED="1388110866256" TEXT="FOUND">
+<node CREATED="1378566716040" ID="ID_1744946210" MODIFIED="1378566737888" TEXT="&quot;dlg_generic_cancel&quot; =&gt; Should be &quot;dlg_generic_dismiss_second_dialog&quot;"/>
+</node>
+<node CREATED="1378566777849" ID="ID_1244209695" MODIFIED="1378566779890" TEXT="SOLVED"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1378566982232" FOLDED="true" ID="ID_891007375" MODIFIED="1388025894743" TEXT="v-1.2">
+<node CREATED="1378566984696" FOLDED="true" ID="ID_1825397131" MODIFIED="1388110866257" TEXT="EDIT">
+<node CREATED="1378566987305" ID="ID_1744001033" MODIFIED="1378566999465" TEXT="&quot;OK&quot; button in the edit dialog">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1387942034667" FOLDED="true" ID="ID_583695318" MODIFIED="1388110866258" TEXT="v-1.2.0">
+<icon BUILTIN="launch"/>
+<node CREATED="1387942037531" FOLDED="true" ID="ID_167707776" MODIFIED="1388110866257" TEXT="Create a new listener class">
+<node CREATED="1387940824239" ID="ID_1260670989" MODIFIED="1387940824239" TEXT="DOICL_2"/>
+</node>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1250381325" MODIFIED="1388110866257" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_349961298" MODIFIED="1388110866257" TEXT="FILES">
+<node CREATED="1387940007003" FOLDED="true" ID="ID_149803799" MODIFIED="1388110866257" TEXT="TabActv">
+<node CREATED="1387939987036" FOLDED="true" ID="ID_393746162" MODIFIED="1388110866257" TEXT="setupListeners()">
+<node CREATED="1387940531936" ID="ID_1642089869" MODIFIED="1387940531936" TEXT="Tags.ListTags.tab_itemList"/>
+</node>
+</node>
+<node CREATED="1387940026842" FOLDED="true" ID="ID_426669041" MODIFIED="1388110866257" TEXT="ListOnItemLongClickListener">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1387940568464" ID="ID_1033992285" MODIFIED="1387940568464" TEXT="case_tab_itemList(parent, position)"/>
+</node>
+<node CREATED="1387940824239" ID="ID_745198041" MODIFIED="1387940824239" TEXT="DOICL_2"/>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1477349884" MODIFIED="1388110866258" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1964050361" MODIFIED="1388110866258" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1916249357" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1444350612" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_244801709" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1604274423" MODIFIED="1388110866258" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1168724926" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_906268890" MODIFIED="1388110866258" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_977812293" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1387942134892" FOLDED="true" ID="ID_419258014" MODIFIED="1388025893520" TEXT="v-1.2.1">
+<node CREATED="1387942161867" ID="ID_838929789" MODIFIED="1387942172943" TEXT="Edit item"/>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_455265109" MODIFIED="1388110866259" TEXT="01">
+<icon BUILTIN="button_ok"/>
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_920981694" MODIFIED="1388110866258" TEXT="FILES">
+<node CREATED="1388023130798" FOLDED="true" ID="ID_420664759" MODIFIED="1388110866258" TEXT="ListViewCL">
+<node CREATED="1388023155442" ID="ID_1170649280" MODIFIED="1388023155442" TEXT="case_tab1_long_click(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1388023168798" FOLDED="true" ID="ID_759126434" MODIFIED="1388110866258" TEXT="Methods_dlg">
+<node CREATED="1388023173359" ID="ID_1481158543" MODIFIED="1388023405823" TEXT="dlg_tab1_edit_item(actv, si, dlg)">
+<arrowlink DESTINATION="ID_1044301441" ENDARROW="Default" ENDINCLINATION="106;0;" ID="Arrow_ID_1607550320" STARTARROW="None" STARTINCLINATION="106;0;"/>
+<arrowlink DESTINATION="ID_1183841958" ENDARROW="Default" ENDINCLINATION="125;0;" ID="Arrow_ID_1375974968" STARTARROW="None" STARTINCLINATION="125;0;"/>
+<arrowlink DESTINATION="ID_615268161" ENDARROW="Default" ENDINCLINATION="150;0;" ID="Arrow_ID_155493443" STARTARROW="None" STARTINCLINATION="150;0;"/>
+</node>
+<node CREATED="1388023209320" ID="ID_1183841958" MODIFIED="1388023396368" TEXT="case_tab_itemList__setStoreName(si, dlg2, actv)"/>
+<node CREATED="1388023262344" ID="ID_615268161" MODIFIED="1388023399711" TEXT="case_tab_itemList__setItemNameAndYomi(si, dlg2)"/>
+<node CREATED="1388023380901" ID="ID_1044301441" MODIFIED="1388023405823" TEXT="dlg_template_okCancel_2Dialogues_SI()"/>
+</node>
+<node CREATED="1388023433636" FOLDED="true" ID="ID_983300139" MODIFIED="1388110866258" TEXT="DialogButtonOnClickListener">
+<arrowlink DESTINATION="ID_1500972753" ENDARROW="Default" ENDINCLINATION="52;0;" ID="Arrow_ID_1423395868" STARTARROW="None" STARTINCLINATION="52;0;"/>
+<node CREATED="1388023601732" ID="ID_8235156" MODIFIED="1388023601732" TEXT="case_dlg_edit_items_bt_ok()"/>
+</node>
+<node CREATED="1388023472287" FOLDED="true" ID="ID_1789345556" MODIFIED="1388110866258" TEXT="DialogTags">
+<node CREATED="1388023478276" ID="ID_1500972753" MODIFIED="1388023483439" TEXT="okTag"/>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1388024826654" FOLDED="true" ID="ID_982580668" MODIFIED="1388110866259" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1388024841118" FOLDED="true" ID="ID_1672191858" MODIFIED="1388024863681" TEXT="line">
+<node CREATED="1388024843271" ID="ID_1101161154" MODIFIED="1388024844153" TEXT="12-26 11:19:39.866: E/AndroidRuntime(12506): FATAL EXCEPTION: main 12-26 11:19:39.866: E/AndroidRuntime(12506): java.lang.NullPointerException 12-26 11:19:39.866: E/AndroidRuntime(12506): &#x9;at sl.listeners.dialog.DialogButtonOnClickListener.case_dlg_edit_items_bt_ok(DialogButtonOnClickListener.java:392) 12-26 11:19:39.866: E/AndroidRuntime(12506): &#x9;at sl.listeners.dialog.DialogButtonOnClickListener.onClick(DialogButtonOnClickListener.java:367) "/>
+</node>
+<node CREATED="1388024870911" FOLDED="true" ID="ID_1862747801" MODIFIED="1388110866259" TEXT="TRY">
+<node CREATED="1388024917694" FOLDED="true" ID="ID_585899703" MODIFIED="1388110866259" TEXT="DialogButtonOnClickListener">
+<node CREATED="1388024872975" FOLDED="true" ID="ID_1673410960" MODIFIED="1388110866258" TEXT="case_dlg_edit_items_bt_ok()">
+<node CREATED="1388024921166" ID="ID_877261494" MODIFIED="1388024927778" TEXT="&quot;dlg1&quot; =&gt; &quot;dlg2&quot;"/>
+</node>
+</node>
+<node CREATED="1388024930238" ID="ID_1898768135" MODIFIED="1388024932200" TEXT="SOLVED"/>
+</node>
+</node>
+</node>
+<node CREATED="1388024939567" FOLDED="true" ID="ID_1305774820" MODIFIED="1388110866259" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388024940809" FOLDED="true" ID="ID_1787829606" MODIFIED="1388110866259" TEXT="Edit item =&gt; &quot;OK&quot;">
+<node CREATED="1388024950312" ID="ID_979861621" MODIFIED="1388024957011" TEXT="==&gt; Close 2 dialogues"/>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_564228709" MODIFIED="1388110866259" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_791372928" MODIFIED="1388110866259" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_711503631" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_808999886" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_353103292" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_929419683" MODIFIED="1388110866259" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_101770718" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1675077552" MODIFIED="1388110866259" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_1981595670" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1387942174812" FOLDED="true" ID="ID_1874143792" MODIFIED="1388110866259" TEXT="FURTHER">
+<node CREATED="1387942178059" FOLDED="true" ID="ID_385070151" MODIFIED="1388110866259" TEXT="1">
+<node CREATED="1387942182411" ID="ID_1631439343" MODIFIED="1387942184640" TEXT="Delete item"/>
+</node>
+<node CREATED="1387942180363" ID="ID_105891518" MODIFIED="1387942180687" TEXT="2"/>
+<node CREATED="1387942180923" ID="ID_322859615" MODIFIED="1387942181487" TEXT="3"/>
+</node>
+</node>
+<node CREATED="1388025146543" FOLDED="true" ID="ID_945271095" MODIFIED="1388110866265" TEXT="v-2.0">
+<icon BUILTIN="launch"/>
+<node CREATED="1388025149439" ID="ID_417925727" MODIFIED="1388025152291" TEXT="Delete item"/>
+<node CREATED="1388025209230" FOLDED="true" ID="ID_415939922" MODIFIED="1388110829734" TEXT="v-2.0.1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388029220975" FOLDED="true" ID="ID_627865937" MODIFIED="1388110866260" TEXT="dlg2">
+<node CREATED="1388029227016" ID="ID_327098750" MODIFIED="1388029231362" TEXT="&quot;Cancel&quot;"/>
+</node>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_931703854" MODIFIED="1388110866260" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_878865044" MODIFIED="1388110866260" TEXT="FILES">
+<node CREATED="1388023130798" FOLDED="true" ID="ID_524275638" MODIFIED="1388110866260" TEXT="ListViewCL">
+<node CREATED="1388023155442" ID="ID_1666621466" MODIFIED="1388023155442" TEXT="case_tab1_long_click(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1388025313703" FOLDED="true" ID="ID_1128481228" MODIFIED="1388110866260" TEXT="Methods_dlg">
+<node CREATED="1388025318446" FOLDED="true" ID="ID_1017753386" MODIFIED="1388110866260" TEXT="dlg_tab1_delete_item(actv, si, dlg)">
+<node CREATED="1388025321662" ID="ID_1566834671" MODIFIED="1388025323808" TEXT="NEW">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_823432863" MODIFIED="1388110866261" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1513738190" MODIFIED="1388110866260" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1568166357" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1924262442" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1699200991" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1239916020" MODIFIED="1388110866260" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1887723034" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1655482812" MODIFIED="1388110866261" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_814471436" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1388108328699" FOLDED="true" ID="ID_1277846811" MODIFIED="1388110866265" TEXT="v-2.0.2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388108333784" FOLDED="true" ID="ID_1725378194" MODIFIED="1388110866261" TEXT="dlg2">
+<node CREATED="1388108336065" ID="ID_1606338241" MODIFIED="1388108338604" TEXT="&quot;Delete&quot;"/>
+</node>
+<node CREATED="1388108351448" FOLDED="true" ID="ID_1927667927" MODIFIED="1388110866261" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388108351953" ID="ID_439859495" MODIFIED="1388108353869" TEXT="Confirm"/>
+</node>
+<node CREATED="1388108356729" FOLDED="true" ID="ID_1915075499" MODIFIED="1388110826473" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388108359673" ID="ID_695135835" MODIFIED="1388108361388" TEXT="Delete"/>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_301065351" MODIFIED="1388110866262" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1107376987" MODIFIED="1388110866262" TEXT="FILES">
+<node CREATED="1388108481625" FOLDED="true" ID="ID_1516816503" MODIFIED="1388110866262" TEXT="DB_CL">
+<node CREATED="1388108484582" ID="ID_883965647" MODIFIED="1388108484582" TEXT="case_tab1_delete_item_ok(View v)"/>
+</node>
+<node CREATED="1388108764417" ID="ID_1605338558" MODIFIED="1388108764417" TEXT="Methods_sl.delete_item_from_database(actv, si)"/>
+</node>
+</node>
+<node CREATED="1388108712137" FOLDED="true" ID="ID_576522665" MODIFIED="1388110866263" TEXT="Steps">
+<node CREATED="1388108713713" FOLDED="true" ID="ID_1573964353" MODIFIED="1388110866262" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388108714144" ID="ID_341439488" MODIFIED="1388108714683" TEXT="Delete item from: database"/>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1265601323" MODIFIED="1388110866262" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1687979385" MODIFIED="1388110866262" TEXT="FILES">
+<node CREATED="1388108769472" FOLDED="true" ID="ID_378735098" MODIFIED="1388110866262" TEXT="Methods_sl">
+<node CREATED="1388108786968" ID="ID_761428629" MODIFIED="1388108786968" TEXT="delete_item_from_database(actv, si)"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1388108721225" FOLDED="true" ID="ID_400384462" MODIFIED="1388110866263" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388108721681" ID="ID_1608573426" MODIFIED="1388108722812" TEXT="Delete item from: tab1 list"/>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1330677623" MODIFIED="1388110866263" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_60490504" MODIFIED="1388110866262" TEXT="FILES">
+<node CREATED="1388108769472" FOLDED="true" ID="ID_1832567643" MODIFIED="1388110866262" TEXT="Methods_sl">
+<node CREATED="1388108861407" ID="ID_343445976" MODIFIED="1388108886908" TEXT="delete_item_from_item_list(actv, si)"/>
+</node>
+</node>
+<node CREATED="1388110222408" FOLDED="true" ID="ID_1419027374" MODIFIED="1388110866262" TEXT="Vars">
+<node CREATED="1388110226746" FOLDED="true" ID="ID_1116822771" MODIFIED="1388110866262" TEXT="1">
+<node CREATED="1388110227170" ID="ID_687223338" MODIFIED="1388110227709" TEXT="CONS.itemList"/>
+</node>
+<node CREATED="1388110233577" FOLDED="true" ID="ID_1037577728" MODIFIED="1388110866262" TEXT="2">
+<node CREATED="1388110234242" ID="ID_1779919785" MODIFIED="1388110234925" TEXT="CONS.adpItems"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1434266580" MODIFIED="1388110866264" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1480573099" MODIFIED="1388110866263" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1641932881" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_646130864" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1722488152" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1400018433" MODIFIED="1388110866263" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1765680887" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1364450570" MODIFIED="1388110866264" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_485600605" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" ID="ID_1899448595" MODIFIED="1388108871528" TEXT="D-42">
+<icon BUILTIN="idea"/>
+<node CREATED="1387350162935" ID="ID_1014237926" MODIFIED="1387350186279" TEXT="Re-establish device-desktop relation"/>
+<node CREATED="1387350451367" FOLDED="true" ID="ID_800890059" MODIFIED="1388025238292" TEXT="v-1.0">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1387350454583" FOLDED="true" ID="ID_1863702607" MODIFIED="1388025238290" TEXT="s-1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1387350456678" ID="ID_1916620183" MODIFIED="1387350463121" TEXT="Try re-install app"/>
+</node>
+<node CREATED="1387350635367" FOLDED="true" ID="ID_674567189" MODIFIED="1388025238290" TEXT="s-2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1387350639486" ID="ID_519555804" MODIFIED="1387350645897" TEXT="Uninstall &amp; intall app"/>
+</node>
+<node CREATED="1387351234343" FOLDED="true" ID="ID_941184594" MODIFIED="1388025238290" TEXT="s-3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1387351236463" ID="ID_1943028528" MODIFIED="1387351238858" TEXT="Restore db"/>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1147328162" MODIFIED="1388025238292" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1410130135" MODIFIED="1388025238291" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_762484631" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_690435223" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1610943282" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1827245822" MODIFIED="1388025238291" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1690475494" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1089646130" MODIFIED="1388025238291" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_1320097955" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1388111083818" ID="ID_1392404547" MODIFIED="1388360038295" TEXT="D-43-1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388111085121" ID="ID_1156056868" MODIFIED="1388111089627" TEXT="Remote server">
+<node CREATED="1388186439628" ID="ID_515348397" LINK="../ShoppingList(R)/ShoppingList(R).mm" MODIFIED="1388186466839" TEXT="SL(R)"/>
+</node>
+<node CREATED="1388111177609" ID="ID_1038760370" MODIFIED="1388111179738" TEXT="v-1.0"/>
+</node>
+<node CREATED="1388360051893" FOLDED="true" ID="ID_1756804386" MODIFIED="1390007732191" TEXT="D-44">
+<icon BUILTIN="idea"/>
+<node CREATED="1388360054324" ID="ID_204462953" MODIFIED="1388360066663" TEXT="Post data to remote server"/>
+<node CREATED="1388373336027" FOLDED="true" ID="ID_1674503351" MODIFIED="1389177289753" TEXT="v-1.x">
+<node CREATED="1388362500721" ID="ID_875037742" MODIFIED="1388373358068" TEXT="Post existing shopping items data"/>
+<node CREATED="1388360955732" FOLDED="true" ID="ID_204480808" MODIFIED="1390007732173" TEXT="v-1.0">
+<node CREATED="1388373362300" ID="ID_107147981" MODIFIED="1388531959365" TEXT="Build JSON body"/>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_419263343" MODIFIED="1390007732171" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1139251102" MODIFIED="1390007732171" TEXT="FILES">
+<node CREATED="1388362651875" FOLDED="true" ID="ID_650036679" MODIFIED="1390007732170" TEXT="MainActv">
+<node CREATED="1388362661008" ID="ID_1972145393" MODIFIED="1388362661008" TEXT="onOptionsItemSelected(MenuItem item)"/>
+</node>
+<node CREATED="1388362671707" FOLDED="true" ID="ID_1338418336" MODIFIED="1390007732170" TEXT="Methods_dlg">
+<node CREATED="1388362676769" ID="ID_1057435868" MODIFIED="1388362676769" TEXT="dlg_db_activity(this)"/>
+</node>
+<node CREATED="1388362783680" FOLDED="true" ID="ID_1707201443" MODIFIED="1390007732171" TEXT="DialogOnItemClickListener">
+<node CREATED="1388362803559" ID="ID_1002242898" MODIFIED="1388362803559" TEXT="dlg_db_admin_lv(String choice)"/>
+<node CREATED="1388362845991" FOLDED="true" ID="ID_956157719" MODIFIED="1390007732171" TEXT="dlg_db_admin_lv_PostData()">
+<node CREATED="1388362941698" ID="ID_1979479302" MODIFIED="1388362944370" TEXT="NEW">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1388366095466" FOLDED="true" ID="ID_574306103" MODIFIED="1390007732172" TEXT="Steps">
+<node CREATED="1388366098730" FOLDED="true" ID="ID_199971905" MODIFIED="1390007732171" TEXT="1">
+<node CREATED="1388366969738" FOLDED="true" ID="ID_972012408" MODIFIED="1390007732171" TEXT="Task class">
+<node CREATED="1388366985162" FOLDED="true" ID="ID_1624240639" MODIFIED="1390007732171" TEXT="1">
+<node CREATED="1388366099715" FOLDED="true" ID="ID_1445624472" MODIFIED="1390007732171" TEXT="Create">
+<node CREATED="1388366102083" ID="ID_1012712643" MODIFIED="1388366105453" TEXT="task class"/>
+</node>
+</node>
+<node CREATED="1388366850811" FOLDED="true" ID="ID_173477682" MODIFIED="1390007732171" TEXT="2">
+<node CREATED="1388366852012" ID="ID_314514648" MODIFIED="1388366853533" TEXT="onPreExecute()"/>
+</node>
+<node CREATED="1388366921323" FOLDED="true" ID="ID_204173857" MODIFIED="1390007732171" TEXT="3">
+<node CREATED="1388366921874" ID="ID_1943556331" MODIFIED="1388366922654" TEXT="doInBackground(String... params)"/>
+</node>
+<node CREATED="1388366957899" FOLDED="true" ID="ID_1428644605" MODIFIED="1390007732171" TEXT="4">
+<node CREATED="1388366958610" ID="ID_1114109676" MODIFIED="1388366959149" TEXT="onPostExecute(Integer res)"/>
+</node>
+</node>
+</node>
+<node CREATED="1388366992731" FOLDED="true" ID="ID_752232462" MODIFIED="1390007732172" TEXT="2">
+<node COLOR="#ff3333" CREATED="1388367293322" FOLDED="true" ID="ID_274966027" MODIFIED="1390007732172" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1388367296362" FOLDED="true" ID="ID_11194787" MODIFIED="1390007732171" TEXT="dlg.dismiss()">
+<node CREATED="1388367297602" ID="ID_996000421" MODIFIED="1388367374189" TEXT="=&gt; &#x4e0d;&#x88ab;&#x8f9e;&#x9000;"/>
+</node>
+<node CREATED="1388367508874" FOLDED="true" ID="ID_1851969022" MODIFIED="1390007732172" TEXT="FOUND">
+<node CREATED="1388367510994" ID="ID_208147308" MODIFIED="1388367514378" TEXT="dlg_db_admin_lv_GetYomi()"/>
+<node CREATED="1388367541770" ID="ID_930734381" MODIFIED="1388367569646" TEXT="&#x7f16;&#x5199;&#x4ee3;&#x7801; =&gt; &#x5199;&#x9519;&#x4e86;"/>
+<node CREATED="1388367580570" ID="ID_1561275289" MODIFIED="1388367582387" TEXT="SOLVED"/>
+</node>
+</node>
+</node>
+<node CREATED="1388369001307" FOLDED="true" ID="ID_1736197556" MODIFIED="1390007732172" TEXT="3">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1247033467" MODIFIED="1390007732172" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_183363930" MODIFIED="1390007732172" TEXT="FILES">
+<node CREATED="1388369017520" FOLDED="true" ID="ID_779766308" MODIFIED="1390007732172" TEXT="Task_PostData">
+<node CREATED="1388369033583" ID="ID_911640162" MODIFIED="1388371879772" TEXT="doInBackground(String... params)">
+<arrowlink DESTINATION="ID_1108498537" ENDARROW="Default" ENDINCLINATION="166;0;" ID="Arrow_ID_492097014" STARTARROW="None" STARTINCLINATION="166;0;"/>
+<arrowlink DESTINATION="ID_332585713" ENDARROW="Default" ENDINCLINATION="165;0;" ID="Arrow_ID_1603058675" STARTARROW="None" STARTINCLINATION="165;0;"/>
+<arrowlink DESTINATION="ID_252373781" ENDARROW="Default" ENDINCLINATION="74;0;" ID="Arrow_ID_281744136" STARTARROW="None" STARTINCLINATION="74;0;"/>
+<arrowlink DESTINATION="ID_1479688306" ENDARROW="Default" ENDINCLINATION="228;0;" ID="Arrow_ID_325715062" STARTARROW="None" STARTINCLINATION="228;0;"/>
+</node>
+</node>
+<node CREATED="1388369040351" FOLDED="true" ID="ID_1117255952" MODIFIED="1390007732172" TEXT="Methods_sl">
+<node CREATED="1388369045067" FOLDED="true" ID="ID_1108498537" MODIFIED="1390007732172" TEXT="getSIList(actv)">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388369046090" ID="ID_870050883" MODIFIED="1388369048091" TEXT="NEW">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1388369630992" FOLDED="true" ID="ID_252373781" MODIFIED="1390007732172" TEXT="get_StoreId_from_StoreName()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388369046090" ID="ID_1888149436" MODIFIED="1388369048091" TEXT="NEW">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1388371059888" FOLDED="true" ID="ID_332585713" MODIFIED="1390007732172" TEXT="get_GenreId_from_StoreName(">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388369046090" ID="ID_212677890" MODIFIED="1388369048091" TEXT="NEW">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1388371876013" ID="ID_1479688306" MODIFIED="1388373324448" TEXT="get_json_body_SI(keys, values)">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_29241909" MODIFIED="1390007732173" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1651118965" MODIFIED="1390007732172" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1836778192" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1596438680" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1912489810" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1821278649" MODIFIED="1390007732173" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_358180912" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_505578624" MODIFIED="1390007732173" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_87027689" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1388373341164" FOLDED="true" ID="ID_710766650" MODIFIED="1390007732174" TEXT="v-1.1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388531981167" ID="ID_1083855705" MODIFIED="1388531983794" TEXT="Post data"/>
+<node CREATED="1388539164890" ID="ID_511421645" MODIFIED="1388539173390" TEXT="Build http post"/>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1498415874" MODIFIED="1390007732173" TEXT="01">
+<icon BUILTIN="button_ok"/>
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1452022575" MODIFIED="1390007732173" TEXT="FILES">
+<node CREATED="1388362783680" FOLDED="true" ID="ID_966042337" MODIFIED="1390007732173" TEXT="DialogOnItemClickListener">
+<node CREATED="1388362803559" ID="ID_212462832" MODIFIED="1388362803559" TEXT="dlg_db_admin_lv(String choice)"/>
+<node CREATED="1388362845991" FOLDED="true" ID="ID_1929306211" MODIFIED="1390007732173" TEXT="dlg_db_admin_lv_PostData()">
+<node CREATED="1388362941698" ID="ID_1469381502" MODIFIED="1388362944370" TEXT="NEW">
+<font ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+<node CREATED="1388532132087" FOLDED="true" ID="ID_880995929" MODIFIED="1390007732173" TEXT="Task_PostData">
+<node CREATED="1388532161452" ID="ID_643398130" MODIFIED="1388533226000" TEXT="doInBackground(String... params)">
+<arrowlink DESTINATION="ID_1804636959" ENDARROW="Default" ENDINCLINATION="90;0;" ID="Arrow_ID_134293588" STARTARROW="None" STARTINCLINATION="90;0;"/>
+<arrowlink DESTINATION="ID_1425124929" ENDARROW="Default" ENDINCLINATION="70;0;" ID="Arrow_ID_1786750733" STARTARROW="None" STARTINCLINATION="70;0;"/>
+<arrowlink DESTINATION="ID_1893529578" ENDARROW="Default" ENDINCLINATION="165;0;" ID="Arrow_ID_1789326174" STARTARROW="None" STARTINCLINATION="165;0;"/>
+</node>
+</node>
+<node CREATED="1388532172495" FOLDED="true" ID="ID_1507447490" MODIFIED="1390007732173" TEXT="Methods_sl">
+<node CREATED="1388532178014" ID="ID_1893529578" MODIFIED="1388533215651" TEXT="getSIList(actv)"/>
+<node CREATED="1388532198537" ID="ID_1425124929" MODIFIED="1388533219920" TEXT="get_StoreId_from_StoreName()"/>
+<node CREATED="1388532221471" ID="ID_1804636959" MODIFIED="1388533226000" TEXT="get_GenreId_from_GenreName()"/>
+</node>
+<node CREATED="1388532132087" FOLDED="true" ID="ID_1398717319" MODIFIED="1390007732173" TEXT="Task_PostData">
+<node CREATED="1388539247616" ID="ID_1326961567" MODIFIED="1388539248743" TEXT="_doInBackground__1_getJSONBody(si_list.get(0))"/>
+<node CREATED="1388539239297" ID="ID_1422740389" MODIFIED="1388539239297" TEXT="_doInBackground__2_getHttpPost(url)"/>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_896837113" MODIFIED="1390007732174" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_417118830" MODIFIED="1390007732173" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1385243086" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1702055384" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1912757956" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1686797974" MODIFIED="1390007732173" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_624531120" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_407299353" MODIFIED="1390007732174" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_429097761" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1388539644571" FOLDED="true" ID="ID_348566606" MODIFIED="1390007732178" TEXT="v-1.2">
+<node CREATED="1388539648315" FOLDED="true" ID="ID_309882240" MODIFIED="1390007732174" TEXT="Post">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1505515790" MODIFIED="1390007732174" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1241023323" MODIFIED="1390007732174" TEXT="FILES">
+<node CREATED="1388532132087" FOLDED="true" ID="ID_840385456" MODIFIED="1390007732174" TEXT="Task_PostData">
+<node CREATED="1388539247616" ID="ID_1483796554" MODIFIED="1388539248743" TEXT="_doInBackground__1_getJSONBody(si_list.get(0))"/>
+<node CREATED="1388539239297" ID="ID_1049464891" MODIFIED="1388539239297" TEXT="_doInBackground__2_getHttpPost(url)"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#ff3333" CREATED="1388540219707" FOLDED="true" ID="ID_1540293767" MODIFIED="1390007732178" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1388540223051" ID="ID_279227928" MODIFIED="1388540229773" TEXT="Data =&gt; Empty"/>
+<node CREATED="1388540300122" FOLDED="true" ID="ID_25685250" MODIFIED="1390007732176" TEXT="TRY">
+<node CREATED="1388540302378" ID="ID_1961050227" MODIFIED="1388540308063" TEXT="Refer =&gt; IFM10"/>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_838284185" MODIFIED="1390007732176" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1844736440" MODIFIED="1390007732176" TEXT="FILES">
+<node CREATED="1388540328827" FOLDED="true" ID="ID_434270990" MODIFIED="1390007732174" TEXT="TNActv">
+<node CREATED="1388540332901" ID="ID_545119751" MODIFIED="1388540334751" TEXT="set_listeners()"/>
+</node>
+<node CREATED="1388540353536" FOLDED="true" ID="ID_1254094301" MODIFIED="1390007732174" TEXT="CustomOnItemLongClickListener">
+<node CREATED="1388540374144" ID="ID_1586160849" MODIFIED="1388540374144" TEXT="case_actv_tn_lv(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1388540463552" FOLDED="true" ID="ID_205031808" MODIFIED="1390007732174" TEXT="Methods_dlg">
+<node CREATED="1388540469035" ID="ID_936986850" MODIFIED="1388540469035" TEXT="dlg_TNList(actv, ti)"/>
+</node>
+<node CREATED="1388540496641" FOLDED="true" ID="ID_216873435" MODIFIED="1390007732174" TEXT="DialogOnItemClickListener">
+<node CREATED="1388540527663" ID="ID_1441820880" MODIFIED="1388540527663" TEXT="case_dlg_tn_list(String item)"/>
+</node>
+<node CREATED="1388540535979" FOLDED="true" ID="ID_1117446903" MODIFIED="1390007732174" TEXT="Methods_dlg">
+<node CREATED="1388540541051" ID="ID_725004859" MODIFIED="1388540541051" TEXT="dlg_confirm_uploadImageFile(actv, dlg1, ti)"/>
+</node>
+<node CREATED="1388540569132" FOLDED="true" ID="ID_1614965270" MODIFIED="1390007732175" TEXT="DialogButtonOnClickListener">
+<node CREATED="1388540594656" ID="ID_1614604047" MODIFIED="1388540594656" TEXT="case_dlg_confirm_upload_image_files_ok()"/>
+</node>
+<node CREATED="1388540607131" FOLDED="true" ID="ID_336364615" MODIFIED="1390007732175" TEXT="TaskFTP">
+<node CREATED="1388540653599" ID="ID_1520956442" MODIFIED="1388540653599" TEXT="doInBackground(String... ftpTags)"/>
+</node>
+<node CREATED="1388540689003" FOLDED="true" ID="ID_1926379873" MODIFIED="1390007732176" TEXT="MethodsFTP">
+<node CREATED="1388540694347" ID="ID_463539396" MODIFIED="1388540694347" TEXT="ftp_connect_disconnect(actv, ti)"/>
+</node>
+<node CREATED="1388540607131" FOLDED="true" ID="ID_205530189" MODIFIED="1390007732176" TEXT="TaskFTP">
+<node CREATED="1388540774511" ID="ID_1663595899" MODIFIED="1388540780013" TEXT="onPostExecute(Integer res)"/>
+</node>
+<node CREATED="1388540793339" FOLDED="true" ID="ID_793428630" MODIFIED="1390007732176" TEXT="Methods_IFM9">
+<node CREATED="1388540798171" ID="ID_240003376" MODIFIED="1388540798171" TEXT="postFileNameToRailsSite(actv, ti)"/>
+</node>
+<node CREATED="1388540827452" FOLDED="true" ID="ID_1596170764" MODIFIED="1390007732176" TEXT="TaskHTTP">
+<node CREATED="1388540866862" ID="ID_1969219262" MODIFIED="1388540866862" TEXT="doInBackground(String... tags)"/>
+<node CREATED="1388540882047" ID="ID_1956296347" MODIFIED="1388540882047" TEXT="_doInBackground_Rails()"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1388542693755" FOLDED="true" ID="ID_542384161" MODIFIED="1390007732178" TEXT="TRY">
+<node CREATED="1388542695319" ID="ID_10455136" MODIFIED="1388542701283" TEXT="log params data in rails app"/>
+<node CREATED="1388542702491" FOLDED="true" ID="ID_44844569" MODIFIED="1390007732177" TEXT="FOUND">
+<node CREATED="1388542704587" ID="ID_806292921" MODIFIED="1388542714272" TEXT="=&gt; &quot;http://cosmos-ifm-1.herokuapp.com/images/new&quot;"/>
+<node CREATED="1388542719708" ID="ID_425193590" MODIFIED="1388542729009" TEXT="==&gt; &quot;/new&quot; written"/>
+</node>
+<node COLOR="#ff3333" CREATED="1388542787531" FOLDED="true" ID="ID_1458165384" MODIFIED="1390007732177" TEXT="PROB">
+<arrowlink DESTINATION="ID_85325051" ENDARROW="Default" ENDINCLINATION="124;0;" ID="Arrow_ID_637390080" STARTARROW="None" STARTINCLINATION="124;0;"/>
+<node CREATED="1388542790043" FOLDED="true" ID="ID_756932587" MODIFIED="1390007732177" TEXT="line">
+<node CREATED="1388542791918" ID="ID_1200537368" MODIFIED="1388542814647" TEXT="[Task_PostData.java : 188 : doInBackground](11187): hr =&gt; 404 "/>
+</node>
+<node CREATED="1388542870347" FOLDED="true" ID="ID_991822555" MODIFIED="1390007732177" TEXT="TRY">
+<node CREATED="1388542872026" ID="ID_77708712" MODIFIED="1388542881426" TEXT="See =&gt; routes.rb"/>
+<node CREATED="1388542931387" FOLDED="true" ID="ID_1457674964" MODIFIED="1390007732177" TEXT="FOUND">
+<node CREATED="1388542933771" ID="ID_420120555" MODIFIED="1388542948322" TEXT="=&gt; &apos;post &quot;images/new&quot;&apos;"/>
+</node>
+</node>
+<node CREATED="1388543149083" FOLDED="true" ID="ID_879711207" MODIFIED="1390007732177" TEXT="TRY">
+<node CREATED="1388543150619" FOLDED="true" ID="ID_1211276203" MODIFIED="1390007732177" TEXT="Rails::routes.rb">
+<node CREATED="1388543162969" ID="ID_939370359" MODIFIED="1388543163489" TEXT="post &quot;/sl/items/new&quot;"/>
+</node>
+<node CREATED="1388543166939" FOLDED="true" ID="ID_171197573" MODIFIED="1390007732177" TEXT="And::">
+<node CREATED="1388543193691" FOLDED="true" ID="ID_548486151" MODIFIED="1390007732177" TEXT="CONS.java">
+<node CREATED="1388543199537" ID="ID_1968352797" MODIFIED="1388543202632" TEXT="&quot;http://cosmos-jqm-1.herokuapp.com/sl/items/new&quot;"/>
+</node>
+</node>
+</node>
+<node CREATED="1388543567387" FOLDED="true" ID="ID_1649061589" MODIFIED="1390007732177" TEXT="FOUND">
+<node CREATED="1388543569560" ID="ID_1550917467" MODIFIED="1388543611474" TEXT="Rails app has a new method for saving data posted from device"/>
+</node>
+</node>
+</node>
+<node CREATED="1388543625868" FOLDED="true" ID="ID_85325051" MODIFIED="1390007732178" TEXT="TRY">
+<node CREATED="1388543637884" FOLDED="true" ID="ID_695600714" LINK="../ShoppingList(R)/ShoppingList(R).mm" MODIFIED="1390007732178" TEXT="Rails app">
+<node CREATED="1388543641031" ID="ID_1910670385" MODIFIED="1388543647858" TEXT="=&gt; create a new method"/>
+<node CREATED="1388706793289" ID="ID_258615693" MODIFIED="1388706795576" TEXT="D-3"/>
+</node>
+<node CREATED="1388628591077" ID="ID_407600992" MODIFIED="1388628602240" TEXT="=&gt; remote url ==&gt; "/>
+<node CREATED="1388717235882" ID="ID_932847707" MODIFIED="1388717238024" TEXT="SOLVED"/>
+</node>
+</node>
+</node>
+<node CREATED="1388717247817" FOLDED="true" ID="ID_608960706" MODIFIED="1390007732178" TEXT="v-1.3">
+<icon BUILTIN="idea"/>
+<node CREATED="1388717250634" ID="ID_1755633588" MODIFIED="1388717259262" TEXT="Post entire columns of one record"/>
+</node>
+<node CREATED="1388717261242" FOLDED="true" ID="ID_1430367600" MODIFIED="1390007732179" TEXT="v-1.4">
+<icon BUILTIN="idea"/>
+<node CREATED="1388717263321" ID="ID_746080099" MODIFIED="1388717279967" TEXT="Post 10 items"/>
+<node CREATED="1388745396833" FOLDED="true" ID="ID_1563442912" MODIFIED="1390007732178" TEXT="steps">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1256284848" MODIFIED="1390007732178" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1410107229" MODIFIED="1390007732178" TEXT="FILES">
+<node CREATED="1388745410686" FOLDED="true" ID="ID_1328375082" MODIFIED="1390007732178" TEXT="Task_PostData.java">
+<node CREATED="1388745448507" FOLDED="true" ID="ID_1663543086" MODIFIED="1390007732178" TEXT="_exec_post()">
+<node CREATED="1388745449633" ID="ID_362105424" MODIFIED="1388745454210" TEXT="NEW">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1376551736" MODIFIED="1390007732179" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_565782919" MODIFIED="1390007732178" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1340623485" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1971303083" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1275397479" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_18502224" MODIFIED="1390007732178" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1283739957" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1097589346" MODIFIED="1390007732179" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_1004847255" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1388717280841" FOLDED="true" ID="ID_1181573673" MODIFIED="1390007732179" TEXT="v-1.5">
+<icon BUILTIN="idea"/>
+<node CREATED="1388717282858" ID="ID_326330214" MODIFIED="1388717286495" TEXT="Post entire items"/>
+</node>
+</node>
+<node CREATED="1388791457953" FOLDED="true" ID="ID_503462593" MODIFIED="1389608827095" TEXT="v-2.0">
+<icon BUILTIN="idea"/>
+<node CREATED="1388791463215" ID="ID_1033024474" MODIFIED="1388791472834" TEXT="Post data when registering a new item"/>
+<node CREATED="1388791484622" FOLDED="true" ID="ID_1060747054" MODIFIED="1389608827094" TEXT="steps">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1641191702" MODIFIED="1389608827094" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1034659414" MODIFIED="1389608827094" TEXT="FILES">
+<node CREATED="1388791580927" FOLDED="true" ID="ID_1450259742" MODIFIED="1389608827093" TEXT="MainActv">
+<node CREATED="1388791682392" ID="ID_605853330" MODIFIED="1388791775776" TEXT="add_listeners()">
+<arrowlink DESTINATION="ID_783723016" ENDARROW="Default" ENDINCLINATION="53;0;" ID="Arrow_ID_112303696" STARTARROW="None" STARTINCLINATION="53;0;"/>
+</node>
+</node>
+<node CREATED="1388791676462" ID="ID_783723016" MODIFIED="1388791775775" TEXT="ButtonOnClickListener"/>
+<node CREATED="1388791715767" FOLDED="true" ID="ID_799573029" MODIFIED="1389608827094" TEXT="Methods">
+<node CREATED="1388791721566" ID="ID_1853299913" MODIFIED="1388791817165" TEXT="dlg_register_main(actv)">
+<arrowlink DESTINATION="ID_1478930792" ENDARROW="Default" ENDINCLINATION="76;0;" ID="Arrow_ID_1168696276" STARTARROW="None" STARTINCLINATION="76;0;"/>
+</node>
+</node>
+<node CREATED="1388791769348" ID="ID_1478930792" MODIFIED="1388791822159" TEXT="DialogOnItemClickListener">
+<arrowlink DESTINATION="ID_1521903251" ENDARROW="Default" ENDINCLINATION="73;0;" ID="Arrow_ID_1526970172" STARTARROW="None" STARTINCLINATION="73;0;"/>
+</node>
+<node CREATED="1388791813460" FOLDED="true" ID="ID_1521903251" MODIFIED="1389608827094" TEXT="RegisterItemActv">
+<node CREATED="1388791849188" ID="ID_1731356327" MODIFIED="1388791849188" TEXT="setLister()"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1104047089" MODIFIED="1389608827095" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_844924440" MODIFIED="1389608827094" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_43378100" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1304783610" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_430969499" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_768526491" MODIFIED="1389608827094" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_12966905" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1745285724" MODIFIED="1389608827095" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_1135621815" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1388813546042" FOLDED="true" ID="ID_291292887" MODIFIED="1389183916945" TEXT="SEGWAY-5">
+<icon BUILTIN="launch"/>
+<node CREATED="1388813576586" FOLDED="true" ID="ID_1664691102" MODIFIED="1389183916943" TEXT="add columns">
+<node CREATED="1388813581066" FOLDED="true" ID="ID_1492040727" MODIFIED="1389183916942" TEXT="1">
+<node CREATED="1388813584218" FOLDED="true" ID="ID_1289123650" MODIFIED="1389183916942" TEXT="created_at">
+<node CREATED="1388813655483" ID="ID_1485953489" MODIFIED="1388813660065" TEXT="type=INTEGER"/>
+</node>
+</node>
+<node CREATED="1388813581977" FOLDED="true" ID="ID_1978092122" MODIFIED="1389183916943" TEXT="2">
+<node CREATED="1388813591226" ID="ID_1965353687" MODIFIED="1388813594575" TEXT="updated_at"/>
+</node>
+<node CREATED="1388813582634" FOLDED="true" ID="ID_87002878" MODIFIED="1389183916943" TEXT="3">
+<node CREATED="1388813596666" ID="ID_1584613982" MODIFIED="1388813599151" TEXT="posted_at"/>
+</node>
+</node>
+<node CREATED="1388813950251" FOLDED="true" ID="ID_1658073304" MODIFIED="1389183916943" TEXT="REF">
+<node CREATED="1388813951899" FOLDED="true" ID="ID_1644394229" MODIFIED="1389183916943" TEXT="1">
+<node CREATED="1388813952407" FOLDED="true" ID="ID_727219363" MODIFIED="1389183916943" TEXT="sqlite">
+<node CREATED="1388813957578" ID="ID_1014209196" LINK="http://stackoverflow.com/questions/7622122/sqlite-add-column-keep-data" MODIFIED="1388813971009" TEXT="answered Oct 1 &apos;11 at 18:32"/>
+</node>
+</node>
+</node>
+<node CREATED="1388813602474" FOLDED="true" ID="ID_324053510" MODIFIED="1389183916943" TEXT="v-1.0">
+<node CREATED="1342048146168" FOLDED="true" ID="ID_470792088" MODIFIED="1389183916943" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_888638694" MODIFIED="1389183916943" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1355672961" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_361961010" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1381036694" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_330869017" MODIFIED="1389183916943" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_306024023" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_910018161" MODIFIED="1389183916943" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_18892806" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1388889932689" FOLDED="true" ID="ID_1745658788" MODIFIED="1389183916944" TEXT="v-1.1">
+<node CREATED="1388889935046" ID="ID_1784387001" MODIFIED="1388889947152" TEXT="Attack-2"/>
+<node CREATED="1388889948156" ID="ID_1420178197" MODIFIED="1388889958608" TEXT="=&gt; Include &quot;Yomi&quot; to a new table"/>
+<node CREATED="1388889962444" FOLDED="true" ID="ID_1941474979" MODIFIED="1389183916944" TEXT="steps">
+<node CREATED="1388889965292" FOLDED="true" ID="ID_1033589019" MODIFIED="1389183916944" TEXT="1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388889983148" ID="ID_4172956" MODIFIED="1388889998271" TEXT="create a new table using &quot;AS SELECT&quot;"/>
+</node>
+<node CREATED="1388889966109" FOLDED="true" ID="ID_69806376" MODIFIED="1389183916944" TEXT="2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388890001037" ID="ID_1663395134" MODIFIED="1388890013999" TEXT="add column &quot;created_at INT&quot;"/>
+</node>
+<node CREATED="1388889966829" FOLDED="true" ID="ID_183777731" MODIFIED="1389183916944" TEXT="3">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388890021677" ID="ID_1238930797" MODIFIED="1388890031951" TEXT="drop the old table"/>
+</node>
+<node CREATED="1388889967421" FOLDED="true" ID="ID_507193256" MODIFIED="1389183916944" TEXT="4">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1388890035244" FOLDED="true" ID="ID_1045585381" MODIFIED="1389183916944" TEXT="rename the new table">
+<node CREATED="1388890055453" ID="ID_271908870" MODIFIED="1388890061568" TEXT="sql =&gt; See CONS.java"/>
+</node>
+</node>
+<node CREATED="1388889968157" FOLDED="true" ID="ID_993243314" MODIFIED="1389183916944" TEXT="5">
+<node CREATED="1388890095309" FOLDED="true" ID="ID_1220495517" MODIFIED="1389183916944" TEXT="Edit code">
+<node CREATED="1388890101341" ID="ID_183333973" MODIFIED="1388890161616" TEXT="new ShoppingItem(){query.getString(X)}"/>
+<node CREATED="1388890163837" ID="ID_688385909" MODIFIED="1388890174288" TEXT="=&gt; ShoppingItem.Builder...."/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_156248" MODIFIED="1389183916945" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1273734104" MODIFIED="1389183916944" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_97400853" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_279842886" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_120431879" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1980798965" MODIFIED="1389183916945" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_910386256" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1252654223" MODIFIED="1389183916945" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_202043533" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1388813533050" FOLDED="true" ID="ID_205586081" MODIFIED="1390007732191" TEXT="v-3.0">
+<icon BUILTIN="launch"/>
+<node CREATED="1389147370384" FOLDED="true" ID="ID_42953136" MODIFIED="1390007732179" TEXT="Post data">
+<node CREATED="1389147373622" ID="ID_61834348" MODIFIED="1389147386156" TEXT="=&gt; &quot;created_at&quot; etc, too"/>
+</node>
+<node CREATED="1389322110816" FOLDED="true" ID="ID_693305401" MODIFIED="1389608701421" TEXT="done">
+<node CREATED="1389148992701" FOLDED="true" ID="ID_1073499995" MODIFIED="1389322123493" TEXT="v-3.0.1">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1389096081" MODIFIED="1389322123493" TEXT="01">
+<icon BUILTIN="button_ok"/>
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_584594296" MODIFIED="1389322123492" TEXT="FILES">
+<node CREATED="1389147568789" ID="ID_1237440031" MODIFIED="1389147568789" TEXT="ButtonOnClickListener"/>
+<node CREATED="1389147593117" FOLDED="true" ID="ID_244479397" MODIFIED="1389322123491" TEXT="Methods">
+<node CREATED="1389147598461" ID="ID_1552878578" MODIFIED="1389147598461" TEXT="dlg_register_main(actv)"/>
+</node>
+<node CREATED="1389147612990" ID="ID_1567415826" MODIFIED="1389147613549" TEXT="DialogOnItemClickListener"/>
+<node CREATED="1389147641311" FOLDED="true" ID="ID_1355018549" MODIFIED="1389322123492" TEXT="RegisterItemActv">
+<node CREATED="1389147693574" ID="ID_536782407" MODIFIED="1389147693574" TEXT="setLister()"/>
+</node>
+</node>
+<node CREATED="1389148984734" FOLDED="true" ID="ID_515096248" MODIFIED="1389322123492" TEXT="Edit">
+<node CREATED="1389148987430" ID="ID_463590527" MODIFIED="1389148989136" TEXT="Builder"/>
+</node>
+</node>
+</node>
+<node CREATED="1389149159918" FOLDED="true" ID="ID_848270820" MODIFIED="1390007732180" TEXT="v-3.0.2">
+<node CREATED="1389149001294" FOLDED="true" ID="ID_435732288" MODIFIED="1390007732180" TEXT="01">
+<node CREATED="1389149012740" FOLDED="true" ID="ID_1950070041" MODIFIED="1390007732180" TEXT="_debug_1_d_44()">
+<node CREATED="1389149015294" ID="ID_1696776813" MODIFIED="1389149023744" TEXT="=&gt; Get SI instance using db id"/>
+</node>
+</node>
+<node CREATED="1389149041950" FOLDED="true" ID="ID_628538048" MODIFIED="1390007732180" TEXT="02">
+<node CREATED="1389149051716" FOLDED="true" ID="ID_225652456" MODIFIED="1390007732180" TEXT="RegisterItemActv">
+<node CREATED="1389149043683" ID="ID_440436031" MODIFIED="1389149043683" TEXT="public void onClick(View v)"/>
+<node CREATED="1389149056910" ID="ID_1475276327" MODIFIED="1389149074160" TEXT="=&gt; post data after closing the db"/>
+</node>
+<node CREATED="1389177384738" FOLDED="true" ID="ID_330169727" MODIFIED="1390007732180" TEXT="Methods_sl">
+<node CREATED="1389177514973" FOLDED="true" ID="ID_1689172685" MODIFIED="1390007732180" TEXT="getSI_FromDbId(Activity actv, int dbId)">
+<node CREATED="1389178302922" ID="ID_1678431944" MODIFIED="1389178305274" TEXT="NEW">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1389178310667" ID="ID_3207268" MODIFIED="1389183681493" TEXT="=&gt; Test the method">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1389182150141" FOLDED="true" ID="ID_1301659321" MODIFIED="1390007732180" TEXT="Methods">
+<node CREATED="1389182155100" FOLDED="true" ID="ID_1984630573" MODIFIED="1390007732180" TEXT="get_ColumnNames(Activity actv, String dbName)">
+<node CREATED="1389182156445" ID="ID_765790389" MODIFIED="1389182158318" TEXT="NEW">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1389178310667" ID="ID_104029625" MODIFIED="1389183681493" TEXT="=&gt; Test the method">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1389183715421" FOLDED="true" ID="ID_594541594" MODIFIED="1390007732181" TEXT="v-3.0.3">
+<icon BUILTIN="launch"/>
+<node CREATED="1389183718445" ID="ID_1192160192" MODIFIED="1389183734418" TEXT="Post data after saving into db"/>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_701294810" MODIFIED="1390007732181" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1494674192" MODIFIED="1390007732181" TEXT="FILES">
+<node CREATED="1389177384738" FOLDED="true" ID="ID_821289803" MODIFIED="1390007732180" TEXT="Methods_sl">
+<node CREATED="1389184009888" FOLDED="true" ID="ID_1592534217" MODIFIED="1390007732180" TEXT="getSI_FromNameAndStore(Activity actv, int dbId)">
+<node CREATED="1389178302922" ID="ID_444705538" MODIFIED="1389178305274" TEXT="NEW">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1389178310667" ID="ID_1935660197" MODIFIED="1389183681493" TEXT="=&gt; Test the method">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1389188064446" FOLDED="true" ID="ID_590485610" MODIFIED="1390007732182" TEXT="v-3.0.4">
+<icon BUILTIN="launch"/>
+<node CREATED="1389188070975" FOLDED="true" ID="ID_1683100792" MODIFIED="1390007732181" TEXT="Post data">
+<node CREATED="1389188090079" FOLDED="true" ID="ID_834832008" MODIFIED="1390007732181" TEXT="1">
+<node CREATED="1389188094608" FOLDED="true" ID="ID_83880004" MODIFIED="1390007732181" TEXT="add data">
+<node CREATED="1389188097923" ID="ID_1636763171" MODIFIED="1389188101075" TEXT="created_at"/>
+<node CREATED="1389188102511" ID="ID_1588167527" MODIFIED="1389188104596" TEXT="updated"/>
+<node CREATED="1389188105135" ID="ID_177005144" MODIFIED="1389188106516" TEXT="posted"/>
+</node>
+</node>
+<node CREATED="1389188107886" FOLDED="true" ID="ID_1592191295" MODIFIED="1390007732181" TEXT="2">
+<node CREATED="1389188110089" ID="ID_1224446249" MODIFIED="1389188134435" TEXT="build JSONBody including all timestamp columns"/>
+</node>
+<node CREATED="1389188137328" FOLDED="true" ID="ID_894039862" MODIFIED="1390007732181" TEXT="3">
+<node CREATED="1389188138034" ID="ID_357144404" MODIFIED="1389188139476" TEXT="post"/>
+</node>
+</node>
+<node CREATED="1389232583188" FOLDED="true" ID="ID_569746027" MODIFIED="1390007732181" TEXT="steps">
+<node CREATED="1389232584670" FOLDED="true" ID="ID_142702648" MODIFIED="1390007732181" TEXT="1">
+<node CREATED="1389232860528" FOLDED="true" ID="ID_1943870320" MODIFIED="1390007732181" TEXT="Task_PostData">
+<node CREATED="1389232585556" ID="ID_110393207" MODIFIED="1389232586217" TEXT="CONS.HTTPData.siKeys"/>
+</node>
+</node>
+<node CREATED="1389232838467" FOLDED="true" ID="ID_1867228405" MODIFIED="1390007732181" TEXT="2">
+<node CREATED="1389232860528" FOLDED="true" ID="ID_136872077" MODIFIED="1390007732181" TEXT="Task_PostData">
+<node CREATED="1389232839720" ID="ID_1455689412" MODIFIED="1389232840218" TEXT="Object[] values"/>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1128671648" MODIFIED="1390007732182" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_745878167" MODIFIED="1390007732181" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_669673179" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1455846320" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1209203619" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1842808974" MODIFIED="1390007732181" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1038337497" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1243610600" MODIFIED="1390007732182" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_135527662" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1389188152062" FOLDED="true" ID="ID_829747332" MODIFIED="1390007732182" TEXT="v-3.0.5">
+<icon BUILTIN="idea"/>
+<node CREATED="1389188157247" FOLDED="true" ID="ID_1199865962" MODIFIED="1390007732182" TEXT="Rails app">
+<node CREATED="1389188161519" ID="ID_340316678" MODIFIED="1389188178772" TEXT="=&gt; add columns ==&gt; &quot;mobile_created_at&quot;, a.o."/>
+</node>
+</node>
+<node CREATED="1389232651107" FOLDED="true" ID="ID_949847536" MODIFIED="1390007732183" TEXT="v-3.0.6">
+<icon BUILTIN="idea"/>
+<node CREATED="1389232662195" ID="ID_1839347320" MODIFIED="1389232692937" TEXT="when posting, as a pre-post operation, add timestamp for &quot;posted_at&quot;"/>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_874739474" MODIFIED="1390007732183" TEXT="01">
+<icon BUILTIN="button_ok"/>
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_547958362" MODIFIED="1390007732183" TEXT="FILES">
+<node CREATED="1389269724039" FOLDED="true" ID="ID_252397471" MODIFIED="1390007732183" TEXT="Methods_sl">
+<node CREATED="1389269727798" FOLDED="true" ID="ID_1425719082" MODIFIED="1390007732183" TEXT="update_SI()">
+<node CREATED="1389269732966" ID="ID_721009974" MODIFIED="1389269735670" TEXT="NEW">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1389270853222" FOLDED="true" ID="ID_1101798609" MODIFIED="1390007732183" TEXT="=&gt; Test">
+<node COLOR="#ff3333" CREATED="1389273370263" FOLDED="true" ID="ID_1798913998" MODIFIED="1390007732183" TEXT="PROB">
+<icon BUILTIN="idea"/>
+<node CREATED="1389273372455" ID="ID_1848345962" MODIFIED="1389273378460" TEXT="col &quot;store&quot; =&gt; &quot;0&quot;"/>
+<node CREATED="1389274299447" FOLDED="true" ID="ID_1968257852" MODIFIED="1390007732182" TEXT="TRY">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1243402066" MODIFIED="1390007732182" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_816856081" MODIFIED="1390007732182" TEXT="FILES">
+<node CREATED="1389274301534" FOLDED="true" ID="ID_455109321" MODIFIED="1390007732182" TEXT="ListOnItemLongClickListener">
+<node CREATED="1389274339885" ID="ID_1664531809" MODIFIED="1389274339885" TEXT="case_tab_itemList(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1389274368195" FOLDED="true" ID="ID_1616673408" MODIFIED="1390007732182" TEXT="ListViewCL">
+<node CREATED="1389274427293" ID="ID_144117714" MODIFIED="1389274427293" TEXT="case_tab1_long_click(AdapterView&lt;?&gt; parent, int position)"/>
+</node>
+<node CREATED="1389274433863" FOLDED="true" ID="ID_1418515972" MODIFIED="1390007732182" TEXT="Methods_dlg">
+<node CREATED="1389274439191" ID="ID_1940051895" MODIFIED="1389274439191" TEXT="dlg_tab1_edit_item(actv, si, dlg)"/>
+</node>
+<node CREATED="1389274497208" FOLDED="true" ID="ID_1660088527" MODIFIED="1390007732182" TEXT="DialogButtonOnClickListener">
+<node CREATED="1389274551336" ID="ID_1092976670" MODIFIED="1389274551336" TEXT="case_dlg_edit_items_bt_ok()"/>
+</node>
+</node>
+</node>
+<node CREATED="1389275724361" FOLDED="true" ID="ID_1805288430" MODIFIED="1390007732182" TEXT="SOLVED">
+<node CREATED="1389275733528" ID="ID_1875110926" MODIFIED="1389275756943" TEXT="=&gt; Use &quot;wdb.beginTransaction()&quot;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1389232696739" FOLDED="true" ID="ID_370098023" MODIFIED="1390007732183" TEXT="v-3.0.7">
+<icon BUILTIN="idea"/>
+<node CREATED="1389310277075" ID="ID_1578942820" MODIFIED="1389310293618" TEXT="when registering, save &quot;created_at&quot; data"/>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_270889952" MODIFIED="1390007732183" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_153294292" MODIFIED="1390007732183" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_758290042" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1796537502" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1974137020" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_97982563" MODIFIED="1390007732183" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_49364462" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1423691027" MODIFIED="1390007732183" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_1502672401" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1389310346754" FOLDED="true" ID="ID_294794723" MODIFIED="1390007732183" TEXT="v-3.0.8">
+<icon BUILTIN="idea"/>
+<node CREATED="1389314255806" FOLDED="true" ID="ID_804525380" MODIFIED="1390007732183" TEXT="FIX">
+<node CREATED="1389314267085" ID="ID_1867683706" MODIFIED="1389314278227" TEXT="&quot;created_at&quot; =&gt; string"/>
+</node>
+</node>
+<node CREATED="1389232700435" ID="ID_221016552" MODIFIED="1389322131153" TEXT="when registering, add &quot;created_at&quot;, a.o.">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1389321808816" FOLDED="true" ID="ID_622191642" MODIFIED="1389608696523" TEXT="v-3.0.9">
+<icon BUILTIN="launch"/>
+<node CREATED="1389275851822" ID="ID_884852685" MODIFIED="1389310360497" TEXT="Execute update when posting"/>
+<node CREATED="1389322086944" FOLDED="true" ID="ID_424748049" MODIFIED="1390007732183" TEXT="=&gt; After">
+<node CREATED="1389322090411" ID="ID_805130481" MODIFIED="1389567827482" TEXT="==&gt; Updating the Rails app">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_986174954" MODIFIED="1390007732184" TEXT="01">
+<icon BUILTIN="button_ok"/>
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1168180501" MODIFIED="1390007732184" TEXT="FILES">
+<node CREATED="1389567832425" FOLDED="true" ID="ID_275183670" MODIFIED="1390007732184" TEXT="Task_PostData">
+<node CREATED="1389567855664" ID="ID_571363726" MODIFIED="1389567855664" TEXT="_exec_post(ShoppingItem si)"/>
+<node CREATED="1389567884124" ID="ID_514149905" MODIFIED="1389567884124" TEXT="_doInBackground__1_getJSONBody(ShoppingItem si)"/>
+</node>
+<node CREATED="1389568098818" FOLDED="true" ID="ID_298660470" MODIFIED="1390007732184" TEXT="ButtonOnClickListener">
+<node CREATED="1389568126426" ID="ID_1915946446" MODIFIED="1389568126426" TEXT="case_register(View v)"/>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1454176753" MODIFIED="1390007732184" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_360490832" MODIFIED="1390007732184" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_318917684" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_77241847" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_833335320" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1553003507" MODIFIED="1390007732184" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1515895779" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1566802559" MODIFIED="1390007732184" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_1981531018" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1389570744596" FOLDED="true" ID="ID_24439111" MODIFIED="1389608698283" TEXT="v-3.0.10">
+<icon BUILTIN="launch"/>
+<node CREATED="1389275851822" FOLDED="true" ID="ID_1470109912" MODIFIED="1390007732184" TEXT="Execute update when posting">
+<node CREATED="1389570754131" ID="ID_1036775033" MODIFIED="1389570783823" TEXT="=&gt; do in Task_PostData._exec_post(ShoppingItem si)"/>
+</node>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_308960027" MODIFIED="1390007732184" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1451611501" MODIFIED="1390007732184" TEXT="FILES">
+<node CREATED="1389576730200" FOLDED="true" ID="ID_1793964185" MODIFIED="1390007732184" TEXT="Task_PostData">
+<node CREATED="1389576744798" ID="ID_556629398" MODIFIED="1389576744798" TEXT="_doInBackground__3_CheckHTTPCodes(HttpResponse hr)"/>
+<node CREATED="1389576759034" ID="ID_1619497724" MODIFIED="1389576759034" TEXT="_doInBackground__4_PostData(HttpPost httpPost)"/>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_458500363" MODIFIED="1390007732185" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_741363706" MODIFIED="1390007732184" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_153745336" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_704972241" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1316117595" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1111133278" MODIFIED="1390007732184" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1031745658" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_975506969" MODIFIED="1390007732185" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_1031973254" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1389570902818" FOLDED="true" ID="ID_892984838" MODIFIED="1390007732188" TEXT="v-3.0.11">
+<icon BUILTIN="launch"/>
+<node CREATED="1389578623093" ID="ID_1390735842" MODIFIED="1389578636389" TEXT="Enter &quot;created_at&quot; a.o. to all the existing records"/>
+<node CREATED="1389608667331" FOLDED="true" ID="ID_1882394198" MODIFIED="1390007732186" TEXT="steps">
+<node CREATED="1363749230884" FOLDED="true" ID="ID_26724723" MODIFIED="1390007732186" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1291149894" MODIFIED="1390007732185" TEXT="FILES">
+<node CREATED="1389608831524" FOLDED="true" ID="ID_463048533" MODIFIED="1390007732185" TEXT="MainActv">
+<node CREATED="1389608835582" ID="ID_978976883" MODIFIED="1389608835582" TEXT="_debug_D_44_V_3_0_11_EnterCreatedAtData()"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1434325923" MODIFIED="1390007732187" TEXT="ADMIN">
+<node CREATED="1366440780757" FOLDED="true" ID="ID_46429981" MODIFIED="1390007732186" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1083049078" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1788798741" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1906505620" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" FOLDED="true" ID="ID_1608174689" MODIFIED="1390007732186" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1149961356" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" FOLDED="true" ID="ID_1222258964" MODIFIED="1390007732187" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_1616479508" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1389578617908" FOLDED="true" ID="ID_1696510353" MODIFIED="1390007732189" TEXT="v-3.0.12">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1389570917443" FOLDED="true" ID="ID_767935732" MODIFIED="1390007732188" TEXT="Retry">
+<node CREATED="1389570911443" ID="ID_744665484" MODIFIED="1389570916616" TEXT="post all data"/>
+</node>
+<node CREATED="1363749230884" FOLDED="true" ID="ID_1917583415" MODIFIED="1390007732189" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" FOLDED="true" ID="ID_1346518978" MODIFIED="1390007732188" TEXT="FILES">
+<node CREATED="1389747675258" ID="ID_382695013" MODIFIED="1389747675258" TEXT="DialogOnItemClickListener"/>
+<node CREATED="1389747699165" ID="ID_375379503" MODIFIED="1389747699165" TEXT="Task_PostData"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1388753999795" FOLDED="true" ID="ID_1863784348" MODIFIED="1390007738939" TEXT="D-45">
+<icon BUILTIN="idea"/>
+<node CREATED="1388754001751" ID="ID_1760007525" MODIFIED="1390007733524" TEXT="Post data">
+<node CREATED="1388754007463" ID="ID_1544086175" MODIFIED="1390007733537" TEXT="=&gt; &quot;BoughtItems&quot;">
+<node CREATED="1388754025203" ID="ID_1639493387" MODIFIED="1388754042210" TEXT="Data =&gt; id, date"/>
+<node CREATED="1388754064035" ID="ID_1740235029" MODIFIED="1388754108459" TEXT="=&gt; In Rails, store id and date ==&gt; show list using &quot;mobile_id&quot; to extract items data from &quot;items&quot; table"/>
+<node CREATED="1389188269567" ID="ID_211936507" MODIFIED="1390007733540" TEXT="=&gt; new model &quot;PurchaseHistory&quot;">
+<node CREATED="1389188290542" ID="ID_715333655" MODIFIED="1390007733541" TEXT="1">
+<node CREATED="1389188296159" ID="ID_1217418352" MODIFIED="1390007733542" TEXT="items:string">
+<node CREATED="1389188306447" ID="ID_107194443" MODIFIED="1389188311573" TEXT="=&gt; array of ids"/>
+</node>
+</node>
+<node CREATED="1389188293390" ID="ID_1936329257" MODIFIED="1390007733543" TEXT="2">
+<node CREATED="1389188313662" ID="ID_1734909943" MODIFIED="1389188315141" TEXT="date"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1389827538263" ID="ID_1363601035" MODIFIED="1390007733545" TEXT="v-1.0">
+<icon BUILTIN="launch"/>
+<node CREATED="1363749230884" ID="ID_1645908726" MODIFIED="1390007733546" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" ID="ID_82560651" MODIFIED="1390007733548" TEXT="FILES">
+<node CREATED="1389827688340" ID="ID_872917182" MODIFIED="1390007733549" TEXT="Task_PostData">
+<node CREATED="1389827861098" ID="ID_936238041" MODIFIED="1389827861098" TEXT="_doInBackground__PurHistory()"/>
+</node>
+<node CREATED="1389828766095" ID="ID_56629845" MODIFIED="1390007733551" TEXT="Methods_dlg">
+<node CREATED="1389828753233" ID="ID_120986592" MODIFIED="1389828767413" TEXT="dlg_tabActv_adminDb(Activity actv)"/>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" ID="ID_326738593" MODIFIED="1390007733554" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1366440780757" ID="ID_112596324" MODIFIED="1390007733555" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_43788200" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_1644749110" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1344848820" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" ID="ID_1955661739" MODIFIED="1390007733556" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_772877806" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" ID="ID_1319583327" MODIFIED="1390007733557" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_485392683" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1389838325922" ID="ID_1440860513" MODIFIED="1390007733559" TEXT="v-1.1">
+<icon BUILTIN="launch"/>
+<node CREATED="1389838330899" ID="ID_1085333615" MODIFIED="1389838334761" TEXT="Post history"/>
+<node CREATED="1389922155588" ID="ID_1103664257" MODIFIED="1390007733560" TEXT="v-1.1.0">
+<node CREATED="1389922158456" ID="ID_474370057" MODIFIED="1390007733561" TEXT="&quot;passwd_sl&quot;">
+<node CREATED="1389922163992" ID="ID_1102693461" MODIFIED="1389922167540" TEXT="=&gt; Refactor"/>
+</node>
+</node>
+</node>
+<node CREATED="1390005412594" ID="ID_1306155078" MODIFIED="1390007733564" TEXT="v-2.0">
+<icon BUILTIN="launch"/>
+<node CREATED="1390005415465" ID="ID_431156906" MODIFIED="1390005420829" TEXT="Post data in TabActv"/>
+<node CREATED="1390006718984" ID="ID_365164717" MODIFIED="1390007733567" TEXT="v-2.0.1">
+<node CREATED="1390006722569" ID="ID_1445445623" MODIFIED="1390006735357" TEXT="Post data =&gt; Store id --&gt; Real"/>
+<node CREATED="1363749230884" ID="ID_105682159" MODIFIED="1390007733568" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" ID="ID_274570403" MODIFIED="1390007733569" TEXT="FILES">
+<node CREATED="1390006187788" ID="ID_103591503" MODIFIED="1390007733570" TEXT="Task_PostData">
+<node CREATED="1390006203172" ID="ID_1911371374" MODIFIED="1390006203172" TEXT="_doInBackground__PurHistory()"/>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" ID="ID_1137087868" MODIFIED="1390007733576" TEXT="ADMIN">
+<node CREATED="1366440780757" ID="ID_887399971" MODIFIED="1390007733576" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1126276343" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_163826329" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_118533469" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" ID="ID_956015848" MODIFIED="1390007733577" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1678041139" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" ID="ID_1448103690" MODIFIED="1390007733578" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_213563335" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+<node CREATED="1390006976520" ID="ID_1497872526" MODIFIED="1390007733580" TEXT="v-2.0.2">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1363749230884" ID="ID_45157411" MODIFIED="1390007733581" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" ID="ID_313709090" MODIFIED="1390007733582" TEXT="FILES">
+<node CREATED="1390007001520" ID="ID_1143751596" MODIFIED="1390007733583" TEXT="Task_PostData">
+<node CREATED="1390006980647" ID="ID_1176240921" MODIFIED="1390006980647" TEXT="_doInBackground__getJSONBody_PurHistory_BuildItemIds()"/>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" ID="ID_1164533520" MODIFIED="1390007733587" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1366440780757" ID="ID_1459161560" MODIFIED="1390007733588" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1183646189" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_670384355" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_500588806" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" ID="ID_742771516" MODIFIED="1390007733589" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_22825417" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" ID="ID_1491883344" MODIFIED="1390007733590" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_221143785" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1389827563668" ID="ID_1785410735" MODIFIED="1390007733596" TEXT="Rails">
+<icon BUILTIN="idea"/>
+<node CREATED="1389827586196" ID="ID_438941292" MODIFIED="1390007733597" TEXT="1">
+<node CREATED="1389827569341" ID="ID_1201959885" MODIFIED="1390007733599" TEXT="new model">
+<node CREATED="1389827572974" ID="ID_1532247779" MODIFIED="1389827577705" TEXT="&quot;PurHistory&quot;"/>
+</node>
+</node>
+<node CREATED="1389827587412" ID="ID_1318990303" MODIFIED="1390007733600" TEXT="2">
+<node CREATED="1389827597092" ID="ID_1805133630" MODIFIED="1389827599689" TEXT="routes.rb"/>
+</node>
+<node CREATED="1389827588693" ID="ID_1295877081" MODIFIED="1390007733600" TEXT="3">
+<node CREATED="1389827605012" ID="ID_1234204970" MODIFIED="1390007733601" TEXT="controller">
+<node CREATED="1389827608287" ID="ID_1767875852" MODIFIED="1389827609945" TEXT="items"/>
+</node>
+</node>
+<node CREATED="1389827589588" ID="ID_1410498028" MODIFIED="1390007733602" TEXT="4">
+<node CREATED="1389827617812" ID="ID_1129856530" MODIFIED="1389827621465" TEXT="views"/>
+</node>
+<node CREATED="1389827590661" ID="ID_430265624" MODIFIED="1389827591033" TEXT="5"/>
+<node CREATED="1389827591287" ID="ID_1546701423" MODIFIED="1389827591625" TEXT="6"/>
+<node CREATED="1389827591877" ID="ID_527368724" MODIFIED="1389827592329" TEXT="7"/>
+</node>
+<node CREATED="1389827651972" ID="ID_802635188" MODIFIED="1389827653657" TEXT="And"/>
+</node>
+<node CREATED="1390007844889" ID="ID_1626412534" MODIFIED="1390819850305" TEXT="D-46-1">
+<icon BUILTIN="idea"/>
+<node CREATED="1390007852456" ID="ID_1905799306" MODIFIED="1390007854155" TEXT="RAILS">
+<node CREATED="1390007854584" ID="ID_1710540229" MODIFIED="1390007860584" TEXT="Show bought item names"/>
+</node>
+<node CREATED="1390007872968" ID="ID_78117374" MODIFIED="1390007876180" TEXT="v-1.0"/>
+</node>
+<node BACKGROUND_COLOR="#0033cc" COLOR="#ffffff" CREATED="1341456063578" ID="ID_329140597" MODIFIED="1390819858985" TEXT="N@">
+<cloud/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1363749220464" ID="ID_713570344" MODIFIED="1387350194469" TEXT="TEMPL">
+<node CREATED="1363749230884" ID="ID_1962550230" MODIFIED="1363749231960" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" ID="ID_498997248" MODIFIED="1364024186993" TEXT="CODES"/>
+</node>
+<node CREATED="1363749230884" ID="ID_1106010403" MODIFIED="1389570935358" TEXT="01">
+<node BACKGROUND_COLOR="#ccffff" CREATED="1363749232263" ID="ID_1983627507" MODIFIED="1378298338566" TEXT="FILES"/>
+</node>
+<node CREATED="1342048146168" ID="ID_3602034" MODIFIED="1390006743811" TEXT="ADMIN">
+<node CREATED="1366440780757" ID="ID_1106614762" MODIFIED="1367382029947" TEXT="TEST">
+<node CREATED="1367381931132" ID="ID_1695997891" MODIFIED="1367381934299" TEXT="LOCAL"/>
+</node>
+<node CREATED="1342230904781" ID="ID_126865950" MODIFIED="1366443609764" TEXT="COMMIT"/>
+<node CREATED="1342230908515" ID="ID_1257039070" MODIFIED="1366443609763" TEXT="MERGE"/>
+<node CREATED="1366440780757" ID="ID_649482764" MODIFIED="1386903906625" TEXT="TEST">
+<node CREATED="1366440784759" ID="ID_1519949066" MODIFIED="1366443609762" TEXT="01"/>
+</node>
+<node CREATED="1344491413546" ID="ID_1357377736" MODIFIED="1366443609763" TEXT="PUSH">
+<node CREATED="1344491415718" ID="ID_26443741" MODIFIED="1366443609763" TEXT="Origin"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1346298082453" ID="ID_300067238" MODIFIED="1346298084062" POSITION="left" TEXT="Links">
+<node CREATED="1341371385218" HGAP="16" ID="ID_505572937" LINK="../Activity_log.mm" MODIFIED="1361602523350" TEXT="UP" VSHIFT="-20"/>
+<node CREATED="1360572086982" ID="ID_1523935232" LINK="../Diary/Diary.mm" MODIFIED="1360572098537" TEXT="Diary"/>
+<node CREATED="1361602407412" ID="ID_445663492" LINK="Design.mm" MODIFIED="1361602449784" TEXT="Design"/>
+<node CREATED="1361602454196" ID="ID_883476695" LINK="Layouts.mm" MODIFIED="1361602460854" TEXT="Layout"/>
+<node CREATED="1361602471447" ID="ID_1522791651" LINK="SL_big_picture.mm" MODIFIED="1361602511629" TEXT="Big picture"/>
+</node>
+<node CREATED="1341233034937" FOLDED="true" HGAP="86" ID="ID_1494410536" LINK="Class.mm" MODIFIED="1363346864270" POSITION="left" TEXT="Class" VSHIFT="61">
+<node CREATED="1341233043546" FOLDED="true" HGAP="32" ID="ID_139854400" MODIFIED="1341293774765" TEXT="ShoppingItem.java" VSHIFT="-44">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341233049437" ID="ID_1283747708" MODIFIED="1341280593468" TEXT="store: String">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233059015" ID="ID_832785698" MODIFIED="1341280593468" TEXT="name: String">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233069906" ID="ID_1174760443" MODIFIED="1341280593468" TEXT="price: int">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341233098281" ID="ID_1391631543" MODIFIED="1341280593468" TEXT="genre: String">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341288332296" HGAP="131" ID="ID_1958721473" MODIFIED="1341288604500" TEXT="ShoppingListActivity.java" VSHIFT="-56">
+<arrowlink COLOR="#0000ff" DESTINATION="ID_157304758" ENDARROW="Default" ENDINCLINATION="112;11;" ID="Arrow_ID_1248925862" STARTARROW="None" STARTINCLINATION="267;21;"/>
+<arrowlink COLOR="#0000ff" DESTINATION="ID_1448142878" ENDARROW="Default" ENDINCLINATION="-14;-24;" ID="Arrow_ID_566623162" STARTARROW="None" STARTINCLINATION="-181;-125;"/>
+</node>
+<node CREATED="1341288349140" HGAP="216" ID="ID_157304758" MODIFIED="1341288554921" TEXT="RegisterItem.java" VSHIFT="19"/>
+<node CREATED="1341288366250" HGAP="208" ID="ID_1448142878" MODIFIED="1341288651296" TEXT="ItemList.java" VSHIFT="55">
+<arrowlink COLOR="#006666" DESTINATION="ID_191431348" ENDARROW="Default" ENDINCLINATION="237;76;" ID="Arrow_ID_905078032" STARTARROW="None" STARTINCLINATION="249;85;"/>
+</node>
+<node CREATED="1341288375906" HGAP="122" ID="ID_191431348" MODIFIED="1341288652937" TEXT="ItemListAdapter.java" VSHIFT="106"/>
+</node>
+<node CREATED="1341266758796" FOLDED="true" HGAP="93" ID="ID_382747077" MODIFIED="1387350137023" POSITION="left" TEXT="Symbols" VSHIFT="89">
+<node CREATED="1341266770531" ID="ID_608200333" MODIFIED="1341266774765" TEXT="">
+<icon BUILTIN="licq"/>
+<node CREATED="1341266776765" ID="ID_615128970" MODIFIED="1341266783328" TEXT="Skipped"/>
+</node>
+<node BACKGROUND_COLOR="#0000ff" COLOR="#ffffff" CREATED="1341288397203" ID="ID_1035398196" MODIFIED="1341288511218" TEXT=" A ---&gt; B">
+<node CREATED="1341288516859" ID="ID_834162431" MODIFIED="1341288520203" TEXT="A intents B"/>
+</node>
+<node BACKGROUND_COLOR="#006633" COLOR="#ffffff" CREATED="1341288618515" ID="ID_1935223979" MODIFIED="1341288678640" TEXT="A ---&gt; B">
+<node CREATED="1341288682406" ID="ID_351512125" MODIFIED="1341288692125" TEXT="A uses an instance of B"/>
+</node>
+<node CREATED="1341289141390" ID="ID_1531486498" MODIFIED="1341289144671" TEXT="">
+<icon BUILTIN="clanbomber"/>
+<node CREATED="1341289146359" ID="ID_1295854720" MODIFIED="1341289151593" TEXT="Started; Not finished"/>
+</node>
+<node BACKGROUND_COLOR="#9900cc" COLOR="#ffffff" CREATED="1341288618515" ID="ID_278147520" MODIFIED="1341390812375" TEXT="A ---&gt; B">
+<node CREATED="1341288682406" ID="ID_1209213387" MODIFIED="1341390822312" TEXT="A is a sequence of B"/>
+</node>
+<node BACKGROUND_COLOR="#00ffff" COLOR="#ffffff" CREATED="1341288618515" ID="ID_155825218" MODIFIED="1341392155296" TEXT="A ---&gt; B">
+<arrowlink DESTINATION="ID_155825218" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_310589246" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1341288682406" ID="ID_448322535" MODIFIED="1341392173703" TEXT="A is dependent on B"/>
+</node>
+<node BACKGROUND_COLOR="#cccc00" COLOR="#ffffff" CREATED="1341288618515" ID="ID_1532156852" MODIFIED="1341454374937" TEXT="A ---&gt; B">
+<arrowlink DESTINATION="ID_1532156852" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_268611592" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1341288682406" ID="ID_1363606113" MODIFIED="1341454415703" TEXT="A is explained in B"/>
+</node>
+<node CREATED="1360565675890" ID="ID_723855706" MODIFIED="1360565682905" TEXT="MERGE">
+<icon BUILTIN="gohome"/>
+</node>
+</node>
+<node CREATED="1341394771234" ID="ID_1516838665" MODIFIED="1341394775265" POSITION="left" TEXT="Constants">
+<node CREATED="1341394777156" ID="ID_1619928634" MODIFIED="1341394779375" TEXT="ADMIN"/>
+<node CREATED="1341394779609" ID="ID_1654578770" MODIFIED="1341394782421" TEXT="COMMIT"/>
+</node>
+<node CREATED="1341234260890" HGAP="148" ID="ID_724786543" LINK="Layouts.mm" MODIFIED="1341388934453" POSITION="left" TEXT="Layouts" VSHIFT="73"/>
+<node CREATED="1341235831843" FOLDED="true" HGAP="155" ID="ID_641072096" MODIFIED="1341388936765" POSITION="left" TEXT="Strings" VSHIFT="-23">
+<node CREATED="1341235840593" FOLDED="true" ID="ID_1360730083" MODIFIED="1341266756125" TEXT="item1">
+<node CREATED="1341235847875" FOLDED="true" ID="ID_1925458475" MODIFIED="1341266756125" TEXT="name">
+<node CREATED="1341235868234" ID="ID_769203397" MODIFIED="1341235869000" TEXT="v1_tv_item"/>
+</node>
+<node CREATED="1341235849078" FOLDED="true" ID="ID_1758630450" MODIFIED="1341266756125" TEXT="value">
+<node CREATED="1341235870734" ID="ID_36923723" MODIFIED="1341235880687" TEXT="&#x54c1;&#x540d;"/>
+</node>
+</node>
+</node>
+<node CREATED="1341561981218" HGAP="109" ID="ID_1723255631" MODIFIED="1387350143893" POSITION="right" TEXT="TODO" VSHIFT="57">
+<node CREATED="1342068808078" ID="ID_1515670750" MODIFIED="1389188356264" TEXT="COPIED">
+<node CREATED="1388111120746" FOLDED="true" ID="ID_1888016724" MODIFIED="1388111165667" TEXT="STORAGE">
+<node CREATED="1341562001703" FOLDED="true" ID="ID_1418537642" MODIFIED="1361599069174" TEXT="D1">
+<node CREATED="1341562005640" FOLDED="true" ID="ID_486278968" MODIFIED="1361599069174" TEXT="ADD">
+<node CREATED="1341562018593" FOLDED="true" ID="ID_1502251207" MODIFIED="1361599069173" TEXT="New activity">
+<node CREATED="1341562009500" ID="ID_1475633368" MODIFIED="1341562030250" TEXT="=&gt; &quot;&#x30b8;&#x30e3;&#x30f3;&#x30eb;&#x767b;&#x9332;&quot;">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341617148812" FOLDED="true" ID="ID_1646974871" MODIFIED="1361599069175" TEXT="D2">
+<node CREATED="1341703208375" FOLDED="true" ID="ID_573460097" MODIFIED="1361599069174" TEXT="F2">
+<node CREATED="1341703213031" FOLDED="true" ID="ID_177937114" MODIFIED="1361599069174" TEXT="Click item">
+<node CREATED="1341703220515" ID="ID_329980110" MODIFIED="1341703234031" TEXT="=&gt; Registered to &quot;To buy list&quot;"/>
+</node>
+</node>
+</node>
+<node CREATED="1341703315234" FOLDED="true" ID="ID_1518885886" MODIFIED="1361599069175" TEXT="D3">
+<node CREATED="1341617152671" FOLDED="true" ID="ID_702607569" MODIFIED="1361599069175" TEXT="Item list">
+<node CREATED="1341617157093" ID="ID_1052082110" MODIFIED="1341617160890" TEXT="=&gt; Filter"/>
+</node>
+</node>
+<node CREATED="1342068766328" FOLDED="true" ID="ID_1661234135" MODIFIED="1361599069176" TEXT="D4">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342791292718" FOLDED="true" ID="ID_797286878" MODIFIED="1361599069175" TEXT="Add column">
+<node CREATED="1342791296578" FOLDED="true" ID="ID_235796339" MODIFIED="1361599069175" TEXT="&#x54c1;&#x7269;">
+<node CREATED="1342791307046" ID="ID_769378573" MODIFIED="1342791313828" TEXT="&#x300c;&#x3088;&#x307f;&#x300d;"/>
+</node>
+</node>
+</node>
+<node CREATED="1342068829859" FOLDED="true" ID="ID_1079480858" MODIFIED="1361599069178" TEXT="D5">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342068768484" FOLDED="true" ID="ID_963053525" MODIFIED="1361599069176" TEXT="ShoppingList.java">
+<node CREATED="1342068779328" FOLDED="true" ID="ID_1540618299" MODIFIED="1361599069176" TEXT="ADD">
+<node CREATED="1342068782187" FOLDED="true" ID="ID_538357163" MODIFIED="1361599069176" TEXT="Layout">
+<node CREATED="1342068787484" ID="ID_509732034" MODIFIED="1342068793250" TEXT="main.xml"/>
+</node>
+</node>
+</node>
+<node CREATED="1342791149828" FOLDED="true" ID="ID_1649496073" MODIFIED="1361599069178" TEXT="T-1">
+<node CREATED="1342791153562" FOLDED="true" ID="ID_269673837" MODIFIED="1361599069178" TEXT="Main view">
+<node CREATED="1342068768484" FOLDED="true" ID="ID_349819286" MODIFIED="1361599069177" TEXT="ShoppingList.java">
+<node CREATED="1342068779328" FOLDED="true" ID="ID_697704293" MODIFIED="1361599069177" TEXT="ADD">
+<node CREATED="1342068782187" FOLDED="true" ID="ID_173601800" MODIFIED="1361599069177" TEXT="Layout">
+<node CREATED="1342068787484" FOLDED="true" ID="ID_260200440" MODIFIED="1361599069177" TEXT="main.xml">
+<node CREATED="1342791165093" ID="ID_323673470" MODIFIED="1342791173578" TEXT="&#x767b;&#x9332;"/>
+<node CREATED="1342791177109" ID="ID_1619958868" MODIFIED="1342791180656" TEXT="&#x30c7;&#x30fc;&#x30bf;&#x30d9;&#x30fc;&#x30b9;"/>
+<node CREATED="1342791186687" ID="ID_546638107" MODIFIED="1342791191093" TEXT="&#x54c1;&#x7269;&#x30ea;&#x30b9;&#x30c8;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1342791264781" FOLDED="true" ID="ID_889646594" MODIFIED="1361599069179" TEXT="D6">
+<node CREATED="1342870804234" FOLDED="true" ID="ID_1961703323" MODIFIED="1361599069178" TEXT="Create">
+<node CREATED="1342870809156" ID="ID_906322454" MODIFIED="1342870816328" TEXT="&quot;ToBuy&quot; list"/>
+</node>
+</node>
+<node CREATED="1346296950906" FOLDED="true" ID="ID_399018920" MODIFIED="1361599069179" TEXT="D-8">
+<node CREATED="1352345349105" ID="ID_1411636602" MODIFIED="1352345366411" TEXT="Restore db(Install the app from Mouse Computer machine"/>
+</node>
+<node CREATED="1346296950906" FOLDED="true" ID="ID_1343366358" MODIFIED="1361599069179" TEXT="D-7">
+<node CREATED="1342870809156" FOLDED="true" ID="ID_74070277" MODIFIED="1361599069179" TEXT="&quot;ToBuy&quot; list">
+<node CREATED="1346297039593" ID="ID_1296067495" MODIFIED="1346297054312" TEXT="=&gt; Show in an individual list"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_487640686" MODIFIED="1361599069180" TEXT="D-9">
+<node CREATED="1360401079975" FOLDED="true" ID="ID_843042610" MODIFIED="1361599069180" TEXT="Refactor">
+<node CREATED="1360401084888" ID="ID_1994111023" MODIFIED="1360401088341" TEXT="Packages"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_307994421" MODIFIED="1361599069180" TEXT="D-10">
+<node CREATED="1360561619826" FOLDED="true" ID="ID_1301483688" MODIFIED="1361599069180" TEXT="Redesign">
+<node CREATED="1360561623972" ID="ID_20084468" MODIFIED="1360561631056" TEXT="SLActv =&gt; MainActv"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1063355203" MODIFIED="1361599069181" TEXT="D-11">
+<node CREATED="1360564334213" FOLDED="true" ID="ID_1556275345" MODIFIED="1361599069181" TEXT="Refactor">
+<node CREATED="1360564339354" FOLDED="true" ID="ID_487612103" MODIFIED="1361599069181" TEXT="MainActv">
+<node CREATED="1360564342546" FOLDED="true" ID="ID_956146299" MODIFIED="1361599069180" TEXT="Option menues">
+<node CREATED="1360564346969" ID="ID_616213067" MODIFIED="1360564355096" TEXT="Delete some"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1072355253" MODIFIED="1388111168347" TEXT="D-12">
+<node CREATED="1360565758022" FOLDED="true" ID="ID_532094304" MODIFIED="1361599069182" TEXT="DBAdmin">
+<node CREATED="1360565763628" FOLDED="true" ID="ID_158998696" MODIFIED="1361599069181" TEXT="Add">
+<node CREATED="1360565765313" ID="ID_953036628" MODIFIED="1360565768328" TEXT="BackupDB"/>
+<node CREATED="1360565768555" ID="ID_726382518" MODIFIED="1360565771987" TEXT="RestoreDB"/>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1204595522" MODIFIED="1361599069183" TEXT="D-13">
+<node CREATED="1360572027618" FOLDED="true" ID="ID_545839867" MODIFIED="1361599069182" TEXT="Edit db file">
+<node CREATED="1360572035078" FOLDED="true" ID="ID_1462729189" MODIFIED="1361599069182" TEXT="Refactor each datum">
+<node CREATED="1360572052486" ID="ID_1924611354" MODIFIED="1360572062880" TEXT="=&gt; Each data to appropriate column"/>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1742235390" MODIFIED="1361599069183" TEXT="D-14">
+<node CREATED="1360727477176" ID="ID_423036421" MODIFIED="1360727486312" TEXT="Get &quot;yomi&quot; data by Yahoo API"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1722932422" MODIFIED="1387350191465" TEXT="D-16">
+<node CREATED="1361600851379" FOLDED="true" ID="ID_899896727" MODIFIED="1387350191465" TEXT="Change UI">
+<node CREATED="1361600856124" FOLDED="true" ID="ID_1860715813" MODIFIED="1387350191464" TEXT="ItemListActv">
+<node CREATED="1361600860191" ID="ID_1052010799" MODIFIED="1361600876838" TEXT="Delete the button &quot;&#x898b;&#x308b;&quot;"/>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1626341637" MODIFIED="1387350191465" TEXT="D-15">
+<node CREATED="1361599002527" FOLDED="true" ID="ID_1321769183" MODIFIED="1387350191465" TEXT="MISC">
+<node CREATED="1361599004637" ID="ID_1342214460" MODIFIED="1361599023708" TEXT="Set the title of each activity to the name of the class"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1478191472" MODIFIED="1387350191466" TEXT="D-17">
+<node CREATED="1361601254381" ID="ID_265887316" MODIFIED="1361601273859" TEXT="Button &quot;&#x78ba;&#x5b9a;&quot; =&gt; Show only the chosen item"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1507989913" MODIFIED="1387350191466" TEXT="D-18">
+<node CREATED="1361600926338" FOLDED="true" ID="ID_401659027" MODIFIED="1387350191466" TEXT="B19_change_ui_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1361602935213" ID="ID_1492023103" MODIFIED="1361602938150" TEXT="v-2.0"/>
+</node>
+<node CREATED="1361602939982" FOLDED="true" ID="ID_1814185370" MODIFIED="1387350191466" TEXT="Sort list">
+<node CREATED="1361602944552" ID="ID_861087198" MODIFIED="1361602949671" TEXT="=&gt; yomi"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_588076459" MODIFIED="1387350191467" TEXT="D-20">
+<node CREATED="1361670886781" ID="ID_225799605" MODIFIED="1361670900279" TEXT="Use tab to show the lists"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1789049723" MODIFIED="1387350191467" TEXT="D-21">
+<node CREATED="1362016070207" ID="ID_1649183834" MODIFIED="1362016075036" TEXT="Filter the item list"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_690207528" MODIFIED="1387350191468" TEXT="D-23">
+<node CREATED="1362116090381" FOLDED="true" ID="ID_373853231" MODIFIED="1387350191467" TEXT="FIX">
+<node CREATED="1362116092183" FOLDED="true" ID="ID_1929240535" MODIFIED="1387350191467" TEXT="Choice &quot;&#x30ad;&#x30e3;&#x30f3;&#x30fb;&#x30c9;&#x30a6; + &#x6587;&#x623f;&#x5177;&quot;">
+<node CREATED="1362116112715" ID="ID_1393124174" MODIFIED="1362116115715" TEXT="=&gt; No item shown"/>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_550964770" MODIFIED="1387350191468" TEXT="D-24">
+<node CREATED="1362111879908" ID="ID_56317543" MODIFIED="1362111890147" TEXT="Delete items from the toBuyList"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_808975279" MODIFIED="1387350191468" TEXT="D-26">
+<node CREATED="1361605643923" ID="ID_1025001783" MODIFIED="1361605664746" TEXT="B21_Save_list_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_406356454" MODIFIED="1387350191468" TEXT="D-27">
+<node CREATED="1361600926338" ID="ID_944055574" MODIFIED="1362892151161" TEXT="B19_change_ui_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362892133736" FOLDED="true" ID="ID_96940479" MODIFIED="1387350191468" TEXT="Item list">
+<node CREATED="1362892136884" ID="ID_1990956051" MODIFIED="1362892145072" TEXT="Clear checked item list"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1571128237" MODIFIED="1387350191469" TEXT="D-25">
+<node CREATED="1361600926338" ID="ID_734750277" MODIFIED="1362276750381" TEXT="B19_change_ui_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362276753846" FOLDED="true" ID="ID_1773360314" MODIFIED="1387350191469" TEXT="Item in toBuyList">
+<node CREATED="1362276765749" ID="ID_1644349986" MODIFIED="1362276804285" TEXT="=&gt; In the item tab, when clicked, the item doesn&apos;t get removed from checkedPositions"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_281684452" MODIFIED="1387350191470" TEXT="D-28">
+<node CREATED="1362116206086" ID="ID_1893326409" MODIFIED="1362900234287" TEXT="B25_FIX_TabActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362900160903" FOLDED="true" ID="ID_286222531" MODIFIED="1387350191470" TEXT="FIX">
+<node CREATED="1362900164991" FOLDED="true" ID="ID_751886033" MODIFIED="1387350191469" TEXT="to-buy list">
+<node CREATED="1362900170267" FOLDED="true" ID="ID_751012245" MODIFIED="1387350191469" TEXT="=&gt; Click one item">
+<node CREATED="1362900178570" ID="ID_591492037" MODIFIED="1362900190599" TEXT="=&gt; Every item goes blue"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_582659991" MODIFIED="1387350191470" TEXT="D-29">
+<node CREATED="1361605643923" ID="ID_1496919941" MODIFIED="1361605664746" TEXT="B21_Save_list_ItemListActv">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362902409249" ID="ID_259532577" MODIFIED="1362902442655" TEXT="When the schedule already exists in db, show confirmatin dialog">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_217673708" MODIFIED="1387350191470" TEXT="D-19">
+<node CREATED="1361605607508" ID="ID_453813318" MODIFIED="1361605615784" TEXT="Save list in ItemListActv"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_53389189" MODIFIED="1387350191471" TEXT="D-31">
+<node CREATED="1362902564589" ID="ID_990848031" MODIFIED="1362902598626" TEXT="B26_tabactv_clear_selections">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1362902535887" FOLDED="true" ID="ID_976883774" MODIFIED="1387350191471" TEXT="TabActv">
+<node CREATED="1362902539962" FOLDED="true" ID="ID_647619803" MODIFIED="1387350191471" TEXT="Clear selections">
+<node CREATED="1362902544207" ID="ID_183900958" MODIFIED="1362902550464" TEXT="=&gt; Add &quot;All&quot; option"/>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1522325860" MODIFIED="1387350191472" TEXT="D-30">
+<node COLOR="#ff3333" CREATED="1362944738917" FOLDED="true" ID="ID_1534192111" MODIFIED="1387350191472" TEXT="PROBLEM">
+<node CREATED="1362944742475" FOLDED="true" ID="ID_666749915" MODIFIED="1387350191472" TEXT="Load list">
+<node CREATED="1362944748450" FOLDED="true" ID="ID_1335314708" MODIFIED="1387350191472" TEXT="=&gt; Then, choose item, add to basket">
+<node CREATED="1362944764002" ID="ID_1772748454" MODIFIED="1362944771998" TEXT="=&gt; Loaded items get removed"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_808755779" MODIFIED="1387350191472" TEXT="D-35">
+<node CREATED="1363299943834" ID="ID_839140663" MODIFIED="1363305349520" TEXT="B30-2_change_ui_to-buy-tab_store_name">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1838106279" MODIFIED="1387350191473" TEXT="D-34">
+<node CREATED="1363299943834" ID="ID_1196048327" MODIFIED="1363300086379" TEXT="B30_change_ui_to-buy-tab_sum"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_516180588" MODIFIED="1387350191473" TEXT="D-33">
+<node CREATED="1363267799160" ID="ID_1449363004" MODIFIED="1363267800951" TEXT="B29_make_items_editable">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1902569358" MODIFIED="1387350191473" TEXT="D-32">
+<node CREATED="1363077453252" FOLDED="true" ID="ID_536025758" MODIFIED="1387350191473" TEXT="Delete schedule item from db">
+<node CREATED="1363077462306" ID="ID_1424970501" MODIFIED="1363077485101" TEXT="=&gt; Let&apos;s add another option in &quot;Admin db&quot; dialog in tab 2"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1833075430" MODIFIED="1387350191474" TEXT="D-36">
+<node CREATED="1363476507130" FOLDED="true" ID="ID_1822731948" MODIFIED="1387350191473" TEXT="Filtering">
+<node CREATED="1363476511424" ID="ID_686690065" MODIFIED="1363476520568" TEXT="=&gt; Use &quot;Selection changed&quot; listener"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_685047976" MODIFIED="1387350191477" TEXT="D-37">
+<node CREATED="1366026821303" FOLDED="true" ID="ID_1180450386" MODIFIED="1387350191477" TEXT="NEW">
+<node CREATED="1366026827727" FOLDED="true" ID="ID_60387008" MODIFIED="1387350191474" TEXT="feature">
+<node CREATED="1366026830827" ID="ID_1436871262" MODIFIED="1366026832833" TEXT="Sort list"/>
+</node>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1743018177" MODIFIED="1387350191477" TEXT="D-38">
+<node CREATED="1366080507116" ID="ID_66586" MODIFIED="1366080527551" TEXT="Upload db file to remote; Download a db file , then restore db"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1745623275" MODIFIED="1387350191477" TEXT="D-39">
+<node CREATED="1363080978550" ID="ID_1585120686" MODIFIED="1369535150405" TEXT="B26_FIX-3_load-to-buy-list_sorting">
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_1474261932" MODIFIED="1387350191478" TEXT="D-40">
+<node CREATED="1369574065891" ID="ID_1123082535" MODIFIED="1369574078791" TEXT="Save to-buy list"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_148363578" MODIFIED="1387350191478" TEXT="D-41">
+<node CREATED="1378298001147" ID="ID_562605990" MODIFIED="1378298014472" TEXT="Delete item"/>
+</node>
+<node CREATED="1352349012608" FOLDED="true" ID="ID_869704483" MODIFIED="1387350191478" TEXT="D-42">
+<node CREATED="1387350162935" ID="ID_708251916" MODIFIED="1387350186279" TEXT="Re-establish device-desktop relation"/>
+</node>
+<node CREATED="1388111083818" FOLDED="true" ID="ID_1711266494" MODIFIED="1388111168348" TEXT="D-43-1">
+<node CREATED="1388111085121" ID="ID_40654887" MODIFIED="1388111089627" TEXT="Remote server"/>
+</node>
+<node CREATED="1388360051893" ID="ID_1342103390" MODIFIED="1388360053397" TEXT="D-44">
+<node CREATED="1388360054324" ID="ID_55105598" MODIFIED="1388360066663" TEXT="Post data to remote server"/>
+</node>
+</node>
+<node CREATED="1388753999795" ID="ID_1619451126" MODIFIED="1389188355468" TEXT="D-45">
+<node CREATED="1388754001751" ID="ID_594700689" MODIFIED="1388754007462" TEXT="Post data">
+<node CREATED="1388754007463" ID="ID_342968863" MODIFIED="1388754017123" TEXT="=&gt; &quot;BoughtItems&quot;">
+<node CREATED="1388754025203" ID="ID_514275274" MODIFIED="1388754042210" TEXT="Data =&gt; id, date"/>
+<node CREATED="1388754064035" ID="ID_1175186236" MODIFIED="1388754108459" TEXT="=&gt; In Rails, store id and date ==&gt; show list using &quot;mobile_id&quot; to extract items data from &quot;items&quot; table"/>
+<node CREATED="1389188269567" ID="ID_23494530" MODIFIED="1389188279060" TEXT="=&gt; new model &quot;PurchaseHistory&quot;">
+<node CREATED="1389188290542" ID="ID_1117864048" MODIFIED="1389188293134" TEXT="1">
+<node CREATED="1389188296159" ID="ID_665995980" MODIFIED="1389188305988" TEXT="items:string">
+<node CREATED="1389188306447" ID="ID_769931995" MODIFIED="1389188311573" TEXT="=&gt; array of ids"/>
+</node>
+</node>
+<node CREATED="1389188293390" ID="ID_301465326" MODIFIED="1389188293989" TEXT="2">
+<node CREATED="1389188313662" ID="ID_1116364920" MODIFIED="1389188315141" TEXT="date"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1390007844889" ID="ID_1649971246" MODIFIED="1390007864854" TEXT="D-46-1">
+<node CREATED="1390007852456" ID="ID_1166722896" MODIFIED="1390007854155" TEXT="RAILS">
+<node CREATED="1390007854584" ID="ID_1982022034" MODIFIED="1390007860584" TEXT="Show bought item names"/>
+</node>
+</node>
+</node>
+<node CREATED="1342791266234" ID="ID_218158081" MODIFIED="1362279748809" TEXT="D-">
+<node CREATED="1342068831937" ID="ID_67053862" MODIFIED="1342068837875" TEXT="Sort item list">
+<node CREATED="1342068838906" ID="ID_1693974930" MODIFIED="1342068842046" TEXT="Set up">
+<node CREATED="1342068842531" ID="ID_1167462120" MODIFIED="1342068845546" TEXT="Yahoo API"/>
+</node>
+<node CREATED="1342068850437" ID="ID_400095673" MODIFIED="1342068852125" TEXT="Coding"/>
+</node>
+</node>
+<node CREATED="1346296950906" ID="ID_1100470121" MODIFIED="1352349148160" TEXT="D-7-2">
+<node CREATED="1352349068144" ID="ID_690148231" MODIFIED="1352349082913" TEXT="Show &quot;ToBuy&quot; list in a different activity"/>
+</node>
+<node CREATED="1342795129000" FOLDED="true" ID="ID_561921751" MODIFIED="1362892125856" TEXT="Ts">
+<node CREATED="1342791149828" ID="ID_896910897" MODIFIED="1342791152703" TEXT="T-1">
+<node CREATED="1342791153562" ID="ID_991461849" MODIFIED="1342791164656" TEXT="Main view">
+<node CREATED="1342791165093" ID="ID_1088718183" MODIFIED="1342791173578" TEXT="&#x767b;&#x9332;"/>
+<node CREATED="1342791177109" ID="ID_321652537" MODIFIED="1342791180656" TEXT="&#x30c7;&#x30fc;&#x30bf;&#x30d9;&#x30fc;&#x30b9;"/>
+<node CREATED="1342791186687" ID="ID_369672327" MODIFIED="1342791191093" TEXT="&#x54c1;&#x7269;&#x30ea;&#x30b9;&#x30c8;"/>
+</node>
+</node>
+<node CREATED="1342795110921" ID="ID_1197726776" MODIFIED="1342795113250" TEXT="T-2">
+<node CREATED="1342795114421" ID="ID_19413936" MODIFIED="1342795118656" TEXT="Register item">
+<node CREATED="1342795119109" ID="ID_131598931" MODIFIED="1342795125859" TEXT="Is unique?"/>
+</node>
+</node>
+<node CREATED="1342873235640" ID="ID_1445205144" MODIFIED="1342873237328" TEXT="T-3">
+<node CREATED="1342873238125" ID="ID_466734229" MODIFIED="1342873248156" TEXT="Main &#x753b;&#x9762;&#x3067;Back key">
+<node CREATED="1342873248734" ID="ID_1631453121" MODIFIED="1342873254125" TEXT="=&gt; Confirm quit"/>
+</node>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_606429498" MODIFIED="1369535174340" TEXT="ADMIN">
+<node CREATED="1342048148778" ID="ID_246785231" MODIFIED="1342057299515" TEXT="COMMIT">
+<attribute_layout NAME_WIDTH="122"/>
+<attribute NAME="Branch" VALUE=""/>
+<attribute NAME="Version" VALUE=""/>
+</node>
+<node CREATED="1342048239673" ID="ID_17849785" MODIFIED="1342048243329" TEXT="C/O">
+<node CREATED="1342048243704" ID="ID_974062523" MODIFIED="1342048245064" TEXT="master"/>
+</node>
+<node CREATED="1342048246892" ID="ID_1205309501" MODIFIED="1342048248486" TEXT="MERGE"/>
+<node CREATED="1342048255299" ID="ID_295934863" MODIFIED="1342048257080" TEXT="TIME"/>
+</node>
+<node CREATED="1352349012608" ID="ID_913108613" MODIFIED="1360565755734" TEXT="D-">
+<node CREATED="1363488508251" ID="ID_135772415" MODIFIED="1363488518245" TEXT="Export data to calendar"/>
+</node>
+<node CREATED="1352349012608" ID="ID_1375415919" MODIFIED="1390007843724" TEXT="D-">
+<node CREATED="1364985045579" ID="ID_1731477094" MODIFIED="1364985053232" TEXT="NEW feature">
+<node CREATED="1364985053985" ID="ID_672024254" MODIFIED="1364985099882" TEXT="Add column &quot;cycle&quot;(String) to item_list table"/>
+<node CREATED="1392045284791" ID="ID_1215370230" MODIFIED="1392045309064" TEXT="=&gt; first, create a new table &quot;bought_items&quot;"/>
+<node CREATED="1392118871641" ID="ID_654693767" MODIFIED="1392118888667" TEXT="=&gt; &quot;2w1&quot; ~~&gt; &quot;Once in 2 weeks&quot;"/>
+</node>
+</node>
+<node CREATED="1390054928836" ID="ID_1928793565" MODIFIED="1390054930518" TEXT="D-">
+<node CREATED="1390054932131" ID="ID_356335298" MODIFIED="1390054936024" TEXT="ADD">
+<node CREATED="1390054936024" ID="ID_256394603" MODIFIED="1390054938290" TEXT="FEATURE">
+<node CREATED="1390054938643" ID="ID_1885203982" MODIFIED="1390054952118" TEXT="Number of items in the to-buy list"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ccff99" CREATED="1341452575484" FOLDED="true" HGAP="45" ID="ID_1778975549" MODIFIED="1378297894857" POSITION="left" TEXT="Sequences" VSHIFT="143">
+<arrowlink DESTINATION="ID_1778975549" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1482291289" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<icon BUILTIN="list"/>
+<node CREATED="1341452582203" FOLDED="true" ID="ID_1635739220" MODIFIED="1342049593980" TEXT="Register store name">
+<cloud/>
+<node CREATED="1341452588859" FOLDED="true" HGAP="32" ID="ID_1674363151" MODIFIED="1378297894840" TEXT="DialogButtonOnClickListener.java" VSHIFT="60">
+<icon BUILTIN="full-1"/>
+<node CREATED="1341452680359" FOLDED="true" ID="ID_443427627" MODIFIED="1378297894840" TEXT="case">
+<node CREATED="1341452662593" ID="ID_460832566" MODIFIED="1341452837093" TEXT="=&gt; dlg_register_store_ok"/>
+</node>
+</node>
+<node CREATED="1341452701984" FOLDED="true" HGAP="31" ID="ID_460274042" MODIFIED="1378297894840" TEXT="Methods.insertStoreName()" VSHIFT="35">
+<icon BUILTIN="full-2"/>
+<node CREATED="1341454084234" FOLDED="true" ID="ID_1303788519" MODIFIED="1378297894840" TEXT="If table doesn&apos;t exist">
+<node CREATED="1341454101828" ID="ID_1440600428" MODIFIED="1341454107500" TEXT="=&gt; DBManager.createTable_generic()"/>
+</node>
+</node>
+<node CREATED="1341452749515" HGAP="32" ID="ID_226488958" MODIFIED="1341452851515" TEXT="Methods.dlg_reconfirm_store_name()" VSHIFT="36">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1341452781687" HGAP="46" ID="ID_742383121" MODIFIED="1341452849875" TEXT="dlg_reconfirm_store_name.xml" VSHIFT="29">
+<icon BUILTIN="full-4"/>
+</node>
+<node CREATED="1341452588859" FOLDED="true" HGAP="45" ID="ID_1033325820" MODIFIED="1378297894840" TEXT="DialogButtonOnClickListener.java" VSHIFT="35">
+<icon BUILTIN="full-5"/>
+<node CREATED="1341452680359" FOLDED="true" ID="ID_1433441019" MODIFIED="1378297894840" TEXT="case">
+<node CREATED="1341452662593" ID="ID_724980032" MODIFIED="1341452907968" TEXT="=&gt; dlg_reconfirm_store_name_btn_yes"/>
+</node>
+</node>
+<node CREATED="1341452923828" HGAP="45" ID="ID_656969097" MODIFIED="1341452939093" TEXT="Methods.insertStoreName_final()" VSHIFT="39">
+<icon BUILTIN="full-6"/>
+</node>
+</node>
+<node CREATED="1341613563234" FOLDED="true" ID="ID_1096489873" MODIFIED="1342068865203" TEXT="Register genre name">
+<cloud/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613620359" FOLDED="true" ID="ID_649659833" MODIFIED="1378297894840" TEXT="ShoppingListActivity.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613608546" ID="ID_746950081" MODIFIED="1341613982671" TEXT="onOptionsItemSelected()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341613643687" FOLDED="true" ID="ID_1957656530" MODIFIED="1378297894840" TEXT="Methods.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613647843" ID="ID_1453084113" MODIFIED="1341613982671" TEXT="registerGenre()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341613673968" FOLDED="true" ID="ID_266860514" MODIFIED="1378297894840" TEXT="Dialog">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613677796" FOLDED="true" ID="ID_1392383091" MODIFIED="1378297894840" TEXT="dlg_register_genre.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613713328" ID="ID_316024954" MODIFIED="1341613982671" TEXT="&#x767b;&#x9332;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341613693187" FOLDED="true" ID="ID_1845972810" MODIFIED="1378297894840" TEXT="DialogButtonOnClickListener.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613731656" ID="ID_1301298512" MODIFIED="1341613982671" TEXT="case: dlg_register_genre_register">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341613643687" FOLDED="true" ID="ID_305077828" MODIFIED="1378297894841" TEXT="Methods.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613751906" ID="ID_805900979" MODIFIED="1341613982671" TEXT="dlg_reconfirm_genre_name()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341613786171" FOLDED="true" ID="ID_1744776009" MODIFIED="1378297894841" TEXT="Dialog">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613795312" FOLDED="true" ID="ID_1561960190" MODIFIED="1378297894841" TEXT="dlg_reconfirm_genre_name.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613814718" ID="ID_648278645" MODIFIED="1341613982671" TEXT="&#x3088;&#x3044;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341613693187" FOLDED="true" ID="ID_863620142" MODIFIED="1378297894841" TEXT="DialogButtonOnClickListener.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613731656" ID="ID_635504997" MODIFIED="1341613982671" TEXT="case: dlg_reconfirm_genre_name_btn_register">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341613643687" FOLDED="true" ID="ID_395028003" MODIFIED="1378297894841" TEXT="Methods.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341613647843" ID="ID_441336658" MODIFIED="1341615808062" TEXT="registerGenre_final()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341706482000" FOLDED="true" ID="ID_855723648" MODIFIED="1378297894844" TEXT="S3">
+<cloud/>
+<node CREATED="1341706497000" ID="ID_1321582027" MODIFIED="1341706506171" TEXT="Option Menu">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341705366453" FOLDED="true" ID="ID_269767545" MODIFIED="1378297894841" TEXT="Layout">
+<node CREATED="1341705380562" ID="ID_1140596136" MODIFIED="1341705384203" TEXT="db_manager.xml"/>
+</node>
+<node CREATED="1341705688015" FOLDED="true" ID="ID_1780586842" MODIFIED="1378297894842" TEXT="Strings">
+<node CREATED="1341705691546" ID="ID_74719371" MODIFIED="1341705697593" TEXT="&#x30c6;&#x30fc;&#x30d6;&#x30eb;&#x4f5c;&#x6210;"/>
+<node CREATED="1341705698359" ID="ID_1114033939" MODIFIED="1341705702281" TEXT="&#x30c6;&#x30fc;&#x30d6;&#x30eb;&#x524a;&#x9664;"/>
+</node>
+<node CREATED="1341706133484" FOLDED="true" ID="ID_544087580" MODIFIED="1378297894842" TEXT="NEW ACTIVITY">
+<node CREATED="1341706157359" ID="ID_1411305075" MODIFIED="1341706167343" TEXT="DBAdminActivity.java"/>
+</node>
+<node CREATED="1341706301078" FOLDED="true" ID="ID_1672335683" MODIFIED="1378297894844" TEXT="OptionMenu">
+<node CREATED="1341274161453" FOLDED="true" ID="ID_1702008344" MODIFIED="1378297894843" TEXT="Create icon">
+<node CREATED="1341274492296" ID="ID_110529476" MODIFIED="1341706396390" TEXT="xcf file"/>
+<node CREATED="1341274495687" ID="ID_346618696" MODIFIED="1341706396390" TEXT="png file"/>
+<node CREATED="1341274498500" ID="ID_1582136171" MODIFIED="1341706396390" TEXT="Copy &amp; paste"/>
+<node CREATED="1341276019875" FOLDED="true" ID="ID_1155133124" MODIFIED="1378297894842" TEXT="META">
+<node CREATED="1341276023781" FOLDED="true" ID="ID_625026742" MODIFIED="1378297894842" TEXT="SIZE">
+<node CREATED="1341276027265" ID="ID_1258648587" MODIFIED="1341706396390" TEXT="=30x30"/>
+</node>
+</node>
+</node>
+<node CREATED="1341707180140" FOLDED="true" ID="ID_1488767810" MODIFIED="1378297894843" TEXT="String">
+<node CREATED="1341707183593" ID="ID_899788441" MODIFIED="1341707187281" TEXT="Menu title"/>
+</node>
+<node CREATED="1341232562468" FOLDED="true" ID="ID_1350101447" MODIFIED="1378297894843" TEXT="listmenu.xml">
+<node CREATED="1341232595812" ID="ID_1831177743" MODIFIED="1341706440984" TEXT="id=v1_menu_register_shop"/>
+<node CREATED="1341232631125" ID="ID_905761626" MODIFIED="1341706440984" TEXT="title=@string/v1_menu_register_shop"/>
+<node CREATED="1341232655546" ID="ID_1739756457" MODIFIED="1341706440984" TEXT="icon=android:drawable/ic_menu_set_as"/>
+</node>
+<node CREATED="1341707310062" ID="ID_1320455780" MODIFIED="1341707312406" TEXT="INSTALL"/>
+<node CREATED="1341707305921" ID="ID_242187597" MODIFIED="1341707309406" TEXT="VALIDATE"/>
+</node>
+</node>
+<node CREATED="1341712085140" FOLDED="true" ID="ID_308045689" MODIFIED="1342048006723" TEXT="S4">
+<node CREATED="1341712088562" ID="ID_621301480" MODIFIED="1341712095515" TEXT="Create table from dialog">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341712123578" FOLDED="true" ID="ID_1009723225" MODIFIED="1378297894845" TEXT="DBAdminActivity.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341712111234" FOLDED="true" ID="ID_1298189931" MODIFIED="1378297894845" TEXT="Button">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341712116359" ID="ID_177342814" MODIFIED="1341712256531" TEXT="&#x30c6;&#x30fc;&#x30d6;&#x30eb;&#x4f5c;&#x6210;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341712171890" ID="ID_1780798190" MODIFIED="1341712256531" TEXT="ButtonOnClickListener.java">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341712201562" ID="ID_1217298744" MODIFIED="1341712256531" TEXT="Methods.dlg_createTable()">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341712221968" ID="ID_313568533" MODIFIED="1341712256531" TEXT="DialogButtonOnClickListener.java">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341712719265" FOLDED="true" ID="ID_1045141876" MODIFIED="1378297894845" TEXT="Methods.dlg_createTable_isInputEmpty()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341712741640" ID="ID_1511747863" MODIFIED="1341712744984" TEXT="NEW">
+<icon BUILTIN="info"/>
+</node>
+</node>
+<node CREATED="1341712236125" ID="ID_1412647008" MODIFIED="1341713929718" TEXT="Methods.createTable_FromDialog()">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341714367296" FOLDED="true" ID="ID_460340070" MODIFIED="1378297894857" TEXT="S5">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341712088562" ID="ID_744666461" MODIFIED="1341714289421" TEXT="Drop table from dialog">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1342048009817" FOLDED="true" ID="ID_383527945" MODIFIED="1378297894850" TEXT="DONE">
+<node CREATED="1341712171890" FOLDED="true" ID="ID_549991132" MODIFIED="1378297894845" TEXT="ButtonOnClickListener.java">
+<node CREATED="1341714402296" ID="ID_1910703256" MODIFIED="1341714407718" TEXT="case =&gt; drop_table"/>
+</node>
+<node CREATED="1341721150406" FOLDED="true" ID="ID_657647506" MODIFIED="1378297894845" TEXT="Methods.dlg_dropTable(Activity actv)">
+<node CREATED="1341721157156" ID="ID_1390153787" MODIFIED="1341721435843" TEXT="setOnItemClickListener()">
+<arrowlink DESTINATION="ID_1747465204" ENDARROW="Default" ENDINCLINATION="372;96;" ID="Arrow_ID_457373399" STARTARROW="None" STARTINCLINATION="335;0;"/>
+</node>
+<node CREATED="1341721391890" FOLDED="true" ID="ID_1747465204" MODIFIED="1378297894845" TEXT="DialogOnItemClickListener.java">
+<node CREATED="1341721396218" ID="ID_1800610862" MODIFIED="1341721399796" TEXT="NEW">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+<node CREATED="1341721448921" ID="ID_26822969" MODIFIED="1341722684718" TEXT="Create adapter">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341722659828" ID="ID_558786353" MODIFIED="1341722684718" TEXT="Set adapter to list view">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341722665125" ID="ID_191437572" MODIFIED="1341722684718" TEXT="INSTALL">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341722669687" ID="ID_613162270" MODIFIED="1341724103640" TEXT="Beautify dialog list view">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341723843921" FOLDED="true" ID="ID_1425934812" MODIFIED="1378297894846" TEXT="DialogOnItemClickListener.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341723865281" ID="ID_1749541386" MODIFIED="1341724473765" TEXT="onItemClick()"/>
+</node>
+<node CREATED="1341724371234" FOLDED="true" HGAP="32" ID="ID_1003875292" MODIFIED="1378297894846" TEXT="Dialog" VSHIFT="28">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341724374234" HGAP="36" ID="ID_1539835866" MODIFIED="1341724675093" TEXT="Confirm table dropping" VSHIFT="4">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341724430687" FOLDED="true" HGAP="26" ID="ID_747986891" MODIFIED="1378297894847" TEXT="Methods" VSHIFT="47">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341724434546" FOLDED="true" ID="ID_1655514229" MODIFIED="1378297894847" TEXT="dlg_dropTable()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341724647328" ID="ID_874386997" MODIFIED="1341724675093" TEXT="Signiture">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341755953953" FOLDED="true" ID="ID_1873589416" MODIFIED="1378297894846" TEXT="Call DialogOnItemClickListener.java">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341755977734" ID="ID_1860704645" MODIFIED="1341755991906" TEXT="Add tag to params">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341724654265" FOLDED="true" ID="ID_1985879840" MODIFIED="1378297894849" TEXT="Layout">
+<node CREATED="1341755363484" FOLDED="true" ID="ID_1108335195" MODIFIED="1378297894848" TEXT="CREATE">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341724658843" FOLDED="true" ID="ID_653552528" MODIFIED="1378297894848" TEXT="dlg_confirm_drop_table.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341756040796" ID="ID_1553858248" MODIFIED="1341756158453" TEXT="Views">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341756045218" ID="ID_13515438" MODIFIED="1341756158453" TEXT="Ids">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341756160156" FOLDED="true" ID="ID_1397231588" MODIFIED="1378297894848" TEXT="Strings">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341756163718" ID="ID_855184416" MODIFIED="1341756848796" TEXT="Message">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1341724658843" FOLDED="true" ID="ID_178409858" MODIFIED="1378297894849" TEXT="dlg_confirm_drop_table.xml">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341756865031" ID="ID_63473658" MODIFIED="1341756876515" TEXT="Set strings">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1341756868125" ID="ID_1460014644" MODIFIED="1341756876515" TEXT="Set styles">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341724434546" FOLDED="true" ID="ID_682099204" MODIFIED="1378297894853" TEXT="Methods.dlg_confirmTableDrop()">
+<node CREATED="1341455859703" FOLDED="true" ID="ID_886802921" MODIFIED="1378297894851" TEXT="ADMIN">
+<icon BUILTIN="Mail"/>
+<node CREATED="1341561857625" ID="ID_595682671" MODIFIED="1341788583968" TEXT="COMMIT">
+<attribute_layout NAME_WIDTH="138"/>
+<attribute NAME="Branch" VALUE="B7"/>
+<attribute NAME="Version" VALUE="1"/>
+<attribute NAME="Dispatch" VALUE="1"/>
+</node>
+<node CREATED="1341455863500" FOLDED="true" ID="ID_386931689" MODIFIED="1378297894850" TEXT="C/O">
+<node CREATED="1341455876859" ID="ID_1987901531" MODIFIED="1341788546125" TEXT="=&gt; master"/>
+</node>
+<node CREATED="1341455881765" ID="ID_215992239" MODIFIED="1341788546125" TEXT="MERGE">
+<icon BUILTIN="Mail"/>
+</node>
+</node>
+<node CREATED="1341758826171" FOLDED="true" ID="ID_1469211850" MODIFIED="1378297894852" TEXT="OnTouchListener">
+<node CREATED="1341711474781" FOLDED="true" ID="ID_1400800256" MODIFIED="1378297894851" TEXT="DialogButtonOnTouchListener.java">
+<node CREATED="1341711491078" ID="ID_571416361" MODIFIED="1341758891015" TEXT="New cases"/>
+</node>
+<node CREATED="1342044862324" FOLDED="true" ID="ID_1490961580" MODIFIED="1378297894852" TEXT="BV">
+<node CREATED="1342044865403" ID="ID_350093250" MODIFIED="1342044870981" TEXT="Dialog views"/>
+</node>
+</node>
+<node CREATED="1341758826171" FOLDED="true" ID="ID_1367123718" MODIFIED="1378297894853" TEXT="OnClickListener">
+<node CREATED="1341758628828" FOLDED="true" ID="ID_681348904" MODIFIED="1378297894853" TEXT="Ok">
+<node CREATED="1341452588859" FOLDED="true" HGAP="41" ID="ID_986442714" MODIFIED="1378297894852" TEXT="DialogButtonOnClickListener.java" VSHIFT="-3">
+<icon BUILTIN="full-1"/>
+<node CREATED="1341452680359" FOLDED="true" ID="ID_1949514448" MODIFIED="1378297894852" TEXT="case">
+<node CREATED="1341452662593" ID="ID_1072598084" MODIFIED="1341758692406" TEXT="=&gt; "/>
+</node>
+</node>
+</node>
+<node CREATED="1341758642812" ID="ID_291609886" MODIFIED="1341758645718" TEXT="Cancel"/>
+</node>
+</node>
+<node CREATED="1341724176125" FOLDED="true" HGAP="26" ID="ID_971467535" MODIFIED="1378297894855" TEXT="DBManager" VSHIFT="47">
+<node CREATED="1341724179687" FOLDED="true" ID="ID_1504924545" MODIFIED="1378297894854" TEXT="dropTable()">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341721396218" ID="ID_1840456550" MODIFIED="1341721399796" TEXT="NEW">
+<icon BUILTIN="info"/>
+</node>
+<node CREATED="1341724228562" FOLDED="true" ID="ID_901748597" MODIFIED="1378297894854" TEXT="Copy &amp; paste">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341724209296" FOLDED="true" ID="ID_282309952" MODIFIED="1378297894854" TEXT="ChinesePlayGround">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341724215156" ID="ID_565044974" MODIFIED="1341724243031" TEXT="DBUtils.java">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341724237921" ID="ID_596350333" MODIFIED="1341724239000" TEXT="Edit"/>
+</node>
+</node>
+<node CREATED="1342048146168" FOLDED="true" ID="ID_1595579810" MODIFIED="1378297894856" TEXT="ADMIN">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1342048148778" ID="ID_309721822" MODIFIED="1342048184217" TEXT="COMMIT">
+<attribute_layout NAME_WIDTH="122"/>
+<attribute NAME="Branch" VALUE="B7"/>
+<attribute NAME="Version" VALUE="1.2"/>
+</node>
+<node CREATED="1342048239673" FOLDED="true" ID="ID_1716150082" MODIFIED="1378297894855" TEXT="C/O">
+<node CREATED="1342048243704" ID="ID_1892484362" MODIFIED="1342048245064" TEXT="master"/>
+</node>
+<node CREATED="1342048246892" ID="ID_1968030987" MODIFIED="1342048248486" TEXT="MERGE"/>
+<node CREATED="1342048255299" FOLDED="true" ID="ID_16322168" MODIFIED="1378297894855" TEXT="TIME">
+<node CREATED="1342048263705" ID="ID_1543731195" MODIFIED="1342048263705" TEXT="20120712_081100"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1341455625203" FOLDED="true" HGAP="42" ID="ID_1577678120" MODIFIED="1346296972062" POSITION="left" TEXT="Features" VSHIFT="-86">
+<cloud/>
+<node CREATED="1341703167203" ID="ID_183183684" MODIFIED="1341703182734" TEXT="F1">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455629046" ID="ID_1255420213" MODIFIED="1341703182734" TEXT="Register item">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1341455640187" ID="ID_1254173678" MODIFIED="1341703182734" TEXT="=&gt; Enter store name using dropdown list">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1341703208375" ID="ID_1256514559" MODIFIED="1341703209781" TEXT="F2">
+<node CREATED="1341703213031" ID="ID_1579095383" MODIFIED="1341703219953" TEXT="Click item">
+<node CREATED="1341703220515" ID="ID_1956749615" MODIFIED="1341703234031" TEXT="=&gt; Registered to &quot;To buy list&quot;"/>
+</node>
+</node>
+</node>
+</node>
+</map>
