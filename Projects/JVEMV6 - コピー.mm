@@ -1,0 +1,17 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1516766642964" ID="ID_1377946557" LINK="Projects.mm" MODIFIED="1518328858132" TEXT="JVEMV6">
+<cloud/>
+<node CREATED="1516766771450" MODIFIED="1516766773511" POSITION="right" TEXT="37 miscs of miscs">
+<node CREATED="1516766795708" MODIFIED="1516766797472" TEXT="3 &#x6587;&#x5b57;&#x6570;&#x3000;&#x8a18;&#x4e8b;"/>
+</node>
+<node CREATED="1516766815251" MODIFIED="1516766817679" POSITION="right" TEXT="41 economics">
+<node CREATED="1516766822316" MODIFIED="1516766823679" TEXT="1 macro"/>
+</node>
+<node CREATED="1517805578710" LINK="43%20Linguistics.mm" MODIFIED="1517812639093" POSITION="right" TEXT="43 Linguistics"/>
+<node CREATED="1518230299068" ID="ID_1166348992" MODIFIED="1518230303088" POSITION="right" TEXT="44 currency">
+<node CREATED="1518230306747" MODIFIED="1518230316548" TEXT="1 programming"/>
+</node>
+<node CREATED="1518328896800" ID="ID_1498347507" MODIFIED="1518328898742" POSITION="right" TEXT="HISTORY"/>
+</node>
+</map>
