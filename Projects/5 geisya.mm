@@ -18,6 +18,11 @@
 </node>
 <node CREATED="1517802901416" ID="ID_1174270130" LINK="http://www.geisya.or.jp/~mwm48961/linear_algebra/mobile/diagonal2_m.htm" MODIFIED="1517802910917" TEXT="&#x884c;&#x5217;&#x3000;&#x5bfe;&#x89d2;&#x5316;"/>
 </node>
+<node CREATED="1519630334576" ID="ID_928622465" MODIFIED="1519630345279" POSITION="right" TEXT="further">
+<node CREATED="1519630342340" ID="ID_585073000" MODIFIED="1519630382241" TEXT="Z">
+<node CREATED="1519630359608" ID="ID_27226581" LINK="http://www.geisya.or.jp/~mwm48961/electro/mobile/multi_integral5_m.htm" MODIFIED="1519630373286" TEXT="&#x5909;&#x6570;&#x5909;&#x63db;&#xff1a;&#x30e4;&#x30b3;&#x30d3;&#x884c;&#x5217;&#x5f0f;-&#x73fe;&#x5728;&#x5730;"/>
+</node>
+</node>
 <node CREATED="1518086322556" ID="ID_512485648" MODIFIED="1518086349772" POSITION="right" TEXT="HISTORY">
 <node CREATED="1518086330561" ID="ID_0000003438" MODIFIED="1518086349784" TEXT="1">
 <node CREATED="1517802901416" ID="ID_1174270130.COPY" LINK="http://www.geisya.or.jp/~mwm48961/linear_algebra/mobile/diagonal2_m.htm" MODIFIED="1517802910917" TEXT="&#x884c;&#x5217;&#x3000;&#x5bfe;&#x89d2;&#x5316;"/>
