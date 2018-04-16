@@ -42,6 +42,19 @@
 <node CREATED="1523716171538" ID="ID_102691648" MODIFIED="1523716179420" POSITION="right" TEXT="6 &#x529b;&#x5b66;">
 <node CREATED="1523716185870" ID="ID_639302462" MODIFIED="1523716243523" TEXT="1 &#x8cea;&#x70b9;&#x3001;&#x525b;&#x4f53;">
 <node CREATED="1523716225037" ID="ID_1654321207" LINK="http://kenzou.michikusa.jp/V_Wave/Dynamics.pdf" MODIFIED="1523716236963" TEXT="http://kenzou.michikusa.jp"/>
+<node CREATED="1523830299023" ID="ID_776139421" MODIFIED="1523830301659" TEXT="Z">
+<node CREATED="1523830313578" ID="ID_1910416007" MODIFIED="1523830313578" TEXT="20180416_071151">
+<node CREATED="1523830315676" ID="ID_98723267" LINK="http://kenzou.michikusa.jp/Ana-Dyn/1_KasouGenri.PDF" MODIFIED="1523830366800" TEXT="&#x914d;&#x7f6e;&#x7a7a;&#x9593; #[&#x914d;&#x7f6e;&#x7a7a;&#x9593;] ">
+<node CREATED="1523830380608" ID="ID_469863392" LINK="https://kotobank.jp/word/%E9%85%8D%E7%BD%AE%E7%A9%BA%E9%96%93-112933" MODIFIED="1523830430786" TEXT="#&#x914d;&#x7f6e;&#x7a7a;&#x9593;">
+<node CREATED="1523830397861" ID="ID_1765500925" LINK="https://en.wikipedia.org/wiki/Configuration_space_(physics)" MODIFIED="1523830416064" TEXT="&quot;Configuration_space&quot;">
+<node CREATED="1523830443741" ID="ID_963015176" LINK="https://en.wikipedia.org/wiki/Manifold" MODIFIED="1523830454529" TEXT="&quot;Manifold&quot;">
+<node CREATED="1523830599148" ID="ID_697902057" LINK="https://en.wikipedia.org/wiki/Real_projective_plane" MODIFIED="1523830609894" TEXT="&quot;Real_projective_plane&quot;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1523765764373" ID="ID_111711534" MODIFIED="1523765769175" TEXT="2 &#x69cb;&#x9020;&#x529b;&#x5b66;">
 <node CREATED="1523716225037" ID="ID_990854163" LINK="http://kenzou.michikusa.jp/V_Wave/Vib-Wave.html" MODIFIED="1523765786446" TEXT="http://kenzou.michikusa.jp">
