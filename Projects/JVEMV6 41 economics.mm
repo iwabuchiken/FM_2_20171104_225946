@@ -16,8 +16,12 @@
 <node CREATED="1523359762017" ID="ID_162366385" MODIFIED="1523359865607" TEXT="2 &#x68ee;&#x6797;&#x9762;&#x7a4d;&#x3000;&#x65e5;&#x672c;">
 <node CREATED="1523359777556" ID="ID_89582375" LINK="https://www.hokkaido-np.co.jp/article/178921?rct=n_society" MODIFIED="1523359783864" TEXT="article"/>
 </node>
+<node CREATED="1527833806515" ID="ID_293547741" MODIFIED="1527833810694" TEXT="3 &#x4f4f;&#x5b85;&#x30ed;&#x30fc;&#x30f3;">
+<node CREATED="1527833819473" ID="ID_948341148" LINK="https://www.jhf.go.jp/about/research/loan_zandaka.html" MODIFIED="1527833834036" TEXT="stats &#x300c;&#x696d;&#x614b;&#x5225;&#x306e;&#x4f4f;&#x5b85;&#x30ed;&#x30fc;&#x30f3;&#x65b0;&#x898f;&#x8cb8;&#x51fa;&#x984d;&#x53ca;&#x3073;&#x8cb8;&#x51fa;&#x6b8b;&#x9ad8;&#x306e;&#x63a8;&#x79fb;&#x300d;"/>
 </node>
 </node>
+</node>
+<node CREATED="1527922366245" ID="ID_256361623" MODIFIED="1527922371970" POSITION="right" TEXT="3 miscs"/>
 <node CREATED="1517456253175" FOLDED="true" ID="ID_1577762986" MODIFIED="1518331322395" POSITION="left" TEXT="ADMIN">
 <node CREATED="1517456258081" FOLDED="true" ID="ID_84761117" MODIFIED="1518331322394" TEXT="upload images">
 <node CREATED="1517543352130" ID="ID_1227622931" MODIFIED="1517544043851" TEXT="&quot;C:\WORKS_2\Programs\FileZilla FTP Client\filezilla.exe&quot;"/>
