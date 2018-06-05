@@ -20,6 +20,7 @@
 <node CREATED="1527833819473" ID="ID_948341148" LINK="https://www.jhf.go.jp/about/research/loan_zandaka.html" MODIFIED="1527833834036" TEXT="stats &#x300c;&#x696d;&#x614b;&#x5225;&#x306e;&#x4f4f;&#x5b85;&#x30ed;&#x30fc;&#x30f3;&#x65b0;&#x898f;&#x8cb8;&#x51fa;&#x984d;&#x53ca;&#x3073;&#x8cb8;&#x51fa;&#x6b8b;&#x9ad8;&#x306e;&#x63a8;&#x79fb;&#x300d;"/>
 </node>
 </node>
+<node CREATED="1528014281513" ID="ID_1494607076" MODIFIED="1528014286536" TEXT="2 &#x4eba;&#x53e3;"/>
 </node>
 <node CREATED="1527922366245" ID="ID_256361623" MODIFIED="1527922371970" POSITION="right" TEXT="3 miscs"/>
 <node CREATED="1517456253175" FOLDED="true" ID="ID_1577762986" MODIFIED="1518331322395" POSITION="left" TEXT="ADMIN">
