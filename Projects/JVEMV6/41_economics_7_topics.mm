@@ -14,5 +14,10 @@
 <node CREATED="1585531536669" ID="ID_940512678" MODIFIED="1585531539352" POSITION="right" TEXT="5 &#x30b0;&#x30e9;&#x30b9;&#x30fb;&#x30b9;&#x30c6;&#x30a3;&#x30fc;&#x30ac;&#x30eb;&#x6cd5;"/>
 <node CREATED="1585531539999" ID="ID_26816963" MODIFIED="1585531546436" POSITION="right" TEXT="6 cuban banking system"/>
 <node CREATED="1585532492789" ID="ID_4203273" MODIFIED="1585532500355" POSITION="right" TEXT="7 economy of cuba"/>
+<node CREATED="1585725912749" ID="ID_1952217994" MODIFIED="1585725917176" POSITION="right" TEXT="8 &#x6771;&#x8a3c;&#x58f2;&#x8cb7;&#xff1a;&#x4e3b;&#x4f53;&#x5225;&#x53d6;&#x5f15;&#x91cf;">
+<node CREATED="1585726029239" ID="ID_643941187" MODIFIED="1585726030821" TEXT="stats">
+<node CREATED="1585726156613" ID="ID_1260357636" LINK="https://www.jpx.co.jp/markets/statistics-equities/monthly/" MODIFIED="1585726188514" TEXT="1 &#x7d71;&#x8a08;&#x6708;&#x5831; // Japan Exchange Group"/>
+</node>
+</node>
 </node>
 </map>
