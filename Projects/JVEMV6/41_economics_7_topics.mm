@@ -19,5 +19,6 @@
 <node CREATED="1585726156613" ID="ID_1260357636" LINK="https://www.jpx.co.jp/markets/statistics-equities/monthly/" MODIFIED="1585726188514" TEXT="1 &#x7d71;&#x8a08;&#x6708;&#x5831; // Japan Exchange Group"/>
 </node>
 </node>
+<node CREATED="1592111528547" ID="ID_794297893" MODIFIED="1592111540418" POSITION="right" TEXT="9 &#x30af;&#x30ec;&#x30b8;&#x30c3;&#x30c8;&#x7d4c;&#x6e08;"/>
 </node>
 </map>
