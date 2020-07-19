@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1516766642964" ID="ID_1377946557" LINK="Projects.mm" MODIFIED="1518328858132" TEXT="JVEMV6">
 <node CREATED="1518839368539" ID="ID_1775642994" LINK="34%20Deep%20learning.mm" MODIFIED="1518839368541" POSITION="right" TEXT="1) 34 Deep learning"/>
-<node CREATED="1516766771450" ID="ID_915853385" MODIFIED="1590819224326" POSITION="right" TEXT="2) 37 miscs of miscs">
+<node CREATED="1516766771450" FOLDED="true" ID="ID_915853385" MODIFIED="1595152205387" POSITION="right" TEXT="2) 37 miscs of miscs">
 <node CREATED="1516766795708" ID="ID_1187107775" MODIFIED="1516766797472" TEXT="2-1) 3 &#x6587;&#x5b57;&#x6570;&#x3000;&#x8a18;&#x4e8b;"/>
 <node CREATED="1518331117304" ID="ID_902389999" MODIFIED="1518331119550" TEXT="2-2) 4 Bitcoin"/>
 <node CREATED="1529307055465" ID="ID_1990069968" MODIFIED="1529307059756" TEXT="5 vietnamese"/>
@@ -143,5 +143,6 @@
 <node CREATED="1517456404526" ID="ID_1753471259" MODIFIED="1517456405882" TEXT="/cake_apps/images/mindmaps"/>
 </node>
 </node>
+<node CREATED="1595138673241" ID="ID_1012298114" LINK="../../../../../../Utils/commands/push_fm.bat" MODIFIED="1595138725590" POSITION="left" TEXT="git"/>
 </node>
 </map>
