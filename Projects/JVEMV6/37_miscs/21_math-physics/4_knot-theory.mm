@@ -39,36 +39,36 @@
 </node>
 </node>
 <node CREATED="1595142969998" ID="ID_1653552084" MODIFIED="1597555233132" POSITION="right" TEXT="WORD">
-<node CREATED="1595231976905" ID="ID_22218799" MODIFIED="1597555235767" TEXT="1-10">
-<node CREATED="1595230900464" ID="ID_769512699" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597555235767" TEXT="1">
+<node CREATED="1595231976905" FOLDED="true" ID="ID_22218799" MODIFIED="1597901662833" TEXT="1-10">
+<node CREATED="1595230900464" FOLDED="true" ID="ID_769512699" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597901662813" TEXT="1">
 <node CREATED="1595230908976" ID="ID_509590564" MODIFIED="1595230924593" TEXT="joint.v / &#x7d50;&#x3076;"/>
 </node>
-<node CREATED="1595230901765" ID="ID_1253428567" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597555235783" TEXT="2">
+<node CREATED="1595230901765" FOLDED="true" ID="ID_1253428567" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597901662815" TEXT="2">
 <node CREATED="1595231016494" ID="ID_1910461948" MODIFIED="1595231027992" TEXT="crossing / cross.v / cross.n"/>
 </node>
-<node CREATED="1595230902553" ID="ID_219142352" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597555235783" TEXT="3">
+<node CREATED="1595230902553" FOLDED="true" ID="ID_219142352" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597901662816" TEXT="3">
 <node CREATED="1595231043737" ID="ID_789244435" MODIFIED="1595231055345" TEXT="cut.n / cut.v / &#x30ab;&#x30c3;&#x30c8;.n,.v"/>
 <node CREATED="1595231185413" ID="ID_1325528470" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42043" MODIFIED="1595231193551" TEXT=":link"/>
 </node>
-<node CREATED="1595230903496" ID="ID_1716208269" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42043" MODIFIED="1597555235783" TEXT="4">
+<node CREATED="1595230903496" FOLDED="true" ID="ID_1716208269" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42043" MODIFIED="1597901662818" TEXT="4">
 <node CREATED="1595231137703" ID="ID_1102177123" MODIFIED="1595231146799" TEXT="loop.n / &#x30eb;&#x30fc;&#x30d7;.n"/>
 </node>
-<node CREATED="1595231372158" ID="ID_955524784" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597555235783" TEXT="5">
+<node CREATED="1595231372158" FOLDED="true" ID="ID_955524784" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597901662820" TEXT="5">
 <node CREATED="1595231394279" ID="ID_908533482" MODIFIED="1595231426996" TEXT="exchange.v / invert.v / &#x53cd;&#x8ee2;"/>
 </node>
-<node CREATED="1595231372158" ID="ID_366964874" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597555235783" TEXT="6">
+<node CREATED="1595231372158" FOLDED="true" ID="ID_366964874" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597901662822" TEXT="6">
 <node CREATED="1595231450365" ID="ID_1611728379" MODIFIED="1595231475040" TEXT="&#x305a;&#x3089;&#x3057; / &#x30b9;&#x30e9;&#x30a4;&#x30c9; / slide / traverse"/>
 </node>
-<node CREATED="1595231372158" ID="ID_1807129525" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597555235799" TEXT="7">
+<node CREATED="1595231372158" FOLDED="true" ID="ID_1807129525" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597901662824" TEXT="7">
 <node CREATED="1595231488475" ID="ID_1713585866" MODIFIED="1595231496121" TEXT="dissolve / &#x89e3;&#x6d88;"/>
 </node>
-<node CREATED="1595231372158" ID="ID_1983323682" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597555235799" TEXT="8">
+<node CREATED="1595231372158" FOLDED="true" ID="ID_1983323682" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42521" MODIFIED="1597901662826" TEXT="8">
 <node CREATED="1595231537338" ID="ID_30717436" MODIFIED="1595231549205" TEXT="&#x56de;&#x8ee2; / &#x3072;&#x306d;&#x308a;"/>
 </node>
-<node CREATED="1595231372158" ID="ID_500367253" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42520" MODIFIED="1597555235799" TEXT="9">
+<node CREATED="1595231372158" FOLDED="true" ID="ID_500367253" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42520" MODIFIED="1597901662828" TEXT="9">
 <node CREATED="1595231825603" ID="ID_177326343" MODIFIED="1595231854159" TEXT="&#x304b;&#x3089;&#x307e;&#x3063;&#x3066;&#x3044;&#x308b; / entangled"/>
 </node>
-<node CREATED="1595231372158" ID="ID_568751428" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42520" MODIFIED="1597555235799" TEXT="10">
+<node CREATED="1595231372158" FOLDED="true" ID="ID_568751428" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/42520" MODIFIED="1597901662829" TEXT="10">
 <node CREATED="1595231844719" ID="ID_802353965" MODIFIED="1595231849315" TEXT="loop by division"/>
 </node>
 </node>
