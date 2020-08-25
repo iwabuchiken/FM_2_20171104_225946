@@ -112,5 +112,6 @@
 </node>
 </node>
 </node>
+<node CREATED="1598259875393" ID="ID_1229597463" LINK="C:\WORKS_2\Utils\commands\push_fm.bat" MODIFIED="1598259892267" POSITION="left" TEXT="git"/>
 </node>
 </map>
