@@ -24,7 +24,7 @@
 </node>
 <node CREATED="1599637770922" ID="ID_1557341413" MODIFIED="1599637774651" POSITION="left" TEXT="10. &#x9aa8;&#x683c;">
 <node CREATED="1599637776791" ID="ID_1523979531" MODIFIED="1599637781196" TEXT="1. &#x819d;">
-<node CREATED="1599638744233" ID="ID_1847115215" LINK="https://duckduckgo.com/?q=&#x9aa8;&#x683c;+&#x819d;&amp;iar=images&amp;iax=images&amp;ia=images" MODIFIED="1599638747536" TEXT="search"/>
+<node CREATED="1599638744233" ID="ID_1847115215" LINK="https://duckduckgo.com/?q=&#x9aa8;&#x683c;+&#x819d;&amp;iar=images&amp;iax=images&amp;ia=images" MODIFIED="1599725682377" TEXT="search"/>
 <node CREATED="1599639934514" ID="ID_1696112027" MODIFIED="1599639936182" TEXT="1.">
 <node CREATED="1599639937569" ID="ID_1912443612" LINK="http://studiomauisunset.com/blog/2016/%E2%86%92%E8%86%9D/" MODIFIED="1599639940170" TEXT="src"/>
 <node CREATED="1599639947542" ID="ID_638064685" LINK="http://iaso-osaka.com/wp/wp-content/uploads/2013/09/leg41.jpg" MODIFIED="1599639949698" TEXT="img"/>
@@ -33,6 +33,20 @@
 <node CREATED="1599639980849" ID="ID_945331325" LINK="http://www.judo-akimoto.com/sprain4.htm" MODIFIED="1599639985560" TEXT="src"/>
 <node CREATED="1599639999223" ID="ID_1021232886" LINK="http://www.judo-akimoto.com/images/sprain32.jpg" MODIFIED="1599640001660" TEXT="img"/>
 </node>
+</node>
+<node CREATED="1599725667273" ID="ID_595421692" MODIFIED="1599725673211" TEXT="2. &#x8098;">
+<node CREATED="1599725675131" ID="ID_1697365397" LINK="https://duckduckgo.com/?q=&#x9aa8;&#x683c;+&#x8098;&amp;iar=images&amp;iax=images&amp;ia=images" MODIFIED="1599726167989" TEXT="srch"/>
+<node CREATED="1599726320527" ID="ID_1675369569" LINK="https://kokansetsu-itami.com/bonejflig/7468/" MODIFIED="1599726326316" TEXT="1">
+<node CREATED="1599726469768" ID="ID_742758531" LINK="https://kokansetsu-itami.com/wp-content/uploads/2017/10/8c7cfd4c08ac357def6a51facba72d92-422x1024-1.jpg" MODIFIED="1599726472147" TEXT="img">
+<node CREATED="1599726500196" ID="ID_765719941" LINK="http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php?url=https://kokansetsu-itami.com/wp-content/uploads/2017/10/8c7cfd4c08ac357def6a51facba72d92-422x1024-1.jpg" MODIFIED="1599726504379" TEXT="app"/>
+</node>
+</node>
+<node CREATED="1599726321974" ID="ID_336269715" LINK="https://www.towatech.net/category/MOKEIALL/000_0787.html" MODIFIED="1599727991985" TEXT="2">
+<node CREATED="1599727995534" ID="ID_918292584" LINK="https://www.towatech.net/client_info/TOWATECH/itemimage/000_0787/000_0787_06.jpg" MODIFIED="1599728004089" TEXT="img-1">
+<node CREATED="1599728008627" ID="ID_1754842781" LINK="http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php?url=https://www.towatech.net/client_info/TOWATECH/itemimage/000_0787/000_0787_06.jpg" MODIFIED="1599728027595" TEXT="app"/>
+</node>
+</node>
+<node CREATED="1599726322726" ID="ID_1191883334" MODIFIED="1599726323076" TEXT="3"/>
 </node>
 </node>
 </node>
