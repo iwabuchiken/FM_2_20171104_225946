@@ -58,11 +58,24 @@
 </node>
 </node>
 </node>
+<node CREATED="1599976826901" ID="ID_1877438703" MODIFIED="1599976829912" TEXT="12. &#x8840;&#x7ba1;"/>
 </node>
 <node CREATED="1599891488382" ID="ID_1749747619" LINK="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\37_miscs\28_dessin-anim" MODIFIED="1599891534939" POSITION="left" TEXT="dir"/>
 <node CREATED="1599891286279" ID="ID_475109539" MODIFIED="1599891292676" POSITION="left" TEXT="2. &#x690d;&#x7269;">
 <node CREATED="1599637726135" ID="ID_257384422" MODIFIED="1599637737358" TEXT="9. &#x82b1;">
 <node CREATED="1599637739616" ID="ID_1827963899" MODIFIED="1599637743295" TEXT="1. &#x30c4;&#x30e6;&#x30af;&#x30b5;"/>
+</node>
+</node>
+<node CREATED="1599976873148" ID="ID_1296228467" MODIFIED="1599976876939" POSITION="left" TEXT="3. &#x52d5;&#x7269;">
+<node CREATED="1599976879083" ID="ID_815620798" MODIFIED="1599976888382" TEXT="1. &#x732b;">
+<node CREATED="1599976889372" ID="ID_1706936491" MODIFIED="1599976893476" TEXT="1. &#x9aa8;&#x683c;">
+<node CREATED="1599978679440" ID="ID_1831877427" LINK="https://duckduckgo.com/?iax=images&amp;ia=images&amp;iai=https%3A%2F%2Fwww.3bs.jp%2Fbiology%2Fimages%2Ft300281b-l.jpg" MODIFIED="1599978682623" TEXT="srch"/>
+<node CREATED="1599977197795" ID="ID_77614601" LINK="https://blog.goo.ne.jp/monello-pss/e/1497b02882130345ed7d919bd580ac4f" MODIFIED="1599977259232" TEXT="1 &#x732b;&#x306e;&#x9aa8;&#x683c;&#x306e;&#x304a;&#x8a71;"/>
+<node CREATED="1599977225251" ID="ID_1511900632" LINK="https://www.konekono-heya.com/byouki/accident/sprain.html" MODIFIED="1599977236143" TEXT="2 &#x732b;&#x304c;&#x637b;&#x632b;&#x3057;&#x305f;&#x3068;&#x304d;&#x306e;&#x5fdc;&#x6025;&#x51e6;&#x7f6e;&#x30fb;&#x6cbb;&#x7642;&#x6cd5;"/>
+<node CREATED="1599977356472" ID="ID_698682731" LINK="https://www.3bs.jp/biology/whole/t300281.htm" MODIFIED="1599977381901" TEXT="3. &#x30cd;&#x30b3;&#x306e;&#x5168;&#x8eab;&#x9aa8;&#x683c;&#x6a19;&#x672c;">
+<node CREATED="1599977369989" ID="ID_1622732402" LINK="https://www.3bs.jp/wp-content/uploads/t300281.jpg" MODIFIED="1599977372166" TEXT="img"/>
+</node>
+</node>
 </node>
 </node>
 </node>
