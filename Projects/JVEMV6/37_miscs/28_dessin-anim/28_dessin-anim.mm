@@ -76,6 +76,18 @@
 <node CREATED="1599977369989" ID="ID_1622732402" LINK="https://www.3bs.jp/wp-content/uploads/t300281.jpg" MODIFIED="1599977372166" TEXT="img"/>
 </node>
 </node>
+<node CREATED="1600068871925" ID="ID_1155401063" MODIFIED="1600068874568" TEXT="2. &#x5185;&#x8535;">
+<node CREATED="1600069220487" ID="ID_786842132" LINK="https://3g2upl4pq6kufc4m.onion/?q=cats+anatomy&amp;iar=images&amp;iax=images&amp;ia=images" MODIFIED="1600069223797" TEXT="srch"/>
+<node CREATED="1600069212097" ID="ID_1713936040" LINK="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fcc1f133-31b7-455b-864f-fcba7325b15e/d1stnsw-8b0f5968-8ee4-4c3e-960d-ad3363b052e6.jpg/v1/fill/w_900,h_643,q_75,strp/gray_cat_composite_anatomy_by_jacquelinerae.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9mY2MxZjEzMy0zMWI3LTQ1NWItODY0Zi1mY2JhNzMyNWIxNWUvZDFzdG5zdy04YjBmNTk2OC04ZWU0LTRjM2UtOTYwZC1hZDMzNjNiMDUyZTYuanBnIiwid2lkdGgiOiI8PTkwMCIsImhlaWdodCI6Ijw9NjQzIn1dXX0.6gUmJXHABRSO3RqkO_UWngfa-5vC0PDwgj34KVLvWto" MODIFIED="1600069215965" TEXT="1">
+<node CREATED="1600069259639" ID="ID_616113744" MODIFIED="1600069260517" TEXT="this"/>
+</node>
+<node CREATED="1600069240967" ID="ID_1794388526" LINK="https://deadfishproductions.files.wordpress.com/2013/05/cat-anatomy.jpg?w=518&amp;h=598" MODIFIED="1600069243874" TEXT="2">
+<node CREATED="1600069244774" ID="ID_770158290" MODIFIED="1600069253236" TEXT="names of the organs"/>
+</node>
+<node CREATED="1600069361903" ID="ID_1534854297" LINK="https://ja.wikipedia.org/wiki/&#x30cd;&#x30b3;#/media/&#x30d5;&#x30a1;&#x30a4;&#x30eb;:Cat_anatomy_diagram_jp.svg" MODIFIED="1600069418453" TEXT="3">
+<node CREATED="1600069378328" ID="ID_1922021578" LINK="https://ja.wikipedia.org/wiki/&#x30cd;&#x30b3;" MODIFIED="1600069380859" TEXT="site"/>
+</node>
+</node>
 </node>
 </node>
 </node>
