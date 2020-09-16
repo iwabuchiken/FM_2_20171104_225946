@@ -164,11 +164,23 @@
 <node CREATED="1599715060849" ID="ID_1973320949" MODIFIED="1599883934645" TEXT="7. &#x56fa;&#x5b9a;&#x3059;&#x308b;">
 <node CREATED="1599715067987" ID="ID_1580632012" MODIFIED="1599715072561" TEXT="1. &#x3082;&#x3084;&#x3044;&#x7d50;&#x3073;">
 <node CREATED="1599887050510" ID="ID_1552193384" MODIFIED="1599887059763" TEXT="1. &#x901f;&#x304f;&#x7d50;&#x3076;">
-<node CREATED="1599887061272" ID="ID_505006066" LINK="https://www.youtube.com/watch?v=J2AWR90lALc" MODIFIED="1599887072621" TEXT="1."/>
+<node CREATED="1599887061272" ID="ID_505006066" LINK="https://www.youtube.com/watch?v=J2AWR90lALc" MODIFIED="1600238733565" TEXT="1.">
+<node CREATED="1600238781442" ID="ID_783456874" MODIFIED="1600238785725" TEXT="0:15"/>
+</node>
+</node>
+<node CREATED="1600239182864" ID="ID_317324787" MODIFIED="1600239190831" TEXT="2. palstek">
+<node CREATED="1600239196041" ID="ID_952060418" LINK="https://de.wikipedia.org/wiki/Palstek" MODIFIED="1600239198207" TEXT="1"/>
+</node>
+<node CREATED="1600239200356" ID="ID_283564394" MODIFIED="1600239224225" TEXT="3. varianten">
+<node CREATED="1600239225324" ID="ID_924145210" MODIFIED="1600239229610" TEXT="1. wasser">
+<node CREATED="1600239242340" ID="ID_289909357" LINK="https://www.skipperguide.de/wiki/Wasserpalstek" MODIFIED="1600239243982" TEXT="1"/>
+</node>
 </node>
 </node>
 <node CREATED="1599715073364" ID="ID_786695715" MODIFIED="1599715127176" TEXT="2. &#x30c9;&#x30c3;&#x30af;&#x30d2;&#x30c3;&#x30c1;">
-<node CREATED="1599715134667" ID="ID_1848490639" LINK="https://www.youtube.com/watch?v=j5CxCgIf6vY" MODIFIED="1600064469463" TEXT="1. &#x91cd;&#x91cf;&#x7269;&#x3092;&#x540a;&#x3063;&#x305f;&#x308a;&#x5f15;&#x304d;&#x647a;&#x308a;&#x51fa;&#x3057;&#x305f;&#x308a;&#x3059;&#x308b;&#x3068;&#x304d;&#x306b;&#x4fbf;&#x5229;&#x306a;&#x30c9;&#x30c3;&#x30af;&#xff65;&#x30d2;&#x30c3;&#x30c1; (Masaos Dock Hitch)"/>
+<node CREATED="1599715134667" ID="ID_1848490639" LINK="https://www.youtube.com/watch?v=j5CxCgIf6vY" MODIFIED="1600237775814" TEXT="1. &#x91cd;&#x91cf;&#x7269;&#x3092;&#x540a;&#x3063;&#x305f;&#x308a;&#x5f15;&#x304d;&#x647a;&#x308a;&#x51fa;&#x3057;&#x305f;&#x308a;&#x3059;&#x308b;&#x3068;&#x304d;&#x306b;&#x4fbf;&#x5229;&#x306a;&#x30c9;&#x30c3;&#x30af;&#xff65;&#x30d2;&#x30c3;&#x30c1; (Masaos Dock Hitch)">
+<node CREATED="1600237979718" ID="ID_425094546" MODIFIED="1600237984730" TEXT="2:10"/>
+</node>
 </node>
 <node CREATED="1597820132634" ID="ID_534216742" LINK="https://news.livedoor.com/article/detail/10616830/" MODIFIED="1599715307509" TEXT="3. &#x30c8;&#x30e9;&#x30c3;&#x30ab;&#x30fc;&#x30ba;&#x30d2;&#x30c3;&#x30c1;"/>
 <node CREATED="1599716329244" ID="ID_1153050234" MODIFIED="1599885046321" TEXT="4. &#x30df;&#x30c3;&#x30c6;&#x30eb;&#x30de;&#x30f3;&#x7d50;&#x3073;">
@@ -207,6 +219,11 @@
 </node>
 <node CREATED="1599717314428" ID="ID_1015962494" MODIFIED="1600065157890" TEXT="9. &#x6d88;&#x9632;&#x95a2;&#x9023;">
 <node CREATED="1600065159061" ID="ID_1271137858" LINK="https://www.youtube.com/watch?v=qaWi03q4ziU" MODIFIED="1600065177780" TEXT="1. Selbstretten bei der Feuerwehr - Mastwurf, Halbmastwurf und Technik"/>
+</node>
+<node CREATED="1600239750699" ID="ID_1919539281" MODIFIED="1600239757111" TEXT="10. &#xff12;&#x672c;&#x3092;&#x3064;&#x306a;&#x3050;">
+<node CREATED="1600239758684" ID="ID_1802487640" MODIFIED="1600239775067" TEXT="1. Trossenstek">
+<node CREATED="1600239776396" ID="ID_839818306" LINK="https://www.skipperguide.de/wiki/Trossenstek" MODIFIED="1600239779228" TEXT="1"/>
+</node>
 </node>
 <node CREATED="1597820101146" ID="ID_119879379" MODIFIED="1597820104328" TEXT="uncategorized">
 <node CREATED="1597820105178" ID="ID_49089065" LINK="https://news.livedoor.com/article/detail/10616830/" MODIFIED="1597820110568" TEXT="&#x68d2;&#x7d50;&#x3073;"/>
