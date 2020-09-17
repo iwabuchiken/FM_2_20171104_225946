@@ -7,6 +7,20 @@
 <node CREATED="1599637611306" ID="ID_1230290049" MODIFIED="1599637615940" TEXT="2. &#x7269;&#x3092;&#x6301;&#x3064;">
 <node CREATED="1599637620894" ID="ID_1269114465" MODIFIED="1599637627085" TEXT="1. &#x306f;&#x3055;&#x307f;"/>
 </node>
+<node CREATED="1600322643483" ID="ID_966600877" MODIFIED="1600322647876" TEXT="3. &#x89e3;&#x5256;">
+<node CREATED="1600322648695" ID="ID_1673978005" LINK="https://read01.com/zh-mo/7D5QdJo.html#.X2L6MZfAPSE" MODIFIED="1600322653866" TEXT="1. "/>
+<node CREATED="1600323905982" ID="ID_405283151" LINK="https://zh.wikipedia.org/zh-cn/&#x5c0d;&#x638c;&#x62c7;&#x808c;#/media/File:Gray426.png" MODIFIED="1600324280034" TEXT="2. &#x5bf9;&#x638c;&#x62c7;&#x808c;"/>
+<node CREATED="1600324259672" ID="ID_1940074170" LINK="https://ja.wikipedia.org/wiki/&#x6bcd;&#x6307;&#x5bfe;&#x7acb;&#x7b4b;" MODIFIED="1600324296308" TEXT="3. &#x6bcd;&#x6307;&#x5bfe;&#x7acb;&#x7b4b;">
+<node CREATED="1600324403920" ID="ID_1573742238" MODIFIED="1600324404724" TEXT="aaa"/>
+</node>
+<node CREATED="1600324477132" ID="ID_811484369" LINK="http://www.i-l-fitness-jp.com/comment/ta/da-tubercle-of-trapezium.html" MODIFIED="1600324491094" TEXT="4. &#x5927;&#x83f1;&#x5f62;&#x9aa8;&#x7d50;&#x7bc0;"/>
+</node>
+<node CREATED="1600323370360" ID="ID_1294575419" MODIFIED="1600323381237" TEXT="4. &#x5404;&#x90e8;&#x540d;&#x79f0;">
+<node CREATED="1600323383366" ID="ID_1862992049" LINK="https://peraichiii.blogspot.com/2020/06/blog-post_91.html#halaman1" MODIFIED="1600323387908" TEXT="1."/>
+</node>
+<node CREATED="1600323504039" ID="ID_216843499" MODIFIED="1600323507348" TEXT="X. others">
+<node CREATED="1600323508559" ID="ID_629020424" LINK="http://www.tenogeka.com/profile/index3.html" MODIFIED="1600323526812" TEXT="1. &#x4e00;&#x822c;&#x8ca1;&#x56e3;&#x6cd5;&#x4eba;&#x65b0;&#x6f5f;&#x624b;&#x306e;&#x5916;&#x79d1;&#x7814;&#x7a76;&#x6240;"/>
+</node>
 </node>
 <node CREATED="1599637637358" ID="ID_590335709" MODIFIED="1599637640060" TEXT="3. &#x9854;">
 <node CREATED="1599637649911" ID="ID_998894168" MODIFIED="1599637656986" TEXT="1. &#x76ee;&#x9f3b;&#x53e3;"/>
@@ -58,7 +72,20 @@
 </node>
 </node>
 </node>
-<node CREATED="1599976826901" ID="ID_1877438703" MODIFIED="1599976829912" TEXT="12. &#x8840;&#x7ba1;"/>
+<node CREATED="1599976826901" ID="ID_1877438703" MODIFIED="1599976829912" TEXT="12. &#x8840;&#x7ba1;">
+<node CREATED="1600319392850" ID="ID_310483334" MODIFIED="1600319399589" TEXT="1. &#x8155;">
+<node CREATED="1600319400578" ID="ID_408882809" LINK="https://upload.wikimedia.org/wikipedia/commons/b/b7/2134_Thoracic_Upper_Limb_Veins.jpg" MODIFIED="1600319405314" TEXT="1"/>
+<node CREATED="1600319488856" ID="ID_1272670046" LINK="https://www.medica.co.jp/sample_page/magazine/130101901/page6/x1.jpg?c=201812071149120900" MODIFIED="1600319490465" TEXT="2"/>
+<node CREATED="1600321952359" ID="ID_1688164940" LINK="http://funatoya.com/funatoka/anatomy/Rauber-Kopsch/band1/I-689.html" MODIFIED="1600321963934" TEXT="3. Rauber-Kopsch&#x89e3;&#x5256;&#x5b66;"/>
+<node CREATED="1600322248986" ID="ID_1153641821" LINK="https://kknews.cc/health/4lbm3jg.html" MODIFIED="1600322555476" TEXT="4. &#x624b;&#x4e0a;&#x9752;&#x7b4b;&#x7adf;&#x662f;&#x8840;&#x7ba1;&#xff1f;"/>
+</node>
+<node CREATED="1600319521523" ID="ID_659240819" MODIFIED="1600319524693" TEXT="2. &#x5168;&#x4f53;">
+<node CREATED="1600319526634" ID="ID_546695700" LINK="https://zh.wikipedia.org/wiki/%E8%A1%80%E7%AE%A1#/media/File:Circulatory_System_zh.svg" MODIFIED="1600319528671" TEXT="1"/>
+</node>
+</node>
+</node>
+<node CREATED="1600324419807" ID="ID_406237658" MODIFIED="1600324423132" POSITION="right" TEXT="X. search">
+<node CREATED="1600324424263" ID="ID_1011968816" LINK="https://duckduckgo.com/?q=&#x5927;&#x83f1;&#x5f62;&#x9aa8;&#x7d50;&#x7bc0;&amp;iar=images&amp;iax=images&amp;ia=images" MODIFIED="1600324435938" TEXT="1"/>
 </node>
 <node CREATED="1599891488382" ID="ID_1749747619" LINK="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\37_miscs\28_dessin-anim" MODIFIED="1599891534939" POSITION="left" TEXT="dir"/>
 <node CREATED="1599891286279" ID="ID_475109539" MODIFIED="1599891292676" POSITION="left" TEXT="2. &#x690d;&#x7269;">
