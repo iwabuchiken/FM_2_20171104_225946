@@ -176,6 +176,9 @@
 <node CREATED="1600239242340" ID="ID_289909357" LINK="https://www.skipperguide.de/wiki/Wasserpalstek" MODIFIED="1600239243982" TEXT="1"/>
 </node>
 </node>
+<node CREATED="1600317904168" ID="ID_1575042844" MODIFIED="1600317910495" TEXT="4. one-handed">
+<node CREATED="1600317911405" ID="ID_601425753" LINK="https://www.youtube.com/watch?v=H85cMlvwwXA" MODIFIED="1600317913818" TEXT="1"/>
+</node>
 </node>
 <node CREATED="1599715073364" ID="ID_786695715" MODIFIED="1599715127176" TEXT="2. &#x30c9;&#x30c3;&#x30af;&#x30d2;&#x30c3;&#x30c1;">
 <node CREATED="1599715134667" ID="ID_1848490639" LINK="https://www.youtube.com/watch?v=j5CxCgIf6vY" MODIFIED="1600237775814" TEXT="1. &#x91cd;&#x91cf;&#x7269;&#x3092;&#x540a;&#x3063;&#x305f;&#x308a;&#x5f15;&#x304d;&#x647a;&#x308a;&#x51fa;&#x3057;&#x305f;&#x308a;&#x3059;&#x308b;&#x3068;&#x304d;&#x306b;&#x4fbf;&#x5229;&#x306a;&#x30c9;&#x30c3;&#x30af;&#xff65;&#x30d2;&#x30c3;&#x30c1; (Masaos Dock Hitch)">
@@ -218,7 +221,13 @@
 </node>
 </node>
 <node CREATED="1599717314428" ID="ID_1015962494" MODIFIED="1600065157890" TEXT="9. &#x6d88;&#x9632;&#x95a2;&#x9023;">
-<node CREATED="1600065159061" ID="ID_1271137858" LINK="https://www.youtube.com/watch?v=qaWi03q4ziU" MODIFIED="1600065177780" TEXT="1. Selbstretten bei der Feuerwehr - Mastwurf, Halbmastwurf und Technik"/>
+<node CREATED="1600316363007" ID="ID_1932439531" MODIFIED="1600316374210" TEXT="1. HMS">
+<node CREATED="1600065159061" ID="ID_1271137858" LINK="https://www.youtube.com/watch?v=qaWi03q4ziU" MODIFIED="1600065177780" TEXT="1. Selbstretten bei der Feuerwehr - Mastwurf, Halbmastwurf und Technik">
+<node CREATED="1600315002391" ID="ID_1439340328" MODIFIED="1600315401063" TEXT="1:09 start"/>
+<node CREATED="1600315392438" ID="ID_1225362975" MODIFIED="1600315398391" TEXT="2:00 knotting"/>
+</node>
+<node CREATED="1600316381319" ID="ID_247630581" LINK="https://www.youtube.com/watch?v=80YDLMTDbjw" MODIFIED="1600316385043" TEXT="2."/>
+</node>
 </node>
 <node CREATED="1600239750699" ID="ID_1919539281" MODIFIED="1600239757111" TEXT="10. &#xff12;&#x672c;&#x3092;&#x3064;&#x306a;&#x3050;">
 <node CREATED="1600239758684" ID="ID_1802487640" MODIFIED="1600239775067" TEXT="1. Trossenstek">
