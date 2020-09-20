@@ -105,6 +105,7 @@
 </node>
 <node CREATED="1595138673241" ID="ID_1012298114" LINK="../../../../../../Utils/commands/push_fm.bat" MODIFIED="1595153337788" POSITION="left" TEXT="git"/>
 <node CREATED="1597648283741" ID="ID_890229997" MODIFIED="1600407770657" POSITION="left" TEXT="Types">
+<node CREATED="1600583792343" ID="ID_1266788804" MODIFIED="1600583797024" TEXT="1-10">
 <node CREATED="1597648292809" FOLDED="true" ID="ID_1274192753" LINK="https://de.wikipedia.org/wiki/Stopperknoten" MODIFIED="1600404131809" TEXT="1 Stopperknoten">
 <node CREATED="1597648312768" FOLDED="true" ID="ID_1435287278" LINK="https://de.wikipedia.org/wiki/Achtknoten" MODIFIED="1600404131809" TEXT="Achtknoten">
 <node CREATED="1597648361026" ID="ID_1266703303" LINK="https://ja.wikipedia.org/wiki/8&#x306e;&#x5b57;&#x7d50;&#x3073;" MODIFIED="1597648363547" TEXT="ja"/>
@@ -187,7 +188,7 @@
 </node>
 <node CREATED="1597820132634" ID="ID_534216742" LINK="https://news.livedoor.com/article/detail/10616830/" MODIFIED="1599715307509" TEXT="3. &#x30c8;&#x30e9;&#x30c3;&#x30ab;&#x30fc;&#x30ba;&#x30d2;&#x30c3;&#x30c1;"/>
 <node CREATED="1599716329244" FOLDED="true" ID="ID_1153050234" MODIFIED="1600404131855" TEXT="4. &#x30df;&#x30c3;&#x30c6;&#x30eb;&#x30de;&#x30f3;&#x7d50;&#x3073;">
-<arrowlink DESTINATION="ID_1052845819" ENDARROW="Default" ENDINCLINATION="349;0;" ID="Arrow_ID_722480686" STARTARROW="None" STARTINCLINATION="349;0;"/>
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1052845819" ENDARROW="Default" ENDINCLINATION="349;0;" ID="Arrow_ID_722480686" STARTARROW="None" STARTINCLINATION="349;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1153050234" ENDARROW="Default" ENDINCLINATION="63;0;" ID="Arrow_ID_572645659" SOURCE="ID_1089234535" STARTARROW="None" STARTINCLINATION="63;0;"/>
 <node CREATED="1599716402523" ID="ID_1889499782" LINK="https://3g2upl4pq6kufc4m.onion/?q=&#x30df;&#x30c3;&#x30c6;&#x30eb;&#x30de;&#x30f3;&#x7d50;&#x3073;" MODIFIED="1599716405153" TEXT="srch"/>
 <node CREATED="1599716412347" ID="ID_1793401733" LINK="https://www.youtube.com/watch?v=U4tEsqQajiw" MODIFIED="1599716414553" TEXT="1."/>
@@ -236,6 +237,8 @@
 <node CREATED="1600239776396" ID="ID_839818306" LINK="https://www.skipperguide.de/wiki/Trossenstek" MODIFIED="1600239779228" TEXT="1"/>
 </node>
 </node>
+</node>
+<node CREATED="1600583803641" ID="ID_99408828" MODIFIED="1600583805302" TEXT="11-20">
 <node CREATED="1600407781147" ID="ID_1207519501" MODIFIED="1600407786120" TEXT="11. list">
 <node CREATED="1600407804137" ID="ID_582361429" LINK="https://de.wikipedia.org/wiki/Liste_von_Knoten#Die_sortierbare_Liste_der_Knoten" MODIFIED="1600489460957" TEXT="1. Liste_von_Knoten">
 <arrowlink DESTINATION="ID_115094460" ENDARROW="Default" ENDINCLINATION="145;0;" ID="Arrow_ID_894521468" STARTARROW="None" STARTINCLINATION="145;0;"/>
@@ -252,6 +255,15 @@
 <node CREATED="1600490231512" ID="ID_1432404874" LINK="https://de.wikipedia.org/wiki/Kreuzbund_(Knoten)" MODIFIED="1600490235834" TEXT="1"/>
 <node CREATED="1600490232393" ID="ID_615890763" LINK="https://www.jurtenland.de/kreuzbund" MODIFIED="1600490241894" TEXT="2"/>
 <node CREATED="1600490242743" ID="ID_71795717" LINK="https://www.ontrail.at/rauhenstein/patrullenkiste/online-joker/die-8-schwerpunkte/ist-frohlich-und-unverzagt/bunde/" MODIFIED="1600490270754" TEXT="3"/>
+</node>
+<node CREATED="1600586016458" ID="ID_988946231" LINK="https://de.wikipedia.org/wiki/Diagonalbund" MODIFIED="1600586022870" TEXT="2. Diagonalbund"/>
+</node>
+<node CREATED="1600583808929" ID="ID_1964765074" MODIFIED="1600583812950" TEXT="14. &#x675f;&#x306d;&#x308b;">
+<node CREATED="1600583814266" ID="ID_1192529293" MODIFIED="1600583823734" TEXT="1. ropes">
+<node CREATED="1600583824512" ID="ID_499692248" LINK="https://3g2upl4pq6kufc4m.onion/?iax=images&amp;ia=images&amp;iai=http://mb923.net/wp-content/uploads/2012/02/P1080544.jpg" MODIFIED="1600583868021" TEXT="1. &#x9577;&#x5c3a;&#x30ed;&#x30fc;&#x30d7;&#x306e;&#x53ce;&#x7d0d;"/>
+<node CREATED="1600585366410" ID="ID_1250294147" LINK="https://www.youtube.com/watch?v=LuRRWNl1_Uw" MODIFIED="1600585380014" TEXT="2. &quot;&#x89e3;&#x304f;&#x3068;&#x304d;&#x7d61;&#x307e;&#x306a;&#x3044;&quot;"/>
+<node CREATED="1600585439442" ID="ID_1784839441" LINK="http://ropework.livedoor.biz/archives/51077956.html" MODIFIED="1600585451790" TEXT="3. &quot; &#x30b9;&#x30c8;&#x30e9;&#x30f3;&#x30b0;&#x30eb;&#x30fb;&#x30ce;&#x30c3;&#x30c8; &quot;"/>
+</node>
 </node>
 </node>
 <node CREATED="1597820101146" FOLDED="true" ID="ID_119879379" MODIFIED="1600404131871" TEXT="uncategorized">
