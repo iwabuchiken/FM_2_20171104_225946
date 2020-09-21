@@ -260,9 +260,17 @@
 </node>
 <node CREATED="1600583808929" ID="ID_1964765074" MODIFIED="1600583812950" TEXT="14. &#x675f;&#x306d;&#x308b;">
 <node CREATED="1600583814266" ID="ID_1192529293" MODIFIED="1600583823734" TEXT="1. ropes">
-<node CREATED="1600583824512" ID="ID_499692248" LINK="https://3g2upl4pq6kufc4m.onion/?iax=images&amp;ia=images&amp;iai=http://mb923.net/wp-content/uploads/2012/02/P1080544.jpg" MODIFIED="1600583868021" TEXT="1. &#x9577;&#x5c3a;&#x30ed;&#x30fc;&#x30d7;&#x306e;&#x53ce;&#x7d0d;"/>
+<node CREATED="1600583824512" ID="ID_499692248" LINK="https://www.youtube.com/watch?v=T6fMLyaquTQ" MODIFIED="1600672473242" TEXT="1. &#x9577;&#x5c3a;&#x30ed;&#x30fc;&#x30d7;&#x306e;&#x53ce;&#x7d0d;"/>
 <node CREATED="1600585366410" ID="ID_1250294147" LINK="https://www.youtube.com/watch?v=LuRRWNl1_Uw" MODIFIED="1600585380014" TEXT="2. &quot;&#x89e3;&#x304f;&#x3068;&#x304d;&#x7d61;&#x307e;&#x306a;&#x3044;&quot;"/>
 <node CREATED="1600585439442" ID="ID_1784839441" LINK="http://ropework.livedoor.biz/archives/51077956.html" MODIFIED="1600585451790" TEXT="3. &quot; &#x30b9;&#x30c8;&#x30e9;&#x30f3;&#x30b0;&#x30eb;&#x30fb;&#x30ce;&#x30c3;&#x30c8; &quot;"/>
+</node>
+<node CREATED="1600672799302" ID="ID_921556829" MODIFIED="1600672802405" TEXT="2. &#x30db;&#x30fc;&#x30b9;">
+<node CREATED="1600672803767" ID="ID_1792082311" LINK="https://www.youtube.com/watch?v=T6fMLyaquTQ" MODIFIED="1600673802688" TEXT="1. &quot;&#x30db;&#x30fc;&#x30b9;&#x306e;&#x306d;&#x3058;&#x308c;&#x306a;&#x3044;&#x5dfb;&#x304d;&#x65b9;&#x300e;&#xff18;&#x306e;&#x5b57;&#x5dfb;&#x304d;&#x300f;&#x306e;&#x65b9;&#x6cd5;&quot;">
+<node CREATED="1600672983167" ID="ID_1930449534" MODIFIED="1600672993707" TEXT="2:25"/>
+</node>
+</node>
+<node CREATED="1600673944883" ID="ID_322692582" MODIFIED="1600673955467" TEXT="3. &#x30c0;&#x30f3;&#x30dc;&#x30fc;&#x30eb;">
+<node CREATED="1600673955951" ID="ID_1004692890" LINK="https://www.youtube.com/watch?v=8DeA5YH53lo" MODIFIED="1600673959572" TEXT="1"/>
 </node>
 </node>
 </node>
