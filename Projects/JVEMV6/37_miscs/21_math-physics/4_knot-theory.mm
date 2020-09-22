@@ -210,7 +210,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1599885026673" FOLDED="true" ID="ID_1135538941" MODIFIED="1600407769847" TEXT="8. &#x8f2a;&#x3092;&#x4f5c;&#x308b;">
+<node CREATED="1599885026673" ID="ID_1135538941" MODIFIED="1600752724144" TEXT="8. &#x8f2a;&#x3092;&#x4f5c;&#x308b;">
 <node CREATED="1599885038315" ID="ID_1089234535" MODIFIED="1599885046321" TEXT="1. &#x30df;&#x30c3;&#x30c6;&#x30eb;&#x30de;&#x30f3;">
 <arrowlink DESTINATION="ID_1153050234" ENDARROW="Default" ENDINCLINATION="63;0;" ID="Arrow_ID_572645659" STARTARROW="None" STARTINCLINATION="63;0;"/>
 </node>
@@ -265,12 +265,18 @@
 <node CREATED="1600585439442" ID="ID_1784839441" LINK="http://ropework.livedoor.biz/archives/51077956.html" MODIFIED="1600585451790" TEXT="3. &quot; &#x30b9;&#x30c8;&#x30e9;&#x30f3;&#x30b0;&#x30eb;&#x30fb;&#x30ce;&#x30c3;&#x30c8; &quot;"/>
 </node>
 <node CREATED="1600672799302" ID="ID_921556829" MODIFIED="1600672802405" TEXT="2. &#x30db;&#x30fc;&#x30b9;">
-<node CREATED="1600672803767" ID="ID_1792082311" LINK="https://www.youtube.com/watch?v=T6fMLyaquTQ" MODIFIED="1600673802688" TEXT="1. &quot;&#x30db;&#x30fc;&#x30b9;&#x306e;&#x306d;&#x3058;&#x308c;&#x306a;&#x3044;&#x5dfb;&#x304d;&#x65b9;&#x300e;&#xff18;&#x306e;&#x5b57;&#x5dfb;&#x304d;&#x300f;&#x306e;&#x65b9;&#x6cd5;&quot;">
+<node CREATED="1600672803767" ID="ID_1792082311" LINK="https://www.youtube.com/watch?v=2Yd0fmftQ1g" MODIFIED="1600749881203" TEXT="1. &quot;&#x30db;&#x30fc;&#x30b9;&#x306e;&#x306d;&#x3058;&#x308c;&#x306a;&#x3044;&#x5dfb;&#x304d;&#x65b9;&#x300e;&#xff18;&#x306e;&#x5b57;&#x5dfb;&#x304d;&#x300f;&#x306e;&#x65b9;&#x6cd5;&quot;">
 <node CREATED="1600672983167" ID="ID_1930449534" MODIFIED="1600672993707" TEXT="2:25"/>
 </node>
 </node>
 <node CREATED="1600673944883" ID="ID_322692582" MODIFIED="1600673955467" TEXT="3. &#x30c0;&#x30f3;&#x30dc;&#x30fc;&#x30eb;">
-<node CREATED="1600673955951" ID="ID_1004692890" LINK="https://www.youtube.com/watch?v=8DeA5YH53lo" MODIFIED="1600673959572" TEXT="1"/>
+<node CREATED="1600673955951" ID="ID_1004692890" LINK="https://www.youtube.com/watch?v=8DeA5YH53lo" MODIFIED="1600673959572" TEXT="1">
+<node CREATED="1600753957006" ID="ID_159666290" MODIFIED="1600753959452" TEXT="1:20~"/>
+</node>
+</node>
+<node CREATED="1600752730694" ID="ID_416157686" MODIFIED="1600752744115" TEXT="4. &#x3044;&#x307c;&#x7d50;&#x3073;">
+<node CREATED="1600752745126" ID="ID_1479220831" LINK="https://www.youtube.com/watch?v=mEao9ASz-Uw" MODIFIED="1600752747036" TEXT="1"/>
+<node CREATED="1600755148968" ID="ID_1950398500" LINK="https://www.youtube.com/watch?v=wTVuywUpDBs" MODIFIED="1600755151436" TEXT="2"/>
 </node>
 </node>
 </node>
