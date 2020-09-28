@@ -126,8 +126,19 @@
 </node>
 </node>
 <node CREATED="1600757523828" ID="ID_1535028115" MODIFIED="1600757528305" TEXT="13. &#x8170;">
-<node CREATED="1600757529731" ID="ID_118713199" MODIFIED="1600757531402" TEXT="srch">
-<node CREATED="1600757542564" ID="ID_565235191" MODIFIED="1600757550192" TEXT="1. &#x8170; &#x9aa8;&#x683c;"/>
+<node CREATED="1600757529731" ID="ID_118713199" MODIFIED="1601283330108" TEXT="0. srch">
+<node CREATED="1600757542564" ID="ID_565235191" LINK="https://duckduckgo.com/?q=&#x8170;+&#x9aa8;&#x683c;&amp;iar=images&amp;iax=images&amp;ia=images" MODIFIED="1601283321123" TEXT="1. &#x8170; &#x9aa8;&#x683c;"/>
+<node CREATED="1601283279618" ID="ID_1467835176" LINK="https://duckduckgo.com/?q=&#x8178;&#x6065;&#x9686;&#x8d77;&amp;iar=images&amp;iax=images&amp;ia=images" MODIFIED="1601283292660" TEXT="2. &#x8178;&#x6065;&#x9686;&#x8d77;"/>
+</node>
+<node CREATED="1601280444024" ID="ID_135056897" MODIFIED="1601280452340" TEXT="1. &#x9aa8;&#x683c;">
+<node CREATED="1601280434516" ID="ID_1390128766" LINK="https://ameblo.jp/yojik-russia/entry-11728676766.html" MODIFIED="1601280710563" TEXT="1"/>
+<node CREATED="1601280437097" ID="ID_1152668796" LINK="http://anma.air-nifty.com/anma/body_browser/" MODIFIED="1601280787558" TEXT="2"/>
+<node CREATED="1601280437994" ID="ID_1056435356" LINK="https://www.positive-stretch.com/blog/p1608/" MODIFIED="1601280841511" TEXT="3"/>
+<node CREATED="1601280438595" ID="ID_1284585483" LINK="https://ameblo.jp/kzy619/entry-11295254733.html" MODIFIED="1601281940004" TEXT="4"/>
+<node CREATED="1601280439195" ID="ID_744469182" LINK="https://ameblo.jp/sakakichiro/entry-12261962417.html" MODIFIED="1601282087635" TEXT="5"/>
+<node CREATED="1601282506587" ID="ID_1568337253" LINK="https://www.weblio.jp/content/&#x8178;&#x6065;&#x9686;&#x8d77;" MODIFIED="1601282517163" TEXT="6"/>
+<node CREATED="1601282509378" ID="ID_550069972" LINK="https://shisei-hokou.com/2019/05/27/back-pain-posture/" MODIFIED="1601282560720" TEXT="7"/>
+<node CREATED="1601282513754" ID="ID_1035591829" LINK="https://www.takatsu-chiro.com/youtsu/youtsu.htm" MODIFIED="1601282588326" TEXT="8"/>
 </node>
 </node>
 </node>
