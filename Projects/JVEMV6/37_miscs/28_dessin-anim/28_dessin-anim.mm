@@ -140,6 +140,9 @@
 <node CREATED="1601282509378" ID="ID_550069972" LINK="https://shisei-hokou.com/2019/05/27/back-pain-posture/" MODIFIED="1601282560720" TEXT="7"/>
 <node CREATED="1601282513754" ID="ID_1035591829" LINK="https://www.takatsu-chiro.com/youtsu/youtsu.htm" MODIFIED="1601282588326" TEXT="8"/>
 </node>
+<node CREATED="1601543507279" ID="ID_1635567152" MODIFIED="1601543513991" TEXT="2. &#x7b4b;&#x8089;">
+<node CREATED="1601543523536" ID="ID_1609852698" LINK="http://anma.air-nifty.com/anma/body_browser/" MODIFIED="1601544112644" TEXT="1. &#x9aa8;&#x76e4;&#x3068;&#x80a1;&#x95a2;&#x7bc0;&#x306e;&#x9aa8;&#x683c;&#x56f3;"/>
+</node>
 </node>
 </node>
 <node CREATED="1600324419807" ID="ID_406237658" MODIFIED="1600324423132" POSITION="right" TEXT="X. search">
