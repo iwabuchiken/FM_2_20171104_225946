@@ -283,7 +283,9 @@
 </node>
 </node>
 <node CREATED="1601794799859" ID="ID_1780405739" LINK="https://www.youtube.com/playlist?list=PL1M56VNUZBwYeEKFP_GuCIIggxIkVCPt7" MODIFIED="1601794804989" TEXT="4">
-<node CREATED="1601794815396" ID="ID_101198640" LINK="https://www.youtube.com/watch?v=Kx92QWmJ7Yg&amp;list=PL1M56VNUZBwYeEKFP_GuCIIggxIkVCPt7&amp;index=1" MODIFIED="1601794820227" TEXT="1. The One Rope Bridge (Commando Bridge)"/>
+<node CREATED="1601794815396" ID="ID_101198640" LINK="https://www.youtube.com/watch?v=Kx92QWmJ7Yg&amp;list=PL1M56VNUZBwYeEKFP_GuCIIggxIkVCPt7&amp;index=1" MODIFIED="1601794820227" TEXT="1. The One Rope Bridge (Commando Bridge)">
+<node CREATED="1601883836018" ID="ID_1775945198" MODIFIED="1601883839302" TEXT="2:44"/>
+</node>
 </node>
 </node>
 <node CREATED="1601015873890" ID="ID_503264993" LINK="https://www.youtube.com/c/coalcrackerbushcraft" MODIFIED="1601015889015" TEXT="3. Coalcracker Bushcraft"/>
