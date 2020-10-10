@@ -249,7 +249,8 @@
 <node CREATED="1600407804137" ID="ID_582361429" LINK="https://de.wikipedia.org/wiki/Liste_von_Knoten#Die_sortierbare_Liste_der_Knoten" MODIFIED="1600489460957" TEXT="1. Liste_von_Knoten">
 <arrowlink DESTINATION="ID_115094460" ENDARROW="Default" ENDINCLINATION="145;0;" ID="Arrow_ID_894521468" STARTARROW="None" STARTINCLINATION="145;0;"/>
 </node>
-<node CREATED="1601015829385" ID="ID_1221224153" LINK="https://www.youtube.com/playlist?list=PL1M56VNUZBwabVo-TZyQEU_60Tdbjwqnf" MODIFIED="1601794796782" TEXT="2. Ropes, Cordage and Knots (Corporals Corner)">
+<node CREATED="1602319389463" ID="ID_666858171" LINK="https://www.youtube.com/user/recall5811/playlists" MODIFIED="1602319550366" TEXT="2. Corporals Corner">
+<node CREATED="1601015829385" ID="ID_1221224153" LINK="https://www.youtube.com/playlist?list=PL1M56VNUZBwabVo-TZyQEU_60Tdbjwqnf" MODIFIED="1602319405665" TEXT="2. Ropes, Cordage and Knots (Corporals Corner)">
 <node CREATED="1601192071892" FOLDED="true" ID="ID_583374467" LINK="https://www.youtube.com/watch?v=eJFxLzZepRY&amp;list=PL1M56VNUZBwabVo-TZyQEU_60Tdbjwqnf&amp;index=1" MODIFIED="1601794795863" TEXT="1. 8 Essential Camp Knots and Hitches That You Need to Know">
 <node CREATED="1601192115530" ID="ID_387620003" MODIFIED="1601192560598" TEXT="0:46 bowline"/>
 <node CREATED="1601192539418" ID="ID_1213319421" MODIFIED="1601192557559" TEXT="2:02 binding knot"/>
@@ -282,22 +283,26 @@
 <node CREATED="1601792580963" ID="ID_1938771303" MODIFIED="1601792583233" TEXT="14:54"/>
 </node>
 </node>
-<node CREATED="1601794799859" ID="ID_1780405739" LINK="https://www.youtube.com/playlist?list=PL1M56VNUZBwYeEKFP_GuCIIggxIkVCPt7" MODIFIED="1601794804989" TEXT="4">
-<node CREATED="1601794815396" ID="ID_101198640" LINK="https://www.youtube.com/watch?v=Kx92QWmJ7Yg&amp;list=PL1M56VNUZBwYeEKFP_GuCIIggxIkVCPt7&amp;index=1" MODIFIED="1601794820227" TEXT="1. The One Rope Bridge (Commando Bridge)">
+<node CREATED="1601794799859" ID="ID_1780405739" LINK="https://www.youtube.com/playlist?list=PL1M56VNUZBwYeEKFP_GuCIIggxIkVCPt7" MODIFIED="1601794804989" TEXT="4"/>
+</node>
+<node CREATED="1602319339323" ID="ID_1105731004" LINK="https://www.youtube.com/playlist?list=PL1M56VNUZBwYeEKFP_GuCIIggxIkVCPt7" MODIFIED="1602319351155" TEXT="1. Rope Bridges">
+<node COLOR="#338800" CREATED="1601794815396" ID="ID_101198640" LINK="https://www.youtube.com/watch?v=Kx92QWmJ7Yg&amp;list=PL1M56VNUZBwYeEKFP_GuCIIggxIkVCPt7&amp;index=1" MODIFIED="1602321407663" TEXT="1. The One Rope Bridge (Commando Bridge)">
 <node CREATED="1601883836018" ID="ID_1775945198" MODIFIED="1601883839302" TEXT="2:44"/>
 <node CREATED="1602052698325" ID="ID_1042942171" MODIFIED="1602054015767" TEXT="4:35 tie the other end"/>
 </node>
-<node CREATED="1602232767847" ID="ID_1715732653" LINK="https://www.youtube.com/playlist?list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ" MODIFIED="1602232785530" TEXT="2. Poncho and Poncho Liner">
-<node CREATED="1602054689660" ID="ID_433170044" LINK="https://www.youtube.com/watch?v=YFeYgVZ9Ks8&amp;list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ&amp;index=1" MODIFIED="1602232799890" TEXT="1. hammocks">
+<node COLOR="#338800" CREATED="1602319454590" ID="ID_207730672" LINK="https://www.youtube.com/watch?v=OSpurTahTWI&amp;list=PL1M56VNUZBwYeEKFP_GuCIIggxIkVCPt7&amp;index=3" MODIFIED="1602321402780" TEXT="2. The Swiss Seat ::]20201010_181639"/>
+<node CREATED="1602321433974" ID="ID_361979995" LINK="https://www.youtube.com/watch?v=-40fugwyzVU&amp;list=PL1M56VNUZBwYeEKFP_GuCIIggxIkVCPt7&amp;index=4" MODIFIED="1602321460971" TEXT="3. Improvised Fall Restraint (Lanyard)"/>
+</node>
+<node COLOR="#338800" CREATED="1602232767847" FOLDED="true" ID="ID_1715732653" LINK="https://www.youtube.com/playlist?list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ" MODIFIED="1602319417331" TEXT="2. Poncho and Poncho Liner ::]20201010_173826">
+<node CREATED="1602054689660" FOLDED="true" ID="ID_433170044" LINK="https://www.youtube.com/watch?v=YFeYgVZ9Ks8&amp;list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ&amp;index=1" MODIFIED="1602319124770" TEXT="1. hammocks">
 <node CREATED="1602145242366" ID="ID_1785535720" MODIFIED="1602145245522" TEXT="2:30"/>
 <node CREATED="1602147205619" ID="ID_85520713" MODIFIED="1602147207537" TEXT="4:50"/>
 <node CREATED="1602149003045" ID="ID_799204517" MODIFIED="1602149008769" TEXT="7:07 prusik"/>
 </node>
-<node CREATED="1602233990778" ID="ID_28963069" LINK="https://www.youtube.com/watch?v=N0G7RJRMzF4&amp;list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ&amp;index=8" MODIFIED="1602234002123" TEXT="2. The Shelter-Half Hammock">
+<node CREATED="1602233990778" FOLDED="true" ID="ID_28963069" LINK="https://www.youtube.com/watch?v=N0G7RJRMzF4&amp;list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ&amp;index=8" MODIFIED="1602319124772" TEXT="2. The Shelter-Half Hammock">
 <node CREATED="1602234032008" ID="ID_660942667" MODIFIED="1602234042581" TEXT="4:18~ tie the rope"/>
 </node>
 <node CREATED="1602235935812" ID="ID_434360635" LINK="https://www.youtube.com/watch?v=Y-W-W_EIVLQ&amp;list=PL1M56VNUZBwbiGgXp6u0xSBafN770KXCJ&amp;index=9" MODIFIED="1602235967789" TEXT="3. The Emergency Stretcher"/>
-</node>
 </node>
 </node>
 <node CREATED="1601015873890" ID="ID_503264993" LINK="https://www.youtube.com/c/coalcrackerbushcraft" MODIFIED="1601015889015" TEXT="3. Coalcracker Bushcraft"/>
