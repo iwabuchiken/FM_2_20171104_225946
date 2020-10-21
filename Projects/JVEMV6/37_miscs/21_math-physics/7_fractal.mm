@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1603128106572" ID="ID_1288595720" LINK="../2)_37_miscs-of-miscs.mm" MODIFIED="1603262308246" TEXT="7_fractal.mm">
 <node CREATED="1603262315772" ID="ID_1574688227" LINK="https://ja.wikipedia.org/wiki/&#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;" MODIFIED="1603262330668" POSITION="right" TEXT="1. &#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;">
-<node CREATED="1603262529782" ID="ID_1207975362" MODIFIED="1603262554941" TEXT="2. &#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6b21;&#x5143;">
+<node CREATED="1603262529782" ID="ID_1207975362" LINK="https://ja.wikipedia.org/wiki/&#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6b21;&#x5143;" MODIFIED="1603288026680" TEXT="2. &#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6b21;&#x5143;">
 <node CREATED="1603264090441" ID="ID_1363411492" LINK="https://en.wikipedia.org/wiki/Hausdorff_measure" MODIFIED="1603267010856" TEXT="6. &#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6e2c;&#x5ea6; #">
 <node CREATED="1603264239462" ID="ID_1501500845" LINK="https://en.wikipedia.org/wiki/Outer_measure" MODIFIED="1603264769392" TEXT="6-1. outer measure"/>
 <node CREATED="1603264423858" ID="ID_88940399" MODIFIED="1603264774242" TEXT="6-2. geometric measure theory"/>
@@ -17,10 +17,20 @@
 </node>
 </node>
 </node>
-<node CREATED="1603266929813" ID="ID_659384791" LINK="https://ja.wikipedia.org/wiki/&#x30b8;&#x30e7;&#x30eb;&#x30c0;&#x30f3;&#x6e2c;&#x5ea6;" MODIFIED="1603267034829" TEXT="13. &#x30b8;&#x30e7;&#x30eb;&#x30c0;&#x30f3;&#x6e2c;&#x5ea6;"/>
+<node CREATED="1603266929813" ID="ID_659384791" LINK="https://ja.wikipedia.org/wiki/&#x30b8;&#x30e7;&#x30eb;&#x30c0;&#x30f3;&#x6e2c;&#x5ea6;" MODIFIED="1603267034829" TEXT="13. &#x30b8;&#x30e7;&#x30eb;&#x30c0;&#x30f3;&#x6e2c;&#x5ea6;">
+<node CREATED="1603287936196" ID="ID_280076828" MODIFIED="1603287937318" TEXT="#1"/>
+<node CREATED="1603287937560" ID="ID_1819262622" LINK="https://ja.wikipedia.org/wiki/&#x30b8;&#x30e7;&#x30eb;&#x30c0;&#x30f3;&#x6e2c;&#x5ea6;#&#x3088;&#x308a;&#x8907;&#x96d1;&#x306a;&#x56f3;&#x5f62;&#x3078;&#x306e;&#x62e1;&#x5f35;" MODIFIED="1603287946103" TEXT="#2 &#x30b8;&#x30e7;&#x30eb;&#x30c0;&#x30f3;&#x6e2c;&#x5ea6;#&#x3088;&#x308a;&#x8907;&#x96d1;&#x306a;&#x56f3;&#x5f62;&#x3078;&#x306e;&#x62e1;&#x5f35;"/>
+</node>
 <node CREATED="1603266857054" ID="ID_1486959122" MODIFIED="1603266858635" TEXT="texts">
 <node CREATED="1603266860004" ID="ID_943194604" MODIFIED="1603266871032" TEXT="#1 &#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;&#x5e7e;&#x4f55;&#x5b66;&#x306b;&#x304a;&#x3051;&#x308b;"/>
 <node CREATED="1603266861166" ID="ID_1728400149" MODIFIED="1603266885228" TEXT="#2 &#x521d;&#x7b49;&#x5e7e;&#x4f55;&#x5b66;&#x3067;&#x7528;&#x3044;&#x3089;&#x308c;&#x308b;&#x901a;&#x5e38;&#x306e;"/>
+</node>
+<node CREATED="1603289089105" ID="ID_66349880" LINK="https://en.wikipedia.org/wiki/Hausdorff_dimension" MODIFIED="1603289102015" TEXT="2-1. Hausdorff_dimension">
+<node CREATED="1603289182936" ID="ID_1485434532" MODIFIED="1603289184234" TEXT="texts">
+<node CREATED="1603289179672" ID="ID_1128222581" MODIFIED="1603289181894" TEXT="#1 In mathematics, Hausdorff dimension is"/>
+<node CREATED="1603289196149" ID="ID_307754375" MODIFIED="1603289198417" TEXT="#2 However, formulas have also been"/>
+<node CREATED="1603289459918" ID="ID_390236922" MODIFIED="1603289462532" TEXT="#3 In mathematical terms, the Hausdorff dimension generalizes "/>
+</node>
 </node>
 </node>
 <node CREATED="1603262539998" ID="ID_1749328146" MODIFIED="1603262558160" TEXT="3. &#x4f4d;&#x76f8;&#x6b21;&#x5143;"/>
