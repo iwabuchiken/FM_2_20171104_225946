@@ -8,11 +8,12 @@
 <node CREATED="1603263548969" ID="ID_1317668502" MODIFIED="1603264121737" TEXT="e-3"/>
 </node>
 <node CREATED="1603348919167" ID="ID_835977892" MODIFIED="1603348921056" TEXT="texts">
-<node CREATED="1603348939299" ID="ID_909079481" MODIFIED="1603348941687" TEXT="#1&#x300c;&#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6b21;&#x5143;&#x304c;&#x4f4d;&#x76f8;&#x6b21;&#x5143;&#x3092;&#x53b3;&#x5bc6;&#x306b;"/>
-<node CREATED="1603348956256" ID="ID_1555445291" MODIFIED="1603348958567" TEXT="#2 &#x5b8c;&#x5168;&#x306b;&#x81ea;&#x5df1;&#x76f8;&#x4f3c;&#x306a;"/>
+<node COLOR="#338800" CREATED="1603348939299" ID="ID_909079481" MODIFIED="1603356529199" TEXT="#1&#x300c;&#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6b21;&#x5143;&#x304c;&#x4f4d;&#x76f8;&#x6b21;&#x5143;&#x3092;&#x53b3;&#x5bc6;&#x306b;"/>
+<node COLOR="#338800" CREATED="1603348956256" ID="ID_1555445291" MODIFIED="1603356529197" TEXT="#2 &#x5b8c;&#x5168;&#x306b;&#x81ea;&#x5df1;&#x76f8;&#x4f3c;&#x306a;"/>
+<node CREATED="1603356523525" ID="ID_1702382181" MODIFIED="1603356525986" TEXT="#3 &#x3053;&#x306e;&#x69d8;&#x306a;&#x56f3;&#x5f62;&#x3092;&#x8a55;&#x4fa1;&#x3059;&#x308b;&#x305f;&#x3081;&#x306b;&#x5c0e;&#x5165;&#x3055;&#x308c;&#x305f;&#x306e;&#x304c;&#x3001;"/>
 </node>
-<node CREATED="1603262529782" FOLDED="true" ID="ID_1207975362" LINK="https://ja.wikipedia.org/wiki/&#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6b21;&#x5143;" MODIFIED="1603347050123" TEXT="2. &#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6b21;&#x5143;">
-<node CREATED="1603264090441" FOLDED="true" ID="ID_1363411492" LINK="https://en.wikipedia.org/wiki/Hausdorff_measure" MODIFIED="1603347050092" TEXT="6. &#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6e2c;&#x5ea6; #">
+<node COLOR="#338800" CREATED="1603262529782" FOLDED="true" ID="ID_1207975362" LINK="https://ja.wikipedia.org/wiki/&#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6b21;&#x5143;" MODIFIED="1603356790068" TEXT="2. &#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6b21;&#x5143;">
+<node CREATED="1603264090441" FOLDED="true" ID="ID_1363411492" LINK="https://en.wikipedia.org/wiki/Hausdorff_measure" MODIFIED="1603356790065" TEXT="6. &#x30cf;&#x30a6;&#x30b9;&#x30c9;&#x30eb;&#x30d5;&#x6e2c;&#x5ea6; #">
 <node CREATED="1603264239462" ID="ID_1501500845" LINK="https://en.wikipedia.org/wiki/Outer_measure" MODIFIED="1603264769392" TEXT="6-1. outer measure"/>
 <node CREATED="1603264423858" ID="ID_88940399" MODIFIED="1603264774242" TEXT="6-2. geometric measure theory"/>
 <node CREATED="1603264599765" FOLDED="true" ID="ID_1322096825" LINK="https://en.wikipedia.org/wiki/Measure_(mathematics)" MODIFIED="1603347050092" TEXT="6-3. Measure theory">
@@ -47,18 +48,26 @@
 <node CREATED="1603346824211" ID="ID_125618870" MODIFIED="1603346851442" TEXT="17. Minkowski&#x2013;Bouligand dimension"/>
 </node>
 </node>
-<node CREATED="1603262539998" ID="ID_1749328146" LINK="https://ja.wikipedia.org/wiki/&#x30eb;&#x30d9;&#x30fc;&#x30b0;&#x88ab;&#x8986;&#x6b21;&#x5143;" MODIFIED="1603347175658" TEXT="3. &#x4f4d;&#x76f8;&#x6b21;&#x5143;">
-<node CREATED="1603347385566" ID="ID_824718821" LINK="https://ja.wikipedia.org/wiki/&#x4f4d;&#x76f8;&#x7a7a;&#x9593;" MODIFIED="1603347435649" TEXT="3-1. &#x4f4d;&#x76f8;&#x7a7a;&#x9593;">
-<node CREATED="1603347818644" ID="ID_91078830" MODIFIED="1603347820921" TEXT="texts">
+<node COLOR="#338800" CREATED="1603262539998" FOLDED="true" ID="ID_1749328146" LINK="https://ja.wikipedia.org/wiki/&#x30eb;&#x30d9;&#x30fc;&#x30b0;&#x88ab;&#x8986;&#x6b21;&#x5143;" MODIFIED="1603356791740" TEXT="3. &#x4f4d;&#x76f8;&#x6b21;&#x5143;">
+<node COLOR="#338800" CREATED="1603347385566" FOLDED="true" ID="ID_824718821" LINK="https://ja.wikipedia.org/wiki/&#x4f4d;&#x76f8;&#x7a7a;&#x9593;" MODIFIED="1603356791736" TEXT="3-1. &#x4f4d;&#x76f8;&#x7a7a;&#x9593;">
+<node CREATED="1603347818644" FOLDED="true" ID="ID_91078830" MODIFIED="1603356791734" TEXT="texts">
 <node CREATED="1603347821708" ID="ID_233718886" MODIFIED="1603347824393" TEXT="#1 &#x4f4d;&#x76f8;&#x7a7a;&#x9593;&#x306e;&#x53b3;&#x5bc6;&#x306a;&#x5b9a;&#x7fa9;&#x306f;"/>
 </node>
-<node CREATED="1603347936056" ID="ID_1894986577" LINK="https://ja.wikipedia.org/wiki/&#x3079;&#x304d;&#x96c6;&#x5408;" MODIFIED="1603347963101" TEXT="18. &#x3079;&#x304d;&#x96c6;&#x5408;"/>
+<node COLOR="#338800" CREATED="1603347936056" ID="ID_1894986577" LINK="https://ja.wikipedia.org/wiki/&#x3079;&#x304d;&#x96c6;&#x5408;" MODIFIED="1603355700661" TEXT="18. &#x3079;&#x304d;&#x96c6;&#x5408;"/>
 <node CREATED="1603348633873" ID="ID_1724247044" MODIFIED="1603348654138" TEXT="18-1. &#x958b;&#x96c6;&#x5408;"/>
 <node CREATED="1603348658169" ID="ID_831590702" MODIFIED="1603348665050" TEXT="18-2. &#x53f0;&#x96c6;&#x5408;"/>
 </node>
-<node CREATED="1603347409199" ID="ID_1965320547" LINK="https://ja.wikipedia.org/wiki/&#x4f4d;&#x76f8;&#x7684;&#x6027;&#x8cea;" MODIFIED="1603347465394" TEXT="3-2. &#x4f4d;&#x76f8;&#x4e0d;&#x5909;&#x91cf;"/>
+<node COLOR="#338800" CREATED="1603347409199" ID="ID_1965320547" LINK="https://ja.wikipedia.org/wiki/&#x4f4d;&#x76f8;&#x7684;&#x6027;&#x8cea;" MODIFIED="1603355695905" TEXT="3-2. &#x4f4d;&#x76f8;&#x4e0d;&#x5909;&#x91cf;"/>
+<node CREATED="1603355747123" FOLDED="true" ID="ID_644978661" MODIFIED="1603356791738" TEXT="texts">
+<node COLOR="#338800" CREATED="1603355760485" ID="ID_1499725314" MODIFIED="1603356775044" TEXT="#1 &#x4f4d;&#x76f8;&#x7a7a;&#x9593; X &#x306e;&#x88ab;&#x8986;&#x6b21;&#x5143;&#x306f;&#x3001;"/>
 </node>
-<node CREATED="1603262545831" ID="ID_389137728" MODIFIED="1603262561975" TEXT="4. &#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;&#x6b21;&#x5143;"/>
+</node>
+<node CREATED="1603262545831" ID="ID_389137728" LINK="https://ja.wikipedia.org/wiki/&#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;&#x6b21;&#x5143;" MODIFIED="1603356504807" TEXT="4. &#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;&#x6b21;&#x5143;">
+<node CREATED="1603356800076" ID="ID_431729473" MODIFIED="1603356846896" TEXT="@@@">
+<cloud/>
+<font NAME="SansSerif" SIZE="20"/>
+</node>
+</node>
 <node CREATED="1603263573804" ID="ID_1945546229" LINK="https://ja.wikipedia.org/wiki/&#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;&#x5e7e;&#x4f55;" MODIFIED="1603263582272" TEXT="5. &#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;&#x5e7e;&#x4f55;"/>
 </node>
 </node>
