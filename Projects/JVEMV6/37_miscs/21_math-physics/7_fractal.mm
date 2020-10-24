@@ -78,11 +78,11 @@
 <node CREATED="1603516130210" ID="ID_261602642" LINK="https://shibayama.issp.u-tokyo.ac.jp/one_point/files/fractaldimension.html" MODIFIED="1603516151038" TEXT="2. &quot;&#x8eab;&#x8fd1;&#x306a;&#x6750;&#x6599;&#x3092;&#x4f7f;&#x3063;&#x3066;&#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;&#x306e;&#x5b9f;&#x9a13;&quot;"/>
 </node>
 <node COLOR="#338800" CREATED="1603263573804" ID="ID_1945546229" LINK="https://ja.wikipedia.org/wiki/&#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;&#x5e7e;&#x4f55;" MODIFIED="1603516027427" TEXT="5. &#x30d5;&#x30e9;&#x30af;&#x30bf;&#x30eb;&#x5e7e;&#x4f55;"/>
-<node CREATED="1603516206869" FOLDED="true" ID="ID_1608724290" LINK="https://ja.wikipedia.org/wiki/&#x30de;&#x30f3;&#x30c7;&#x30eb;&#x30d6;&#x30ed;&#x96c6;&#x5408;" MODIFIED="1603521501962" TEXT="20. &#x30de;&#x30f3;&#x30c7;&#x30eb;&#x30d6;&#x30ed;&#x96c6;&#x5408; #">
-<node CREATED="1603516403386" FOLDED="true" ID="ID_1306344588" LINK="https://ja.wikipedia.org/wiki/&#x5145;&#x586b;&#x30b8;&#x30e5;&#x30ea;&#x30a2;&#x96c6;&#x5408;" MODIFIED="1603521501962" TEXT="21. &#x5145;&#x586b;&#x30b8;&#x30e5;&#x30ea;&#x30a2;&#x96c6;&#x5408; #">
-<node CREATED="1603516508190" FOLDED="true" ID="ID_223506271" LINK="https://ja.wikipedia.org/wiki/&#x30b8;&#x30e5;&#x30ea;&#x30a2;&#x96c6;&#x5408;" MODIFIED="1603521501962" TEXT="21-2. &#x30b8;&#x30e5;&#x30ea;&#x30a2;&#x96c6;&#x5408; #">
-<node CREATED="1603516568523" FOLDED="true" ID="ID_1912473480" LINK="https://ja.wikipedia.org/wiki/&#x6b63;&#x898f;&#x65cf;" MODIFIED="1603521501962" TEXT="22. &#x6b63;&#x898f;&#x65cf; #">
-<node CREATED="1603521093179" FOLDED="true" ID="ID_1037934009" MODIFIED="1603521501961" TEXT="further">
+<node CREATED="1603516206869" ID="ID_1608724290" LINK="https://ja.wikipedia.org/wiki/&#x30de;&#x30f3;&#x30c7;&#x30eb;&#x30d6;&#x30ed;&#x96c6;&#x5408;" MODIFIED="1603530221097" TEXT="20. &#x30de;&#x30f3;&#x30c7;&#x30eb;&#x30d6;&#x30ed;&#x96c6;&#x5408; #">
+<node CREATED="1603516403386" ID="ID_1306344588" LINK="https://ja.wikipedia.org/wiki/&#x5145;&#x586b;&#x30b8;&#x30e5;&#x30ea;&#x30a2;&#x96c6;&#x5408;" MODIFIED="1603530221097" TEXT="21. &#x5145;&#x586b;&#x30b8;&#x30e5;&#x30ea;&#x30a2;&#x96c6;&#x5408; #">
+<node CREATED="1603516508190" ID="ID_223506271" LINK="https://ja.wikipedia.org/wiki/&#x30b8;&#x30e5;&#x30ea;&#x30a2;&#x96c6;&#x5408;" MODIFIED="1603530221113" TEXT="21-2. &#x30b8;&#x30e5;&#x30ea;&#x30a2;&#x96c6;&#x5408; #">
+<node CREATED="1603516568523" ID="ID_1912473480" LINK="https://ja.wikipedia.org/wiki/&#x6b63;&#x898f;&#x65cf;" MODIFIED="1603530223796" TEXT="22. &#x6b63;&#x898f;&#x65cf; #">
+<node CREATED="1603521093179" ID="ID_1037934009" MODIFIED="1603530247055" TEXT="further">
 <node COLOR="#338800" CREATED="1603517267950" FOLDED="true" ID="ID_571733565" LINK="https://ja.wikipedia.org/wiki/&#x9023;&#x7d9a;&#x5199;&#x50cf;" MODIFIED="1603521177614" TEXT="22-1. &#x9023;&#x7d9a;&#x5199;&#x50cf;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_571733565" ENDARROW="Default" ENDINCLINATION="226;0;" ID="Arrow_ID_1214555386" SOURCE="ID_858147211" STARTARROW="None" STARTINCLINATION="226;0;"/>
 <node COLOR="#338800" CREATED="1603517875245" FOLDED="true" ID="ID_827729201" LINK="https://ja.wikipedia.org/wiki/&#x6e96;&#x540c;&#x578b;" MODIFIED="1603521118336" TEXT="23. &#x6e96;&#x540c;&#x578b;">
@@ -118,8 +118,19 @@
 </node>
 <node CREATED="1603517304324" ID="ID_1760103912" LINK="https://ja.wikipedia.org/wiki/&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x958b;&#x4f4d;&#x76f8;" MODIFIED="1603521183638" TEXT="22-2. &#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x958b;&#x4f4d;&#x76f8; #">
 <arrowlink DESTINATION="ID_93161278" ENDARROW="None" ENDINCLINATION="229;0;" ID="Arrow_ID_1337020155" STARTARROW="Default" STARTINCLINATION="229;0;"/>
+<node CREATED="1603531250583" ID="ID_645394312" MODIFIED="1603531252705" TEXT="texts">
+<node COLOR="#338800" CREATED="1603531253554" ID="ID_580036653" MODIFIED="1603531269459" TEXT="#1"/>
+<node CREATED="1603531265488" ID="ID_809123406" MODIFIED="1603531267892" TEXT="#2 &#x307e;&#x305f;&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x958b;&#x4f4d;&#x76f8;&#x3092;"/>
 </node>
-<node CREATED="1603517335289" ID="ID_298059852" LINK="https://ja.wikipedia.org/wiki/&#x76f8;&#x5bfe;&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x90e8;&#x5206;&#x7a7a;&#x9593;" MODIFIED="1603517564416" TEXT="22-3. &#x76f8;&#x5bfe;&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8; #"/>
+<node CREATED="1603531290597" ID="ID_335474875" MODIFIED="1603531291847" TEXT="fur">
+<node CREATED="1603531325940" ID="ID_1120203202" LINK="https://ja.wikipedia.org/wiki/&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x7a7a;&#x9593;" MODIFIED="1603531355698" TEXT="24. &#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x90e8;&#x5206;&#x96c6;&#x5408;"/>
+<node CREATED="1603531366774" ID="ID_1413155196" LINK="https://ja.wikipedia.org/wiki/&#x5c40;&#x6240;&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x7a7a;&#x9593;" MODIFIED="1603531374639" TEXT="24-1. &#x5c40;&#x6240;&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;"/>
+<node CREATED="1603531410069" ID="ID_1247529945" LINK="https://ja.wikipedia.org/wiki/&#x57fa;&#x5e95;_(&#x4f4d;&#x76f8;&#x7a7a;&#x9593;&#x8ad6;)" MODIFIED="1603531424571" TEXT="24-2. &#x6e96;&#x958b;&#x57fa;"/>
+</node>
+</node>
+<node CREATED="1603517335289" ID="ID_298059852" LINK="https://ja.wikipedia.org/wiki/&#x76f8;&#x5bfe;&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x90e8;&#x5206;&#x7a7a;&#x9593;" MODIFIED="1603531487385" TEXT="22-3. &#x76f8;&#x5bfe;&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8; #">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_298059852" ENDARROW="Default" ENDINCLINATION="226;0;" ID="Arrow_ID_1820380820" SOURCE="ID_1789548055" STARTARROW="None" STARTINCLINATION="226;0;"/>
+</node>
 <node CREATED="1603517388675" ID="ID_1918980005" LINK="https://ja.wikipedia.org/wiki/&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x7a7a;&#x9593;" MODIFIED="1603517566327" TEXT="22-4. &#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8; #"/>
 <node CREATED="1603517413822" ID="ID_508561904" LINK="https://ja.wikipedia.org/wiki/&#x95a2;&#x6570;&#x7a7a;&#x9593;" MODIFIED="1603517567764" TEXT="22-5. &#x95a2;&#x6570;&#x7a7a;&#x9593; #"/>
 <node CREATED="1603517458519" ID="ID_1121290774" LINK="https://ja.wikipedia.org/wiki/&#x5b8c;&#x5099;&#x8ddd;&#x96e2;&#x7a7a;&#x9593;" MODIFIED="1603517569739" TEXT="22-6. &#x5b8c;&#x5099;&#x8ddd;&#x96e2;&#x7a7a;&#x9593; #"/>
@@ -127,13 +138,16 @@
 <node CREATED="1603517500672" ID="ID_1834445940" LINK="https://ja.wikipedia.org/wiki/&#x5217;_(&#x6570;&#x5b66;)" MODIFIED="1603517573327" TEXT="22-8. &#x5217;_(&#x6570;&#x5b66;) #"/>
 <node CREATED="1603517527700" ID="ID_79403865" LINK="https://ja.wikipedia.org/wiki/&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x4e00;&#x69d8;&#x53ce;&#x675f;" MODIFIED="1603517575035" TEXT="22-9. &#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x4e00;&#x69d8;&#x53ce;&#x675f; #"/>
 </node>
-<node CREATED="1603521119325" FOLDED="true" ID="ID_73648960" MODIFIED="1603521501962" TEXT="texts">
+<node CREATED="1603521119325" ID="ID_73648960" MODIFIED="1603530224763" TEXT="texts">
 <node COLOR="#338800" CREATED="1603521125869" ID="ID_1925494437" MODIFIED="1603521148817" TEXT="#1"/>
 <node COLOR="#338800" CREATED="1603521133372" ID="ID_858147211" MODIFIED="1603521177615" TEXT="#2 &#x9023;&#x7d9a;&#x5199;&#x50cf;&#x306e;&#x96c6;&#x5408;&#x306b;">
 <arrowlink DESTINATION="ID_571733565" ENDARROW="Default" ENDINCLINATION="226;0;" ID="Arrow_ID_1214555386" STARTARROW="None" STARTINCLINATION="226;0;"/>
 </node>
-<node CREATED="1603521144285" ID="ID_93161278" MODIFIED="1603521183638" TEXT="#3 &#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x958b;&#x4f4d;&#x76f8;&#x3092;&#x5165;&#x308c;&#x305f;&#x3068;&#x304d;&#x306e;">
+<node COLOR="#338800" CREATED="1603521144285" ID="ID_93161278" MODIFIED="1603531480295" TEXT="#3 &#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x958b;&#x4f4d;&#x76f8;&#x3092;&#x5165;&#x308c;&#x305f;&#x3068;&#x304d;&#x306e;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_93161278" ENDARROW="None" ENDINCLINATION="229;0;" ID="Arrow_ID_1337020155" SOURCE="ID_1760103912" STARTARROW="Default" STARTINCLINATION="229;0;"/>
+</node>
+<node CREATED="1603531475320" ID="ID_1789548055" MODIFIED="1603531487386" TEXT="#4 &#x76f8;&#x5bfe;&#x30b3;&#x30f3;&#x30d1;&#x30af;&#x30c8;&#x90e8;&#x5206;&#x96c6;&#x5408;&#x306e;">
+<arrowlink DESTINATION="ID_298059852" ENDARROW="Default" ENDINCLINATION="226;0;" ID="Arrow_ID_1820380820" STARTARROW="None" STARTINCLINATION="226;0;"/>
 </node>
 </node>
 </node>
