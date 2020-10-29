@@ -89,6 +89,7 @@
 </node>
 </node>
 </node>
+<node CREATED="1603961462122" ID="ID_702848920" MODIFIED="1603961466202" POSITION="right" TEXT="C. flute-bamboo"/>
 <node CREATED="1595138673241" ID="ID_1012298114" LINK="C:\WORKS_2\Utils\commands\push_fm.bat" MODIFIED="1595153380057" POSITION="left" TEXT="git"/>
 </node>
 </map>
