@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1603632218717" ID="ID_421414033" LINK="../2)_37_miscs-of-miscs.mm" MODIFIED="1603632281232" TEXT="8. gauge theory">
+<node CREATED="1603632218717" ID="ID_421414033" LINK="../2)_37_miscs-of-miscs.mm" MODIFIED="1604218639784" TEXT="8. gauge theory">
 <node CREATED="1603632317663" ID="ID_242266010" LINK="https://ja.wikipedia.org/wiki/&#x30b2;&#x30fc;&#x30b8;&#x7406;&#x8ad6;" MODIFIED="1603632606738" POSITION="right" TEXT="1. &#x30b2;&#x30fc;&#x30b8;&#x7406;&#x8ad6;">
 <node CREATED="1603632610683" ID="ID_1454408122" MODIFIED="1603632612529" TEXT="fur">
 <node CREATED="1603633159977" ID="ID_258774376" LINK="https://ja.wikipedia.org/wiki/&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30a2;&#x30f3;_(&#x5834;&#x306e;&#x7406;&#x8ad6;)" MODIFIED="1604114686525" TEXT="2. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30a2;&#x30f3;_(&#x5834;&#x306e;&#x7406;&#x8ad6;) #">
