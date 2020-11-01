@@ -14,6 +14,18 @@
 <node CREATED="1601186247389" ID="ID_1728585255" MODIFIED="1601255325148" TEXT="8. &#x80c3;">
 <node CREATED="1601186256474" MODIFIED="1601186267459" TEXT="1. &#x5065;&#x80c3;"/>
 </node>
+<node CREATED="1604207687262" ID="ID_1663248867" MODIFIED="1604207690562" TEXT="9. &#x89e3;&#x5256;">
+<node CREATED="1604207691599" ID="ID_407814719" MODIFIED="1604207698987" TEXT="1. &#x811b;">
+<node CREATED="1604207814328" ID="ID_1625848688" MODIFIED="1604207816599" TEXT="search">
+<node CREATED="1604207823485" ID="ID_779942512" LINK="https://3g2upl4pq6kufc4m.onion/?q=&#x811b;+&#x30ea;&#x30f3;&#x30d1;&#x817a;&amp;ia=web" MODIFIED="1604207943387" TEXT="1. &#x811b;+&#x30ea;&#x30f3;&#x30d1;&#x817a;"/>
+<node CREATED="1604208091385" ID="ID_1823048226" LINK="https://3g2upl4pq6kufc4m.onion/?q=&#x811a;+&#x30ea;&#x30f3;&#x30d1;&#x817a;&amp;iax=images&amp;ia=images" MODIFIED="1604208101213" TEXT="2. &#x811a;+&#x30ea;&#x30f3;&#x30d1;&#x817a;"/>
+</node>
+<node CREATED="1604207760505" ID="ID_654859469" MODIFIED="1604207761879" TEXT="docs">
+<node CREATED="1604208454233" ID="ID_27867931" LINK="https://www.chugai-pharm.co.jp/ptn/medicine/karada/karada023.html" MODIFIED="1604208476470" TEXT="d-1. &#x514d;&#x75ab;&#x306b;&#x3064;&#x3044;&#x3066;"/>
+<node CREATED="1604208498906" ID="ID_791751630" LINK="https://www.kango-roo.com/learning/7109/" MODIFIED="1604208515998" TEXT="d-1.1. &#x5168;&#x8eab;&#x306e;&#x30ea;&#x30f3;&#x30d1;&#x7cfb;&#x306e;&#x3057;&#x304f;&#x307f;"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </map>
