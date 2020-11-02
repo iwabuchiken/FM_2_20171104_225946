@@ -3,11 +3,11 @@
 <node CREATED="1603632218717" ID="ID_421414033" LINK="../2)_37_miscs-of-miscs.mm" MODIFIED="1604218639784" TEXT="8. gauge theory">
 <node CREATED="1603632317663" ID="ID_242266010" LINK="https://ja.wikipedia.org/wiki/&#x30b2;&#x30fc;&#x30b8;&#x7406;&#x8ad6;" MODIFIED="1603632606738" POSITION="right" TEXT="1. &#x30b2;&#x30fc;&#x30b8;&#x7406;&#x8ad6;">
 <node CREATED="1603632610683" ID="ID_1454408122" MODIFIED="1603632612529" TEXT="fur">
-<node CREATED="1603633159977" ID="ID_258774376" LINK="https://ja.wikipedia.org/wiki/&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30a2;&#x30f3;_(&#x5834;&#x306e;&#x7406;&#x8ad6;)" MODIFIED="1604114686525" TEXT="2. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30a2;&#x30f3;_(&#x5834;&#x306e;&#x7406;&#x8ad6;) #">
-<node CREATED="1603633337917" ID="ID_221017844" MODIFIED="1604114686525" TEXT="fur">
+<node CREATED="1603633159977" ID="ID_258774376" LINK="https://ja.wikipedia.org/wiki/&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30a2;&#x30f3;_(&#x5834;&#x306e;&#x7406;&#x8ad6;)" MODIFIED="1604290421410" TEXT="2. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30a2;&#x30f3;_(&#x5834;&#x306e;&#x7406;&#x8ad6;) #">
+<node CREATED="1603633337917" ID="ID_221017844" MODIFIED="1604291064055" TEXT="fur">
 <node CREATED="1603633339829" ID="ID_1756042240" MODIFIED="1603679732462" TEXT="3. &#x53e4;&#x5178;&#x5834;&#x7406;&#x8ad6; #"/>
-<node CREATED="1603633356961" ID="ID_268862416" LINK="https://ja.wikipedia.org/wiki/&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x529b;&#x5b66;" MODIFIED="1604114686540" TEXT="3-1. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x529b;&#x5b66; #">
-<node CREATED="1603679659316" ID="ID_260113749" MODIFIED="1604114693358" TEXT="fur">
+<node CREATED="1603633356961" ID="ID_268862416" LINK="https://ja.wikipedia.org/wiki/&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x529b;&#x5b66;" MODIFIED="1604291064060" TEXT="3-1. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x529b;&#x5b66; #">
+<node CREATED="1603679659316" ID="ID_260113749" MODIFIED="1604291064071" TEXT="fur">
 <node CREATED="1603679663550" FOLDED="true" ID="ID_259918611" MODIFIED="1604114581052" TEXT="4. &#x4e00;&#x822c;&#x5316;&#x5ea7;&#x6a19; #">
 <node CREATED="1603698744902" FOLDED="true" ID="ID_877880250" MODIFIED="1604114581052" TEXT="fur">
 <node CREATED="1603698749231" ID="ID_437838558" MODIFIED="1603698775003" TEXT="5. &#x30cb;&#x30e5;&#x30fc;&#x30c8;&#x30f3;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;"/>
@@ -27,31 +27,48 @@
 <node CREATED="1603679906014" ID="ID_509919414" LINK="https://ja.wikipedia.org/wiki/&#x6c4e;&#x51fd;&#x6570;" MODIFIED="1603680237289" TEXT="4-4. &#x4f5c;&#x7528;&#x6c4e;&#x95a2;&#x6570; #">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_509919414" ENDARROW="Default" ENDINCLINATION="112;0;" ID="Arrow_ID_217411029" SOURCE="ID_1337327079" STARTARROW="None" STARTINCLINATION="112;0;"/>
 </node>
-<node COLOR="#338800" CREATED="1603897580804" ID="ID_232957430" LINK="http://hooktail.sub.jp/analytic/equationOfLagrange/" MODIFIED="1604114694918" TEXT="4-5. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;">
-<node CREATED="1603981729625" ID="ID_1662579530" MODIFIED="1604114695588" TEXT="texts">
+<node COLOR="#338800" CREATED="1603897580804" ID="ID_232957430" LINK="http://hooktail.sub.jp/analytic/equationOfLagrange/" MODIFIED="1604291064075" TEXT="4-5. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;">
+<node CREATED="1603981729625" FOLDED="true" ID="ID_1662579530" MODIFIED="1604290420443" TEXT="texts">
 <node COLOR="#338800" CREATED="1603981771631" ID="ID_998769393" MODIFIED="1603981945399" TEXT="#1 &#x89e3;&#x6790;&#x529b;&#x5b66;&#x306b;&#x306f;&#xff0c;&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x306e;"/>
 <node COLOR="#338800" CREATED="1603981942198" ID="ID_306729019" MODIFIED="1603982102974" TEXT="#2 &#x3042;&#x308b;&#x30dd;&#x30c6;&#x30f3;&#x30b7;&#x30e3;&#x30eb;"/>
 <node COLOR="#338800" CREATED="1603982098503" ID="ID_1979020123" MODIFIED="1603982484886" TEXT="#3 &#x8cea;&#x70b9;&#x306e;&#x904b;&#x52d5;&#x30a8;&#x30cd;&#x30eb;&#x30ae;&#x30fc;&#x3092;"/>
 <node COLOR="#338800" CREATED="1603982481423" ID="ID_767829148" MODIFIED="1603982833614" TEXT="#4 &#x3044;&#x307e;&#x793a;&#x305d;&#x3046;&#x3068;&#x3057;&#x3066;&#x3044;&#x308b;&#x3053;&#x3068;&#x306f;"/>
 <node COLOR="#338800" CREATED="1603982829407" ID="ID_238674597" MODIFIED="1603983046062" TEXT="#5 &#x4ee5;&#x4e0a;&#x306e;&#x4f8b;&#xff08;&#x4f4d;&#x7f6e;&#x306b;&#x6bd4;&#x4f8b;&#x3059;&#x308b;"/>
 </node>
-<node CREATED="1603982996119" ID="ID_343739678" MODIFIED="1604114696493" TEXT="fur">
-<node COLOR="#338800" CREATED="1603983000327" ID="ID_509196207" LINK="http://hooktail.sub.jp/analytic/harmonicAndLagrange/" MODIFIED="1604114753147" TEXT="7. &#x8abf;&#x548c;&#x632f;&#x52d5;&#x5b50;&#x3068;&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;">
-<node CREATED="1603356800076" ID="ID_431729473" MODIFIED="1603608971013" TEXT="@@@">
+<node CREATED="1603982996119" ID="ID_343739678" MODIFIED="1604291064084" TEXT="fur">
+<node COLOR="#338800" CREATED="1603983000327" ID="ID_509196207" LINK="http://hooktail.sub.jp/analytic/harmonicAndLagrange/" MODIFIED="1604291189923" TEXT="7. &#x8abf;&#x548c;&#x632f;&#x52d5;&#x5b50;&#x3068;&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;">
+<node CREATED="1603984125526" ID="ID_1416233930" MODIFIED="1603984127907" TEXT="texts"/>
+</node>
+<node CREATED="1604113617710" ID="ID_1318555913" LINK="https://eman-physics.net/analytic/lagrange2.html" MODIFIED="1604114728676" TEXT="7-1. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x65b9;&#x7a0b;&#x5f0f;&#x306e;&#x5229;&#x70b9;">
+<node CREATED="1604291187060" ID="ID_1663807128" MODIFIED="1604291188844" TEXT="texts">
+<node CREATED="1603356800076" ID="ID_431729473" MODIFIED="1604291192543" TEXT="@@@">
 <cloud/>
 <font NAME="SansSerif" SIZE="20"/>
 </node>
-<node CREATED="1603984125526" ID="ID_1416233930" MODIFIED="1603984127907" TEXT="texts"/>
+<node COLOR="#338800" CREATED="1604291301165" ID="ID_1715122580" MODIFIED="1604292114022" TEXT="#1"/>
+<node COLOR="#338800" CREATED="1604291302333" ID="ID_647740279" MODIFIED="1604292112822" TEXT="#2 &#x30c7;&#x30ab;&#x30eb;&#x30c8;&#x5ea7;&#x6a19;&#x3067;&#x6210;&#x308a;&#x7acb;&#x3064;">
+<node CREATED="1604292170502" ID="ID_918069842" MODIFIED="1604292180339" TEXT="thema-3. &#x884c;&#x5217;&#x5f0f;">
+<node COLOR="#006699" CREATED="1604293316013" ID="ID_1493859645" MODIFIED="1604294335357" TEXT="search">
+<node COLOR="#006699" CREATED="1604293320141" ID="ID_516929761" LINK="https://3g2upl4pq6kufc4m.onion/?q=&#x884c;&#x5217;&#x5f0f;+&#xff13;&#x884c;&amp;ia=web" MODIFIED="1604294331433" TEXT="1. &#x884c;&#x5217;&#x5f0f;+&#xff13;&#x884c;">
+<font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1604113617710" ID="ID_1318555913" LINK="https://eman-physics.net/analytic/lagrange2.html" MODIFIED="1604114728676" TEXT="7-1. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x65b9;&#x7a0b;&#x5f0f;&#x306e;&#x5229;&#x70b9;"/>
-<node CREATED="1604113674258" ID="ID_980087192" MODIFIED="1604114699036" TEXT="thema-1. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; &#x6975;&#x5ea7;&#x6a19;">
+</node>
+<node CREATED="1604292181477" ID="ID_1997964050" MODIFIED="1604292182419" TEXT="docs">
+<node COLOR="#338800" CREATED="1604293299870" ID="ID_1305555082" LINK="https://risalc.info/src/determinant-three-by-three.html#def" MODIFIED="1604294325761" STYLE="fork" TEXT="1. 3&#x6b21;&#x306e;&#x884c;&#x5217;&#x5f0f;"/>
+</node>
+</node>
+</node>
+<node CREATED="1604292109493" ID="ID_719596393" MODIFIED="1604292111267" TEXT="#3 &#x6b21;&#x306b; (1) (2) &#x5f0f;&#x306e;"/>
+</node>
+</node>
+<node CREATED="1604113674258" ID="ID_980087192" MODIFIED="1604291195165" TEXT="thema-1. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; &#x6975;&#x5ea7;&#x6a19;">
 <node CREATED="1604113716004" ID="ID_904068333" LINK="http://physics.thick.jp/Mechanics/Section2/2-5.html" MODIFIED="1604113730219" TEXT="8. &#x3000;3&#x6b21;&#x5143;&#x6975;&#x5ea7;&#x6a19;&#xff08;&#x7403;&#x5ea7;&#x6a19;&#xff09;&#x3067;&#x306e;&#x30cb;&#x30e5;&#x30fc;&#x30c8;&#x30f3;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;"/>
 <node CREATED="1604113858387" ID="ID_445636749" LINK="http://bakamoto.sakura.ne.jp/buturi/kaiseki/2.html#mjx-eqn-lahd" MODIFIED="1604114714808" TEXT="8-1. &#x7b2c;2&#x7ae0;&#x3000;&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x65b9;&#x7a0b;&#x5f0f;  (bakamoto.sakura.ne.jp)"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1603679753288" ID="ID_881527956" MODIFIED="1604114686540" TEXT="texts">
+<node CREATED="1603679753288" FOLDED="true" ID="ID_881527956" MODIFIED="1604290420458" TEXT="texts">
 <node COLOR="#338800" CREATED="1603679758196" ID="ID_662462157" MODIFIED="1603680253233" TEXT="#1"/>
 <node COLOR="#338800" CREATED="1603679767749" ID="ID_939247993" MODIFIED="1603680253233" TEXT="#2 &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x5f62;&#x5f0f;&#x306e;&#x89e3;&#x6790;&#x529b;&#x5b66;&#x306f;"/>
 <node COLOR="#338800" CREATED="1603679790773" ID="ID_1337327079" LINK="https://ja.wikipedia.org/wiki/&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x529b;&#x5b66;#&#x5b9a;&#x5f0f;&#x5316;" MODIFIED="1603680253217" TEXT="#3 &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x529b;&#x5b66;#&#x5b9a;&#x5f0f;&#x5316;">
