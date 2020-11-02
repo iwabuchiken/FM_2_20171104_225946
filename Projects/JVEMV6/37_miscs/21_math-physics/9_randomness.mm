@@ -23,24 +23,34 @@
 <node COLOR="#338800" CREATED="1604036877597" ID="ID_1655136641" MODIFIED="1604036965244" TEXT="#5 &#x30e9;&#x30f3;&#x30c0;&#x30e0;&#x6027;&#x306f;&#x3001;&#x3088;&#x304f;&#x5b9a;&#x7fa9;&#x3055;&#x308c;&#x305f;"/>
 <node CREATED="1604036962163" ID="ID_793750636" MODIFIED="1604036963974" TEXT="#6 &#x7121;&#x4f5c;&#x70ba;&#x62bd;&#x51fa;(random selection)&#x306f;&#x3001;"/>
 </node>
-<node CREATED="1604038646611" ID="ID_1121034358" MODIFIED="1604038652952" TEXT="fur">
-<node CREATED="1604038653994" ID="ID_719896597" MODIFIED="1604038737095" TEXT="2. randomness tests">
-<node CREATED="1604038743882" ID="ID_1399337751" LINK="https://en.wikipedia.org/wiki/CUSUM" MODIFIED="1604039058958" TEXT="2-1. CUSUM">
-<node CREATED="1604038952393" ID="ID_820377128" MODIFIED="1604038953774" TEXT="fur">
+<node CREATED="1604038646611" ID="ID_1121034358" MODIFIED="1604308278740" TEXT="fur">
+<node CREATED="1604038653994" ID="ID_719896597" MODIFIED="1604308279598" TEXT="2. randomness tests">
+<node CREATED="1604038743882" ID="ID_1399337751" LINK="https://en.wikipedia.org/wiki/CUSUM" MODIFIED="1604308283047" TEXT="2-1. CUSUM">
+<node CREATED="1604038952393" ID="ID_820377128" MODIFIED="1604308283796" TEXT="fur">
 <node CREATED="1604038954561" ID="ID_966862065" LINK="https://blogs.sas.com/content/iml/2019/04/22/cusum-test-randomness-binary-sequence.html" MODIFIED="1604039029286" TEXT="2-1-1.  The CUSUM test for randomness of a binary sequence "/>
 </node>
 </node>
 <node CREATED="1604039066889" ID="ID_1033011110" LINK="https://en.wikipedia.org/wiki/Randomness_tests" MODIFIED="1604039074782" TEXT="2-2. Randomness_tests"/>
-<node CREATED="1604039278722" ID="ID_958621390" MODIFIED="1604039282043" TEXT="docs">
+<node CREATED="1604039278722" ID="ID_958621390" MODIFIED="1604308281159" TEXT="docs">
 <node CREATED="1604039282045" ID="ID_1080056226" LINK="http://daas.la.coocan.jp/GLM/8_nichi_data.htm" MODIFIED="1604039299935" TEXT="doc-2.1. 2&#x5024;&#x30c7;&#x30fc;&#x30bf;&#x306e;&#x89e3;&#x6790;"/>
 <node CREATED="1604039334122" ID="ID_1441017239" LINK="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&amp;item_id=73958&amp;item_no=1&amp;attribute_id=1&amp;file_no=1" MODIFIED="1604039355914" TEXT="doc-2.2. RMT&#x516c;&#x5f0f;&#x3092;&#x7528;&#x3044;&#x305f;&#x4e71;&#x6570;&#x5ea6;&#x8a55;&#x4fa1;&#x6cd5;&#x306e;&#x63d0;&#x6848;"/>
-<node CREATED="1604039366122" ID="ID_1173891019" LINK="https://www.nli-research.co.jp/report/detail/id=52138?site=nli" MODIFIED="1604040606359" TEXT="doc-2.3. &#x30e9;&#x30f3;&#x30c0;&#x30e0;&#x304b;&#x3069;&#x3046;&#x304b;&#x306e;&#x5224;&#x65ad;">
-<node CREATED="1604040607618" ID="ID_1958113102" MODIFIED="1604040609215" TEXT="texts">
-<node CREATED="1604040620266" ID="ID_351376093" MODIFIED="1604040621135" TEXT="#1"/>
+<node CREATED="1604039366122" FOLDED="true" ID="ID_1173891019" LINK="https://www.nli-research.co.jp/report/detail/id=52138?site=nli" MODIFIED="1604308212599" TEXT="doc-2.3. &#x30e9;&#x30f3;&#x30c0;&#x30e0;&#x304b;&#x3069;&#x3046;&#x304b;&#x306e;&#x5224;&#x65ad;">
+<node CREATED="1604040958635" FOLDED="true" ID="ID_158241998" MODIFIED="1604308212584" TEXT="search">
+<node CREATED="1604040964771" ID="ID_242829282" MODIFIED="1604040995455" TEXT="s-2. &#x30a6;&#x30a3;&#x30eb;&#x30b3;&#x30af;&#x30bd;&#x30f3;&#x306e;&#x9806;&#x4f4d;&#x548c;&#x691c;&#x5b9a;"/>
+</node>
+<node CREATED="1604040607618" FOLDED="true" ID="ID_1958113102" MODIFIED="1604308212584" TEXT="texts">
+<node COLOR="#338800" CREATED="1604040620266" ID="ID_351376093" MODIFIED="1604308029998" TEXT="#1"/>
 <node CREATED="1604040621426" ID="ID_1190101498" MODIFIED="1604040623927" TEXT="#2 &#x3053;&#x306e;&#x3088;&#x3046;&#x306b;2&#x7a2e;&#x985e;&#x306e;&#x6587;&#x5b57;&#x304c;"/>
 </node>
-<node CREATED="1604040958635" ID="ID_158241998" MODIFIED="1604040961551" TEXT="search">
-<node CREATED="1604040964771" ID="ID_242829282" MODIFIED="1604040995455" TEXT="s-2. &#x30a6;&#x30a3;&#x30eb;&#x30b3;&#x30af;&#x30bd;&#x30f3;&#x306e;&#x9806;&#x4f4d;&#x548c;&#x691c;&#x5b9a;"/>
+<node CREATED="1604308113489" FOLDED="true" ID="ID_200051052" MODIFIED="1604308212599" TEXT="fur">
+<node CREATED="1604308122900" FOLDED="true" ID="ID_1545822989" MODIFIED="1604308212599" TEXT="thema-1. wilcockson test (&#x30a6;&#x30a3;&#x30eb;&#x30b3;&#x30af;&#x30bd;&#x30f3;&#x30f3;&#x9806;&#x4f4d;&#x548c;&#x691c;&#x5b9a;)">
+<node CREATED="1604308155052" FOLDED="true" ID="ID_1976357561" MODIFIED="1604308212584" TEXT="search">
+<node CREATED="1604308168419" ID="ID_826561490" LINK="https://3g2upl4pq6kufc4m.onion/?q=wilcockson+randomness&amp;ia=web" MODIFIED="1604308175886" TEXT="1. wilcockson+randomness"/>
+</node>
+<node CREATED="1604308157103" FOLDED="true" ID="ID_672019620" MODIFIED="1604308212599" TEXT="docs">
+<node CREATED="1604308184845" ID="ID_1405555623" LINK="https://www.investopedia.com/terms/w/wilcoxon-test.asp" MODIFIED="1604308197345" TEXT="1. Wilcoxon Test"/>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1604041180506" ID="ID_799569728" LINK="https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=151216" MODIFIED="1604041205215" TEXT="doc-2.4. Randomness Testing of the Advanced Encryption Standard Finalist Candidates"/>
@@ -52,6 +62,15 @@
 </node>
 <node CREATED="1604040188378" ID="ID_696522737" MODIFIED="1604040191511" POSITION="right" TEXT="interests">
 <node CREATED="1604040197890" ID="ID_1002793361" LINK="https://en.wikipedia.org/wiki/Algorithmic_information_theory" MODIFIED="1604040206255" TEXT="i-1. Algorithmic_information_theory"/>
+<node CREATED="1604306560034" ID="ID_125390323" MODIFIED="1604306564928" TEXT="i-2. &#x5bfe;&#x6570;">
+<node CREATED="1604306827945" ID="ID_1440170503" MODIFIED="1604306829957" TEXT="search">
+<node CREATED="1604306831473" ID="ID_107640084" MODIFIED="1604306831862" TEXT="1"/>
+</node>
+<node CREATED="1604306565882" ID="ID_1656900839" MODIFIED="1604306568454" TEXT="docs">
+<node CREATED="1604306571313" ID="ID_475975551" LINK="https://ja.wikipedia.org/wiki/&#x5bfe;&#x6570;" MODIFIED="1604306601366" TEXT="doc-3.1. &#x5bfe;&#x6570; (wi)"/>
+<node CREATED="1604307029530" ID="ID_85931843" LINK="https://www.omnicalculator.com/math/antilog" MODIFIED="1604307041613" TEXT="doc-3.2. #converter"/>
+</node>
+</node>
 </node>
 <node CREATED="1603692636563" ID="ID_557702357" MODIFIED="1603692642625" POSITION="left" TEXT="spreadsheets">
 <node CREATED="1603692649230" ID="ID_1169494083" LINK="C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\21_math&amp;physics\9_randomness\res_[37#21.9_math].[theme=random].[session-1~].ods" MODIFIED="1603693226748" TEXT="1"/>
