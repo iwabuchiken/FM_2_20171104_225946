@@ -14,6 +14,7 @@
 <node COLOR="#338800" CREATED="1604220059580" ID="ID_918869965" LINK="https://ja.wikipedia.org/wiki/&#x30ac;&#x30c0;&#x30eb;&#x30ab;&#x30ca;&#x30eb;&#x5cf6;&#x306e;&#x6226;&#x3044;#&#x80cc;&#x666f;" MODIFIED="1604221541002" TEXT="#2 &#x30ac;&#x30c0;&#x30eb;&#x30ab;&#x30ca;&#x30eb;&#x5cf6;&#x306e;&#x6226;&#x3044;#&#x80cc;&#x666f;"/>
 <node COLOR="#338800" CREATED="1604221311181" ID="ID_1018086390" LINK="https://ja.wikipedia.org/wiki/&#x30ac;&#x30c0;&#x30eb;&#x30ab;&#x30ca;&#x30eb;&#x5cf6;&#x306e;&#x6226;&#x3044;#&#x6226;&#x95d8;&#x306e;&#x7d4c;&#x904e;" MODIFIED="1604221541002" TEXT="#3 &#x30ac;&#x30c0;&#x30eb;&#x30ab;&#x30ca;&#x30eb;&#x5cf6;&#x306e;&#x6226;&#x3044;#&#x6226;&#x95d8;&#x306e;&#x7d4c;&#x904e;"/>
 <node CREATED="1604220713435" ID="ID_861947820" MODIFIED="1604221345853" TEXT="#4 &#x4e0a;&#x9678;&#x5f53;&#x521d;&#x3001;&#x6700;&#x3082;&#x6575;&#x306b;"/>
+<node CREATED="1604298705479" ID="ID_1915287693" LINK="https://ja.wikipedia.org/wiki/&#x30ac;&#x30c0;&#x30eb;&#x30ab;&#x30ca;&#x30eb;&#x5cf6;&#x306e;&#x6226;&#x3044;#&#x7b2c;&#x4e00;&#x6b21;&#x30bd;&#x30ed;&#x30e2;&#x30f3;&#x6d77;&#x6226;" MODIFIED="1604298715246" TEXT="#5 &#x7b2c;&#x4e00;&#x6b21;&#x30bd;&#x30ed;&#x30e2;&#x30f3;&#x6d77;&#x6226;"/>
 </node>
 </node>
 <node CREATED="1604220793028" ID="ID_412830311" LINK="https://en.wikipedia.org/wiki/Guadalcanal_campaign#/media/File:Guadalcanal_Aug_7_landings.svg" MODIFIED="1604220812000" TEXT="1.1. Guadalcanal_Aug_7_landings.svg"/>
