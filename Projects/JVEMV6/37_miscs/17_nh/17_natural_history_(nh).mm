@@ -35,17 +35,26 @@
 </node>
 <node CREATED="1604071253957" ID="ID_599787195" MODIFIED="1604071255540" TEXT="fur">
 <node CREATED="1604071255541" ID="ID_613293424" MODIFIED="1604071300875" TEXT="21-1. &#x4e94;&#x8f9b;"/>
+<node CREATED="1604554136458" ID="ID_386983340" LINK="https://ja.wikipedia.org/wiki/&#x30a2;&#x30ea;&#x30a4;&#x30f3;" MODIFIED="1604554516310" TEXT="21-2. &#x30a2;&#x30ea;&#x30a4;&#x30f3; (wi)"/>
+</node>
+<node CREATED="1604554187169" ID="ID_1581833792" MODIFIED="1604554189447" TEXT="topics">
+<node CREATED="1604554190140" ID="ID_712153753" MODIFIED="1604554195944" TEXT="&#x30a4;&#x30bd;&#x30a2;&#x30ea;&#x30a4;&#x30f3;">
+<node CREATED="1604554197136" ID="ID_1142904148" MODIFIED="1604554198682" TEXT="docs">
+<node CREATED="1604554201887" ID="ID_5542269" LINK="http://www.bloodsugar-lower.com/ingredient/onion.html" MODIFIED="1604554331597" TEXT="21-3. &#x7389;&#x306d;&#x304e;&#x306e;&#x30a4;&#x30bd;&#x30a2;&#x30ea;&#x30a4;&#x30f3;&#x3001;&#x8840;&#x7cd6;&#x5024;&#x3092;&#x4e0b;&#x3052;&#x308b;&#x52b9;&#x679c;&#x3068;&#x306f;&#xff1f;"/>
+<node CREATED="1604554291448" ID="ID_1042893494" LINK="https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200907042269024997" MODIFIED="1604554308107" TEXT="21-3.1. &#x30a4;&#x30bd;&#x30a2;&#x30ea;&#x30a4;&#x30f3;"/>
+</node>
+</node>
 </node>
 </node>
 </node>
 </node>
 <node CREATED="1604205024450" ID="ID_1982305355" MODIFIED="1604205032346" TEXT="27. &#x304b;&#x307c;&#x3059;"/>
-<node CREATED="1604205973011" ID="ID_1465563281" MODIFIED="1604205977295" TEXT="28. &#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;">
-<node CREATED="1604070983453" ID="ID_1283808741" MODIFIED="1604070986418" TEXT="docs">
-<node CREATED="1604205987862" ID="ID_504173597" LINK="https://ja.wikipedia.org/wiki/&#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;" MODIFIED="1604206225553" TEXT="d-1. &#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc; (wi)">
+<node CREATED="1604205973011" FOLDED="true" ID="ID_1465563281" MODIFIED="1604553710477" TEXT="28. &#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;">
+<node CREATED="1604070983453" FOLDED="true" ID="ID_1283808741" MODIFIED="1604553710477" TEXT="docs">
+<node CREATED="1604205987862" FOLDED="true" ID="ID_504173597" LINK="https://ja.wikipedia.org/wiki/&#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;" MODIFIED="1604553710462" TEXT="d-1. &#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc; (wi)">
 <node COLOR="#338800" CREATED="1604206168863" ID="ID_467991757" MODIFIED="1604207234594" TEXT="#1"/>
 <node COLOR="#338800" CREATED="1604206170479" ID="ID_1874504478" LINK="https://ja.wikipedia.org/wiki/&#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;#&#x85ac;&#x52b9;" MODIFIED="1604207234593" TEXT="#2 &#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;#&#x85ac;&#x52b9;"/>
-<node CREATED="1604207225350" ID="ID_1711116593" LINK="https://ja.wikipedia.org/wiki/&#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;#&#x6210;&#x5206;" MODIFIED="1604207231794" TEXT="#3 &#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;#&#x6210;&#x5206;">
+<node CREATED="1604207225350" FOLDED="true" ID="ID_1711116593" LINK="https://ja.wikipedia.org/wiki/&#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;#&#x6210;&#x5206;" MODIFIED="1604553710446" TEXT="#3 &#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;#&#x6210;&#x5206;">
 <node COLOR="#3333ff" CREATED="1603356800076" ID="ID_431729473" MODIFIED="1604071093981" TEXT="@@@">
 <cloud COLOR="#ffff33"/>
 <font NAME="SansSerif" SIZE="20"/>
@@ -54,8 +63,8 @@
 </node>
 <node CREATED="1604206032057" ID="ID_741836154" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/43996" MODIFIED="1604206241832" TEXT="d-1.2. memo"/>
 <node CREATED="1604206053720" ID="ID_858977698" LINK="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=&#x30ed;&#x30fc;&#x30ba;&#x30de;&#x30ea;&#x30fc;+-&#x7d4c;&#x904e;&amp;sort=file_name&amp;direction=desc&amp;RBs_AND_OR_Memo=AND" MODIFIED="1604206405824" TEXT="d-1.3. list of memos"/>
-<node CREATED="1604206406501" ID="ID_344875784" LINK="https://ja.wikipedia.org/wiki/&#x30ab;&#x30eb;&#x30ce;&#x30b7;&#x30f3;&#x9178;" MODIFIED="1604206419826" TEXT="d-1.4. &#x30ab;&#x30eb;&#x30ce;&#x30b7;&#x30f3;&#x9178;">
-<node CREATED="1604206547200" ID="ID_1011627579" MODIFIED="1604206549011" TEXT="texts">
+<node CREATED="1604206406501" FOLDED="true" ID="ID_344875784" LINK="https://ja.wikipedia.org/wiki/&#x30ab;&#x30eb;&#x30ce;&#x30b7;&#x30f3;&#x9178;" MODIFIED="1604553710462" TEXT="d-1.4. &#x30ab;&#x30eb;&#x30ce;&#x30b7;&#x30f3;&#x9178;">
+<node CREATED="1604206547200" FOLDED="true" ID="ID_1011627579" MODIFIED="1604553710462" TEXT="texts">
 <node CREATED="1604206549703" ID="ID_459366708" MODIFIED="1604206551889" TEXT="#1 &#x30ab;&#x30eb;&#x30ce;&#x30b7;&#x30f3;&#x9178;&#xff08;Carnosic acid&#xff09;&#x306f;"/>
 </node>
 </node>
