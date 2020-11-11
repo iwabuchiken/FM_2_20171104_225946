@@ -11,5 +11,6 @@
 <node CREATED="1603632281341" ID="ID_1481199911" MODIFIED="1604130594802" POSITION="right" TEXT="8. gauge theory"/>
 <node CREATED="1603691830482" ID="ID_1928124186" LINK="9_randomness.mm" MODIFIED="1604130586353" POSITION="right" TEXT="9. randomness"/>
 <node CREATED="1604126737356" ID="ID_1683018523" LINK="10_physics-engines.mm" MODIFIED="1604126737356" POSITION="right" TEXT="10. physics engines"/>
+<node CREATED="1605084073353" ID="ID_1899786196" LINK="11_computer-aided%20math.mm" MODIFIED="1605084073368" POSITION="right" TEXT="11. computer-aided math"/>
 </node>
 </map>

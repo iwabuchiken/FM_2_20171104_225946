@@ -6,8 +6,8 @@
 <node CREATED="1603633159977" ID="ID_258774376" LINK="https://ja.wikipedia.org/wiki/&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30a2;&#x30f3;_(&#x5834;&#x306e;&#x7406;&#x8ad6;)" MODIFIED="1604290421410" TEXT="2. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30a2;&#x30f3;_(&#x5834;&#x306e;&#x7406;&#x8ad6;) #">
 <node CREATED="1603633337917" ID="ID_221017844" MODIFIED="1604291064055" TEXT="fur">
 <node CREATED="1603633339829" ID="ID_1756042240" MODIFIED="1603679732462" TEXT="3. &#x53e4;&#x5178;&#x5834;&#x7406;&#x8ad6; #"/>
-<node CREATED="1603633356961" ID="ID_268862416" LINK="https://ja.wikipedia.org/wiki/&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x529b;&#x5b66;" MODIFIED="1604291064060" TEXT="3-1. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x529b;&#x5b66; #">
-<node CREATED="1603679659316" ID="ID_260113749" MODIFIED="1604291064071" TEXT="fur">
+<node CREATED="1603633356961" FOLDED="true" ID="ID_268862416" LINK="https://ja.wikipedia.org/wiki/&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x529b;&#x5b66;" MODIFIED="1605084013230" TEXT="3-1. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x529b;&#x5b66; #">
+<node CREATED="1603679659316" FOLDED="true" ID="ID_260113749" MODIFIED="1605084013227" TEXT="fur">
 <node CREATED="1603679663550" FOLDED="true" ID="ID_259918611" MODIFIED="1604114581052" TEXT="4. &#x4e00;&#x822c;&#x5316;&#x5ea7;&#x6a19; #">
 <node CREATED="1603698744902" FOLDED="true" ID="ID_877880250" MODIFIED="1604114581052" TEXT="fur">
 <node CREATED="1603698749231" ID="ID_437838558" MODIFIED="1603698775003" TEXT="5. &#x30cb;&#x30e5;&#x30fc;&#x30c8;&#x30f3;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;"/>
@@ -27,7 +27,7 @@
 <node CREATED="1603679906014" ID="ID_509919414" LINK="https://ja.wikipedia.org/wiki/&#x6c4e;&#x51fd;&#x6570;" MODIFIED="1603680237289" TEXT="4-4. &#x4f5c;&#x7528;&#x6c4e;&#x95a2;&#x6570; #">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_509919414" ENDARROW="Default" ENDINCLINATION="112;0;" ID="Arrow_ID_217411029" SOURCE="ID_1337327079" STARTARROW="None" STARTINCLINATION="112;0;"/>
 </node>
-<node COLOR="#338800" CREATED="1603897580804" ID="ID_232957430" LINK="http://hooktail.sub.jp/analytic/equationOfLagrange/" MODIFIED="1604291064075" TEXT="4-5. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;">
+<node COLOR="#338800" CREATED="1603897580804" FOLDED="true" ID="ID_232957430" LINK="http://hooktail.sub.jp/analytic/equationOfLagrange/" MODIFIED="1605084013223" TEXT="4-5. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;">
 <node CREATED="1603981729625" FOLDED="true" ID="ID_1662579530" MODIFIED="1604290420443" TEXT="texts">
 <node COLOR="#338800" CREATED="1603981771631" ID="ID_998769393" MODIFIED="1603981945399" TEXT="#1 &#x89e3;&#x6790;&#x529b;&#x5b66;&#x306b;&#x306f;&#xff0c;&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x306e;"/>
 <node COLOR="#338800" CREATED="1603981942198" ID="ID_306729019" MODIFIED="1603982102974" TEXT="#2 &#x3042;&#x308b;&#x30dd;&#x30c6;&#x30f3;&#x30b7;&#x30e3;&#x30eb;"/>
@@ -35,7 +35,7 @@
 <node COLOR="#338800" CREATED="1603982481423" ID="ID_767829148" MODIFIED="1603982833614" TEXT="#4 &#x3044;&#x307e;&#x793a;&#x305d;&#x3046;&#x3068;&#x3057;&#x3066;&#x3044;&#x308b;&#x3053;&#x3068;&#x306f;"/>
 <node COLOR="#338800" CREATED="1603982829407" ID="ID_238674597" MODIFIED="1603983046062" TEXT="#5 &#x4ee5;&#x4e0a;&#x306e;&#x4f8b;&#xff08;&#x4f4d;&#x7f6e;&#x306b;&#x6bd4;&#x4f8b;&#x3059;&#x308b;"/>
 </node>
-<node CREATED="1603982996119" ID="ID_343739678" MODIFIED="1604468979992" TEXT="fur">
+<node CREATED="1603982996119" FOLDED="true" ID="ID_343739678" MODIFIED="1605084013221" TEXT="fur">
 <node COLOR="#338800" CREATED="1603983000327" FOLDED="true" ID="ID_509196207" LINK="http://hooktail.sub.jp/analytic/harmonicAndLagrange/" MODIFIED="1604468979430" TEXT="7. &#x8abf;&#x548c;&#x632f;&#x52d5;&#x5b50;&#x3068;&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;">
 <node CREATED="1603984125526" ID="ID_1416233930" MODIFIED="1603984127907" TEXT="texts"/>
 </node>
@@ -96,15 +96,15 @@
 <node COLOR="#338800" CREATED="1604560673902" ID="ID_664999978" MODIFIED="1604561186944" TEXT="#5 &#x3053;&#x3053;&#x307e;&#x3067;&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x5f62;&#x5f0f;&#x304b;&#x3089;"/>
 </node>
 </node>
-<node CREATED="1604561161086" ID="ID_888037140" LINK="https://eman-physics.net/analytic/poisson.html" MODIFIED="1604561172163" TEXT="7-5. &#x30dd;&#x30a2;&#x30c3;&#x30bd;&#x30f3;&#x62ec;&#x5f27;&#x5f0f;">
-<node CREATED="1604561173870" ID="ID_1044402003" MODIFIED="1604561175213" TEXT="texts">
+<node CREATED="1604561161086" FOLDED="true" ID="ID_888037140" LINK="https://eman-physics.net/analytic/poisson.html" MODIFIED="1605084013205" TEXT="7-5. &#x30dd;&#x30a2;&#x30c3;&#x30bd;&#x30f3;&#x62ec;&#x5f27;&#x5f0f;">
+<node CREATED="1604561173870" FOLDED="true" ID="ID_1044402003" MODIFIED="1605084013194" TEXT="texts">
 <node CREATED="1603356800076" ID="ID_431729473" MODIFIED="1604468970560" TEXT="@@@">
 <cloud/>
 <font NAME="SansSerif" SIZE="20"/>
 </node>
 </node>
 </node>
-<node CREATED="1604113674258" ID="ID_980087192" MODIFIED="1604560671475" TEXT="theme-1. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; &#x6975;&#x5ea7;&#x6a19;">
+<node CREATED="1604113674258" FOLDED="true" ID="ID_980087192" MODIFIED="1605084013214" TEXT="theme-1. &#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; &#x6975;&#x5ea7;&#x6a19;">
 <node CREATED="1604113716004" ID="ID_904068333" LINK="http://physics.thick.jp/Mechanics/Section2/2-5.html" MODIFIED="1604113730219" TEXT="8. &#x3000;3&#x6b21;&#x5143;&#x6975;&#x5ea7;&#x6a19;&#xff08;&#x7403;&#x5ea7;&#x6a19;&#xff09;&#x3067;&#x306e;&#x30cb;&#x30e5;&#x30fc;&#x30c8;&#x30f3;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;"/>
 <node CREATED="1604113858387" ID="ID_445636749" LINK="http://bakamoto.sakura.ne.jp/buturi/kaiseki/2.html#mjx-eqn-lahd" MODIFIED="1604114714808" TEXT="8-1. &#x7b2c;2&#x7ae0;&#x3000;&#x30e9;&#x30b0;&#x30e9;&#x30f3;&#x30b8;&#x30e5;&#x65b9;&#x7a0b;&#x5f0f;  (bakamoto.sakura.ne.jp)"/>
 </node>
