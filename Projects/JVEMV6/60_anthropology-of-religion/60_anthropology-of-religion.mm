@@ -33,8 +33,30 @@
 <node CREATED="1605168620558" ID="ID_490807555" MODIFIED="1605168621545" TEXT="langs">
 <node CREATED="1605168633893" ID="ID_765402798" LINK="https://zh.wikipedia.org/zh-cn/&#x5b97;&#x6559;&#x4eba;&#x7c7b;&#x5b66;" MODIFIED="1605168653435" TEXT="d.1.L-1 &#x5b97;&#x6559;&#x4eba;&#x7c7b;&#x5b66; (wiki)">
 <node CREATED="1605169101484" ID="ID_1183044019" MODIFIED="1605169102595" TEXT="texts">
-<node CREATED="1605169103277" ID="ID_63064093" MODIFIED="1605169104145" TEXT="#1"/>
-<node CREATED="1605169104604" ID="ID_586545940" LINK="https://zh.wikipedia.org/zh-cn/&#x5b97;&#x6559;&#x4eba;&#x7c7b;&#x5b66;#&#x5b97;&#x6559;&#x7684;&#x5b9a;&#x7fa9;" MODIFIED="1605169112906" TEXT="#2 &#x5b97;&#x6559;&#x7684;&#x5b9a;&#x7fa9;"/>
+<node COLOR="#338800" CREATED="1605169103277" ID="ID_63064093" MODIFIED="1605255013016" TEXT="#1"/>
+<node COLOR="#338800" CREATED="1605169104604" ID="ID_586545940" LINK="https://zh.wikipedia.org/zh-cn/&#x5b97;&#x6559;&#x4eba;&#x7c7b;&#x5b66;#&#x5b97;&#x6559;&#x7684;&#x5b9a;&#x7fa9;" MODIFIED="1605255013016" TEXT="#2 &#x5b97;&#x6559;&#x7684;&#x5b9a;&#x7fa9;"/>
+<node COLOR="#338800" CREATED="1605255008094" ID="ID_1868193743" MODIFIED="1605255183488" TEXT="#3 &#x76ee;&#x524d;&#xff0c;&#x4eba;&#x7c7b;&#x5b66;&#x5bb6;">
+<node CREATED="1605255399326" ID="ID_1256355816" MODIFIED="1605255402431" TEXT="words">
+<node CREATED="1605255403266" ID="ID_379427614" LINK="https://www.hisour.com/zh/primitivism-35055/" MODIFIED="1605255418312" TEXT="&#x539f;&#x59cb;&#x4e3b;&#x4e49;"/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1605255180123" ID="ID_895277947" MODIFIED="1605255772183" TEXT="#4 &#x5728;&#x897f;&#x65b9;&#x6587;&#x5316;&#xff0c;"/>
+<node CREATED="1605255768790" ID="ID_489523732" MODIFIED="1605255770975" TEXT="#5 &#x534e;&#x83b1;&#x58eb;">
+<node CREATED="1605256350000" ID="ID_989985797" MODIFIED="1605256351109" TEXT="words">
+<node CREATED="1605256352020" ID="ID_548125686" LINK="https://en.wikipedia.org/wiki/Tillamook_people" MODIFIED="1605256355391" TEXT="Tillamook_people"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1605257069866" ID="ID_732343717" MODIFIED="1605257124919" TEXT="d.1.L-2 Antropolog&#xed;a de la religi&#xf3;n (wiki)">
+<node CREATED="1605257078211" ID="ID_1629110612" MODIFIED="1605257079770" TEXT="texts">
+<node CREATED="1605257080538" ID="ID_415284664" MODIFIED="1605257081390" TEXT="#1"/>
+<node CREATED="1605257081689" ID="ID_1727670555" LINK="https://es.wikipedia.org/wiki/Antropolog&#xed;a_de_la_religi&#xf3;n#Enfoques_conceptual_y_funcionalista_(qu&#xe9;_es_y_para_qu&#xe9;)" MODIFIED="1605257103639" TEXT="#2 Enfoques_conceptual_y_funcionalista_(qu&#xe9;_es_y_para_qu&#xe9;)">
+<node COLOR="#0033ff" CREATED="1605257344969" ID="ID_1828931928" MODIFIED="1605257455209" TEXT="@@@">
+<cloud COLOR="#ffff33"/>
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+</node>
+</node>
 </node>
 </node>
 </node>

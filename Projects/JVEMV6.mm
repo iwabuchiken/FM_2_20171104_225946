@@ -101,8 +101,8 @@
 </node>
 <node CREATED="1574554752500" ID="ID_1409281787" MODIFIED="1574554761017" TEXT="58 CO2 capture"/>
 <node CREATED="1601255303688" ID="ID_481959272" LINK="JVEMV6/59_medical/59_medical.mm" MODIFIED="1601255303691" TEXT="59 medical"/>
-<node CREATED="1605151600227" ID="ID_50059201" LINK="JVEMV6/60_anthropology-of-religion/60_anthropology-of-religion.mm" MODIFIED="1605151600242" TEXT="60. anthropology of religion"/>
 </node>
+<node CREATED="1605151600227" ID="ID_50059201" LINK="JVEMV6/60_anthropology-of-religion/60_anthropology-of-religion.mm" MODIFIED="1605151600242" POSITION="left" TEXT="60. anthropology of religion"/>
 <node CREATED="1598259875393" ID="ID_1229597463" LINK="C:\WORKS_2\Utils\commands\push_fm.bat" MODIFIED="1598259892267" POSITION="left" TEXT="git"/>
 </node>
 </map>
