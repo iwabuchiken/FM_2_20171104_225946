@@ -50,13 +50,14 @@
 </node>
 <node CREATED="1605257069866" ID="ID_732343717" MODIFIED="1605257124919" TEXT="d.1.L-2 Antropolog&#xed;a de la religi&#xf3;n (wiki)">
 <node CREATED="1605257078211" ID="ID_1629110612" MODIFIED="1605257079770" TEXT="texts">
-<node CREATED="1605257080538" ID="ID_415284664" MODIFIED="1605257081390" TEXT="#1"/>
-<node CREATED="1605257081689" ID="ID_1727670555" LINK="https://es.wikipedia.org/wiki/Antropolog&#xed;a_de_la_religi&#xf3;n#Enfoques_conceptual_y_funcionalista_(qu&#xe9;_es_y_para_qu&#xe9;)" MODIFIED="1605257103639" TEXT="#2 Enfoques_conceptual_y_funcionalista_(qu&#xe9;_es_y_para_qu&#xe9;)">
+<node COLOR="#338800" CREATED="1605257080538" ID="ID_415284664" MODIFIED="1605343634394" TEXT="#1"/>
+<node COLOR="#338800" CREATED="1605257081689" ID="ID_1727670555" LINK="https://es.wikipedia.org/wiki/Antropolog&#xed;a_de_la_religi&#xf3;n#Enfoques_conceptual_y_funcionalista_(qu&#xe9;_es_y_para_qu&#xe9;)" MODIFIED="1605343634434" TEXT="#2 Enfoques_conceptual_y_funcionalista_(qu&#xe9;_es_y_para_qu&#xe9;)">
 <node COLOR="#0033ff" CREATED="1605257344969" ID="ID_1828931928" MODIFIED="1605257455209" TEXT="@@@">
 <cloud COLOR="#ffff33"/>
 <font BOLD="true" NAME="SansSerif" SIZE="20"/>
 </node>
 </node>
+<node CREATED="1605343626636" ID="ID_1336648133" MODIFIED="1605343629984" TEXT="#3 Las interpretaciones funcionalistas no se "/>
 </node>
 </node>
 </node>
