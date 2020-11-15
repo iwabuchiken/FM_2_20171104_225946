@@ -64,5 +64,24 @@
 </node>
 </node>
 </node>
+<node CREATED="1605415862168" ID="ID_6941735" MODIFIED="1605415881910" POSITION="right" TEXT="3. &#x5b97;&#x6559;&#x5fc3;&#x7406;&#x5b66;">
+<node CREATED="1605415905403" ID="ID_628203713" MODIFIED="1605415910006" TEXT="docs">
+<node CREATED="1605415923452" ID="ID_598765114" LINK="https://zh.wikipedia.org/zh-cn/&#x5b97;&#x6559;&#x5fc3;&#x7406;&#x5b78;" MODIFIED="1605416410116" TEXT="d.2 &#x5b97;&#x6559;&#x5fc3;&#x7406;&#x5b78; (wi)">
+<node CREATED="1605416396639" ID="ID_1325090589" MODIFIED="1605416402537" TEXT="langs">
+<node CREATED="1605416403453" ID="ID_520430215" LINK="https://es.wikipedia.org/wiki/Psicolog&#xed;a_de_la_religi&#xf3;n" MODIFIED="1605416424312" TEXT="d.2.L-1 Psicolog&#xed;a_de_la_religi&#xf3;n (wiki)">
+<node CREATED="1605416553179" ID="ID_1968036852" MODIFIED="1605416554708" TEXT="texts">
+<node COLOR="#338800" CREATED="1605416555495" ID="ID_1824437085" MODIFIED="1605416560362" TEXT="#1"/>
+<node COLOR="#338800" CREATED="1605416556829" ID="ID_1257130614" MODIFIED="1605419956844" TEXT="#2 La psicolog&#xed;a de la religi&#xf3;n responde"/>
+<node COLOR="#338800" CREATED="1605419953686" ID="ID_42166112" MODIFIED="1605420545708" TEXT="#3 Algunos consideran a la "/>
+<node CREATED="1605420095740" ID="ID_1066840321" MODIFIED="1605420099674" TEXT="#4 ..."/>
+<node COLOR="#338800" CREATED="1605420076859" ID="ID_1232880247" LINK="https://es.wikipedia.org/wiki/Psicolog&#xed;a_de_la_religi&#xf3;n#&#xc1;mbitos_de_investigaci&#xf3;n" MODIFIED="1605420544358" TEXT="#5 &#xc1;mbitos_de_investigaci&#xf3;n"/>
+<node COLOR="#338800" CREATED="1605420533204" ID="ID_1024641498" LINK="https://es.wikipedia.org/wiki/Psicolog&#xed;a_de_la_religi&#xf3;n#Hip&#xf3;tesis_sobre_el_papel_de_la_religi&#xf3;n_en_el_mundo_moderno" MODIFIED="1605420876769" TEXT="#6 Hip&#xf3;tesis_sobre_el_papel_de_la_religi&#xf3;n_en_el_mundo_moderno"/>
+<node CREATED="1605420856081" ID="ID_910366463" LINK="https://es.wikipedia.org/wiki/Psicolog&#xed;a_de_la_religi&#xf3;n#Divisi&#xf3;n_cultural" MODIFIED="1605420875546" TEXT="#7 Divisi&#xf3;n cultural"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
 </node>
 </map>
