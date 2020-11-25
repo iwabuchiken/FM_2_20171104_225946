@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1575330366621" ID="ID_1405490382" LINK="../2)_37_miscs-of-miscs.mm" MODIFIED="1604070963291" TEXT="17 natural history (nh)">
-<node CREATED="1606109226748" FOLDED="true" ID="ID_142851019" MODIFIED="1606205620123" POSITION="right" TEXT="A. food">
+<node CREATED="1606109226748" ID="ID_142851019" MODIFIED="1606291087871" POSITION="right" TEXT="A. food">
 <node CREATED="1599202288629" FOLDED="true" ID="ID_1031440232" MODIFIED="1606109248228" TEXT="1-10">
 <node CREATED="1585543946535" LINK="JVEMV6/37_miscs/17_nh/1_matrix-mechanics.mm" MODIFIED="1585543946535" TEXT="1 &#x884c;&#x5217;&#x529b;&#x5b66;"/>
 <node CREATED="1599202115606" MODIFIED="1599202119710" TEXT="2 &#x30cf;&#x30af;&#x30bb;&#x30ad;&#x30ec;&#x30a4;"/>
@@ -119,7 +119,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1606056043333" FOLDED="true" ID="ID_1516518213" MODIFIED="1606205610389" TEXT="31-40">
+<node CREATED="1606056043333" ID="ID_1516518213" MODIFIED="1606291087918" TEXT="31-40">
 <node CREATED="1605687746084" FOLDED="true" ID="ID_122508978" MODIFIED="1606117392681" TEXT="31. &#x30af;&#x30ec;&#x30bd;&#x30f3;">
 <node CREATED="1605688214948" FOLDED="true" ID="ID_1606998046" MODIFIED="1606117392681" TEXT="docs">
 <node CREATED="1605688217467" ID="ID_185857210" LINK="https://ja.wikipedia.org/wiki/&#x30aa;&#x30e9;&#x30f3;&#x30c0;&#x30ac;&#x30e9;&#x30b7;" MODIFIED="1605688244016" TEXT="d-1. &#x30aa;&#x30e9;&#x30f3;&#x30c0;&#x30ac;&#x30e9;&#x30b7; (&#x30af;&#x30ec;&#x30bd;&#x30f3;) (wi)"/>
@@ -140,8 +140,8 @@
 <node CREATED="1606110768957" ID="ID_328819185" MODIFIED="1606110772257" TEXT="1. ? &#x751f;&#x59dc; &#x6210;&#x5206;"/>
 </node>
 </node>
-<node CREATED="1606201390891" FOLDED="true" ID="ID_440406477" MODIFIED="1606205620123" TEXT="33. &#x30aa;&#x30ea;&#x30fc;&#x30d6;&#x30aa;&#x30a4;&#x30eb;">
-<node CREATED="1606201439830" FOLDED="true" ID="ID_207937205" MODIFIED="1606205620123" TEXT="docs">
+<node CREATED="1606201390891" ID="ID_440406477" MODIFIED="1606291089744" TEXT="33. &#x30aa;&#x30ea;&#x30fc;&#x30d6;&#x30aa;&#x30a4;&#x30eb;">
+<node CREATED="1606201439830" ID="ID_207937205" MODIFIED="1606291091079" TEXT="docs">
 <node CREATED="1606201471450" ID="ID_1348323481" LINK="https://ja.wikipedia.org/wiki/&#x30aa;&#x30ea;&#x30fc;&#x30d6;&#x30fb;&#x30aa;&#x30a4;&#x30eb;" MODIFIED="1606202311771" TEXT="d-10. &#x30aa;&#x30ea;&#x30fc;&#x30d6;&#x30fb;&#x30aa;&#x30a4;&#x30eb;"/>
 </node>
 </node>
