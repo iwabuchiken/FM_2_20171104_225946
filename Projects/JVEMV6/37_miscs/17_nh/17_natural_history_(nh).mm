@@ -144,6 +144,19 @@
 <node CREATED="1606201439830" ID="ID_207937205" MODIFIED="1606291091079" TEXT="docs">
 <node CREATED="1606201471450" ID="ID_1348323481" LINK="https://ja.wikipedia.org/wiki/&#x30aa;&#x30ea;&#x30fc;&#x30d6;&#x30fb;&#x30aa;&#x30a4;&#x30eb;" MODIFIED="1606202311771" TEXT="d-10. &#x30aa;&#x30ea;&#x30fc;&#x30d6;&#x30fb;&#x30aa;&#x30a4;&#x30eb;"/>
 </node>
+<node CREATED="1606373215159" ID="ID_1013159029" MODIFIED="1606373216516" TEXT="fur">
+<node CREATED="1606373229239" ID="ID_1865291624" MODIFIED="1606373250425" TEXT="33-1. &#x30aa;&#x30ec;&#x30a4;&#x30f3;&#x9178;">
+<node CREATED="1606373254191" ID="ID_1289786494" MODIFIED="1606373255565" TEXT="docs">
+<node CREATED="1606373391315" ID="ID_1238298991" LINK="https://ja.wikipedia.org/wiki/&#x30aa;&#x30ec;&#x30a4;&#x30f3;&#x9178;" MODIFIED="1606373401463" TEXT="d-11. &#x30aa;&#x30ec;&#x30a4;&#x30f3;&#x9178; (wi)"/>
+<node CREATED="1606374063833" ID="ID_538286712" LINK="https://ja.wikipedia.org/wiki/&#x3a9;-9&#x8102;&#x80aa;&#x9178;" MODIFIED="1606374079743" TEXT="d-11-1. &#x3a9;-9&#x8102;&#x80aa;&#x9178;"/>
+</node>
+</node>
+<node CREATED="1606373734139" ID="ID_404872513" MODIFIED="1606373740005" TEXT="33-2. &#x30ea;&#x30ce;&#x30fc;&#x30eb;&#x9178;">
+<node CREATED="1606373740947" ID="ID_913268686" MODIFIED="1606373742216" TEXT="docs">
+<node CREATED="1606373745892" ID="ID_1977497768" LINK="https://ja.wikipedia.org/wiki/&#x30ea;&#x30ce;&#x30fc;&#x30eb;&#x9178;" MODIFIED="1606373761616" TEXT="d-12. &#x30ea;&#x30ce;&#x30fc;&#x30eb;&#x9178; (wi)"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
