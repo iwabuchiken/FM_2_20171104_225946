@@ -158,6 +158,17 @@
 </node>
 </node>
 </node>
+<node CREATED="1606631053394" ID="ID_629943691" MODIFIED="1606631057497" TEXT="34. &#x30d1;&#x30af;&#x30c1;&#x30fc;">
+<node CREATED="1606056077247" ID="ID_1492925392" MODIFIED="1606056078215" TEXT="docs">
+<node CREATED="1606634967928" ID="ID_1151779650" LINK="https://ja.wikipedia.org/wiki/&#x30b3;&#x30ea;&#x30a2;&#x30f3;&#x30c0;&#x30fc;" MODIFIED="1606634983591" TEXT="1. &#x30b3;&#x30ea;&#x30a2;&#x30f3;&#x30c0;&#x30fc; wi">
+<node CREATED="1606635229048" ID="ID_510377510" MODIFIED="1606635235096" TEXT="langs">
+<node CREATED="1606635236131" ID="ID_1228763240" LINK="https://zh.wikipedia.org/zh-cn/&#x82ab;&#x837d;" MODIFIED="1606635255392" TEXT="1.L1 &#x82ab;&#x837d; wi"/>
+</node>
+</node>
+<node CREATED="1606635453028" ID="ID_1915770318" LINK="https://foodslink.jp/syokuzaihyakka/syun/vegitable/syansai3.htm" MODIFIED="1606635471156" TEXT="2. &#x9999;&#x83dc;&#xff0f;&#x30d1;&#x30af;&#x30c1;&#x30fc;&#xff0f;&#x30b3;&#x30ea;&#x30a2;&#x30f3;&#x30c0;&#x30fc;&#x306e;&#x6804;&#x990a;&#x4fa1;&#x3068;&#x52b9;&#x7528;"/>
+<node CREATED="1606635893181" ID="ID_1639774336" LINK="https://zh.wikipedia.org/zh-cn/&#x392;-&#x80e1;&#x841d;&#x535c;&#x7d20;" MODIFIED="1606635902317" TEXT="3. &#x392;-&#x80e1;&#x841d;&#x535c;&#x7d20; wi"/>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1606056058503" ID="ID_845166991" MODIFIED="1606056064089" POSITION="right" TEXT="B. insects">
