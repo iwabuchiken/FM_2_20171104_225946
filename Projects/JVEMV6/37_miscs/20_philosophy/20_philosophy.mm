@@ -6,6 +6,8 @@
 <node CREATED="1605080825316" ID="ID_1555102210" LINK="3_afro-american_peoples-history/3_afro-american_peoples-history.mm" MODIFIED="1605080825347" POSITION="right" TEXT="3 afro-american people&apos;s history"/>
 <node CREATED="1604390901349" ID="ID_488933966" LINK="4_japanese-history/4_japanese-history.mm" MODIFIED="1604390901349" POSITION="right" TEXT="4. japanese history"/>
 <node CREATED="1604565721368" ID="ID_149497451" LINK="5_analytic-philosophy.mm" MODIFIED="1604565721415" POSITION="right" TEXT="5. &#x5206;&#x6790;&#x54f2;&#x5b66;"/>
-<node CREATED="1604813187937" ID="ID_849756492" LINK="6_social-issues/6_social-issues.mm" MODIFIED="1604813187942" POSITION="right" TEXT="6. social issues"/>
+<node CREATED="1604813187937" ID="ID_849756492" LINK="6_social-issues/6_social-issues.mm" MODIFIED="1604813187942" POSITION="right" TEXT="6. social issues">
+<node CREATED="1606747112512" ID="ID_642770300" LINK="../../63_social-issues/63_social-issues.mm" MODIFIED="1606747261711" TEXT="==&gt; move to JVE 63"/>
+</node>
 </node>
 </map>

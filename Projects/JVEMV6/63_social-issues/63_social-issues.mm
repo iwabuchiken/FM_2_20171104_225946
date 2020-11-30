@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1604813137487" ID="ID_1373303258" LINK="../20_philosophy.mm" MODIFIED="1604813187818" TEXT="6. social issues">
+<node CREATED="1604813137487" ID="ID_1373303258" LINK="../../JVEMV6.mm" MODIFIED="1606747233132" TEXT="6. social issues">
 <node CREATED="1604813191529" FOLDED="true" ID="ID_60557170" MODIFIED="1606747104424" POSITION="right" TEXT="1. julian assange">
 <node CREATED="1604813201118" FOLDED="true" ID="ID_1686117754" MODIFIED="1606747104424" TEXT="docs">
 <node CREATED="1604813292497" FOLDED="true" ID="ID_425706949" MODIFIED="1606747104424" TEXT="1. Assange Defense Post-Election Update: Get Involved! / 2020/11/07 5:17">
@@ -19,5 +19,6 @@
 <node CREATED="1604813666634" ID="ID_1166421568" LINK="https://assangedefense.org" MODIFIED="1604813682773" TEXT="1. assangedefense.org"/>
 </node>
 </node>
+<node CREATED="1606747292669" ID="ID_1515983284" MODIFIED="1606747298598" POSITION="right" TEXT="2. BDS-movement"/>
 </node>
 </map>

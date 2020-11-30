@@ -114,6 +114,7 @@
 <node CREATED="1605151600227" ID="ID_50059201" LINK="JVEMV6/60_anthropology-of-religion/60_anthropology-of-religion.mm" MODIFIED="1605151600242" POSITION="left" TEXT="60. anthropology of religion"/>
 <node CREATED="1605366431430" ID="ID_839027397" LINK="JVEMV6/61_musicology/61_musicology.mm" MODIFIED="1605366431430" POSITION="left" TEXT="61. musicology"/>
 <node CREATED="1605513028575" ID="ID_1463813365" LINK="JVEMV6/62_socialism/62_socialism.mm" MODIFIED="1605513028575" POSITION="left" TEXT="62. socialism"/>
+<node CREATED="1606747070718" ID="ID_497611782" LINK="JVEMV6/63_social-issues/63_social-issues.mm" MODIFIED="1606747246182" POSITION="left" TEXT="63. social-issues"/>
 <node CREATED="1598259875393" ID="ID_1229597463" LINK="C:\WORKS_2\Utils\commands\push_fm.bat" MODIFIED="1598259892267" POSITION="left" TEXT="git"/>
 </node>
 </map>
