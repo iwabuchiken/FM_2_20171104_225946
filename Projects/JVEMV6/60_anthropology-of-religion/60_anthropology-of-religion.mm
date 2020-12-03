@@ -1,15 +1,15 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1605151542295" ID="ID_1167411889" LINK="../../JVEMV6.mm" MODIFIED="1605151600117" TEXT="60. anthropology of religion">
-<node CREATED="1605151610643" ID="ID_1933690052" MODIFIED="1605166924920" POSITION="right" TEXT="1. al biruni">
+<node CREATED="1605151610643" ID="ID_1933690052" MODIFIED="1606985968806" POSITION="right" TEXT="1. al biruni">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1933690052" ENDARROW="Default" ENDINCLINATION="349;0;" ID="Arrow_ID_938900015" SOURCE="ID_1698654059" STARTARROW="None" STARTINCLINATION="349;0;"/>
 </node>
 <node CREATED="1605166251275" ID="ID_1102695979" MODIFIED="1605166259259" POSITION="right" TEXT="2. start">
 <node CREATED="1605166433309" ID="ID_1396757008" MODIFIED="1605166434585" TEXT="docs">
 <node CREATED="1605166544933" ID="ID_1107876544" LINK="https://ja.wikipedia.org/wiki/&#x5b97;&#x6559;&#x4eba;&#x985e;&#x5b66;" MODIFIED="1605366382890" TEXT="d.1. &#x5b97;&#x6559;&#x4eba;&#x985e;&#x5b66; (wi)">
 <node CREATED="1605166701036" ID="ID_1657397259" LINK="https://ja.wikipedia.org/wiki/&#x7d44;&#x7e54;_(&#x793e;&#x4f1a;&#x79d1;&#x5b66;)" MODIFIED="1605166710865" TEXT="1. &#x7d44;&#x7e54;_(&#x793e;&#x4f1a;&#x79d1;&#x5b66;)"/>
-<node CREATED="1605166913422" FOLDED="true" ID="ID_223753293" MODIFIED="1605366381704" TEXT="fur">
-<node CREATED="1605166916143" FOLDED="true" ID="ID_1698654059" MODIFIED="1605366381704" TEXT="1. &#x30d3;&#x30fc;&#x30eb;&#x30fc;&#x30cb;&#x30fc;">
+<node CREATED="1605166913422" ID="ID_223753293" MODIFIED="1606985972222" TEXT="fur">
+<node CREATED="1605166916143" FOLDED="true" ID="ID_1698654059" MODIFIED="1606985968806" TEXT="1. &#x30d3;&#x30fc;&#x30eb;&#x30fc;&#x30cb;&#x30fc;">
 <arrowlink DESTINATION="ID_1933690052" ENDARROW="Default" ENDINCLINATION="349;0;" ID="Arrow_ID_938900015" STARTARROW="None" STARTINCLINATION="349;0;"/>
 <node CREATED="1605167165557" FOLDED="true" ID="ID_821645928" MODIFIED="1605366381704" TEXT="docs">
 <node CREATED="1605167168757" FOLDED="true" ID="ID_1748936320" LINK="https://ja.wikipedia.org/wiki/&#x30d3;&#x30fc;&#x30eb;&#x30fc;&#x30cb;&#x30fc;" MODIFIED="1605366381704" TEXT="d.2-1. &#x30d3;&#x30fc;&#x30eb;&#x30fc;&#x30cb;&#x30fc; (wi)">
@@ -83,5 +83,6 @@
 </node>
 </node>
 </node>
+<node CREATED="1606986264506" ID="ID_1945510885" LINK="4_black-theology/4_black-theology.mm" MODIFIED="1606986264506" POSITION="right" TEXT="4. black theology"/>
 </node>
 </map>
