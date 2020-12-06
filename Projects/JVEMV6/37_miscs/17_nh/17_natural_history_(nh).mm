@@ -80,7 +80,21 @@
 <node CREATED="1607157130916" ID="ID_1995447369" LINK="https://3g2upl4pq6kufc4m.onion/?q=&#x30cb;&#x30f3;&#x30cb;&#x30af;+&#x7dd1;&#x5909;&amp;ia=web" MODIFIED="1607157138593" TEXT="q=&#x30cb;&#x30f3;&#x30cb;&#x30af;+&#x7dd1;&#x5909;"/>
 </node>
 <node CREATED="1607157398761" ID="ID_564037053" MODIFIED="1607157399886" TEXT="docs">
-<node CREATED="1607157400689" ID="ID_1800228820" LINK="https://iwate-u.repo.nii.ac.jp/?action=repository_action_common_download&amp;item_id=14154&amp;item_no=1&amp;attribute_id=36&amp;file_no=1" MODIFIED="1607157655164" TEXT="d-13.1. &#x30cb;&#x30f3;&#x30cb;&#x30af;&#x52a0;&#x5de5;&#x98df;&#x54c1;&#x7dd1;&#x5909;&#x8272;&#x306e; &#x539f;&#x56e0;&#x3068;&#x5bfe;&#x7b56;&#x8a2d;&#x5b9a;&#x306b;&#x95a2;&#x3059;&#x308b;&#x7814;&#x7a76;">
+<node CREATED="1607157400689" ID="ID_1800228820" LINK="https://iwate-u.repo.nii.ac.jp/?action=repository_action_common_download&amp;item_id=14154&amp;item_no=1&amp;attribute_id=36&amp;file_no=1" MODIFIED="1607182808448">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      d-13.1. &#12491;&#12531;&#12491;&#12463;&#21152;&#24037;&#39135;&#21697;&#32209;&#22793;&#33394;&#12398;
+    </p>
+    <p>
+      &#21407;&#22240;&#12392;&#23550;&#31574;&#35373;&#23450;&#12395;&#38306;&#12377;&#12427;&#30740;&#31350;
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1607157426990" ID="ID_1192488082" MODIFIED="1607157430626" TEXT="texts">
 <node COLOR="#338800" CREATED="1607157746033" ID="ID_777871288" MODIFIED="1607157751525" TEXT="#1"/>
 <node COLOR="#338800" CREATED="1607157747803" ID="ID_1445562681" MODIFIED="1607157883142" TEXT="#2 &#x4e00;&#x65b9;&#x3001;&#x7dd1;&#x5909;&#x3057;&#x305f;&#x52a0;&#x5de5;&#x98df;&#x54c1;&#x3092;"/>
@@ -116,13 +130,13 @@
 <node CREATED="1604206831738" ID="ID_1857241300" LINK="https://ja.wikipedia.org/wiki/&#x30ed;&#x30b9;&#x30de;&#x30ea;&#x30f3;&#x9178;" MODIFIED="1604206839086" TEXT="d-1.5. &#x30ed;&#x30b9;&#x30de;&#x30ea;&#x30f3;&#x9178;"/>
 </node>
 </node>
-<node CREATED="1604216172891" FOLDED="true" ID="ID_358728849" MODIFIED="1606056052334" TEXT="29. &#x30c1;&#x30e7;&#x30b3;&#x30ec;&#x30fc;&#x30c8;">
-<node CREATED="1604216587224" FOLDED="true" ID="ID_52420068" MODIFIED="1606056052334" TEXT="docs">
-<node CREATED="1604216639491" FOLDED="true" ID="ID_1921052074" LINK="https://ja.wikipedia.org/wiki/&#x30c1;&#x30e7;&#x30b3;&#x30ec;&#x30fc;&#x30c8;" MODIFIED="1606056052334" TEXT="d-2. &#x30c1;&#x30e7;&#x30b3;&#x30ec;&#x30fc;&#x30c8; (wi)">
-<node CREATED="1604216996116" FOLDED="true" ID="ID_331996691" MODIFIED="1606056052333" TEXT="langs">
+<node CREATED="1604216172891" ID="ID_358728849" MODIFIED="1607182824924" TEXT="29. &#x30c1;&#x30e7;&#x30b3;&#x30ec;&#x30fc;&#x30c8;">
+<node CREATED="1604216587224" ID="ID_52420068" MODIFIED="1607182825813" TEXT="docs">
+<node CREATED="1604216639491" ID="ID_1921052074" LINK="https://ja.wikipedia.org/wiki/&#x30c1;&#x30e7;&#x30b3;&#x30ec;&#x30fc;&#x30c8;" MODIFIED="1607182825875" TEXT="d-2. &#x30c1;&#x30e7;&#x30b3;&#x30ec;&#x30fc;&#x30c8; (wi)">
+<node CREATED="1604216996116" ID="ID_331996691" MODIFIED="1607182825938" TEXT="langs">
 <node CREATED="1604216999400" ID="ID_307509372" LINK="https://zh.wikipedia.org/wiki/&#x5de7;&#x514b;&#x529b;" MODIFIED="1604217020204" TEXT="d-2-1. &#x5de7;&#x514b;&#x529b;"/>
 </node>
-<node CREATED="1604217155714" FOLDED="true" ID="ID_1811324106" MODIFIED="1606056052334" TEXT="texts">
+<node CREATED="1604217155714" ID="ID_1811324106" MODIFIED="1607182829065" TEXT="texts">
 <node COLOR="#338800" CREATED="1604217158327" ID="ID_1088078582" MODIFIED="1604217216470" TEXT="#1"/>
 <node COLOR="#338800" CREATED="1604217159457" ID="ID_703506255" LINK="https://ja.wikipedia.org/wiki/&#x30c1;&#x30e7;&#x30b3;&#x30ec;&#x30fc;&#x30c8;#&#x6027;&#x8cea;" MODIFIED="1604217216470" TEXT="#2 &#x30c1;&#x30e7;&#x30b3;&#x30ec;&#x30fc;&#x30c8;#&#x6027;&#x8cea;"/>
 <node COLOR="#338800" CREATED="1604217205557" ID="ID_438728609" LINK="https://ja.wikipedia.org/wiki/&#x30c1;&#x30e7;&#x30b3;&#x30ec;&#x30fc;&#x30c8;#&#x5065;&#x5eb7;&#x3078;&#x306e;&#x5229;&#x5bb3;" MODIFIED="1604217799173" TEXT="#3 &#x30c1;&#x30e7;&#x30b3;&#x30ec;&#x30fc;&#x30c8;#&#x5065;&#x5eb7;&#x3078;&#x306e;&#x5229;&#x5bb3;"/>
