@@ -1,6 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1516766771450" ID="ID_1717896951" LINK="../../JVEMV6.mm" MODIFIED="1595394077197" TEXT="2) 37 miscs of miscs">
+<node CREATED="1516766771450" ID="ID_1717896951" LINK="../../JVEMV6.mm" MODIFIED="1607916291679" TEXT="2) 37 miscs of miscs">
+<hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <node CREATED="1595394090682" ID="ID_870207184" MODIFIED="1606978158368" POSITION="right" TEXT="1-10">
 <node CREATED="1516766795708" ID="ID_174968665" MODIFIED="1516766797472" TEXT="2-1) 3 &#x6587;&#x5b57;&#x6570;&#x3000;&#x8a18;&#x4e8b;"/>
 <node CREATED="1518331117304" ID="ID_1524462902" MODIFIED="1518331119550" TEXT="2-2) 4 Bitcoin"/>
