@@ -81,6 +81,7 @@
 <node CREATED="1595730393173" ID="ID_1113811812" MODIFIED="1595730409003" TEXT="17GP : white-supremacy-and-christianity"/>
 <node CREATED="1602137283987" ID="ID_956889912" LINK="W920mathematics/W920_mathematics.mm" MODIFIED="1602137283990" TEXT="W920:mathematics"/>
 <node CREATED="1602565237169" ID="ID_44031427" LINK="D7QD_symmetric-group(self-research).mm/D7QD_symmetric-group(self-research).mm" MODIFIED="1602565237185" TEXT="D7QD / symmetric-group(self-research)"/>
+<node CREATED="1607960672477" ID="ID_1030410214" LINK="non-numbered/id=1MPF_theme=drink-alcohol.mm" MODIFIED="1607960672492" TEXT="id=1MPF / theme=drink-alcohol"/>
 </node>
 <node CREATED="1599380091013" ID="ID_36219573" MODIFIED="1599458519644" TEXT="27 reading articles"/>
 <node CREATED="1599637509917" ID="ID_437459998" LINK="28_dessin-anim/28_dessin-anim.mm" MODIFIED="1599637509920" TEXT="28 dessin, anim"/>

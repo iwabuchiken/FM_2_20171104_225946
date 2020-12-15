@@ -54,7 +54,7 @@
 <node CREATED="1595237957838" ID="ID_1360314066" MODIFIED="1595237958305" TEXT="3"/>
 </node>
 </node>
-<node CREATED="1603273324365" FOLDED="true" ID="ID_144704978" MODIFIED="1607940332503" POSITION="right" TEXT="B. jap.flute">
+<node CREATED="1603273324365" ID="ID_144704978" MODIFIED="1608007930250" POSITION="right" TEXT="B. jap.flute">
 <node CREATED="1603273349031" FOLDED="true" ID="ID_1325244181" MODIFIED="1604891905446" TEXT="1. sequence">
 <node CREATED="1603273352707" FOLDED="true" ID="ID_1181723015" MODIFIED="1604891905436" TEXT="2-notes">
 <node CREATED="1603273331568" FOLDED="true" ID="ID_820559638" MODIFIED="1604891905433" TEXT="Af4 - Ef5">
@@ -563,8 +563,7 @@
       &#21897;&#12289;&#22885;&#65306;&#32233;&#12417;&#12427;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1607939909254" MODIFIED="1607939909254" TEXT="20201214_185828"/>
 </node>
 <node CREATED="1607939890148" FOLDED="true" ID="ID_740457100" MODIFIED="1607940324521">
@@ -586,8 +585,7 @@
       &#19978;&#21767;&#65306;&#12424;&#12426;&#12289;&#34987;&#12379;&#12427;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1607940087492" MODIFIED="1607940087492" TEXT="20201214_190126"/>
 </node>
 </node>
@@ -616,8 +614,7 @@
       &#19978;&#21767;&#65306;&#12424;&#12426;&#12289;&#23665;&#22411;&#12290;&#34987;&#12379;&#12288;=&gt;&#12288;&#32233;&#12417;&#12427; 20201214_185522
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1607507775474" ID="ID_1859081047" MODIFIED="1607939646987" TEXT="2020&#x5e74;12&#x6708;13&#x65e5;18:06:28"/>
 </node>
 </node>
@@ -2305,8 +2302,7 @@
       &#12398;&#12393;&#12398;&#22885;&#65306;&#38281;&#12417;&#12427;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1607936914310" MODIFIED="1607936914310" TEXT="20201214_180833"/>
 </node>
 </node>
@@ -2359,8 +2355,7 @@
       &#160;&#160;&#160;&#160;&#160;&#160;&#21897;&#12398;&#22885;&#65306;&#38281;&#12376;&#12377;&#12366;&#12390;&#12356;&#12427; 20201214_183934
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1607937791528" MODIFIED="1607937791528" TEXT="20201214_182309"/>
 </node>
 </node>
@@ -2389,8 +2384,7 @@
       &#160;&#160;air : direction ==&gt; upper ==&gt; NO: &#12420;&#12420;&#12289;&#19979;&#12370;&#12427;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1607938348993" MODIFIED="1607938348993" TEXT="20201214_183228"/>
 </node>
 </node>
@@ -2419,8 +2413,7 @@
       &#160;&#160;air : direction ==&gt; &#12420;&#12420;&#12289;more upper
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1607938548951" MODIFIED="1607938548951" TEXT="20201214_183547"/>
 </node>
 </node>
@@ -2442,8 +2435,7 @@
       air-direction : upper
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1607938025522" MODIFIED="1607938025522" TEXT="20201214_182704"/>
 </node>
 </node>
