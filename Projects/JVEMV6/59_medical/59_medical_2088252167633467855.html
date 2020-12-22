@@ -1,0 +1,347 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>s-1</title>
+<style type="text/css">
+    li { list-style: none;  margin: 0; }
+    p { margin: 0; }
+    span.foldopened { color: white; font-size: xx-small;
+    border-width: 1; font-family: monospace; padding: 0em 0.25em 0em 0.25em; background: #e0e0e0;
+    VISIBILITY: visible;
+    cursor:pointer; }
+
+
+    span.foldclosed { color: #666666; font-size: xx-small;
+    border-width: 1; font-family: monospace; padding: 0em 0.25em 0em 0.25em; background: #e0e0e0;
+    VISIBILITY: hidden;
+    cursor:pointer; }
+
+    span.foldspecial { color: #666666; font-size: xx-small; border-style: none solid solid none;
+    border-color: #CCCCCC; border-width: 1; font-family: sans-serif; padding: 0em 0.1em 0em 0.1em; background: #e0e0e0;
+    cursor:pointer; }
+
+    span.l { color: red; font-weight: bold; }
+
+    a.mapnode:link {text-decoration: none; color: black; }
+    a.mapnode:visited {text-decoration: none; color: black; }
+    a.mapnode:active {text-decoration: none; color: black; }
+    a.mapnode:hover {text-decoration: none; color: black; background: #eeeee0; }
+
+</style>
+<!-- ^ Position is not set to relative / absolute here because of Mozilla -->
+</head>
+<body>
+
+<script type="text/javascript">
+   // Here we implement folding. It works fine with MSIE5.5, MSIE6.0 and
+   // Mozilla 0.9.6.
+
+   if (document.layers) {
+      //Netscape 4 specific code
+      pre = 'document.';
+      post = ''; }
+   if (document.getElementById) {
+      //Netscape 6 specific code
+      pre = 'document.getElementById("';
+      post = '").style'; }
+   if (document.all) {
+      //IE4+ specific code
+      pre = 'document.all.';
+      post = '.style'; }
+
+function layer_exists(layer) {
+   try {
+      eval(pre + layer + post);
+      return true; }
+   catch (error) {
+      return false; }}
+
+function show_layer(layer) {
+   eval(pre + layer + post).position = 'relative'; 
+   eval(pre + layer + post).visibility = 'visible'; }
+
+function hide_layer(layer) {
+   eval(pre + layer + post).visibility = 'hidden';
+   eval(pre + layer + post).position = 'absolute'; }
+
+function hide_folder(folder) {
+    hide_folding_layer(folder)
+    show_layer('show'+folder);
+
+    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+}
+
+function show_folder(folder) {
+    // Precondition: all subfolders are folded
+
+    show_layer('hide'+folder);
+    hide_layer('show'+folder);
+    show_layer('fold'+folder);
+
+    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+
+    var i;
+    for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       show_layer('show'+folder+'_'+i); }
+}
+function show_folder_completely(folder) {
+    // Precondition: all subfolders are folded
+
+    show_layer('hide'+folder);
+    hide_layer('show'+folder);
+    show_layer('fold'+folder);
+
+    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+
+    var i;
+    for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       show_folder_completely(folder+'_'+i); }
+}
+
+
+
+function hide_folding_layer(folder) {
+   var i;
+   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       hide_folding_layer(folder+'_'+i); }
+
+   hide_layer('hide'+folder);
+   hide_layer('show'+folder);
+   hide_layer('fold'+folder);
+
+   scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+}
+
+function fold_document() {
+   var i;
+   var folder = '1';
+   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       hide_folder(folder+'_'+i); }
+}
+
+function unfold_document() {
+   var i;
+   var folder = '1';
+   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       show_folder_completely(folder+'_'+i); }
+}
+
+</script>
+<SPAN class="foldspecial" onclick="fold_document()">All +</SPAN>
+<SPAN class="foldspecial" onclick="unfold_document()">All -</SPAN>
+<p>s-1
+<ul><li>20201222_141820
+
+</li>
+<li>search
+<ul><li><a href="https://3g2upl4pq6kufc4m.onion/?q=&#x5927;&#x4fbf;+&#x5065;&#x5eb7;&ia=web" target="_blank"><span class=l>~</span>&nbsp;1. q=&#22823;&#20415;+&#20581;&#24247;
+</a>
+
+</li>
+
+</ul>
+</li>
+<li>docs
+<ul><li><p><span id="show1_1" class="foldclosed" onClick="show_folder('1_1')" style="POSITION: absolute">+</span> <span id="hide1_1" class="foldopened" onClick="hide_folder('1_1')">-</span>
+<a href="https://kenko-chokin.com/trouble-symptom/intestinal/461" target="_blank"><span class=l>~</span>&nbsp;d-4. &#12479;&#12452;&#12503;&#21029;&#12358;&#12435;&#12385;&#65288;&#22823;&#20415;&#65289;&#12398;&#29366;&#27841;&#12391;
+</a>
+<ul id="fold1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_1" class="foldclosed" onClick="show_folder('1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_1_1" class="foldopened" onClick="hide_folder('1_1_1')">-</span>
+texts
+<ul id="fold1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #338800;">#1</span>
+
+</li>
+<li><span id="show1_1_1_1" class="foldclosed" onClick="show_folder('1_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_1_1_1" class="foldopened" onClick="hide_folder('1_1_1_1')">-</span>
+<span style="color: #338800;">#2</span>
+<ul id="fold1_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>3&#20998;&#12398;1&#12364;&#39135;&#12409;&#12459;&#12473;&#12391;&#12289;
+
+</li>
+<li>3&#20998;&#12398;1&#12364;&#33144;&#20869;&#32048;&#33740;&#12289;
+
+</li>
+<li>3&#20998;&#12398;1&#12364;&#12399;&#12364;&#12428;&#12383;&#33144;&#31896;&#33180;
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_1_2" class="foldclosed" onClick="show_folder('1_1_1_2')" style="POSITION: absolute">+</span> <span id="hide1_1_1_2" class="foldopened" onClick="hide_folder('1_1_1_2')">-</span>
+<span style="color: #338800;">#2.1</span>
+<ul id="fold1_1_1_2" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_1_2_1" class="foldclosed" onClick="show_folder('1_1_1_2_1')" style="POSITION: absolute">+</span> <span id="hide1_1_1_2_1" class="foldopened" onClick="hide_folder('1_1_1_2_1')">-</span>
+&#28040;&#21270;&#12539;&#25490;&#20415;&#12414;&#12391;&#12398;&#26178;&#38291;&#12399;
+<ul id="fold1_1_1_2_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#32004;24&#26178;&#38291;&#12364;&#30446;&#23433;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_1_3" class="foldclosed" onClick="show_folder('1_1_1_3')" style="POSITION: absolute">+</span> <span id="hide1_1_1_3" class="foldopened" onClick="hide_folder('1_1_1_3')">-</span>
+<span style="color: #338800;">#3</span>
+<ul id="fold1_1_1_3" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_1_3_1" class="foldclosed" onClick="show_folder('1_1_1_3_1')" style="POSITION: absolute">+</span> <span id="hide1_1_1_3_1" class="foldopened" onClick="hide_folder('1_1_1_3_1')">-</span>
+&#12383;&#12435;&#12401;&#12367;&#36074;&#12399;&#12289;
+<ul id="fold1_1_1_3_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#33144;&#20869;&#12395;&#20303;&#12416;&#24746;&#29577;&#33740;&#12398;&#22823;&#22909;&#29289;
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_1_3_2" class="foldclosed" onClick="show_folder('1_1_1_3_2')" style="POSITION: absolute">+</span> <span id="hide1_1_1_3_2" class="foldopened" onClick="hide_folder('1_1_1_3_2')">-</span>
+&#21892;&#29577;&#33740;&#12398;&#39180;&#12391;&#12354;&#12427;
+<ul id="fold1_1_1_3_2" style="POSITION: relative; VISIBILITY: visible;"><li>&#39135;&#29289;&#32330;&#32173;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul><span id="show1_2" class="foldclosed" onClick="show_folder('1_2')" style="POSITION: absolute">+</span> <span id="hide1_2" class="foldopened" onClick="hide_folder('1_2')">-</span>
+<a href="https://allabout.co.jp/gm/gc/299733/" target="_blank"><span class=l>~</span>&nbsp;&#xa;    <p>&#xa;      d-4.1 &#x5927;&#x4fbf;&#x30fb;&#x30a6;&#x30f3;&#x30c1;&#x306e;&#x7570;&#x5e38;&#x3067;&#x308f;&#x304b;&#x308b;&#xa;    </p>&#xa;    <p>&#xa;      &#x75c5;&#x6c17;&#x30fb;&#x5065;&#x5eb7;&#x30c1;&#x30a7;&#x30c3;&#x30af;&#x6cd5;&#xa;    </p>&#xa;  
+</a>
+<ul id="fold1_2" style="POSITION: relative; VISIBILITY: visible;"><li>texts
+
+</li>
+
+</ul><span id="show1_3" class="foldclosed" onClick="show_folder('1_3')" style="POSITION: absolute">+</span> <span id="hide1_3" class="foldopened" onClick="hide_folder('1_3')">-</span>
+<a href="https://www.binchoutan.com/unchi.html" target="_blank"><span class=l>~</span>&nbsp;&#xa;    <p>&#xa;      d-4.2 &#x5927;&#x4fbf;&#x3067;&#x5065;&#x5eb7;&#x30c1;&#x30a7;&#x30c3;&#x30af;&#xff01; &#xa;    </p>&#xa;    <p>&#xa;      &#x30a6;&#x30f3;&#x30c1;&#x78ba;&#x8a8d;&#x8868;&#xa;    </p>&#xa;  
+</a>
+<ul id="fold1_3" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_3_1" class="foldclosed" onClick="show_folder('1_3_1')" style="POSITION: absolute">+</span> <span id="hide1_3_1" class="foldopened" onClick="hide_folder('1_3_1')">-</span>
+topics
+<ul id="fold1_3_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#20415;&#12398;&#33394;
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_3_2" class="foldclosed" onClick="show_folder('1_3_2')" style="POSITION: absolute">+</span> <span id="hide1_3_2" class="foldopened" onClick="hide_folder('1_3_2')">-</span>
+texts
+<ul id="fold1_3_2" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #338800;">#1</span>
+
+</li>
+<li><span id="show1_3_2_1" class="foldclosed" onClick="show_folder('1_3_2_1')" style="POSITION: absolute">+</span> <span id="hide1_3_2_1" class="foldopened" onClick="hide_folder('1_3_2_1')">-</span>
+<span style="color: #338800;">#2</span>
+<ul id="fold1_3_2_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_3_2_1_1" class="foldclosed" onClick="show_folder('1_3_2_1_1')" style="POSITION: absolute">+</span> <span id="hide1_3_2_1_1" class="foldopened" onClick="hide_folder('1_3_2_1_1')">-</span>
+&#12450;&#12523;&#12459;&#12522;&#24615;&#12394;&#12425;
+<ul id="fold1_3_2_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#40658;&#12378;&#12435;&#12384;&#33590;&#35088;&#33394;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_3_2_2" class="foldclosed" onClick="show_folder('1_3_2_2')" style="POSITION: absolute">+</span> <span id="hide1_3_2_2" class="foldopened" onClick="hide_folder('1_3_2_2')">-</span>
+<span style="color: #338800;">#3</span>
+<ul id="fold1_3_2_2" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_3_2_2_1" class="foldclosed" onClick="show_folder('1_3_2_2_1')" style="POSITION: absolute">+</span> <span id="hide1_3_2_2_1" class="foldopened" onClick="hide_folder('1_3_2_2_1')">-</span>
+&#33144;&#20869;&#12364;&#24369;&#37240;&#24615;&#12394;&#12398;&#12391;&#20581;&#24247;&#12394;&#12454;&#12531;&#12481;&#12399;
+<ul id="fold1_3_2_2_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#40644;&#33394;&#12395;&#12394;&#12427;&#12290;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_3_2_3" class="foldclosed" onClick="show_folder('1_3_2_3')" style="POSITION: absolute">+</span> <span id="hide1_3_2_3" class="foldopened" onClick="hide_folder('1_3_2_3')">-</span>
+<span style="color: #338800;">#4</span>
+<ul id="fold1_3_2_3" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_3_2_3_1" class="foldclosed" onClick="show_folder('1_3_2_3_1')" style="POSITION: absolute">+</span> <span id="hide1_3_2_3_1" class="foldopened" onClick="hide_folder('1_3_2_3_1')">-</span>
+&#30330;&#37237;&#24615;&#12398;&#12491;&#12458;&#12452;&#65288;&#12388;&#12369;&#12418;&#12398;&#33261;&#65289;&#12364;
+<ul id="fold1_3_2_3_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#20581;&#24247;&#30340;&#12394;&#12491;&#12458;&#12452;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul><p><span id="show1_4" class="foldclosed" onClick="show_folder('1_4')" style="POSITION: absolute">+</span> <span id="hide1_4" class="foldopened" onClick="hide_folder('1_4')">-</span>
+<a href="https://www.chemiphar.tv/healthcare/faces/index_03.html" target="_blank"><span class=l>~</span>&nbsp;d-4.3 &#25163;&#36605;&#12394;&#20581;&#24247;&#12481;&#12455;&#12483;&#12463;&#12290;&#35251;&#20415;&#12398;&#12362;&#12377;&#12377;&#12417;&#12290;
+</a>
+<ul id="fold1_4" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_4_1" class="foldclosed" onClick="show_folder('1_4_1')" style="POSITION: absolute">+</span> <span id="hide1_4_1" class="foldopened" onClick="hide_folder('1_4_1')">-</span>
+texts
+<ul id="fold1_4_1" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #338800;">#1</span>
+
+</li>
+<li><span id="show1_4_1_1" class="foldclosed" onClick="show_folder('1_4_1_1')" style="POSITION: absolute">+</span> <span id="hide1_4_1_1" class="foldopened" onClick="hide_folder('1_4_1_1')">-</span>
+<span style="color: #338800;">#2</span>
+<ul id="fold1_4_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_4_1_1_1" class="foldclosed" onClick="show_folder('1_4_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_4_1_1_1" class="foldopened" onClick="hide_folder('1_4_1_1_1')">-</span>
+&#20415;&#12398;&#33394;&#12399;
+<ul id="fold1_4_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#20415;&#12398;&#22823;&#33144;&#36890;&#36942;&#26178;&#38291;&#12391;&#27770;&#12414;&#12387;&#12390;&#12365;&#12414;&#12377;&#12290;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul><p><span id="show1_5" class="foldclosed" onClick="show_folder('1_5')" style="POSITION: absolute">+</span> <span id="hide1_5" class="foldopened" onClick="hide_folder('1_5')">-</span>
+<a href="https://bentenchan.com/97#i-5" target="_blank"><span class=l>~</span>&nbsp;d-4.4
+</a>
+<ul id="fold1_5" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_5_1" class="foldclosed" onClick="show_folder('1_5_1')" style="POSITION: absolute">+</span> <span id="hide1_5_1" class="foldopened" onClick="hide_folder('1_5_1')">-</span>
+texts
+<ul id="fold1_5_1" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #338800;">#1</span>
+
+</li>
+<li><span id="show1_5_1_1" class="foldclosed" onClick="show_folder('1_5_1_1')" style="POSITION: absolute">+</span> <span id="hide1_5_1_1" class="foldopened" onClick="hide_folder('1_5_1_1')">-</span>
+<span style="color: #338800;">#2</span>
+<ul id="fold1_5_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_5_1_1_1" class="foldclosed" onClick="show_folder('1_5_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_5_1_1_1" class="foldopened" onClick="hide_folder('1_5_1_1_1')">-</span>
+&#32966;&#27713;&#65288;&#27833;&#12434;&#28040;&#21270;&#12377;&#12427;&#37237;&#32032;&#65289;&#12398;&#37327;&#12364;&#22679;&#12360;&#12427;&#12398;&#12391;
+<ul id="fold1_5_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_5_1_1_1_1" class="foldclosed" onClick="show_folder('1_5_1_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_5_1_1_1_1" class="foldopened" onClick="hide_folder('1_5_1_1_1_1')">-</span>
+&#20415;&#12398;&#33394;&#12399;
+<ul id="fold1_5_1_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#40658;&#12387;&#12413;&#12367;&#12394;&#12427;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_5_1_2" class="foldclosed" onClick="show_folder('1_5_1_2')" style="POSITION: absolute">+</span> <span id="hide1_5_1_2" class="foldopened" onClick="hide_folder('1_5_1_2')">-</span>
+<span style="color: #338800;">#3</span>
+<ul id="fold1_5_1_2" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_5_1_2_1" class="foldclosed" onClick="show_folder('1_5_1_2_1')" style="POSITION: absolute">+</span> <span id="hide1_5_1_2_1" class="foldopened" onClick="hide_folder('1_5_1_2_1')">-</span>
+&#33144;&#20869;&#29872;&#22659;&#12364;&#20778;&#12428;&#12390;&#12356;&#12390;&#12289;&#20415;&#31192;&#30693;&#12425;&#12378;&#12398;&#20415;&#12399;&#12289;
+<ul id="fold1_5_1_2_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#26126;&#12427;&#12356;&#33590;&#33394;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul></li>
+</ul>
+</li>
+
+</ul><SCRIPT type="text/javascript">
+fold_document();
+</SCRIPT>
+</body>
+</html>
