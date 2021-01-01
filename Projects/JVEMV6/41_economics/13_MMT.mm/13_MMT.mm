@@ -1,0 +1,70 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1609459329517" ID="ID_1849852096" LINK="../../../JVEMV6%2041%20economics.mm" MODIFIED="1609459369993" TEXT="13. MMT">
+<node CREATED="1609459514458" ID="ID_1072003999" MODIFIED="1609459522721" POSITION="right" TEXT="sub categories">
+<node CREATED="1609459523629" ID="ID_511077407" MODIFIED="1609459525842" TEXT="A-1">
+<node CREATED="1609459526550" ID="ID_1876566938" MODIFIED="1609459528262" TEXT="general"/>
+</node>
+</node>
+<node CREATED="1609459391213" ID="ID_1497189124" MODIFIED="1609459393585" POSITION="right" TEXT="sessions">
+<node COLOR="#338800" CREATED="1609459476173" FOLDED="true" ID="ID_495486205" MODIFIED="1609460010779" TEXT="s-1">
+<node COLOR="#990000" CREATED="1609459478596" ID="ID_1002925380" MODIFIED="1609459480906" TEXT="20210101_090434/"/>
+<node CREATED="1609459481864" FOLDED="true" ID="ID_1966841166" MODIFIED="1609460010779" TEXT="1">
+<node CREATED="1609459489407" FOLDED="true" ID="ID_76314236" MODIFIED="1609460010779" TEXT="read">
+<node CREATED="1609459490748" FOLDED="true" ID="ID_1865534826" MODIFIED="1609460010779" TEXT="docs">
+<node CREATED="1609459492127" FOLDED="true" ID="ID_1041434195" LINK="https://ja.wikipedia.org/wiki/&#x73fe;&#x4ee3;&#x8ca8;&#x5e63;&#x7406;&#x8ad6;" MODIFIED="1609460010779" TEXT="A-1.d-1. &#x73fe;&#x4ee3;&#x8ca8;&#x5e63;&#x7406;&#x8ad6; wi">
+<node COLOR="#006699" CREATED="1609459537790" FOLDED="true" ID="ID_672575801" MODIFIED="1609460010778" TEXT="texts">
+<node COLOR="#338800" CREATED="1609459964222" ID="ID_797141208" MODIFIED="1609459981820" TEXT="#1"/>
+<node CREATED="1609459974185" ID="ID_460977264" MODIFIED="1609459996593" TEXT="#2 MMT&#x306f;&#x4e3b;&#x6a29;&#x901a;&#x8ca8;&#x56fd;&#x306b;&#x304a;&#x3051;&#x308b;&#x653f;&#x5e9c;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_460977264" ENDARROW="Default" ENDINCLINATION="473;0;" ID="Arrow_ID_237824097" SOURCE="ID_356729762" STARTARROW="None" STARTINCLINATION="473;0;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1609459983400" FOLDED="true" ID="ID_1049775498" MODIFIED="1609460010779" TEXT="n:">
+<node CREATED="1609459985311" FOLDED="true" ID="ID_604213069" MODIFIED="1609460010779" TEXT="1">
+<node CREATED="1609459989941" ID="ID_356729762" MODIFIED="1609459996593" TEXT="read">
+<arrowlink DESTINATION="ID_460977264" ENDARROW="Default" ENDINCLINATION="473;0;" ID="Arrow_ID_237824097" STARTARROW="None" STARTINCLINATION="473;0;"/>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1609460004807" ID="ID_935064596" MODIFIED="1609460007957" TEXT="/20210101_091322"/>
+</node>
+</node>
+<node CREATED="1609453656833" ID="ID_37527138" MODIFIED="1609453658503" POSITION="left" TEXT="utils">
+<node CREATED="1609426935847" ID="ID_677494908" LINK="C:\WORKS_2\t.bat" MODIFIED="1609426941038" TEXT="time"/>
+<node CREATED="1608627704595" ID="ID_1116133850" MODIFIED="1608627705665" TEXT="git">
+<node CREATED="1608627706371" ID="ID_492644994" MODIFIED="1608627706940" TEXT="1">
+<node CREATED="1608627706941" ID="ID_1183827369" MODIFIED="1609459462243">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_41.[theme=economics].[13.MMT]) periodical updates&quot; &amp;&amp; e &amp;&amp; p
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1608627706941" ID="ID_203477383" MODIFIED="1609460030737">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_41.[theme=economics].[13.MMT]) periodical updates&quot; &amp;&amp; e &amp;&amp; p
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>
