@@ -7,13 +7,13 @@
 </node>
 </node>
 <node CREATED="1609459391213" ID="ID_1497189124" MODIFIED="1609459393585" POSITION="right" TEXT="sessions">
-<node COLOR="#338800" CREATED="1609459476173" FOLDED="true" ID="ID_495486205" MODIFIED="1609460010779" TEXT="s-1">
+<node COLOR="#338800" CREATED="1609459476173" ID="ID_495486205" MODIFIED="1609514235334" TEXT="s-1">
 <node COLOR="#990000" CREATED="1609459478596" ID="ID_1002925380" MODIFIED="1609459480906" TEXT="20210101_090434/"/>
-<node CREATED="1609459481864" FOLDED="true" ID="ID_1966841166" MODIFIED="1609460010779" TEXT="1">
-<node CREATED="1609459489407" FOLDED="true" ID="ID_76314236" MODIFIED="1609460010779" TEXT="read">
-<node CREATED="1609459490748" FOLDED="true" ID="ID_1865534826" MODIFIED="1609460010779" TEXT="docs">
-<node CREATED="1609459492127" FOLDED="true" ID="ID_1041434195" LINK="https://ja.wikipedia.org/wiki/&#x73fe;&#x4ee3;&#x8ca8;&#x5e63;&#x7406;&#x8ad6;" MODIFIED="1609460010779" TEXT="A-1.d-1. &#x73fe;&#x4ee3;&#x8ca8;&#x5e63;&#x7406;&#x8ad6; wi">
-<node COLOR="#006699" CREATED="1609459537790" FOLDED="true" ID="ID_672575801" MODIFIED="1609460010778" TEXT="texts">
+<node CREATED="1609459481864" ID="ID_1966841166" MODIFIED="1609514235397" TEXT="1">
+<node CREATED="1609459489407" ID="ID_76314236" MODIFIED="1609514237409" TEXT="read">
+<node CREATED="1609459490748" ID="ID_1865534826" MODIFIED="1609514237971" TEXT="docs">
+<node CREATED="1609459492127" ID="ID_1041434195" LINK="https://ja.wikipedia.org/wiki/&#x73fe;&#x4ee3;&#x8ca8;&#x5e63;&#x7406;&#x8ad6;" MODIFIED="1609514238017" TEXT="A-1.d-1. &#x73fe;&#x4ee3;&#x8ca8;&#x5e63;&#x7406;&#x8ad6; wi">
+<node COLOR="#006699" CREATED="1609459537790" ID="ID_672575801" MODIFIED="1609514238080" TEXT="texts">
 <node COLOR="#338800" CREATED="1609459964222" ID="ID_797141208" MODIFIED="1609459981820" TEXT="#1"/>
 <node CREATED="1609459974185" ID="ID_460977264" MODIFIED="1609459996593" TEXT="#2 MMT&#x306f;&#x4e3b;&#x6a29;&#x901a;&#x8ca8;&#x56fd;&#x306b;&#x304a;&#x3051;&#x308b;&#x653f;&#x5e9c;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_460977264" ENDARROW="Default" ENDINCLINATION="473;0;" ID="Arrow_ID_237824097" SOURCE="ID_356729762" STARTARROW="None" STARTINCLINATION="473;0;"/>
@@ -47,8 +47,7 @@
       taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_41.[theme=economics].[13.MMT]) periodical updates&quot; &amp;&amp; e &amp;&amp; p
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1608627706941" ID="ID_203477383" MODIFIED="1609460030737">
 <richcontent TYPE="NODE"><html>
@@ -60,8 +59,7 @@
       C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_41.[theme=economics].[13.MMT]) periodical updates&quot; &amp;&amp; e &amp;&amp; p
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
