@@ -45,6 +45,9 @@
 </node>
 </node>
 <node CREATED="1609663271934" ID="ID_759039654" MODIFIED="1609663278276" POSITION="right" TEXT="81. yamamoto_sonbou">
+<node CREATED="1609141612417" ID="ID_1075788647" MODIFIED="1610266799928" TEXT="git">
+<node CREATED="1609141614507" ID="ID_942997099" MODIFIED="1609664162467" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_64.[theme=books].[81.yamamoto_sonbou]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
+</node>
 <node CREATED="1609138053512" ID="ID_1393497281" MODIFIED="1609663282800" TEXT="sessions">
 <node CREATED="1609663318035" ID="ID_749671897" MODIFIED="1609663318035" TEXT="20210103_174153">
 <node CREATED="1609663321629" ID="ID_1301277778" MODIFIED="1609663323760" TEXT="1">
@@ -54,9 +57,24 @@
 </node>
 </node>
 </node>
+<node COLOR="#338800" CREATED="1610266820266" ID="ID_1414379893" MODIFIED="1610268574516" TEXT="20210110_172017">
+<node CREATED="1610266822069" FOLDED="true" ID="ID_1134821902" MODIFIED="1610268574329" TEXT="1">
+<node CREATED="1610266823744" FOLDED="true" ID="ID_1306769373" MODIFIED="1610268574314" TEXT="search">
+<node CREATED="1610266872775" ID="ID_1024248730" LINK="https://3g2upl4pq6kufc4m.onion/?q=&#x5112;&#x6559;&#x7684;&#x975e;&#x5408;&#x7406;&#x6027;&amp;ia=web" MODIFIED="1610266882736" TEXT="q=&#x5112;&#x6559;&#x7684;&#x975e;&#x5408;&#x7406;&#x6027;"/>
 </node>
-<node CREATED="1609141612417" ID="ID_1075788647" MODIFIED="1609141614506" TEXT="git">
-<node CREATED="1609141614507" ID="ID_942997099" MODIFIED="1609664162467" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_64.[theme=books].[81.yamamoto_sonbou]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
+<node CREATED="1610267054570" FOLDED="true" ID="ID_1188835619" MODIFIED="1610268574314" TEXT="docs">
+<node CREATED="1610267070586" ID="ID_673922653" LINK="https://new.qq.com/omn/20191107/20191107A0LIPG00.html" MODIFIED="1610267084120" TEXT="&#x5112;&#x6559;&#x91cd;&#x5efa;&#x2014;&#x2014;&#x4e3b;&#x5f20;&#x4e0e;&#x56de;&#x5e94;"/>
+<node CREATED="1610267302651" ID="ID_1879189994" LINK="https://www.douban.com/note/715594458/" MODIFIED="1610267311865" TEXT="&#x8bba;&#x5112;&#x6559;&#x4f26;&#x7406;&#x7684;&#x7f3a;&#x9677;&#x53ca;&#x5176;&#x4e0e;&#x5112;&#x6559;&#x5929;&#x9053;&#x89c2;&#x7684;&#x5173;&#x7cfb;"/>
+<node CREATED="1610267738482" ID="ID_1912848650" LINK="https://www.econ.hokudai.ac.jp/~hasimoto/Resume%20on%20Weber%20Religionssoziologie.htm" MODIFIED="1610267748159" TEXT="&#x30a6;&#x30a7;&#x30fc;&#x30d0;&#x30fc;&#x300e;&#x5b97;&#x6559;&#x793e;&#x4f1a;&#x5b66;&#x8ad6;&#x9078;&#x300f;&#x307f;&#x3059;&#x305a;&#x66f8;&#x623f;[1920-21=1972]   "/>
+<node CREATED="1610268143076" ID="ID_1971476298" LINK="https://www.sohu.com/a/119451530_503032" MODIFIED="1610268155607" TEXT=" &#x5112;&#x5bb6;&#x548c;&#x5b97;&#x6559;&#x7684;&#x516d;&#x5927;&#x533a;&#x522b; "/>
+<node CREATED="1610268192286" ID="ID_1076863184" LINK="http://ric.whu.edu.cn/info/1006/1914.htm" MODIFIED="1610268200978" TEXT="&#x5112;&#x5bb6;&#x3001;&#x5112;&#x6559;&#xff0c;&#x5b97;&#x6559;&#x6027;&#x3001;&#x8d85;&#x8d8a;&#x6027;----&#x8bc4;&#x674e;&#x7533;&#x8457;&#x300a;&#x4e2d;&#x56fd;&#x5112;&#x6559;&#x53f2;&#x300b;"/>
+</node>
+</node>
+<node CREATED="1610268575770" ID="ID_815079559" MODIFIED="1610268579071" TEXT="n:">
+<node CREATED="1610268579072" ID="ID_1285192050" MODIFIED="1610268580460" TEXT="read"/>
+</node>
+<node COLOR="#990000" CREATED="1610268570248" ID="ID_159921474" MODIFIED="1610268571927" TEXT="/20210110_174925"/>
+</node>
 </node>
 </node>
 <node CREATED="1609453656833" ID="ID_37527138" MODIFIED="1609453658503" POSITION="left" TEXT="utils">
