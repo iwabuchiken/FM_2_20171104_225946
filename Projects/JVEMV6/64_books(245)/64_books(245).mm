@@ -150,6 +150,21 @@
 <node CREATED="1611454515910" ID="ID_1568936080" MODIFIED="1611454515910" TEXT="20210124_111514">
 <node CREATED="1611454554116" ID="ID_1787897974" LINK="https://ja.wikipedia.org/wiki/&#x5c71;&#x770c;&#x90e1;" MODIFIED="1611454557778" TEXT="&#x5c71;&#x770c;&#x90e1;"/>
 </node>
+<node COLOR="#338800" CREATED="1611644368398" FOLDED="true" ID="ID_1796096229" MODIFIED="1611647982770" TEXT="20210126_155907">
+<node CREATED="1611644462763" ID="ID_943799208" MODIFIED="1611644465236" TEXT=":156"/>
+<node CREATED="1611644218691" ID="ID_137823157" LINK="https://kb-study.com/aux-tu/" MODIFIED="1611644371792" TEXT="&#x52a9;&#x52d5;&#x8a5e;&#x300c;&#x3064;&#x300d;"/>
+<node CREATED="1611644448210" ID="ID_1320197778" LINK="https://kobun.weblio.jp/content/&#x304b;&#x308a;" MODIFIED="1611644451760" TEXT="&#x304b;&#x308a;"/>
+<node CREATED="1611645557525" ID="ID_1860344756" LINK="https://manapedia.jp/text/1868" MODIFIED="1611645567723" TEXT="&#x8ca7;&#x800c;&#x7121;&#x8ac2;"/>
+<node CREATED="1611645580311" ID="ID_1635305831" LINK="https://kobun.weblio.jp/content/&#x4e8b;&#x4e8b;&#x3057;" MODIFIED="1611645584468" TEXT="&#x4e8b;&#x4e8b;&#x3057;"/>
+<node CREATED="1611645879385" FOLDED="true" ID="ID_534250453" LINK="https://yatanavi.org/text/hosshinju/h_hosshinju3-01" MODIFIED="1611647981235" TEXT="&#x6c5f;&#x5dde;&#x3001;&#x5897;(&#x307e;&#x3057;&#x3066;)&#x306e;&#x53df;&#x306e;&#x4e8b;">
+<node CREATED="1611646211005" ID="ID_1591145163" LINK="http://www2s.biglobe.ne.jp/~Taiju/1216_hosshinshu_2.htm#top" MODIFIED="1611646218059" TEXT="&#x767c;&#x5fc3;&#x96c6;&#x3000;&#x7b2c;&#x4e8c;"/>
+</node>
+<node CREATED="1611646053407" FOLDED="true" ID="ID_1720957482" LINK="https://manapedia.jp/text/4015" MODIFIED="1611647981422" TEXT="&#x300c;&#x306a;&#x3080;/&#x306a;&#x3093;&#x300d;">
+<node CREATED="1611646147552" ID="ID_517066013" LINK="https://kobun.weblio.jp/content/&#x306a;&#x3080;" MODIFIED="1611646151284" TEXT="&#x306a;&#x3080;"/>
+</node>
+<node CREATED="1611646818789" ID="ID_1336365686" LINK="https://ja.wikipedia.org/wiki/&#x5e73;&#x5b89;&#x4eac;#&#x5e73;&#x5b89;&#x4eac;&#x5168;&#x4f53;&#x56f3;" MODIFIED="1611646822572" TEXT="&#x5e73;&#x5b89;&#x4eac;&#x5168;&#x4f53;&#x56f3;"/>
+<node COLOR="#990000" CREATED="1611647977257" ID="ID_1373946414" MODIFIED="1611647979667" TEXT="/20210126_165934"/>
+</node>
 </node>
 </node>
 </node>
