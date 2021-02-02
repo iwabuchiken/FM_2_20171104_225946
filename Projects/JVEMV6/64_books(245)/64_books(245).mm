@@ -228,6 +228,12 @@
 </node>
 </node>
 </node>
+<node CREATED="1612253043410" ID="ID_1655588988" MODIFIED="1612253044237" TEXT="87_yamamoto_yudayajin">
+<node CREATED="1609141612417" ID="ID_479807919" MODIFIED="1612168471353" TEXT="git">
+<node CREATED="1609141614507" ID="ID_1949604577" MODIFIED="1612253061420" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_64.[theme=books].[87_yamamoto_yudayajin]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
+</node>
+<node CREATED="1611761101431" ID="ID_179836291" MODIFIED="1612164073424" TEXT="sessions"/>
+</node>
 </node>
 <node CREATED="1609453656833" ID="ID_37527138" MODIFIED="1609453658503" POSITION="left" TEXT="utils">
 <node CREATED="1609426935847" ID="ID_677494908" LINK="C:\WORKS_2\t.bat" MODIFIED="1609426941038" TEXT="time"/>
