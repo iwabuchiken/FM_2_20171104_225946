@@ -44,7 +44,7 @@
 <node CREATED="1609141614507" ID="ID_134396248" MODIFIED="1609141633975" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_64.[theme=books].[80_nanking]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
 </node>
 </node>
-<node CREATED="1611908557007" FOLDED="true" ID="ID_1871713173" MODIFIED="1612668899015" POSITION="right" TEXT="81~">
+<node CREATED="1611908557007" ID="ID_1871713173" MODIFIED="1612747594263" POSITION="right" TEXT="81~">
 <node CREATED="1609663271934" FOLDED="true" ID="ID_759039654" MODIFIED="1612163080403" TEXT="81. yamamoto_sonbou">
 <node CREATED="1609141612417" FOLDED="true" ID="ID_1075788647" MODIFIED="1611733556305" TEXT="git">
 <node CREATED="1609141614507" ID="ID_942997099" MODIFIED="1609664162467" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_64.[theme=books].[81.yamamoto_sonbou]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
