@@ -140,8 +140,8 @@
 </node>
 </node>
 <node CREATED="1609663271934" ID="ID_1530660698" MODIFIED="1610683285817" TEXT="83_yamamoto_kuuki"/>
-<node CREATED="1611454469884" FOLDED="true" ID="ID_158729674" MODIFIED="1612668898983" TEXT="84_&#x5999;&#x597d;&#x4eba;">
-<node CREATED="1609141612417" FOLDED="true" ID="ID_1726595528" MODIFIED="1612668898976" TEXT="git">
+<node CREATED="1611454469884" ID="ID_158729674" MODIFIED="1612835010285" TEXT="84_&#x5999;&#x597d;&#x4eba;">
+<node CREATED="1609141612417" ID="ID_1726595528" MODIFIED="1612835010389" TEXT="git">
 <node CREATED="1609141614507" ID="ID_1661876693" MODIFIED="1611454501329" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_64.[theme=books].[84.myoukounin]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
 </node>
 <node CREATED="1609138053512" FOLDED="true" ID="ID_169684760" MODIFIED="1612668898982" TEXT="sessions">
@@ -232,11 +232,30 @@
 </node>
 </node>
 </node>
-<node CREATED="1612253043410" FOLDED="true" ID="ID_1655588988" MODIFIED="1612668899012" TEXT="87_yamamoto_yudayajin">
-<node CREATED="1609141612417" FOLDED="true" ID="ID_479807919" MODIFIED="1612668899011" TEXT="git">
+<node CREATED="1612253043410" FOLDED="true" ID="ID_1655588988" MODIFIED="1612835061601" TEXT="87_yamamoto_yudayajin">
+<node CREATED="1609141612417" ID="ID_479807919" MODIFIED="1612835055169" TEXT="git">
 <node CREATED="1609141614507" ID="ID_1949604577" MODIFIED="1612253061420" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_64.[theme=books].[87_yamamoto_yudayajin]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
 </node>
 <node CREATED="1611761101431" ID="ID_179836291" MODIFIED="1612164073424" TEXT="sessions"/>
+</node>
+<node CREATED="1612835052532" ID="ID_1492725055" MODIFIED="1612850939482" TEXT="89_oona">
+<node CREATED="1609141612417" ID="ID_46562395" MODIFIED="1612835055169" TEXT="git">
+<node CREATED="1609141614507" ID="ID_276873601" MODIFIED="1612850949978" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_64.[theme=books].[89_oona]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
+</node>
+<node CREATED="1611761101431" ID="ID_34955686" MODIFIED="1612164073424" TEXT="sessions">
+<node COLOR="#338800" CREATED="1612850979293" ID="ID_944574644" MODIFIED="1612851002389" TEXT="20210209_150936">
+<node CREATED="1612850985774" ID="ID_712626235" MODIFIED="1612850985774" TEXT="2021&#x5e74;2&#x6708;9&#x65e5;14:10:34"/>
+<node CREATED="1612850985774" ID="ID_111109092" LINK="https://dictionary.goo.ne.jp/word/&#x56f0;&#x77e5;&#x52c9;&#x884c;/" MODIFIED="1612850985774" TEXT="https://dictionary.goo.ne.jp/word/&#x56f0;&#x77e5;&#x52c9;&#x884c;/"/>
+<node CREATED="1612850985774" ID="ID_1136955724" LINK="https://duckduckgo.com/?q=&#x6613;&#x7d4c;&#x3000;&#x795e;&#x9053;&#x3092;&#x4ee5;&#x3066;&#x6559;&#x3092;&amp;ia=web" MODIFIED="1612850985774" TEXT="https://duckduckgo.com/?q=&#x6613;&#x7d4c;&#x3000;&#x795e;&#x9053;&#x3092;&#x4ee5;&#x3066;&#x6559;&#x3092;&amp;ia=web"/>
+<node CREATED="1612850985774" ID="ID_707220561" LINK="https://heisei-shin.com/writings_box/religion_page/religion_21_1.html" MODIFIED="1612850985774" TEXT="https://heisei-shin.com/writings_box/religion_page/religion_21_1.html"/>
+</node>
+</node>
+</node>
+<node CREATED="1612835052532" ID="ID_1390131267" MODIFIED="1612835053381" TEXT="90_oritaku">
+<node CREATED="1609141612417" ID="ID_1461063124" MODIFIED="1612835055169" TEXT="git">
+<node CREATED="1609141614507" ID="ID_790474202" MODIFIED="1612835077751" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_64.[theme=books].[90_oritaku]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
+</node>
+<node CREATED="1611761101431" ID="ID_1317068120" MODIFIED="1612164073424" TEXT="sessions"/>
 </node>
 </node>
 <node CREATED="1609453656833" ID="ID_37527138" MODIFIED="1609453658503" POSITION="left" TEXT="utils">
