@@ -232,7 +232,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1612253043410" FOLDED="true" ID="ID_1655588988" MODIFIED="1612835061601" TEXT="87_yamamoto_yudayajin">
+<node CREATED="1612253043410" ID="ID_1655588988" MODIFIED="1612970715358" TEXT="87_yamamoto_yudayajin">
 <node CREATED="1609141612417" ID="ID_479807919" MODIFIED="1612835055169" TEXT="git">
 <node CREATED="1609141614507" ID="ID_1949604577" MODIFIED="1612253061420" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_64.[theme=books].[87_yamamoto_yudayajin]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
 </node>

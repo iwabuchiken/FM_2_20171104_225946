@@ -24,7 +24,29 @@
 <node CREATED="1612927777562" ID="ID_350182919" LINK="https://ja.wikipedia.org/wiki/Category:&#x7fd2;&#x4fd7;" MODIFIED="1612927790864" TEXT="Category:&#x7fd2;&#x4fd7;"/>
 </node>
 </node>
+<node COLOR="#338800" CREATED="1612969502648" FOLDED="true" ID="ID_1127050205" MODIFIED="1612970699277" TEXT="s-2">
+<node COLOR="#990000" CREATED="1612969515440" ID="ID_168650426" MODIFIED="1612969519572" TEXT="20210211_000509/"/>
+<node CREATED="1612969509771" FOLDED="true" ID="ID_195120459" MODIFIED="1612970697021" TEXT="1">
+<node CREATED="1612969510952" FOLDED="true" ID="ID_808495433" MODIFIED="1612970697018" TEXT="browse">
+<node CREATED="1612969986932" FOLDED="true" ID="ID_770794525" MODIFIED="1612970697016" TEXT="&#x4e2d;&#x5eb8;">
+<node CREATED="1612970009292" FOLDED="true" ID="ID_1226605799" MODIFIED="1612970697014" TEXT="search">
+<node CREATED="1612970011381" ID="ID_835518550" LINK="https://3g2upl4pq6kufc4m.onion/?q=web&#x53e4;&#x5178;+&#x4e2d;&#x5eb8;&amp;ia=web" MODIFIED="1612970012776" TEXT=""/>
 </node>
+<node CREATED="1612970057589" FOLDED="true" ID="ID_1955683516" MODIFIED="1612970697015" TEXT="docs">
+<node CREATED="1612970060300" ID="ID_1367936759" LINK="http://www.1-em.net/sampo/sisyogokyo/sisyo/chuyou/index.htm" MODIFIED="1612970067979" TEXT="&#x4e2d;&#x5eb8;&#x7ae0;&#x53e5;"/>
+<node CREATED="1612970074973" ID="ID_1792813405" LINK="https://www.philosophyguides.org/decoding/decoding-of-daigaku-chuyou/" MODIFIED="1612970085068" TEXT="&#x300e;&#x5927;&#x5b66;&#x300f;&#x300e;&#x4e2d;&#x5eb8;&#x300f;&#x3092;&#x89e3;&#x8aad;&#x3059;&#x308b;"/>
+<node CREATED="1612970102651" ID="ID_429728104" LINK="https://kanbun.info/miscellaneous/miscellaneous.html" MODIFIED="1612970115610" TEXT="Web Kanbun-Taikei"/>
+<node CREATED="1612970162069" ID="ID_1940113572" LINK="https://ctext.org/liji/zhong-yong/zh" MODIFIED="1612970175247" TEXT="&#x4e2d;&#x570b;&#x54f2;&#x5b78;&#x66f8;&#x96fb;&#x5b50;&#x5316;&#x8a08;&#x5283;"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1612970692474" ID="ID_516086536" MODIFIED="1612970694773" TEXT="/20210211_002450"/>
+</node>
+</node>
+</node>
+<node CREATED="1609141612417" ID="ID_479807919" MODIFIED="1612835055169" POSITION="left" TEXT="git">
+<node CREATED="1609141614507" ID="ID_1949604577" MODIFIED="1612970778593" TEXT="taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_65.[theme=philosophy_10.moral]) periodical updates&quot; &amp;&amp; e &amp;&amp; p "/>
 </node>
 </node>
 </map>
