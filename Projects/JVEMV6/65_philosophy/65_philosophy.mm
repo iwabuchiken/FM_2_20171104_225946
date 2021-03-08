@@ -10,7 +10,7 @@
 <node CREATED="1606747112512" ID="ID_642770300" LINK="../../63_social-issues/63_social-issues.mm" MODIFIED="1606747261711" TEXT="==&gt; move to JVE 63"/>
 </node>
 <node CREATED="1607916912037" ID="ID_1956954480" LINK="7_philosophy-of-science/7_pos.mm" MODIFIED="1607918770461" POSITION="right" TEXT="7. &#x79d1;&#x5b66;&#x54f2;&#x5b66; (pos)"/>
-<node CREATED="1607917628721" ID="ID_1571901598" MODIFIED="1607917633185" POSITION="right" TEXT="8. &#x8ad6;&#x7406;&#x5b66;">
+<node CREATED="1607917628721" ID="ID_1571901598" LINK="../71_logic/71_logic.mm" MODIFIED="1615186938105" POSITION="right" TEXT="8. &#x8ad6;&#x7406;&#x5b66;">
 <node CREATED="1607917644665" ID="ID_1321948238" LINK="../37_miscs/non-numbered/logic_4JEE.mm" MODIFIED="1607917696412" TEXT="1. &#x591a;&#x5024;&#x8ad6;&#x7406;"/>
 </node>
 <node CREATED="1609388439804" ID="ID_1180856106" LINK="9_jamaal/9_jamaal.mm" MODIFIED="1609388439806" POSITION="right" TEXT="9. &#x7f8e;"/>
