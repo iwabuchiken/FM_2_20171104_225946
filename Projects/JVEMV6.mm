@@ -121,6 +121,7 @@
 <node CREATED="1608421312408" ID="ID_1583208575" LINK="JVEMV6/66_psychology/66_psychology.mm" MODIFIED="1608421312413" TEXT="66. psychology"/>
 <node CREATED="1608625941034" ID="ID_1598810938" LINK="JVEMV6/67_theology.mm/67_theology.mm" MODIFIED="1608625941038" TEXT="67. theology"/>
 <node CREATED="1608648916959" ID="ID_1238568400" LINK="JVEMV6/68_theoretical-physics_(tp)/68_theoretical-physics_(tp).mm" MODIFIED="1608648916970" TEXT="68. theoretical physics (tp)"/>
+<node CREATED="1618107907449" ID="ID_902211488" LINK="JVEMV6/68_theoretical-physics(tp)(v-2.0)/68_theoretical-physics(tp)(v-2.0).mm" MODIFIED="1618107907449" TEXT="68. theoretical physics (tp)(v-2.0)"/>
 <node CREATED="1609809231099" ID="ID_562081007" LINK="JVEMV6/69_psychoacoustics/69_psychoacoustics.mm" MODIFIED="1609823680509" TEXT="69. Psychoacoustics"/>
 <node CREATED="1611247009918" ID="ID_371628495" LINK="JVEMV6/70_CO2/70_CO2.mm" MODIFIED="1611247009918" TEXT="70. CO2"/>
 </node>
