@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1604813137487" ID="ID_1373303258" LINK="../../JVEMV6.mm" MODIFIED="1606747233132" TEXT="6. social issues">
+<node CREATED="1604813137487" ID="ID_1373303258" LINK="../../JVEMV6.mm" MODIFIED="1618622497079" TEXT="63. social issues">
 <node CREATED="1604813191529" ID="ID_60557170" MODIFIED="1609129866303" POSITION="right" TEXT="1. julian assange">
 <node CREATED="1604813201118" ID="ID_1686117754" MODIFIED="1609129866992" TEXT="docs">
 <node CREATED="1604813292497" FOLDED="true" ID="ID_425706949" MODIFIED="1606747104424" TEXT="1. Assange Defense Post-Election Update: Get Involved! / 2020/11/07 5:17">
@@ -19,7 +19,7 @@
 <node CREATED="1604813666634" ID="ID_1166421568" LINK="https://assangedefense.org" MODIFIED="1604813682773" TEXT="1. assangedefense.org"/>
 </node>
 </node>
-<node CREATED="1606747292669" ID="ID_1515983284" MODIFIED="1606747298598" POSITION="right" TEXT="2. BDS-movement">
+<node CREATED="1606747292669" FOLDED="true" ID="ID_1515983284" MODIFIED="1618623930766" POSITION="right" TEXT="2. BDS-movement">
 <node CREATED="1609129930047" ID="ID_1574174605" MODIFIED="1609129931310" TEXT="s-1">
 <node COLOR="#990000" CREATED="1609129937264" ID="ID_1845859779" MODIFIED="1609129940056" TEXT="20201228_133214/"/>
 <node CREATED="1609129940384" ID="ID_271720287" MODIFIED="1609129940941" TEXT="1">
@@ -63,8 +63,85 @@
       taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_63.[theme=social-issues][2.BDS-movement]) periodical updates&quot; &amp;&amp; e &amp;&amp; p
     </p>
   </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1618622498600" ID="ID_2651999" MODIFIED="1618622501252" POSITION="right" TEXT="3. haiti">
+<node CREATED="1611247031122" ID="ID_1862422262" MODIFIED="1618560637970" TEXT="sessions">
+<node COLOR="#338800" CREATED="1615187554513" ID="ID_1661962277" MODIFIED="1618623919603" TEXT="s-2">
+<node CREATED="1618622714350" ID="ID_1532933229" MODIFIED="1618622715342" TEXT="1">
+<node CREATED="1618622716487" ID="ID_382146214" MODIFIED="1618622718595" TEXT="read">
+<node CREATED="1618622956453" ID="ID_47374103" LINK="https://fr.wikipedia.org/wiki/Ha&#xef;ti#De_la_r&#xe9;volte_des_esclaves_&#xe0;_la_proclamation_d&apos;ind&#xe9;pendance" MODIFIED="1618622997774" TEXT="s-2.d-1 / De_la_r&#xe9;volte_des_esclaves_&#xe0;_la_proclamation_d&apos;ind&#xe9;pendance">
+<node COLOR="#006699" CREATED="1618622999575" ID="ID_416426792" MODIFIED="1618623001798" TEXT="texts">
+<node COLOR="#338800" CREATED="1618623860245" ID="ID_173709686" MODIFIED="1618623891647" TEXT="#1"/>
+<node CREATED="1618623861625" ID="ID_1465278694" LINK="https://fr.wikipedia.org/wiki/Ha&#xef;ti#Du_gouvernement_de_Dessalines_&#xe0;_l&apos;&#xe9;lection_de_Faustin_Soulouque" MODIFIED="1618623901882" TEXT="#2 Du_gouvernement_de_Dessalines_&#xe0;_l&apos;&#xe9;lection_de_Faustin_Soulouque">
+<arrowlink DESTINATION="ID_1818156625" ENDARROW="Default" ENDINCLINATION="998;0;" ID="Arrow_ID_1543804576" STARTARROW="None" STARTINCLINATION="998;0;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610723630275" ID="ID_193638605" MODIFIED="1615959628072" TEXT="n:">
+<node CREATED="1610781936849" ID="ID_1818156625" MODIFIED="1618623901882" TEXT="1">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1818156625" ENDARROW="Default" ENDINCLINATION="998;0;" ID="Arrow_ID_1543804576" SOURCE="ID_1465278694" STARTARROW="None" STARTINCLINATION="998;0;"/>
+<node CREATED="1618623903058" ID="ID_27091116" MODIFIED="1618623904402" TEXT="read C"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1618623915546" ID="ID_117358529" MODIFIED="1618623917395" TEXT="/20210417_104513"/>
+</node>
+<node CREATED="1615187554513" ID="ID_140953806" MODIFIED="1618623928426" TEXT="s-3">
+<node CREATED="1610723630275" ID="ID_1497574986" MODIFIED="1615959628072" TEXT="n:">
+<node CREATED="1610781936849" ID="ID_1826689340" MODIFIED="1610781937241" TEXT="1"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1615187554513" ID="ID_699627215" MODIFIED="1617690330048" POSITION="right" TEXT="s-X">
+<node CREATED="1610723630275" ID="ID_1040116369" MODIFIED="1615959628072" TEXT="n:">
+<node CREATED="1610781936849" ID="ID_801534641" MODIFIED="1610781937241" TEXT="1"/>
+</node>
+</node>
+<node CREATED="1609453656833" ID="ID_37527138" MODIFIED="1610686025388" POSITION="left" TEXT="utils">
+<node CREATED="1609426935847" ID="ID_677494908" LINK="C:\WORKS_2\t.bat" MODIFIED="1609426941038" TEXT="time"/>
+<node CREATED="1608627704595" ID="ID_1116133850" MODIFIED="1610686026668" TEXT="git">
+<node CREATED="1608627706371" ID="ID_492644994" MODIFIED="1610686027385" TEXT="1">
+<node CREATED="1608627706941" ID="ID_607619239" LINK="C:\WORKS_2\shortcuts_docs\end_log_JVE_63.[social-issues].bat" MODIFIED="1618622684766">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      end apps
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1608627706941" ID="ID_724708490" MODIFIED="1618623952177">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      taskkill /f /im javaw.exe &amp;&amp; taskkill /f /im sakura.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_63.[theme=social-issues:topi=haiti]) periodical updates&quot; &amp;&amp; e &amp;&amp; p
+    </p>
+  </body>
 </html>
 </richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1610762153011" ID="ID_1685385670" MODIFIED="1610762155265" TEXT="console">
+<node CREATED="1610762155865" ID="ID_1410328441" MODIFIED="1610762157174" TEXT="e3"/>
+</node>
+<node CREATED="1617515827355" ID="ID_261421940" MODIFIED="1617515829814" TEXT="steps">
+<node CREATED="1617515829815" ID="ID_1123020409" MODIFIED="1617515831562" TEXT="closing">
+<node CREATED="1617515832426" ID="ID_94076224" MODIFIED="1617515838137" TEXT="add timestamp"/>
+<node CREATED="1617515839235" ID="ID_633166525" MODIFIED="1617515846304" TEXT="session label ==&gt; green"/>
+<node CREATED="1617515847604" ID="ID_1918558258" MODIFIED="1617515852380" TEXT="C/P --&gt; next session"/>
+<node CREATED="1617515853868" ID="ID_970861100" MODIFIED="1617515854743" TEXT="git"/>
 </node>
 </node>
 </node>
