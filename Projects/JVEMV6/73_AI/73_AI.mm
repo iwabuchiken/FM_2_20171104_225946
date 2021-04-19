@@ -5,29 +5,31 @@
 <node CREATED="1609426935847" ID="ID_677494908" LINK="C:\WORKS_2\t.bat" MODIFIED="1609426941038" TEXT="time"/>
 <node CREATED="1608627704595" ID="ID_1116133850" MODIFIED="1616304173842" TEXT="git">
 <node CREATED="1608627706371" ID="ID_492644994" MODIFIED="1616304175811" TEXT="1">
-<node CREATED="1608627706941" ID="ID_1183827369" LINK="C:\WORKS_2\shortcuts_docs\end_log_JVE_70.[CO2].bat" MODIFIED="1615708628251">
+<node CREATED="1608627706941" ID="ID_467605251" LINK="C:\WORKS_2\shortcuts_docs\end_log_JVE_73.[ai].git.bat" MODIFIED="1618816414280">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      end apps
+      end:git
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1608627706941" ID="ID_467605251" LINK="C:\WORKS_2\shortcuts_docs\end_log_JVE_70.[CO2]_apps.bat" MODIFIED="1616661573547">
+<node CREATED="1608627706941" ID="ID_1183827369" LINK="C:\WORKS_2\shortcuts_docs\end_log_JVE_73.[ai].bat" MODIFIED="1618816397229">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      end_log_JVE_70.[CO2]_apps
+      end:apps
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1608627706941" ID="ID_724708490" MODIFIED="1616317614442">
 <richcontent TYPE="NODE"><html>
@@ -53,7 +55,7 @@
 </node>
 </node>
 <node CREATED="1611247031122" ID="ID_1150136164" MODIFIED="1618126598045" POSITION="right" TEXT="sessions">
-<node CREATED="1615187554513" ID="ID_1987244624" MODIFIED="1618126970346" TEXT="s-1">
+<node CREATED="1615187554513" FOLDED="true" ID="ID_1987244624" MODIFIED="1618816346141" TEXT="s-1">
 <node COLOR="#990000" CREATED="1618126994226" ID="ID_965329462" MODIFIED="1618126997720" TEXT="20210411_164259/"/>
 <node COLOR="#338800" CREATED="1618126977786" ID="ID_1798414502" MODIFIED="1618127123412" TEXT="1">
 <node CREATED="1618126981895" ID="ID_1872962999" MODIFIED="1618126983872" TEXT="srch">
@@ -75,6 +77,23 @@
 <node CREATED="1617501328307" ID="ID_171854999" MODIFIED="1618028459960" TEXT="2"/>
 </node>
 <node CREATED="1616302054562" ID="ID_296424597" MODIFIED="1616317459928" TEXT="srch"/>
+</node>
+<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_900223821" MODIFIED="1618816345665" TEXT="s-10">
+<node COLOR="#990000" CREATED="1618814327050" ID="ID_1610627889" MODIFIED="1618814329250" TEXT="20210419_153845/"/>
+<node COLOR="#338800" CREATED="1618814329787" ID="ID_589064700" MODIFIED="1618816338349" TEXT="1">
+<node CREATED="1618126981895" FOLDED="true" ID="ID_152683254" MODIFIED="1618816337155" TEXT="srch">
+<node CREATED="1618126983892" ID="ID_447685682" MODIFIED="1618126988045" TEXT="resources"/>
+<node CREATED="1618126999765" ID="ID_825732488" LINK="https://duckduckgo.com/?q=python+program+machine+learning&amp;t=opera&amp;ia=web&amp;iai=r1-2&amp;page=1&amp;sexp=%7B&quot;biaexp&quot;%3A&quot;b&quot;%2C&quot;msvrtexp&quot;%3A&quot;b&quot;%2C&quot;mliexp&quot;%3A&quot;b&quot;%7D" MODIFIED="1618127006859" TEXT="1"/>
+<node CREATED="1618814565116" ID="ID_839254416" LINK="https://duckduckgo.com/?q=qiita+python+machine+learning&amp;t=opera&amp;ia=web" MODIFIED="1618814605069" TEXT="2 / q=qiita+python+machine+learning">
+<node COLOR="#006699" CREATED="1618814521302" ID="ID_1240247382" MODIFIED="1618814590575" TEXT="found">
+<node CREATED="1618814524432" ID="ID_472275558" LINK="https://www.geeksforgeeks.org/introduction-machine-learning-using-python/" MODIFIED="1618815005091" TEXT="s-10.d-1 / Introduction To Machine Learning using Python">
+<node CREATED="1618814979762" ID="ID_1041346174" MODIFIED="1618814982026" TEXT="&lt;==this"/>
+</node>
+</node>
+</node>
+<node CREATED="1618814605699" ID="ID_1666401091" LINK="https://qiita.com/search?page=2&amp;q=python+machine+learning" MODIFIED="1618814951294" TEXT="3 / word : python machine learning"/>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1615187554513" ID="ID_699627215" MODIFIED="1617680953286" POSITION="right" TEXT="s-X">
