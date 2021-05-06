@@ -3563,7 +3563,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1619412658460" FOLDED="true" ID="ID_698919746" MODIFIED="1620271102879" TEXT="s-51~">
+<node CREATED="1619412658460" FOLDED="true" ID="ID_698919746" MODIFIED="1620284214854" TEXT="s-51~">
 <node CREATED="1620020292078" FOLDED="true" ID="ID_1759345677" MODIFIED="1620020306513" TEXT="s-51~">
 <node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1257237586" MODIFIED="1620020300867" TEXT="s-51">
 <node COLOR="#990000" CREATED="1619314486829" ID="ID_1660786328" MODIFIED="1619314489450" TEXT="20210425_103443/"/>
@@ -4525,17 +4525,17 @@
 </node>
 <node COLOR="#990000" CREATED="1620020240936" ID="ID_1805402752" MODIFIED="1620020243241" TEXT="/20210503_143719"/>
 </node>
-<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_754463488" MODIFIED="1620197310187" TEXT="s-62">
-<node CREATED="1610723630275" FOLDED="true" ID="ID_456770013" MODIFIED="1620182134264" TEXT="do">
-<node COLOR="#338800" CREATED="1620176473945" FOLDED="true" ID="ID_1385424091" MODIFIED="1620271101164" TEXT="0.1">
-<node CREATED="1620176478040" FOLDED="true" ID="ID_676400909" MODIFIED="1620271101163" TEXT="srch">
+<node COLOR="#338800" CREATED="1615187554513" ID="ID_754463488" MODIFIED="1620281242940" TEXT="s-62">
+<node CREATED="1610723630275" ID="ID_456770013" MODIFIED="1620281242953" TEXT="do">
+<node COLOR="#338800" CREATED="1620176473945" ID="ID_1385424091" MODIFIED="1620281242955" TEXT="0.1">
+<node CREATED="1620176478040" ID="ID_676400909" MODIFIED="1620281242959" TEXT="srch">
 <node CREATED="1620176480764" ID="ID_1773688548" MODIFIED="1620176488624" TEXT="documents in Korean"/>
 <node CREATED="1620176553942" ID="ID_1435868738" LINK="https://3g2upl4pq6kufc4m.onion/?q=&#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c;+&#xc218;&#xc18c;&#xd654;&amp;ia=web" MODIFIED="1620176872266" TEXT="&#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c; &#xc218;&#xc18c;&#xd654;"/>
-<node COLOR="#006699" CREATED="1620176875955" FOLDED="true" ID="ID_573503544" MODIFIED="1620182099915" TEXT="docs">
+<node COLOR="#006699" CREATED="1620176875955" ID="ID_573503544" MODIFIED="1620281242970" TEXT="docs">
 <arrowlink DESTINATION="ID_676458997" ENDARROW="Default" ENDINCLINATION="859;0;" ID="Arrow_ID_219358305" STARTARROW="None" STARTINCLINATION="859;0;"/>
-<node CREATED="1620176882146" FOLDED="true" ID="ID_1134738770" LINK="https://www.cheric.org/PDF/PIC/PC18/PC18-2-0001.pdf" MODIFIED="1620271101163" TEXT="s-62.d-1 / &#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c;&#xc758; &#xc218;&#xc18c;&#xd654;&#xc5d0; &#xc758;&#xd55c; &#xba54;&#xd0c4;&#xc62c;&#xb85c;&#xc758; &#xc804;&#xd658;">
+<node CREATED="1620176882146" ID="ID_1134738770" LINK="https://www.cheric.org/PDF/PIC/PC18/PC18-2-0001.pdf" MODIFIED="1620281242972" TEXT="s-62.d-1 / &#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c;&#xc758; &#xc218;&#xc18c;&#xd654;&#xc5d0; &#xc758;&#xd55c; &#xba54;&#xd0c4;&#xc62c;&#xb85c;&#xc758; &#xc804;&#xd658;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1134738770" ENDARROW="Default" ENDINCLINATION="405;0;" ID="Arrow_ID_1850342988" SOURCE="ID_1030898294" STARTARROW="None" STARTINCLINATION="405;0;"/>
-<node COLOR="#006699" CREATED="1620177727846" FOLDED="true" ID="ID_410070825" MODIFIED="1620271101163" TEXT="texts">
+<node COLOR="#006699" CREATED="1620177727846" ID="ID_410070825" MODIFIED="1620281242974" TEXT="texts">
 <node COLOR="#338800" CREATED="1620180536636" FOLDED="true" ID="ID_414618813" MODIFIED="1620180547509" TEXT="#1">
 <node COLOR="#338800" CREATED="1620180536667" ID="ID_602406194" MODIFIED="1620180540387" TEXT="#.1 &#xd654;&#xc11d;&#xc5f0;&#xb8cc;&#xc758; &#xc0ac;&#xc6a9;&#xc73c;&#xb85c; &#xc778;&#xd558;&#xc5ec;"/>
 <node COLOR="#338800" CREATED="1620180536667" ID="ID_76744649" MODIFIED="1620180540387" TEXT="#.2 &#xba54;&#xd0c4;&#xc62c;&#xc740; &#xacf5;&#xc5c5;&#xc801;&#xc73c;&#xb85c; &#xd3ec;&#xb984;&#xc54c;&#xb370;&#xd558;&#xc774;&#xb4dc;,"/>
@@ -4543,10 +4543,17 @@
 <node COLOR="#338800" CREATED="1620180536667" ID="ID_1813582529" MODIFIED="1620180540356" TEXT="#.4 &#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c;&#xc758;  &#xc218;&#xc18c;&#xd654;&#xbc18;&#xc751;&#xc5d0;  &#xc758;&#xd558;&#xc5ec;"/>
 <node COLOR="#338800" CREATED="1620180536682" ID="ID_330392975" MODIFIED="1620180546384" TEXT="#.5 &#xc704; (1) &#xbc18;&#xc751;&#xc740; &#xd3c9;&#xd615;&#xc5d0;"/>
 </node>
-<node CREATED="1620180536682" ID="ID_798270455" MODIFIED="1620180554920" TEXT="#2 2. &#xc218;&#xc18c; &#xc81c;&#xc870; &#xacf5;&#xc815;">
+<node COLOR="#338800" CREATED="1620180536682" ID="ID_798270455" MODIFIED="1620284171641" TEXT="#2 2. &#xc218;&#xc18c; &#xc81c;&#xc870; &#xacf5;&#xc815;">
 <arrowlink DESTINATION="ID_109404438" ENDARROW="Default" ENDINCLINATION="702;0;" ID="Arrow_ID_447147377" STARTARROW="None" STARTINCLINATION="702;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_499092888" ENDARROW="Default" ENDINCLINATION="702;0;" ID="Arrow_ID_1506036572" STARTARROW="None" STARTINCLINATION="702;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1143003487" ENDARROW="Default" ENDINCLINATION="702;0;" ID="Arrow_ID_1718134697" STARTARROW="None" STARTINCLINATION="702;0;"/>
+</node>
+<node COLOR="#338800" CREATED="1620284164959" FOLDED="true" ID="ID_832901570" MODIFIED="1620284172612" TEXT="#3 3. Cu&#xacc4; &#xba54;&#xd0c4;&#xc62c; &#xd569;&#xc131;&#xcd09;&#xb9e4;">
+<node COLOR="#338800" CREATED="1620284164961" ID="ID_1624664168" MODIFIED="1620284169275" TEXT="#.1 &#xc774;&#xb7ec;&#xd55c; &#xbb38;&#xc81c;&#xc810;&#xb4e4;&#xc744;"/>
+<node COLOR="#338800" CREATED="1620284164963" ID="ID_886550743" MODIFIED="1620284169267" TEXT="#.2 &#xba54;&#xd0c4;&#xc62c; &#xd569;&#xc131; &#xcd09; &#xb9e4;&#xb294;"/>
+</node>
+<node CREATED="1620284164964" ID="ID_1246535175" MODIFIED="1620284190546" TEXT="#4 3.1. &#xcd09;&#xb9e4; &#xb2f4;&#xccb4; &#xd6a8;&#xacfc;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1246535175" ENDARROW="Default" ENDINCLINATION="954;0;" ID="Arrow_ID_1352979550" SOURCE="ID_224421302" STARTARROW="None" STARTINCLINATION="954;0;"/>
 </node>
 </node>
 </node>
@@ -4693,9 +4700,9 @@
 <node COLOR="#990000" CREATED="1620197330890" ID="ID_1647785351" MODIFIED="1620197333377" TEXT="/20210505_154846"/>
 </node>
 </node>
-<node CREATED="1615187554513" ID="ID_1195195719" MODIFIED="1620197328911" TEXT="s-64">
+<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1195195719" MODIFIED="1620284279109" TEXT="s-64">
 <node COLOR="#990000" CREATED="1620263992169" ID="ID_1878006958" MODIFIED="1620263995040" TEXT="20210506_101948/"/>
-<node CREATED="1610723630275" ID="ID_1425168178" MODIFIED="1620263911389" TEXT="do">
+<node CREATED="1610723630275" FOLDED="true" ID="ID_1425168178" MODIFIED="1620284212228" TEXT="do">
 <node COLOR="#338800" CREATED="1620263913269" ID="ID_26402040" MODIFIED="1620266792603" TEXT="0">
 <arrowlink DESTINATION="ID_788116487" ENDARROW="Default" ENDINCLINATION="927;0;" ID="Arrow_ID_420705225" STARTARROW="None" STARTINCLINATION="927;0;"/>
 <node CREATED="1620185437769" ID="ID_16962225" MODIFIED="1620185439278" TEXT="read N">
@@ -4710,23 +4717,26 @@
 <node CREATED="1620185437769" ID="ID_82428311" MODIFIED="1620185439278" TEXT="read N"/>
 <node COLOR="#990000" CREATED="1620270990461" ID="ID_713263547" MODIFIED="1620270995507" TEXT="/20210506_121627"/>
 </node>
-<node CREATED="1617501328307" ID="ID_1138045210" MODIFIED="1620196173206" TEXT="2">
+<node COLOR="#338800" CREATED="1617501328307" ID="ID_1138045210" MODIFIED="1620280365160" TEXT="2">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1138045210" ENDARROW="Default" ENDINCLINATION="1516;0;" ID="Arrow_ID_360871216" SOURCE="ID_1625527543" STARTARROW="None" STARTINCLINATION="1516;0;"/>
+<node COLOR="#990000" CREATED="1620279073745" ID="ID_1880819555" MODIFIED="1620279076053" TEXT="20210506_143110/"/>
 <node CREATED="1618711502942" ID="ID_1670008486" MODIFIED="1619425083114" TEXT="read C">
 <node CREATED="1618716980139" ID="ID_1401736190" MODIFIED="1618716981810" TEXT="ge"/>
 </node>
 </node>
-<node CREATED="1619754002576" ID="ID_1344545888" MODIFIED="1620197269901" TEXT="3">
+<node COLOR="#338800" CREATED="1619754002576" ID="ID_1344545888" MODIFIED="1620281229410" TEXT="3">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1344545888" ENDARROW="Default" ENDINCLINATION="1551;0;" ID="Arrow_ID_1204847045" SOURCE="ID_1094309537" STARTARROW="None" STARTINCLINATION="1551;0;"/>
 <node CREATED="1618712600115" ID="ID_1468224168" MODIFIED="1619928957015" TEXT="read C">
 <node CREATED="1618716983032" ID="ID_1719196210" MODIFIED="1618716984158" TEXT="ru"/>
 </node>
 </node>
-<node CREATED="1617848540964" ID="ID_1143003487" MODIFIED="1620197294578" TEXT="4">
+<node COLOR="#338800" CREATED="1617848540964" ID="ID_1143003487" MODIFIED="1620284204056" TEXT="4">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1143003487" ENDARROW="Default" ENDINCLINATION="702;0;" ID="Arrow_ID_1718134697" SOURCE="ID_798270455" STARTARROW="None" STARTINCLINATION="702;0;"/>
+<node COLOR="#990000" CREATED="1620281365370" ID="ID_185246070" MODIFIED="1620281369013" TEXT="20210506_150924"/>
 <node CREATED="1618711502942" ID="ID_141460077" MODIFIED="1619425083114" TEXT="read C">
 <node CREATED="1620180563149" ID="ID_1500253228" MODIFIED="1620180564615" TEXT="ko"/>
 </node>
+<node COLOR="#990000" CREATED="1620284205393" ID="ID_1493061504" MODIFIED="1620284207352" TEXT="/20210506_155641"/>
 </node>
 </node>
 <node CREATED="1610723630275" ID="ID_1431984615" MODIFIED="1617084026334" TEXT="n:">
@@ -4739,7 +4749,7 @@
 <node CREATED="1617501328307" ID="ID_274557793" MODIFIED="1620270954607" TEXT="2">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_274557793" ENDARROW="Default" ENDINCLINATION="1212;0;" ID="Arrow_ID_1317127288" SOURCE="ID_1034323013" STARTARROW="None" STARTINCLINATION="1212;0;"/>
 <node CREATED="1620185437769" ID="ID_1859404641" MODIFIED="1620270961658" TEXT="read C">
-<node CREATED="1620270976852" MODIFIED="1620270976852">
+<node CREATED="1620270976852" ID="ID_843844932" MODIFIED="1620270976852">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4749,13 +4759,36 @@
       r-11.3 / Global challenges and
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1619754002576" ID="ID_936250980" MODIFIED="1619754002920" TEXT="3"/>
-<node CREATED="1619754003255" ID="ID_1008754036" MODIFIED="1619754003802" TEXT="4"/>
+<node CREATED="1619754002576" ID="ID_936250980" MODIFIED="1620280357075" TEXT="3">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_936250980" ENDARROW="Default" ENDINCLINATION="1027;0;" ID="Arrow_ID_59211136" SOURCE="ID_1566377047" STARTARROW="None" STARTINCLINATION="1027;0;"/>
+<node CREATED="1618711502942" ID="ID_517995468" MODIFIED="1619425083114" TEXT="read C">
+<node CREATED="1618716980139" ID="ID_1494326674" MODIFIED="1618716981810" TEXT="ge"/>
+</node>
+</node>
+<node CREATED="1619754003255" ID="ID_1008754036" MODIFIED="1620281225545" TEXT="4">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1008754036" ENDARROW="Default" ENDINCLINATION="1397;0;" ID="Arrow_ID_1257481231" SOURCE="ID_163092582" STARTARROW="None" STARTINCLINATION="1397;0;"/>
+<node CREATED="1618712600115" ID="ID_1566396689" MODIFIED="1619928957015" TEXT="read C">
+<node CREATED="1618716983032" ID="ID_1592495193" MODIFIED="1618716984158" TEXT="ru"/>
+</node>
+</node>
+<node CREATED="1620284184954" ID="ID_224421302" MODIFIED="1620284190547" TEXT="5">
+<arrowlink DESTINATION="ID_1246535175" ENDARROW="Default" ENDINCLINATION="954;0;" ID="Arrow_ID_1352979550" STARTARROW="None" STARTINCLINATION="954;0;"/>
+<node CREATED="1618711502942" ID="ID_1404315405" MODIFIED="1619425083114" TEXT="read C">
+<node CREATED="1620180563149" ID="ID_1868879765" MODIFIED="1620180564615" TEXT="ko"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1615187554513" ID="ID_944572380" MODIFIED="1620284226805" TEXT="s-65">
+<node CREATED="1610723630275" ID="ID_894895869" MODIFIED="1617084026334" TEXT="n:">
+<node CREATED="1617848540964" ID="ID_1761419485" MODIFIED="1619683344975" TEXT="1"/>
+<node CREATED="1617501328307" ID="ID_1620247057" MODIFIED="1618028459960" TEXT="2"/>
+<node CREATED="1619754002576" ID="ID_392680650" MODIFIED="1619754002920" TEXT="3"/>
+<node CREATED="1619754003255" ID="ID_1196855380" MODIFIED="1619754003802" TEXT="4"/>
 </node>
 </node>
 <node CREATED="1615881663814" ID="ID_674129545" MODIFIED="1619169132173" TEXT="xxx"/>
@@ -4899,7 +4932,7 @@
 <node CREATED="1619754003255" ID="ID_173056770" MODIFIED="1619754003802" TEXT="4"/>
 </node>
 </node>
-<node CREATED="1615966907020" FOLDED="true" ID="ID_1262051945" MODIFIED="1620271112195" POSITION="right" TEXT="read">
+<node CREATED="1615966907020" FOLDED="true" ID="ID_1262051945" MODIFIED="1620284217951" POSITION="right" TEXT="read">
 <node CREATED="1617083828588" FOLDED="true" ID="ID_1428723860" MODIFIED="1617083834845" TEXT="1~5">
 <node COLOR="#338800" CREATED="1616129546023" FOLDED="true" ID="ID_1485262763" MODIFIED="1616336535659" TEXT="1">
 <node CREATED="1616030857357" ID="ID_557031623" LINK="https://www.sciencedirect.com/science/article/abs/pii/S0360319917313307" MODIFIED="1616129562408">
@@ -5790,7 +5823,7 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_596828184" ENDARROW="Default" ENDINCLINATION="534;0;" ID="Arrow_ID_665667798" STARTARROW="None" STARTINCLINATION="534;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1758267121" ENDARROW="Default" ENDINCLINATION="534;0;" ID="Arrow_ID_1574163628" STARTARROW="None" STARTINCLINATION="534;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_972815882" ENDARROW="Default" ENDINCLINATION="534;0;" ID="Arrow_ID_526269861" STARTARROW="None" STARTINCLINATION="534;0;"/>
-<node COLOR="#006699" CREATED="1620182186160" ID="ID_433647814" MODIFIED="1620182188278" TEXT="texts">
+<node COLOR="#006699" CREATED="1620182186160" FOLDED="true" ID="ID_433647814" MODIFIED="1620279056169" TEXT="texts">
 <node CREATED="1620183538630" MODIFIED="1620183538630" TEXT="#1"/>
 <node CREATED="1620183538630" MODIFIED="1620183538630" TEXT="#.1 Here, we report that"/>
 <node CREATED="1620183538630" ID="ID_880756828" MODIFIED="1620183538630" TEXT="#.2 Multiple in situ">
@@ -6182,7 +6215,7 @@
 </node>
 </node>
 <node CREATED="1617083822451" ID="ID_1372292377" MODIFIED="1619249370683" TEXT="15">
-<node CREATED="1617696815641" FOLDED="true" ID="ID_1452014992" MODIFIED="1620263925180" TEXT="collection-3">
+<node CREATED="1617696815641" ID="ID_1452014992" MODIFIED="1620279082243" TEXT="collection-3">
 <node CREATED="1617697548062" ID="ID_184076034" MODIFIED="1617697957181" TEXT="1">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_184076034" ENDARROW="Default" ENDINCLINATION="1774;0;" ID="Arrow_ID_744458780" SOURCE="ID_113180959" STARTARROW="None" STARTINCLINATION="1774;0;"/>
 </node>
@@ -6390,7 +6423,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1619680362938" FOLDED="true" ID="ID_444240313" MODIFIED="1619845008434" TEXT="#6~">
+<node CREATED="1619680362938" FOLDED="true" ID="ID_444240313" MODIFIED="1620280348546" TEXT="#6~">
 <node COLOR="#338800" CREATED="1619680326921" FOLDED="true" ID="ID_792609001" MODIFIED="1619753977085" TEXT="#6 2.3.2 Dichten von CO2-H2-Gemischen">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_598083714" ENDARROW="Default" ENDINCLINATION="1727;0;" ID="Arrow_ID_875475955" STARTARROW="None" STARTINCLINATION="1727;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1422807089" ENDARROW="Default" ENDINCLINATION="1727;0;" ID="Arrow_ID_792391020" STARTARROW="None" STARTINCLINATION="1727;0;"/>
@@ -6404,7 +6437,6 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_933933541" ENDARROW="Default" ENDINCLINATION="1724;0;" ID="Arrow_ID_1512440676" STARTARROW="None" STARTINCLINATION="1724;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1496960263" ENDARROW="Default" ENDINCLINATION="1724;0;" ID="Arrow_ID_1119998844" STARTARROW="None" STARTINCLINATION="1724;0;"/>
 </node>
-</node>
 <node COLOR="#338800" CREATED="1619844997303" FOLDED="true" ID="ID_1784123521" MODIFIED="1620007750660" TEXT="#8 2.4 Zustandsgleichungen &#x2013; Thermodynamische Berechnung von Gleichgewichten">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_890574945" ENDARROW="Default" ENDINCLINATION="1941;0;" ID="Arrow_ID_387377231" STARTARROW="None" STARTINCLINATION="1941;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_943223836" ENDARROW="Default" ENDINCLINATION="1941;0;" ID="Arrow_ID_1033651423" STARTARROW="None" STARTINCLINATION="1941;0;"/>
@@ -6414,7 +6446,7 @@
 </node>
 </node>
 <node COLOR="#990000" CREATED="1620007744600" ID="ID_414160925" MODIFIED="1620012289453" TEXT="#9 3 Experimenteller Teil"/>
-<node CREATED="1620012275733" FOLDED="true" ID="ID_504759155" MODIFIED="1620196162234" TEXT="#10 In diesem Kapitel wird die Auswertung der Versuche">
+<node COLOR="#338800" CREATED="1620012275733" FOLDED="true" ID="ID_504759155" MODIFIED="1620280341623" TEXT="#10 In diesem Kapitel wird die Auswertung der Versuche">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_422054323" ENDARROW="Default" ENDINCLINATION="1169;0;" ID="Arrow_ID_71326786" STARTARROW="None" STARTINCLINATION="1169;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1970265078" ENDARROW="Default" ENDINCLINATION="1169;0;" ID="Arrow_ID_546714063" STARTARROW="None" STARTINCLINATION="1169;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_625932059" ENDARROW="Default" ENDINCLINATION="1169;0;" ID="Arrow_ID_1671012222" STARTARROW="None" STARTINCLINATION="1169;0;"/>
@@ -6427,10 +6459,17 @@
 <node COLOR="#338800" CREATED="1620196147398" ID="ID_1042721916" MODIFIED="1620196156594" TEXT="#.2 Die Messpunkte[&#xce21;&#xc815;-&#xd3ec;&#xc778;&#xd2b8; werden durch eine Potenzfunktion angepasst[adjusted.Zur Berechnung[calculation de Volumenanteils[volume-fraction aus den gemessenen[measured Absorbanzen werden die drei einzelnen[individual Volumenanteil aus den jeweiligen Kalibrierkurven arithmetisch gemittelt[averaged. Der Volumenanteil entspricht[corresponds dabe dem Stoffmengenanteil[mole-fraction an CH3OH , aus dem die Stoffmenge[mole-amount an CH3OH bestimmt[determin wird."/>
 <node COLOR="#338800" CREATED="1620196148069" ID="ID_1146296841" MODIFIED="1620196159052" TEXT="#.3 Der Stoffmengenanteil an CH3OH in der Gasphase ist dabei wie[as-follows~1 folgt definiert (Gleichung 4-1):#.4 Die Gesamtstoffmenge[total-amount-of-substances im Gas nach der Reaktion ergibt sich aus der Reaktionsgleichung der CH3OH-Synthese. Mit der Annahme[assumption, dass CH3OH das einzige Reaktionsprodukt darstellt vereinfacht sich Gleichung 4-2 mit zu Gleichung 4-3:"/>
 <node COLOR="#338800" CREATED="1620196148085" ID="ID_1472657186" MODIFIED="1620196159036" TEXT="#.4 Durch weiteres Umformen[transforming und Einsetzen[inserting von Gleichung 4-1 in Gleichung 4-3 mit XXX resultiert Gleichung 4-4, welche ausschlie&#xdf;lich[exclusively von den eingesetzten CO2- und H2-Stoffmengen zum Zeitpunkt t = 0 sowie vom Stoffmengenanteil[mole-fraction an CH3OH abh&#xe4;ngt[depend:"/>
-</node>
-<node CREATED="1620196148100" ID="ID_1625527543" MODIFIED="1620196173206" TEXT="#10.5 Die eingesetzten CO2- und H2-Anfangsstoffmengen werden dabei gravimetrisch bestimmt. Die Massen und die entsprechenden Stoffmengen einer typischen Batch-Vorlage sind in Tabelle 4-1 abgebildet.">
+<node COLOR="#338800" CREATED="1620196148100" ID="ID_1625527543" MODIFIED="1620280332888" TEXT="#10.5 Die eingesetzten[used CO2- und H2-Anfangsstoffmengen[initial-substance-quantities werden dabei gravimetrisch bestimmt[determine. Die Massen und die entsprechenden[corresponding Stoffmengen einer typischen Batch-Vorlage[template sind in Tabelle 4-1 abgebildet[shown.">
 <arrowlink DESTINATION="ID_1138045210" ENDARROW="Default" ENDINCLINATION="1516;0;" ID="Arrow_ID_360871216" STARTARROW="None" STARTINCLINATION="1516;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_570407995" ENDARROW="Default" ENDINCLINATION="1516;0;" ID="Arrow_ID_60022728" STARTARROW="None" STARTINCLINATION="1516;0;"/>
+</node>
+<node COLOR="#338800" CREATED="1620280318552" ID="ID_1789174369" MODIFIED="1620280332876" TEXT="#.6 Mittels[using der Anfangsstoffmengen an H2 und CO2 und des Stoffmengenanteils an CH3OH wird die Gesamtstoffmenge Gas (ngesamt,Gas) berechnet. Anschlie&#xdf;end[then kann die Stoffmenge an CH3OH im Gas mit Gleichung 4-1 bestimmt werden."/>
+<node COLOR="#338800" CREATED="1620280318556" ID="ID_315359277" MODIFIED="1620280332858" TEXT="#.7 Die aus der Fl&#xfc;ssigkeitsphase[liquid-phase stammende[originating CH3OH-Stoffmenge wird mit Hilfe der HPLC erfasst[determined. Hierzu[to-do-this wird die Masse der fl&#xfc;ssigen Probe[sample (10 g) mit dem CH3OH-Massenanteil multipliziert und in die Stoffmenge umgerechnet[converted (Gleichung 4-5). Der Massenanteil wurde &#xfc;ber die HPLC-Analyse bestimmt."/>
+<node COLOR="#338800" CREATED="1620280318561" ID="ID_532493988" MODIFIED="1620280338127" TEXT="#.8 Zur Berechnung der CH3OH-Ausbeute[yield werden die Stoffmengen der Gas- und Fl&#xfc;ssigphase addiert[added. Mit CO2 als Bezugskomponente[reference-component (aus einem Mol CO2 entsteht[result ein Mol CH3OH) l&#xe4;sst sich die CH3OH-Ausbeute durch folgende Gleichung berechnen:"/>
+</node>
+</node>
+<node CREATED="1620280318565" ID="ID_1566377047" MODIFIED="1620280357075" TEXT="#11 4.1.2 Auswertung der">
+<arrowlink DESTINATION="ID_936250980" ENDARROW="Default" ENDINCLINATION="1027;0;" ID="Arrow_ID_59211136" STARTARROW="None" STARTINCLINATION="1027;0;"/>
 </node>
 </node>
 </node>
@@ -6902,7 +6941,7 @@
 <node COLOR="#338800" CREATED="1620017978914" ID="ID_1405885655" MODIFIED="1620017991776" TEXT="#.2 &#x413;&#x438;&#x434;&#x440;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; 1,48 &#x433; &#x432;&#x435;&#x449;&#x435;&#x441;&#x442;&#x432;&#x430; &#x410; &#x43d;&#x430; &#x420;1-&#x43a;&#x430;&#x442;&#x430;&#x43b;&#x438;&#x437;&#x430;&#x442;&#x43e;&#x440;&#x435; &#x43f;&#x440;&#x438; &#x43a;&#x43e;&apos;&#x43c;&#x43d;&#x430;&#x442;&#x43d;&#x43e;&#x439;[&#xc2e4;&#xc628;~1 &#x442;&#x435;&#x43c;&#x43f;&#x435;&#x440;&#x430;&#x442;&#x443;&#x440;&#x435; &#x438; &#x43d;&#x43e;&#x440;&#x43c;&#x430;&#x43b;&#x44c;&#x43d;&#x43e;&#x43c;[&#xc0c1;&#xc555;~1 &#x434;&#x430;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x438;"/>
 <node COLOR="#338800" CREATED="1620017978914" ID="ID_646879436" MODIFIED="1620017993281" TEXT="#.3  &#x43f;&#x440;&#x438;&#x432;&#x43e;&apos;&#x434;&#x438;&#x442;[&#xc774;&#xc5b4;&#xc9c0;&#xba70; &#x43a; &#x43f;&#x43e;&#x43b;&#x443;&#x447;&#x435;&#x43d;&#x438;&#x44e;[&#xc0dd;&#xc131; &#x441;&#x43e;&#x435;&#x434;&#x438;&#x43d;&#x435;&#x43d;&#x438;&#x44f; &#x411;, &#x440;&#x430;&#x441;&#x445;&#x43e;&#x434;[&#xc720;&#xb7c9; &#x432;&#x43e;&#x434;&#x43e;&#x440;&#x43e;&#x434;&#x430; &#x441;&#x43e;&#x441;&#x442;&#x430;&apos;&#x432;&#x43b;&#x44f;&#x435;&#x442;[&#xc774;&#xb2e4; 0,25 &#x43b;.&#x2002;[c.21]"/>
 </node>
-<node CREATED="1620017978914" FOLDED="true" ID="ID_1878825399" MODIFIED="1620197260922" TEXT="#7&#x2002;&#x420;&#x43e;&#x43b;&#x44c; &#x432;&#x43e;&#x434;&#x43e;&#x440;&#x43e;&#x434;&#x430; &#x432; &#x43a;&#x440;&#x443;&#x433;&#x43e;&#x43e;&#x431;&#x43e;&#x440;&#x43e;&apos;&#x442;&#x435;[&#xc21c;&#xd658; &#x432;&#x435;&#x449;&#x435;&#x441;&#x442;&#x432;[&#xbb3c;&#xc9c8; &#x432; &#x43f;&#x440;&#x438;&#x440;&#x43e;&#x434;&#x435;[&#xc790;&#xc5f0;. &#x418;&#x441;&#x43f;&#x43e;&apos;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x432;&#x43e;&#x434;&#x43e;&#x440;&#x43e;&#x434;&#x430; &#x434;&#x430;&#x435;&#x442; &#x432;&#x43e;&#x437;&#x43c;&#x43e;&#x436;&#x43d;&#x43e;&#x441;&#x442;&#x44c; &#x432;&#x43e;&#x437;&#x432;&#x440;&#x430;&#x449;&#x430;&#x442;&#x44c;[&#xb418;&#xb3cc;&#xb9b4; &#x432; &#x43a;&#x440;&#x443;&#x433;&#x43e;&#x43e;&#x431;&#x43e;&#x440;&#x43e;&#x442; &#x43f;&#x440;&#x438;&#x440;&#x43e;&#x434;&#x44b; &#x438;&#x437; &#x44d;&#x43d;&#x435;&#x440;&#x433;&#x435;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x445; &#x442;&#x443;&#x43f;&#x438;&apos;&#x43a;&#x43e;&#x432;[&#xb9c9;-&#xb2e4;&#xb978;-&#xacf3; &#x43a;&#x430;&#x440;&#x431;&#x43e;&#x43d;&#x430;&#x442;&#x43d;&#x44b;&#x439; &#x443;&#x433;&#x43b;&#x435;&#x440;&#x43e;&#x434; [71].">
+<node CREATED="1620017978914" FOLDED="true" ID="ID_1878825399" MODIFIED="1620281211938" TEXT="#7&#x2002;&#x420;&#x43e;&#x43b;&#x44c; &#x432;&#x43e;&#x434;&#x43e;&#x440;&#x43e;&#x434;&#x430; &#x432; &#x43a;&#x440;&#x443;&#x433;&#x43e;&#x43e;&#x431;&#x43e;&#x440;&#x43e;&apos;&#x442;&#x435;[&#xc21c;&#xd658; &#x432;&#x435;&#x449;&#x435;&#x441;&#x442;&#x432;[&#xbb3c;&#xc9c8; &#x432; &#x43f;&#x440;&#x438;&#x440;&#x43e;&#x434;&#x435;[&#xc790;&#xc5f0;. &#x418;&#x441;&#x43f;&#x43e;&apos;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x432;&#x43e;&#x434;&#x43e;&#x440;&#x43e;&#x434;&#x430; &#x434;&#x430;&#x435;&#x442; &#x432;&#x43e;&#x437;&#x43c;&#x43e;&#x436;&#x43d;&#x43e;&#x441;&#x442;&#x44c; &#x432;&#x43e;&#x437;&#x432;&#x440;&#x430;&#x449;&#x430;&#x442;&#x44c;[&#xb418;&#xb3cc;&#xb9b4; &#x432; &#x43a;&#x440;&#x443;&#x433;&#x43e;&#x43e;&#x431;&#x43e;&#x440;&#x43e;&#x442; &#x43f;&#x440;&#x438;&#x440;&#x43e;&#x434;&#x44b; &#x438;&#x437; &#x44d;&#x43d;&#x435;&#x440;&#x433;&#x435;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x445; &#x442;&#x443;&#x43f;&#x438;&apos;&#x43a;&#x43e;&#x432;[&#xb9c9;-&#xb2e4;&#xb978;-&#xacf3; &#x43a;&#x430;&#x440;&#x431;&#x43e;&#x43d;&#x430;&#x442;&#x43d;&#x44b;&#x439; &#x443;&#x433;&#x43b;&#x435;&#x440;&#x43e;&#x434; [71].">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_471696731" ENDARROW="Default" ENDINCLINATION="1489;0;" ID="Arrow_ID_1766877459" STARTARROW="None" STARTINCLINATION="1489;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1750645904" ENDARROW="Default" ENDINCLINATION="1489;0;" ID="Arrow_ID_522469648" STARTARROW="None" STARTINCLINATION="1489;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_430636482" ENDARROW="Default" ENDINCLINATION="1489;0;" ID="Arrow_ID_228461654" STARTARROW="None" STARTINCLINATION="1489;0;"/>
@@ -6910,10 +6949,26 @@
 <node COLOR="#338800" CREATED="1620197236842" ID="ID_1037206382" MODIFIED="1620197248650" TEXT="#.1 &#x414;&#x438;&#x43e;&#x43a;&#x441;&#x438;&#x434; &#x443;&#x433;&#x43b;&#x435;&#x440;&#x43e;&#x434;&#x430; &#x432; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x435; &#x433;&#x438;&#x434;&#x440;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x44f; &#x43c;&#x43e;&#x436;&#x435;&#x442; &#x431;&#x44b;&#x442;&#x44c; &#x43f;&#x440;&#x435;&#x432;&#x440;&#x430;&#x449;&#x435;[jo]&#x43d;[&#xc804;&#xd658; &#xb420; &#x432; &#x43c;&#x435;&#x442;&#x430;&#x43d;,"/>
 <node COLOR="#338800" CREATED="1620197236843" ID="ID_1650717416" MODIFIED="1620197248630" TEXT="#.2 &#x43f;&#x43e; &#x440;&#x435;&#x430;&#x43a;&#x446;&#x438;&#x438; &#x432;&#x43e;&#x434;&#x44f;&#x43d;&#x43e;&apos;&#x433;&#x43e;[&#xc218;&#xc131; &#x433;&#x430;&#x437;&#x430; &#x2014; &#x432; &#x43e;&#x43a;&#x441;&#x43d;&#x434; &#x443;&#x433;&#x43b;&#x435;&#x440;&#x43e;&#x434;&#x430;, &#x430; &#x43f;&#x440;&#x438; &#x43f;&#x43e;&#x441;&#x43b;&#x435;&apos;&#x434;&#x443;&#x44e;&#x449;&#x435;&#x43c;[&#xd6c4;&#xc18d; &#x433;&#x438;&#x434;&#x440;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x438; &#x2014; &#x432; &#x43c;&#x435;&#x442;&#x430;&#x43d;&#x43e;&#x43b; &#x438;&#x43b;&#x438; &#x436;&#x438;&#x434;&#x43a;&#x438;&#x435;[&#xc561;&#xccb4; &#x443;&#x433;&#x43b;&#x435;&#x432;&#x43e;&#x434;&#x43e;&#x440;&#x43e;&#x434;&#x44b;.&#x2002;[c.44]"/>
 <node COLOR="#338800" CREATED="1620197236845" ID="ID_1717243115" MODIFIED="1620197248612" TEXT="#.3 &#x41f;&#x435;&#x440;&#x435;&#x433;&#x43e;&apos;&#x43d;&#x43a;&#x430;[&#xc99d;&#xae30;-&#xc99d;&#xb958; &#x44d;&#x442;&#x430;&#x43d;&#x43e;&#x43b;&#x430; &#x441; &#x43f;&#x430;&#x440;&#x43e;&apos;&#x43c; &#x438; &#x43f;&#x43e;&#x441;&#x43b;&#x435;&#x434;&#x443;&#x44e;&#x449;&#x430;&#x44f; &#x444;&#x440;&#x430;&#x43a;&#x446;&#x438;&#x43e;&#x43d;&#x43d;&#x430;&#x44f;[&#xbd84;&#xbcc4; &#x43f;&#x435;&#x440;&#x435;&#x433;&#x43e;&#x43d;&#x43a;&#x430; &#x442;&#x440;&#x435;&#x431;&#x443;&#x44e;&#x442;[require &#x431;&#x43e;&#x43b;&#x44c;&#x448;&#x438;&#x445; &#x437;&#x430;&#x442;&#x440;&#x430;&apos;&#x442;[&#xbe44;&#xc6a9;  &#x44d;&#x43d;&#x435;&#x440;&#x433;&#x438;&#x438;"/>
-</node>
-<node CREATED="1620197236845" ID="ID_1094309537" MODIFIED="1620197269902" TEXT="#.4 , &#x441;&#x442;&#x43e;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x44c; &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x43e;&#x439; &#x441;&#x43e;&#x441;&#x442;&#x430;&#x432;&#x43b;&#x44f;&#x435;&#x442; &#x431;&#x43e;&#x43b;&#x435;&#x435; 40 % &#x441;&#x442;&#x43e;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x438; &#x432;&#x441;&#x435;&#x433;&#x43e; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x430; [100].">
+<node COLOR="#338800" CREATED="1620197236845" ID="ID_1094309537" MODIFIED="1620281207031" TEXT="#.4 , &#x441;&#x442;&#x43e;&apos;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x44c;[&#xbe44;&#xc6a9; &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x43e;&#x439; &#x441;&#x43e;&#x441;&#x442;&#x430;&#x432;&#x43b;&#x44f;&apos;&#x435;&#x442;[constitute &#x431;&#x43e;&#x43b;&#x435;&#x435; 40 % &#x441;&#x442;&#x43e;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x438; &#x432;&#x441;&#x435;&#x433;&#x43e; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x430; [100].">
 <arrowlink DESTINATION="ID_1344545888" ENDARROW="Default" ENDINCLINATION="1551;0;" ID="Arrow_ID_1204847045" STARTARROW="None" STARTINCLINATION="1551;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_437874429" ENDARROW="Default" ENDINCLINATION="1551;0;" ID="Arrow_ID_1303658362" STARTARROW="None" STARTINCLINATION="1551;0;"/>
+</node>
+<node COLOR="#338800" CREATED="1620281170675" ID="ID_261338788" MODIFIED="1620281207035" TEXT="#.5 &#x412; &#x440;&#x435;&#x437;&#x443;&#x43b;&#x44c;&#x442;&#x430;&#x442;&#x435; &#x44d;&#x442;&#x430;&#x43d;&#x43e;&#x43b;, &#x43f;&#x43e;&#x43b;&#x443;&apos;&#x447;&#x435;&#x43d;&#x43d;&#x44b;&#x439;[&#xcd94;&#xcd9c;&#xd55c; &#x438;&#x437; &#x434;&#x440;&#x435;&#x432;&#x435;&#x441;&#x438;&apos;&#x43d;&#x44b;[&#xb098;&#xbb34;&#xc5d0;&#xc11c;, &#x43f;&#x43e; &#x441;&#x435;&#x431;&#x435;&#x441;&#x442;&#x43e;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x438;[net-cost"/>
+<node COLOR="#338800" CREATED="1620281170679" ID="ID_1516179107" MODIFIED="1620281207039" TEXT="#.6 &#x43d;&#x435; &#x43a;&#x43e;&#x43d;&#x43a;&#x443;&#x440;&#x438;&apos;&#x440;&#x443;&#x435;&#x442;[&#xacbd;&#xc7c1;&#xd558;&#xc9c0; &#x441; &#x44d;&#x442;&#x430;&#x43d;&#x43e;&#x43b;&#x43e;&#x43c;, &#x43f;&#x43e;&#x43b;&#x443;&apos;&#x447;&#x430;&#x435;&#x43c;&#x44b;&#x43c;[&#xc5bb;&#xc740; &#x433;&#x438;&#x434;&#x440;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435;&#x43c; &#x44d;&#x442;&#x438;&#x43b;&#x435;&#x43d;&#x430; &#x438;&#x43b;&#x438; &#x438;&#x437; &#x437;&#x435;&#x440;&#x43d;&#x430;&apos;[&#xace1;&#xbb3c;."/>
+<node COLOR="#338800" CREATED="1620281170683" ID="ID_1150477052" MODIFIED="1620281207040" TEXT="#.7 &#x412;&#x441;&#x435;[jo][&#xadf8;&#xb7ec;&#xb098; &#x436;&#x435; &#x432; &#x424;&#x438;&#x43d;&#x43b;&#x44f;&apos;&#x43d;&#x434;&#x438;&#x438; &#x432; 1977&#x2014;1978 &#x433;&#x433;. &#x431;&#x44b;&#x43b;&#x438; &#x43f;&#x43e;&#x441;&#x442;&#x440;&#x43e;&apos;&#x435;&#x43d;&#x44b;[&#xac74;&#xc124;&#xb418;&#xc5c8; &#x434;&#x432;&#x430; &#x43d;&#x43e;&#x432;&#x44b;&#x445; &#x441;&#x43f;&#x438;&#x440;&#x442;&#x43e;&#x432;&#x44b;&#x445; &#x437;&#x430;&#x432;&#x43e;&apos;&#x434;&#x430;[plant &#x43f;&#x440;&#x43e;&#x438;&#x437;&#x432;&#x43e;&#x434;&#x438;&#x442;&#x435;&#x43b;&#x44c;&#x43d;&#x43e;&#x441;&#x442;&#x44c;&#x44e;[&#xd560;-&#xc218;&#xc788;&#xb294; 8000 &#x442; &#x441;&#x43f;&#x438;&#x440;&#x442;&#x430; &#x432; &#x433;&#x43e;&#x434; &#x43a;&#x430;&#x436;&#x434;&#x44b;&#x439;,"/>
+</node>
+<node CREATED="1620281170698" ID="ID_163092582" MODIFIED="1620281225545">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      #.8 &#1089; &#1086;&#1076;&#1085;&#1086;&#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1085;&#1099;&#1084; &#1087;&#1086;&#1083;&#1091;&#1095;&#1077;&#1085;&#1080;&#1077;&#1084; &#1076;&#1080;&#1086;&#1082;&#1089;&#1080;&#1076;&#1072; &#1091;&#1075;&#1083;&#1077;&#1088;&#1086;&#1076;&#1072; (7000 &#1090;/&#1075;&#1086;&#1076;) [102].&#8194; [c.411]
+    </p>
+  </body>
+</html></richcontent>
+<arrowlink DESTINATION="ID_1008754036" ENDARROW="Default" ENDINCLINATION="1397;0;" ID="Arrow_ID_1257481231" STARTARROW="None" STARTINCLINATION="1397;0;"/>
 </node>
 </node>
 </node>
