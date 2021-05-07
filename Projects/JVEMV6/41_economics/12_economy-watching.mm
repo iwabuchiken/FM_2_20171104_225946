@@ -2,9 +2,9 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1606539205663" ID="ID_1253309608" LINK="../../JVEMV6%2041%20economics.mm" MODIFIED="1606539259781" TEXT="12. economy watching">
 <node CREATED="1606539276261" ID="ID_1344185555" MODIFIED="1606539281145" POSITION="right" TEXT="1. topics"/>
-<node CREATED="1611247031122" ID="ID_1093998936" MODIFIED="1618560637970" POSITION="right" TEXT="sessions">
+<node CREATED="1611247031122" FOLDED="true" ID="ID_1093998936" MODIFIED="1620343131154" POSITION="right" TEXT="sessions">
 <node CREATED="1615187554513" ID="ID_652357099" MODIFIED="1618646796172" TEXT="s-1">
-<node COLOR="#338800" CREATED="1618646797335" FOLDED="true" ID="ID_1626259105" MODIFIED="1618648979367" TEXT="1">
+<node COLOR="#338800" CREATED="1618646797335" ID="ID_1626259105" MODIFIED="1620341963238" TEXT="1">
 <node CREATED="1618646807816" ID="ID_697231365" MODIFIED="1618646809634" TEXT="watch">
 <node CREATED="1618646821263" ID="ID_797185808" MODIFIED="1618646822622" TEXT="&#x7d71;&#x8a08;">
 <node CREATED="1618646809635" ID="ID_468626714" MODIFIED="1618646819791" TEXT="&#x30af;&#x30ec;&#x30b8;&#x30c3;&#x30c8;&#x30ab;&#x30fc;&#x30c9;&#x95a2;&#x4fc2;">
@@ -18,8 +18,7 @@
       &#12463;&#12524;&#12472;&#12483;&#12488;&#12459;&#12540;&#12489;&#21332;&#20250;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1618647048899" ID="ID_1400594453" LINK="https://www.j-credit.or.jp/information/statistics/index.html" MODIFIED="1618647058351" TEXT="&#x30af;&#x30ec;&#x30b8;&#x30c3;&#x30c8;&#x95a2;&#x9023;&#x7d71;&#x8a08;">
 <node CREATED="1618647079719" ID="ID_915842610" MODIFIED="1618647203427" TEXT="s-1.d-1 / &#x4fe1;&#x7528;&#x4f9b;&#x4e0e;&#x984d;&#x30fb;&#x4fe1;&#x7528;&#x4f9b;&#x4e0e;&#x6b8b;&#x9ad8;">
 <node COLOR="#006699" CREATED="1618648057673" ID="ID_799479189" MODIFIED="1618648060054" TEXT="obs">
@@ -36,8 +35,7 @@
       &#160;(==&gt; up 1.95%)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1618648195246" ID="ID_924926244" MODIFIED="1618648258942">
 <richcontent TYPE="NODE"><html>
@@ -55,8 +53,7 @@
       &#36820;&#28168;&#22679;&#28187;&#12289;&#21516;&#27604; 4.76 %
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1618648336977" ID="ID_502684995" MODIFIED="1618648339915" TEXT="sheet">
 <node CREATED="1618648341458" ID="ID_236734638" LINK="C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\12_economy-watching\s-1.(1).ods" MODIFIED="1618648369436" TEXT="s-1.(1).ods / 1.(2)"/>
@@ -71,7 +68,9 @@
 </node>
 <node CREATED="1610723630275" ID="ID_1528978459" MODIFIED="1615959628072" TEXT="n:">
 <node CREATED="1610781936849" ID="ID_132021666" MODIFIED="1610781937241" TEXT="1">
-<node CREATED="1618648818046" ID="ID_408751464" LINK="https://www.j-credit.or.jp/information/statistics/index.html#shopping-movement" MODIFIED="1618648909011" TEXT="&#x4eca;&#x56de;&#x3068;&#x540c;&#x3058;&#x30b5;&#x30a4;&#x30c8;&#x3002;&#x6708;&#x6b21;&#x7d71;&#x8a08;"/>
+<node CREATED="1618648818046" ID="ID_408751464" LINK="https://www.j-credit.or.jp/information/statistics/index.html#shopping-movement" MODIFIED="1620342008950" TEXT="&#x4eca;&#x56de;&#x3068;&#x540c;&#x3058;&#x30b5;&#x30a4;&#x30c8;&#x3002;&#x6708;&#x6b21;&#x7d71;&#x8a08;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_408751464" ENDARROW="Default" ENDINCLINATION="196;0;" ID="Arrow_ID_447112632" SOURCE="ID_314373796" STARTARROW="None" STARTINCLINATION="196;0;"/>
+</node>
 </node>
 <node CREATED="1618648912846" ID="ID_1193324839" MODIFIED="1618648915311" TEXT="2">
 <node CREATED="1618648915313" ID="ID_1806303152" MODIFIED="1618648922149" TEXT="&#x30b9;&#x30fc;&#x30d1;&#x30fc;&#x95a2;&#x9023;&#x306e;&#x7d71;&#x8a08;"/>
@@ -79,6 +78,18 @@
 </node>
 <node COLOR="#990000" CREATED="1618648964957" ID="ID_1156432193" MODIFIED="1618648967091" TEXT="/20210417_174243"/>
 </node>
+<node CREATED="1615187554513" ID="ID_1621999677" MODIFIED="1620341950554" TEXT="s-2">
+<node COLOR="#990000" CREATED="1620342043624" ID="ID_489884489" MODIFIED="1620342048641" TEXT="20210507_080039/"/>
+<node CREATED="1620341956642" ID="ID_338878641" MODIFIED="1620341958912" TEXT="1">
+<node CREATED="1620341966202" ID="ID_314373796" MODIFIED="1620342008950" TEXT="watch">
+<arrowlink DESTINATION="ID_408751464" ENDARROW="Default" ENDINCLINATION="196;0;" ID="Arrow_ID_447112632" STARTARROW="None" STARTINCLINATION="196;0;"/>
+</node>
+</node>
+<node CREATED="1610723630275" ID="ID_1331490092" MODIFIED="1615959628072" TEXT="n:">
+<node CREATED="1610781936849" ID="ID_1415007079" MODIFIED="1610781937241" TEXT="1"/>
+</node>
+</node>
+<node CREATED="1609426935847" ID="ID_1640081882" LINK="C:\WORKS_2\t.bat" MODIFIED="1609426941038" TEXT="time"/>
 </node>
 <node CREATED="1609453656833" ID="ID_37527138" MODIFIED="1610686025388" POSITION="left" TEXT="utils">
 <node CREATED="1609426935847" ID="ID_677494908" LINK="C:\WORKS_2\t.bat" MODIFIED="1609426941038" TEXT="time"/>
@@ -106,8 +117,7 @@
       taskkill /f /im javaw.exe &amp;&amp; taskkill /f /im sakura.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_41.[theme=economics:topic=12_economy-watch]) periodical updates&quot; &amp;&amp; e &amp;&amp; p
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
