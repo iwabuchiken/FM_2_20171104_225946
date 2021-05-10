@@ -4582,6 +4582,7 @@
 <node CREATED="1620547559555" ID="ID_240860855" MODIFIED="1620547596316" TEXT="#5.4 Guo &#xb4f1;&#xc740;">
 <arrowlink DESTINATION="ID_126983867" ENDARROW="Default" ENDINCLINATION="977;0;" ID="Arrow_ID_1753754020" STARTARROW="None" STARTINCLINATION="977;0;"/>
 <arrowlink DESTINATION="ID_1111417865" ENDARROW="Default" ENDINCLINATION="977;0;" ID="Arrow_ID_1506431689" STARTARROW="None" STARTINCLINATION="977;0;"/>
+<arrowlink DESTINATION="ID_1233438095" ENDARROW="Default" ENDINCLINATION="977;0;" ID="Arrow_ID_334188961" STARTARROW="None" STARTINCLINATION="977;0;"/>
 </node>
 </node>
 </node>
@@ -5087,8 +5088,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1615187554513" ID="ID_1005433959" MODIFIED="1620547664365" TEXT="s-68">
-<node CREATED="1610723630275" ID="ID_423510733" MODIFIED="1620608257312" TEXT="do">
+<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1005433959" MODIFIED="1620634475484" TEXT="s-68">
+<node CREATED="1610723630275" FOLDED="true" ID="ID_423510733" MODIFIED="1620634469313" TEXT="do">
 <node COLOR="#338800" CREATED="1619754002576" ID="ID_442008673" MODIFIED="1620617250304" TEXT="3">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_442008673" ENDARROW="Default" ENDINCLINATION="1763;0;" ID="Arrow_ID_785731606" SOURCE="ID_1511223274" STARTARROW="None" STARTINCLINATION="1763;0;"/>
 <node CREATED="1620185437769" ID="ID_915773480" MODIFIED="1620266699088" TEXT="read C">
@@ -5117,19 +5118,26 @@
 <node COLOR="#990000" CREATED="1620625313639" ID="ID_1677454064" MODIFIED="1620625315238" TEXT="/20210510_144146"/>
 </node>
 </node>
-<node CREATED="1617848540964" ID="ID_555348317" MODIFIED="1620539605689" TEXT="1">
+<node COLOR="#338800" CREATED="1617848540964" ID="ID_555348317" MODIFIED="1620630700803" TEXT="1">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_555348317" ENDARROW="Default" ENDINCLINATION="2131;0;" ID="Arrow_ID_1460403837" SOURCE="ID_1472657186" STARTARROW="None" STARTINCLINATION="2131;0;"/>
+<node COLOR="#990000" CREATED="1620626832928" ID="ID_895912012" MODIFIED="1620626836654" TEXT="20210510_150711/">
+<node CREATED="1620626837755" ID="ID_858261959" MODIFIED="1620626849473" TEXT="s-3"/>
+</node>
 <node CREATED="1618711502942" ID="ID_806808584" MODIFIED="1619425083114" TEXT="read C">
 <node CREATED="1618716980139" ID="ID_1557284339" MODIFIED="1618716981810" TEXT="ge"/>
 </node>
 </node>
-<node CREATED="1617501328307" ID="ID_971245890" MODIFIED="1620545521999" TEXT="2">
+<node COLOR="#338800" CREATED="1617501328307" ID="ID_971245890" MODIFIED="1620634426657" TEXT="2">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_971245890" ENDARROW="Default" ENDINCLINATION="2100;0;" ID="Arrow_ID_1754476478" SOURCE="ID_310623844" STARTARROW="None" STARTINCLINATION="2100;0;"/>
+<node COLOR="#990000" CREATED="1620632544059" ID="ID_1432994364" MODIFIED="1620632547641" TEXT="20210510_164216/"/>
 <node CREATED="1618712600115" ID="ID_443089703" MODIFIED="1619928957015" TEXT="read C">
 <node CREATED="1618716983032" ID="ID_1939890568" MODIFIED="1618716984158" TEXT="ru"/>
 </node>
+<node COLOR="#990000" CREATED="1620634436067" ID="ID_453151237" MODIFIED="1620634439752" TEXT="/20210510_171354">
+<node CREATED="1620634443498" ID="ID_696464562" MODIFIED="1620634449118" TEXT="/s-3"/>
 </node>
-<node CREATED="1619754002576" ID="ID_1111417865" MODIFIED="1620547596316" TEXT="3">
+</node>
+<node COLOR="#ff0000" CREATED="1619754002576" ID="ID_1111417865" MODIFIED="1620634462705" TEXT="3">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1111417865" ENDARROW="Default" ENDINCLINATION="977;0;" ID="Arrow_ID_1506431689" SOURCE="ID_240860855" STARTARROW="None" STARTINCLINATION="977;0;"/>
 <node CREATED="1618711502942" ID="ID_1639451738" MODIFIED="1619425083114" TEXT="read C">
 <node CREATED="1620180563149" ID="ID_1584620690" MODIFIED="1620180564615" TEXT="ko"/>
@@ -5137,6 +5145,12 @@
 </node>
 </node>
 <node CREATED="1610723630275" ID="ID_1555815095" MODIFIED="1617084026334" TEXT="n:">
+<node COLOR="#ff0000" CREATED="1619754002576" ID="ID_1233438095" MODIFIED="1620634467852" TEXT="3">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1233438095" ENDARROW="Default" ENDINCLINATION="977;0;" ID="Arrow_ID_334188961" SOURCE="ID_240860855" STARTARROW="None" STARTINCLINATION="977;0;"/>
+<node CREATED="1618711502942" ID="ID_36322799" MODIFIED="1619425083114" TEXT="read C">
+<node CREATED="1620180563149" ID="ID_1805622595" MODIFIED="1620180564615" TEXT="ko"/>
+</node>
+</node>
 <node CREATED="1617848540964" ID="ID_1437830770" MODIFIED="1620617241834" TEXT="1">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1437830770" ENDARROW="Default" ENDINCLINATION="2235;0;" ID="Arrow_ID_41748238" SOURCE="ID_1841811027" STARTARROW="None" STARTINCLINATION="2235;0;"/>
 <node CREATED="1620185437769" ID="ID_796686146" MODIFIED="1620266699088" TEXT="read C">
@@ -5160,8 +5174,18 @@
 </node>
 </node>
 </node>
-<node CREATED="1619754002576" ID="ID_1262785770" MODIFIED="1619754002920" TEXT="3"/>
-<node CREATED="1619754003255" ID="ID_1893172115" MODIFIED="1619754003802" TEXT="4"/>
+<node CREATED="1619754002576" ID="ID_1262785770" MODIFIED="1620630693270" TEXT="3">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1262785770" ENDARROW="Default" ENDINCLINATION="2060;0;" ID="Arrow_ID_1596578167" SOURCE="ID_532493988" STARTARROW="None" STARTINCLINATION="2060;0;"/>
+<node CREATED="1618711502942" ID="ID_1354252406" MODIFIED="1619425083114" TEXT="read C">
+<node CREATED="1618716980139" ID="ID_549679910" MODIFIED="1618716981810" TEXT="ge"/>
+</node>
+</node>
+<node CREATED="1619754003255" ID="ID_1893172115" MODIFIED="1620634418998" TEXT="4">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1893172115" ENDARROW="Default" ENDINCLINATION="1825;0;" ID="Arrow_ID_1747248888" SOURCE="ID_247049318" STARTARROW="None" STARTINCLINATION="1825;0;"/>
+<node CREATED="1618712600115" ID="ID_574460152" MODIFIED="1619928957015" TEXT="read C">
+<node CREATED="1618716983032" ID="ID_344258563" MODIFIED="1618716984158" TEXT="ru"/>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1615881663814" ID="ID_674129545" MODIFIED="1619169132173" TEXT="xxx"/>
@@ -5305,7 +5329,7 @@
 <node CREATED="1619754003255" ID="ID_173056770" MODIFIED="1619754003802" TEXT="4"/>
 </node>
 </node>
-<node CREATED="1615966907020" FOLDED="true" ID="ID_1262051945" MODIFIED="1620625529496" POSITION="right" TEXT="read">
+<node CREATED="1615966907020" FOLDED="true" ID="ID_1262051945" MODIFIED="1620634478516" POSITION="right" TEXT="read">
 <node CREATED="1617083828588" FOLDED="true" ID="ID_1428723860" MODIFIED="1617083834845" TEXT="1~5">
 <node COLOR="#338800" CREATED="1616129546023" FOLDED="true" ID="ID_1485262763" MODIFIED="1616336535659" TEXT="1">
 <node CREATED="1616030857357" ID="ID_557031623" LINK="https://www.sciencedirect.com/science/article/abs/pii/S0360319917313307" MODIFIED="1616129562408">
@@ -6960,6 +6984,7 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1970265078" ENDARROW="Default" ENDINCLINATION="1169;0;" ID="Arrow_ID_546714063" STARTARROW="None" STARTINCLINATION="1169;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_625932059" ENDARROW="Default" ENDINCLINATION="1169;0;" ID="Arrow_ID_1671012222" STARTARROW="None" STARTINCLINATION="1169;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1636287906" ENDARROW="Default" ENDINCLINATION="1169;0;" ID="Arrow_ID_156857013" STARTARROW="None" STARTINCLINATION="1169;0;"/>
+<node CREATED="1620630628365" FOLDED="true" ID="ID_292765351" MODIFIED="1620630650315" TEXT="#.1~">
 <node COLOR="#338800" CREATED="1620196147367" ID="ID_1190614216" MODIFIED="1620536821805" TEXT="#.1 Der Abschnitt der Auswertung besch&#xe4;ftigt sich">
 <arrowlink DESTINATION="ID_584211397" ENDARROW="Default" ENDINCLINATION="1835;0;" ID="Arrow_ID_619835508" STARTARROW="None" STARTINCLINATION="1835;0;"/>
 <node COLOR="#006699" CREATED="1620196147398" ID="ID_1733330628" MODIFIED="1620196151088" TEXT="words">
@@ -6995,21 +7020,37 @@
 </node>
 </node>
 <node COLOR="#338800" CREATED="1620536948172" ID="ID_460753240" MODIFIED="1620539562884" TEXT="#.4 Die Gesamtstoffmenge im Gas nach der Reaktion ergibt sich">
-<node COLOR="#006699" CREATED="1620539552432" FOLDED="true" ID="ID_982083513" MODIFIED="1620539558898" TEXT="trans">
+<node COLOR="#006699" CREATED="1620539552432" FOLDED="true" ID="ID_982083513" MODIFIED="1620628831321" TEXT="trans">
 <node CREATED="1620539552432" ID="ID_1825711341" MODIFIED="1620539552432" TEXT="Gesamtstoffmenge[total-amount-of-substances,ergibt[results-from~sich,Annahme[assumption,,darstellt[pose,vereinfacht[&#xb2e8;&#xc21c;&#xd654;&#xb429;~sich,"/>
 </node>
 </node>
-<node CREATED="1620196148085" ID="ID_1472657186" MODIFIED="1620539605689" TEXT="#.4 Durch weiteres Umformen[transforming und Einsetzen[inserting von Gleichung 4-1 in Gleichung 4-3 mit XXX resultiert Gleichung 4-4, welche ausschlie&#xdf;lich[exclusively von den eingesetzten CO2- und H2-Stoffmengen zum Zeitpunkt t = 0 sowie vom Stoffmengenanteil[mole-fraction an CH3OH abh&#xe4;ngt[depend:">
+<node COLOR="#338800" CREATED="1620196148085" ID="ID_1472657186" MODIFIED="1620630621696" TEXT="#10.4 Durch weiteres Umformen und ">
 <arrowlink DESTINATION="ID_1033656441" ENDARROW="Default" ENDINCLINATION="2131;0;" ID="Arrow_ID_705717792" STARTARROW="None" STARTINCLINATION="2131;0;"/>
 <arrowlink DESTINATION="ID_555348317" ENDARROW="Default" ENDINCLINATION="2131;0;" ID="Arrow_ID_1460403837" STARTARROW="None" STARTINCLINATION="2131;0;"/>
+<node COLOR="#006699" CREATED="1620628828021" FOLDED="true" ID="ID_1256140404" MODIFIED="1620628830268" TEXT="trans">
+<node CREATED="1620628828021" MODIFIED="1620628828021" TEXT="Umformen[transforming,Einsetzen[inserting,ausschlie&#xdf;lich[exclusively,eingesetzten[used,Stoffmengenanteil[mole-fraction,abh&#xe4;ngt[depend:,"/>
 </node>
-<node CREATED="1620196148100" ID="ID_1625527543" MODIFIED="1620525591131" TEXT="#10.5 Die eingesetzten[used CO2- und H2-Anfangsstoffmengen[initial-substance-quantities werden dabei gravimetrisch bestimmt[determine. Die Massen und die entsprechenden[corresponding Stoffmengen einer typischen Batch-Vorlage[template sind in Tabelle 4-1 abgebildet[shown.">
+</node>
+<node COLOR="#338800" CREATED="1620196148100" ID="ID_1625527543" MODIFIED="1620630621696" TEXT="#10.5 Die eingesetzten[used CO2- und">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_570407995" ENDARROW="Default" ENDINCLINATION="1516;0;" ID="Arrow_ID_60022728" STARTARROW="None" STARTINCLINATION="1516;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1138045210" ENDARROW="Default" ENDINCLINATION="1516;0;" ID="Arrow_ID_360871216" STARTARROW="None" STARTINCLINATION="1516;0;"/>
 </node>
-<node CREATED="1620280318552" ID="ID_1789174369" MODIFIED="1620525591115" TEXT="#.6 Mittels[using der Anfangsstoffmengen an H2 und CO2 und des Stoffmengenanteils an CH3OH wird die Gesamtstoffmenge Gas (ngesamt,Gas) berechnet. Anschlie&#xdf;end[then kann die Stoffmenge an CH3OH im Gas mit Gleichung 4-1 bestimmt werden."/>
-<node CREATED="1620280318556" ID="ID_315359277" MODIFIED="1620525591100" TEXT="#.7 Die aus der Fl&#xfc;ssigkeitsphase[liquid-phase stammende[originating CH3OH-Stoffmenge wird mit Hilfe der HPLC erfasst[determined. Hierzu[to-do-this wird die Masse der fl&#xfc;ssigen Probe[sample (10 g) mit dem CH3OH-Massenanteil multipliziert und in die Stoffmenge umgerechnet[converted (Gleichung 4-5). Der Massenanteil wurde &#xfc;ber die HPLC-Analyse bestimmt."/>
-<node CREATED="1620280318561" ID="ID_532493988" MODIFIED="1620525591068" TEXT="#.8 Zur Berechnung der CH3OH-Ausbeute[yield werden die Stoffmengen der Gas- und Fl&#xfc;ssigphase addiert[added. Mit CO2 als Bezugskomponente[reference-component (aus einem Mol CO2 entsteht[result ein Mol CH3OH) l&#xe4;sst sich die CH3OH-Ausbeute durch folgende Gleichung berechnen:"/>
+</node>
+<node CREATED="1620630632366" FOLDED="true" ID="ID_1577911644" MODIFIED="1620630668771" TEXT="#.6~">
+<node COLOR="#338800" CREATED="1620280318552" ID="ID_1789174369" MODIFIED="1620630621695" TEXT="#.6 Mittels der Anfangsstoffmengen an">
+<node COLOR="#006699" CREATED="1620630612529" FOLDED="true" ID="ID_284471855" MODIFIED="1620630617866" TEXT="trans">
+<node CREATED="1620630612529" MODIFIED="1620630612529" TEXT="Mittels[using,Anschlie&#xdf;end[then"/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1620280318556" ID="ID_315359277" MODIFIED="1620630666148" TEXT="#.7 Die aus der Fl&#xfc;ssigkeitsphase">
+<node COLOR="#006699" CREATED="1620630662398" FOLDED="true" ID="ID_332774740" MODIFIED="1620630663974" TEXT="trans">
+<node CREATED="1620630662398" MODIFIED="1620630662398" TEXT="Fl&#xfc;ssigkeitsphase[liquid-phase,stammende[originating,erfasst[determined.,Hierzu[to-do-this,Probe[sample,umgerechnet[converted,"/>
+</node>
+</node>
+</node>
+<node CREATED="1620280318561" ID="ID_532493988" MODIFIED="1620630693270" TEXT="#.8 Zur Berechnung der CH3OH-Ausbeute[yield werden die Stoffmengen der Gas- und Fl&#xfc;ssigphase addiert[added. Mit CO2 als Bezugskomponente[reference-component (aus einem Mol CO2 entsteht[result ein Mol CH3OH) l&#xe4;sst sich die CH3OH-Ausbeute durch folgende Gleichung berechnen:">
+<arrowlink DESTINATION="ID_1262785770" ENDARROW="Default" ENDINCLINATION="2060;0;" ID="Arrow_ID_1596578167" STARTARROW="None" STARTINCLINATION="2060;0;"/>
+</node>
 </node>
 </node>
 <node CREATED="1620280318565" ID="ID_1566377047" MODIFIED="1620280357075" TEXT="#11 4.1.2 Auswertung der">
@@ -7532,7 +7573,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1620436929666" FOLDED="true" ID="ID_1220807811" MODIFIED="1620545510117" TEXT="#8&#x2002;&#x41e;&#x43a;&#x438;&#x441;&#x43b;&#x438;&apos;&#x442;&#x435;&#x43b;&#x44c;&#x43d;&#x44b;&#x435;[&#xc0b0;&#xd654; &#x43c;&#x435;&#x442;&#x43e;&#x434;&#x44b; &#x437;&#x430;&#x43a;&#x43b;&#x44e;&#x447;&#x430;&apos;&#x44e;&#x442;&#x441;&#x44f;[&#xd3ec;&#xd568;&#xd569;&#xb2c8;&#xb2e4; &#x432; &#x43f;&#x440;&#x43e;&#x432;&#x435;&#x434;&#x435;&#x43d;&#x438;&#x438;[carrying-out &#x440;&#x435;&#x430;&#x43a;&#x446;&#x438;&#x439; &#x43a;&#x430;&#x442;&#x430;&#x43b;&#x438;&apos;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x43e;&#x433;&#x43e; &#x43e;&#x43a;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x44f; &#x441;&#x435;&#x440;&#x43e;&#x432;&#x43e;&#x434;&#x43e;&#x440;&#x43e;&#x434;&#x430;[hydrogen-sulfide &#x434;&#x43e; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430;&#x440;&#x43d;&#x43e;&#x439; &#x441;&#x435;&#x440;&#x44b;">
+<node CREATED="1620436929666" FOLDED="true" ID="ID_1220807811" MODIFIED="1620634409692" TEXT="#8&#x2002;&#x41e;&#x43a;&#x438;&#x441;&#x43b;&#x438;&apos;&#x442;&#x435;&#x43b;&#x44c;&#x43d;&#x44b;&#x435;[&#xc0b0;&#xd654; &#x43c;&#x435;&#x442;&#x43e;&#x434;&#x44b; &#x437;&#x430;&#x43a;&#x43b;&#x44e;&#x447;&#x430;&apos;&#x44e;&#x442;&#x441;&#x44f;[&#xd3ec;&#xd568;&#xd569;&#xb2c8;&#xb2e4; &#x432; &#x43f;&#x440;&#x43e;&#x432;&#x435;&#x434;&#x435;&#x43d;&#x438;&#x438;[carrying-out &#x440;&#x435;&#x430;&#x43a;&#x446;&#x438;&#x439; &#x43a;&#x430;&#x442;&#x430;&#x43b;&#x438;&apos;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x43e;&#x433;&#x43e; &#x43e;&#x43a;&#x438;&#x441;&#x43b;&#x435;&#x43d;&#x438;&#x44f; &#x441;&#x435;&#x440;&#x43e;&#x432;&#x43e;&#x434;&#x43e;&#x440;&#x43e;&#x434;&#x430;[hydrogen-sulfide &#x434;&#x43e; &#x44d;&#x43b;&#x435;&#x43c;&#x435;&#x43d;&#x442;&#x430;&#x440;&#x43d;&#x43e;&#x439; &#x441;&#x435;&#x440;&#x44b;">
 <node COLOR="#006699" CREATED="1620436929678" ID="ID_918434678" MODIFIED="1620436945619" TEXT="unrelated">
 <node COLOR="#006699" CREATED="1620436929680" ID="ID_325594543" MODIFIED="1620436946209" TEXT="docs">
 <node CREATED="1620436929683" ID="ID_800043051" LINK="https://ko.wikipedia.org/wiki/&#xd669;&#xd654;_&#xc218;&#xc18c;" MODIFIED="1620436951559" TEXT="&#xd669;&#xd654;_&#xc218;&#xc18c;"/>
@@ -7567,10 +7608,26 @@
 <node CREATED="1620545481565" MODIFIED="1620545481565" TEXT="&#x43f;&#x440;&#x43e;&#x438;&#x437;&#x432;&#x43e;&apos;&#x434;&#x441;&#x442;&#x432;&#x435;[&#xc0dd;&#xc0b0;,&#x432;~&#x43a;&#x430;&apos;&#x447;&#x435;&#x441;&#x442;&#x432;&#x435;[grade:grade-retreat~&#x43e;&#x442;&#x445;&#x43e;&apos;&#x434;&#x430;[retreat,&#x43e;&#x431;&#x440;&#x430;&#x437;&#x443;&apos;&#x435;&#x442;&#x441;&#x44f;[&#xc0dd;&#xc131;&#xb429;,"/>
 </node>
 </node>
-</node>
-<node CREATED="1620545481565" ID="ID_310623844" MODIFIED="1620545612978" TEXT="#8.8 &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x44b;&#x439; &#x43c;&#x43e;&#x436;&#x43d;&#x43e; &#x438;&#x441;&#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x44c; &#x43f;&#x440;&#x438;">
+<node COLOR="#338800" CREATED="1620545481565" ID="ID_310623844" MODIFIED="1620634370270" TEXT="#8.8 &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x44b;&#x439; &#x43c;&#x43e;&#x436;&#x43d;&#x43e; &#x438;&#x441;&#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x44c; &#x43f;&#x440;&#x438;">
 <arrowlink DESTINATION="ID_1969425342" ENDARROW="Default" ENDINCLINATION="2100;0;" ID="Arrow_ID_462013964" STARTARROW="None" STARTINCLINATION="2100;0;"/>
 <arrowlink DESTINATION="ID_971245890" ENDARROW="Default" ENDINCLINATION="2100;0;" ID="Arrow_ID_1754476478" STARTARROW="None" STARTINCLINATION="2100;0;"/>
+<node COLOR="#006699" CREATED="1620634305560" ID="ID_685104817" MODIFIED="1620634340541" TEXT="trans">
+<node CREATED="1620634305561" MODIFIED="1620634305561" TEXT="&#x438;&#x441;&#x43f;&#x43e;&apos;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x44c;[&#xc0ac;&#xc6a9;&#xb420;,&#x43f;&#x440;&#x438;[&#xc5d0;,&#x43f;&#x43e;&#x43b;&#x443;&#x447;&#x435;&apos;&#x43d;&#x438;&#x438;[&#xc0dd;&#xc0b0;,&#x43a;&#x430;&#x440;&#x431;&#x430;&#x43c;&#x438;&apos;&#x434;&#x430;[&#xc694;&#xc18c;."/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1620634305589" ID="ID_197595748" MODIFIED="1620634370268" TEXT="#.9 &#x41f;&#x440;&#x438; &#x43f;&#x440;&#x43e;&#x438;&#x437;&#x432;&#x43e;&#x434;&#x441;&#x442;&#x432;&#x435; &#x430;&#x446;&#x435;&#x442;&#x438;&#x43b;&#x435;&#x43d;&#x430;">
+<node COLOR="#006699" CREATED="1620634305661" FOLDED="true" ID="ID_1594965717" MODIFIED="1620634352581" TEXT="trans">
+<node CREATED="1620634305672" ID="ID_752634622" MODIFIED="1620634305672" TEXT="&#x43f;&#x440;&#x43e;&#x438;&#x437;&#x432;&#x43e;&apos;&#x434;&#x441;&#x442;&#x432;&#x435;[&#xc0dd;&#xc0b0;,&#x442;&#x435;&#x440;&#x43c;&#x43e;&#x43e;&#x43a;&#x438;&#x441;&#x43b;&#x438;&apos;&#x442;&#x435;&#x43b;&#x44c;&#x43d;&#x44b;&#x43c;[&#xc5f4;-&#xc0b0;&#xd654;,&#x43f;&#x438;&#x440;&#x43e;&apos;&#x43b;&#x438;&#x437;&#x43e;&#x43c;[&#xc5f4;&#xbd84;&#xd574;,&#x43f;&#x440;&#x438;&#x440;&#x43e;&apos;&#x434;&#x43d;&#x43e;&#x433;&#x43e;[&#xcc9c;&#xc5f0;,"/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1620634305684" ID="ID_146015027" MODIFIED="1620634370266" TEXT="#.10 &#x43e;&#x431;&#x440;&#x430;&#x437;&#x443;&#x435;&#x442;&#x441;&#x44f; &#x43e;&#x442;&#x445;&#x43e;&#x434;&#x44f;&#x449;&#x438;&#x439; &#x441;&#x438;&#x43d;&#x442;&#x435;&#x437;-&#x433;&#x430;&#x437;">
+<node COLOR="#006699" CREATED="1620634305685" FOLDED="true" ID="ID_572435637" MODIFIED="1620634312803" TEXT="trans">
+<node CREATED="1620634305686" MODIFIED="1620634305686" TEXT="&#x43e;&#x431;&#x440;&#x430;&#x437;&#x443;&apos;&#x435;&#x442;&#x441;&#x44f;[&#xd615;&#xc131;&#xd558;&#xace0;,&#x43e;&#x442;&#x445;&#x43e;&#x434;&#x44f;&apos;&#x449;&#x438;&#x439;[&#xd3d0;&#xae30;&#xbb3c;,&#x441;&#x43e;&#x434;&#x435;&#x440;&#x436;&#x430;&apos;&#x449;&#x438;&#x439;[comprising,"/>
+</node>
+</node>
+</node>
+<node CREATED="1620634305688" ID="ID_247049318" MODIFIED="1620634418999" TEXT="#8.10  &#x438;&#x441;&#x43f;&#x43e;&#x43b;&#x44c;&#x437;&#x443;&#x435;&#x43c;&#x44b;&#x435; &#x432; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x435; &#x441;&#x438;&#x43d;&#x442;&#x435;&#x437;&#x430; &#x43c;&#x435;&#x442;&#x430;&#x43d;&#x43e;&#x43b;&#x430;.">
+<arrowlink DESTINATION="ID_1893172115" ENDARROW="Default" ENDINCLINATION="1825;0;" ID="Arrow_ID_1747248888" STARTARROW="None" STARTINCLINATION="1825;0;"/>
 </node>
 </node>
 </node>
