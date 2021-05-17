@@ -6688,6 +6688,7 @@
 </node>
 <node COLOR="#338800" CREATED="1621233210342" ID="ID_369855835" MODIFIED="1621233215896" TEXT="0">
 <node CREATED="1621233212455" ID="ID_1289421803" MODIFIED="1621233214655" TEXT="programming"/>
+<node COLOR="#990000" CREATED="1621233392173" ID="ID_229185794" MODIFIED="1621233393957" TEXT="/20210517_153629"/>
 </node>
 <node CREATED="1619754003255" ID="ID_1326588528" MODIFIED="1621144278521" TEXT="4">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1326588528" ENDARROW="Default" ENDINCLINATION="971;0;" ID="Arrow_ID_885223360" SOURCE="ID_1025727605" STARTARROW="None" STARTINCLINATION="971;0;"/>
@@ -9657,7 +9658,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1621065494440" FOLDED="true" ID="ID_1141503250" MODIFIED="1621065502873" TEXT="storage">
+<node CREATED="1621065494440" ID="ID_1141503250" MODIFIED="1621233321797" TEXT="storage">
 <node CREATED="1608627706941" ID="ID_76103152" MODIFIED="1621065498416">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9693,6 +9694,19 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1608627706941" ID="ID_231879620" MODIFIED="1621233350839">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pushd C:\WORKS_2\shortcuts_docs &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_70.[theme=CO2]) periodical updates&quot; &amp;&amp; e &amp;&amp; p
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1608627706941" ID="ID_724708490" MODIFIED="1621065500920">
 <richcontent TYPE="NODE"><html>
