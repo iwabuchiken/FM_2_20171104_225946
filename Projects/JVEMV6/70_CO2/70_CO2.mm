@@ -7231,7 +7231,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_672160935" MODIFIED="1621584941249" TEXT="s-77">
+<node COLOR="#338800" CREATED="1615187554513" ID="ID_672160935" MODIFIED="1621662056402" TEXT="s-77">
 <node CREATED="1610723630275" ID="ID_1073969613" MODIFIED="1621583612648" TEXT="do">
 <node CREATED="1617848540964" ID="ID_1924279201" MODIFIED="1621479487092" TEXT="1">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1924279201" ENDARROW="Default" ENDINCLINATION="1013;0;" ID="Arrow_ID_1891887886" SOURCE="ID_1449114673" STARTARROW="None" STARTINCLINATION="1013;0;"/>
@@ -7260,7 +7260,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1621487378619" ID="ID_385429794" MODIFIED="1621496480116" TEXT="0.1">
+<node COLOR="#338800" CREATED="1621487378619" FOLDED="true" ID="ID_385429794" MODIFIED="1621662029944" TEXT="0.1">
 <node COLOR="#990000" CREATED="1621489043965" ID="ID_1506630880" MODIFIED="1621489049511" TEXT="20210520_143720/"/>
 <node CREATED="1621487383873" ID="ID_635769014" MODIFIED="1621579294187" TEXT="search">
 <node CREATED="1621487385450" ID="ID_884209783" LINK="https://3g2upl4pq6kufc4m.onion/?q=co2+fixation+mineral&amp;ia=web" MODIFIED="1621490692862" TEXT="co2 fixation mineral"/>
@@ -7298,7 +7298,7 @@
 </node>
 <node COLOR="#990000" CREATED="1621490781858" ID="ID_1199779966" MODIFIED="1621490783423" TEXT="/20210520_150619"/>
 </node>
-<node COLOR="#338800" CREATED="1621491043543" ID="ID_1553474087" MODIFIED="1621583612721" TEXT="0.2">
+<node COLOR="#338800" CREATED="1621491043543" ID="ID_1553474087" MODIFIED="1621662056480" TEXT="0.2">
 <node COLOR="#338800" CREATED="1621491046497" ID="ID_3068364" MODIFIED="1621493008319" TEXT="search">
 <node CREATED="1621491050500" ID="ID_378153578" MODIFIED="1621491060796" TEXT="carbon fixation mineral (german)"/>
 <node CREATED="1621492907598" ID="ID_503920186" MODIFIED="1621492907598" TEXT="Kohlenstoff fixierung mineral">
@@ -7332,6 +7332,7 @@
 </node>
 <node CREATED="1621584887260" ID="ID_1865941635" MODIFIED="1621584904056" TEXT="#2 Im Grunde sei es ein nat&#xfc;rlicher">
 <arrowlink DESTINATION="ID_282122376" ENDARROW="Default" ENDINCLINATION="1219;0;" ID="Arrow_ID_921348468" STARTARROW="None" STARTINCLINATION="1219;0;"/>
+<arrowlink DESTINATION="ID_1657729337" ENDARROW="Default" ENDINCLINATION="1219;0;" ID="Arrow_ID_1064071535" STARTARROW="None" STARTINCLINATION="1219;0;"/>
 </node>
 </node>
 </node>
@@ -7346,7 +7347,7 @@
 <node COLOR="#006699" CREATED="1621497491058" ID="ID_561595026" MODIFIED="1621497641183" TEXT="docs">
 <arrowlink DESTINATION="ID_340619025" ENDARROW="Default" ENDINCLINATION="660;0;" ID="Arrow_ID_961682758" STARTARROW="None" STARTINCLINATION="660;0;"/>
 <node CREATED="1621497491058" ID="ID_1617456656" LINK="https://3space-environment-glossary.com/wp-content/uploads/2018/02/TopicReview_20090522180036_43.pdf" MODIFIED="1621497501660" TEXT="&#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c;&#xbd84;&#xb9ac;&#xbc0f;&#xd761;&#xc218;&#xae30;&#xc220;"/>
-<node CREATED="1621497491121" ID="ID_867914030" LINK="https://www.cheric.org/files/research/ip/p201104/p201104-301.pdf" MODIFIED="1621497757129">
+<node COLOR="#338800" CREATED="1621497491121" ID="ID_867914030" LINK="https://www.cheric.org/files/research/ip/p201104/p201104-301.pdf" MODIFIED="1621662056495">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7359,26 +7360,28 @@
 </html></richcontent>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_867914030" ENDARROW="Default" ENDINCLINATION="538;0;" ID="Arrow_ID_1805397977" SOURCE="ID_447035875" STARTARROW="None" STARTINCLINATION="538;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_867914030" ENDARROW="Default" ENDINCLINATION="538;0;" ID="Arrow_ID_1932040610" SOURCE="ID_1605054224" STARTARROW="None" STARTINCLINATION="538;0;"/>
-<node COLOR="#006699" CREATED="1621574061948" ID="ID_1466238834" MODIFIED="1621574064787" TEXT="texts">
-<node COLOR="#338800" CREATED="1621579100835" FOLDED="true" ID="ID_853768638" MODIFIED="1621579248959" TEXT="#1 &#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c; &#xad11;&#xbb3c;&#xd654;(I)">
+<node COLOR="#006699" CREATED="1621574061948" ID="ID_1466238834" MODIFIED="1621662056495" TEXT="texts">
+<node COLOR="#338800" CREATED="1621579100835" ID="ID_853768638" MODIFIED="1621662056558" TEXT="#1 &#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c; &#xad11;&#xbb3c;&#xd654;(I)">
 <node COLOR="#006699" CREATED="1621579100835" ID="ID_263766800" MODIFIED="1621579108402" TEXT="words">
 <node CREATED="1621579100851" MODIFIED="1621579100851" TEXT="&#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c; &#xad11;&#xbb3c;&#xd654;"/>
 </node>
 <node COLOR="#006699" CREATED="1621579100851" ID="ID_1788430587" MODIFIED="1621579151423" TEXT="search">
 <node CREATED="1621579100851" ID="ID_104017709" MODIFIED="1621579100851" TEXT="&#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c; &#xad11;&#xbb3c;&#xd654;"/>
-<node COLOR="#006699" CREATED="1621579100851" FOLDED="true" ID="ID_1259504486" MODIFIED="1621579189651" TEXT="docs">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1259504486" ENDARROW="Default" ENDINCLINATION="1628;0;" ID="Arrow_ID_138385723" SOURCE="ID_983528763" STARTARROW="None" STARTINCLINATION="1628;0;"/>
-<node CREATED="1621579100851" ID="ID_1149716358" LINK="https://www.cheric.org/files/research/ip/p201104/p201104-401.pdf" MODIFIED="1621579123927">
+<node COLOR="#006699" CREATED="1621579100851" ID="ID_1259504486" MODIFIED="1621662078495" TEXT="docs">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1259504486" ENDARROW="Default" ENDINCLINATION="1609;-64;" ID="Arrow_ID_138385723" SOURCE="ID_983528763" STARTARROW="None" STARTINCLINATION="1628;0;"/>
+<node CREATED="1621579100851" ID="ID_1149716358" LINK="https://www.cheric.org/files/research/ip/p201104/p201104-401.pdf" MODIFIED="1621662105936">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      4. &#51060;&#49328;&#54868;&#53444;&#49548; &#44305;&#47932;&#54868;(II)
+      r-22-5~1 / 4. &#51060;&#49328;&#54868;&#53444;&#49548; &#44305;&#47932;&#54868;(II)
     </p>
   </body>
 </html></richcontent>
+<arrowlink DESTINATION="ID_440006488" ENDARROW="Default" ENDINCLINATION="1231;0;" ID="Arrow_ID_1673668128" STARTARROW="None" STARTINCLINATION="1231;0;"/>
+<node COLOR="#006699" CREATED="1621662095523" ID="ID_478492515" MODIFIED="1621662098152" TEXT="texts"/>
 </node>
 <node CREATED="1621579100851" ID="ID_1215810975" LINK="https://www.cheric.org/PDF/PIC/PC18/PC18-3-0028.pdf" MODIFIED="1621579136651" TEXT="&#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c; &#xd65c;&#xc6a9;: &#xad11;&#xbb3c;&#xd654; &#xae30;&#xc220;&#xac1c;&#xc694; &#xbc0f; &#xb3d9;&#xd5a5;"/>
 <node CREATED="1621579100882" ID="ID_441914450" LINK="https://patents.google.com/patent/KR101636674B1/ko" MODIFIED="1621579143777" TEXT="3&#xc0c1; &#xc720;&#xb3d9;&#xce35; &#xc2dc;&#xc2a4;&#xd15c;&#xc744; &#xc774;&#xc6a9;&#xd558;&#xb294; &#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c; &#xad11;&#xbb3c;&#xd654; &#xc7a5;&#xce58; &#xbc0f; &#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c; &#xad11;&#xbb3c;&#xd654; &#xbc29;&#xbc95;"/>
@@ -7437,10 +7440,34 @@
 </node>
 </node>
 </node>
-<node CREATED="1621579100991" ID="ID_1842040805" MODIFIED="1621579258758" TEXT="#2.2 &#xc0b0;&#xc5c5;&#xd3d0;&#xae30;&#xbb3c;&#xc744; &#xc774;&#xc6a9;&#xd55c; &#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c;">
+<node COLOR="#338800" CREATED="1621579100991" FOLDED="true" ID="ID_1842040805" MODIFIED="1621661983507" TEXT="#2.2 &#xc0b0;&#xc5c5;&#xd3d0;&#xae30;&#xbb3c;&#xc744; &#xc774;&#xc6a9;&#xd55c; &#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c;">
 <arrowlink DESTINATION="ID_1107440808" ENDARROW="Default" ENDINCLINATION="941;0;" ID="Arrow_ID_36836869" STARTARROW="None" STARTINCLINATION="941;0;"/>
+<arrowlink DESTINATION="ID_382180429" ENDARROW="Default" ENDINCLINATION="941;0;" ID="Arrow_ID_1882805235" STARTARROW="None" STARTINCLINATION="941;0;"/>
+<node COLOR="#006699" CREATED="1621661948556" ID="ID_1817244333" MODIFIED="1621661950545" TEXT="words">
+<node CREATED="1621661948556" ID="ID_1165212794" MODIFIED="1621661948556" TEXT="&#xbe44;&#xc0b0;&#xd68c;">
+<node COLOR="#006699" CREATED="1621661948556" FOLDED="true" ID="ID_1532100979" MODIFIED="1621661980925" TEXT="docs">
+<node CREATED="1621661948556" ID="ID_1642901034" LINK="https://www.netinbag.com/ko/manufacturing/what-is-fly-ash-concrete.html" MODIFIED="1621661967736" TEXT="&#xbe44;&#xc0b0;&#xd68c; &#xbcbd;&#xb3cc; &#xc2dc;&#xc7a5; &#xd1b5;&#xcc30;&#xb825;&#xacfc; &#xc0ac;&#xc5c5; &#xac1c;&#xc694; 2020"/>
+<node CREATED="1621661948556" ID="ID_1018643758" LINK="https://ja.wikipedia.org/wiki/&#x30d5;&#x30e9;&#x30a4;&#x30a2;&#x30c3;&#x30b7;&#x30e5;" MODIFIED="1621661978192">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#12501;&#12521;&#12452;&#12450;&#12483;&#12471;&#12517;
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
+</node>
+<node CREATED="1621661948572" ID="ID_1289574984" MODIFIED="1621661948572" TEXT="&#xc4f0;&#xb808;&#xae30;&#xc18c;&#xac01;&#xb85c; &#x3054;&#x307f;&#x713c;&#x5374;&#x7089;"/>
+<node CREATED="1621661948572" MODIFIED="1621661948572" TEXT="&#xc4f0;&#xb808;&#xae30;&#xc18c;&#xac01;&#xb85c;&#xc758; &#xbe44;&#xc0b0;&#xd68c;"/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1621661948572" ID="ID_1865764581" MODIFIED="1621661958540" TEXT="#3 2) &#xcc9c;&#xc5f0;&#xad11;&#xbb3c;&#xc758; &#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c; &#xace0;&#xc815;&#xd654; &#xbc18;&#xc751;"/>
+</node>
+<node COLOR="#990000" CREATED="1621662011106" ID="ID_809450942" MODIFIED="1621662012953" TEXT="/20210522_144009"/>
 </node>
 <node CREATED="1621497491121" ID="ID_1546722982" LINK="http://www.lgeri.com/uploadFiles/ko/pdf/ind/LGBI1168-28_20111024084857.pdf" MODIFIED="1621497517549" TEXT="&#xc774;&#xc0b0;&#xd654;&#xd0c4;&#xc18c; &#xc7ac;&#xd65c;&#xc6a9;&#xd558;&#xb294;CCU &#xae30;&#xc220;&#xc758; &#xac1c;&#xbc1c; &#xbe68;&#xb77c;&#xc9c0;&#xace0; &#xc788;&#xb2e4;"/>
 <node CREATED="1621497491136" ID="ID_280311282" LINK="http://www.energy.or.kr/web/kem_home_new/energy_issue/mail_vol112/pdf/issue_215_02_01.pdf" MODIFIED="1621497526076" TEXT="CCUS (Carbon Capture(&#xd3ec;&#xc9d1;)&#xb7;Utilization(&#xc804;&#xd658;)&#xb7; Storage(&#xc800;&#xc7a5;)) &#xae30;&#xc220;"/>
@@ -7463,7 +7490,7 @@
 <node CREATED="1621493223757" ID="ID_40861268" MODIFIED="1621493225880" TEXT="/s-2"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1621493015776" ID="ID_1922666580" MODIFIED="1621497624225" TEXT="0.3">
+<node COLOR="#338800" CREATED="1621493015776" ID="ID_1922666580" MODIFIED="1621662132106" TEXT="0.3">
 <node COLOR="#006699" CREATED="1621492907629" ID="ID_1745849622" MODIFIED="1621496292874" TEXT="search">
 <node CREATED="1621492907629" ID="ID_734642868" MODIFIED="1621493028039" TEXT="co2 fixation mineral (chinese)"/>
 <node CREATED="1621496283020" ID="ID_446670585" LINK="https://3g2upl4pq6kufc4m.onion/?q=&#x4e8c;&#x6c27;&#x5316;&#x78b3;+&#x56fa;&#x5b9a;+&#x77ff;&#x7269;&amp;ia=web" MODIFIED="1621496302089" TEXT="&#x4e8c;&#x6c27;&#x5316;&#x78b3; &#x56fa;&#x5b9a; &#x77ff;&#x7269;"/>
@@ -7489,7 +7516,7 @@
 </html></richcontent>
 <arrowlink DESTINATION="ID_772291205" ENDARROW="Default" ENDINCLINATION="981;0;" ID="Arrow_ID_1510473221" STARTARROW="None" STARTINCLINATION="981;0;"/>
 <node COLOR="#006699" CREATED="1621579976404" ID="ID_598121004" MODIFIED="1621579978569" TEXT="texts">
-<node COLOR="#338800" CREATED="1621583564643" FOLDED="true" ID="ID_1599959745" MODIFIED="1621583579292">
+<node COLOR="#338800" CREATED="1621583564643" FOLDED="true" ID="ID_1599959745" MODIFIED="1621662325818">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7503,12 +7530,25 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#006699" CREATED="1621583564661" FOLDED="true" ID="ID_1817766516" MODIFIED="1621583569465" TEXT="trans">
+<node COLOR="#006699" CREATED="1621583564661" ID="ID_1817766516" MODIFIED="1621662266060" TEXT="trans">
 <node CREATED="1621583564663" ID="ID_1453596822" MODIFIED="1621583564663" TEXT="&#x423;&#x447;&#x435;&apos;[jo]&#x43d;&#x44b;&#x435;[&#xacfc;&#xd559;&#xc790;&#xb4e4;,&#x43f;&#x440;&#x435;&#x434;&#x43b;&#x430;&#x433;&#x430;&apos;&#x44e;&#x442;[&#xc81c;&#xc548;&#xd569;&#xb2c8;&#xb2e4;,&#x43f;&#x440;&#x435;&#x432;&#x440;&#x430;&apos;&#x449;&#x430;&#x442;&#x44c;[&#xc804;&#xd658;,&quot;&#x43a;&#x430;&#x43c;&#x43d;&#x438;&quot;[&#xb3cc;;stone,&#x431;&#x43e;&#x440;&#x44c;&#x431;&#x44b;&apos;[combat,&#x43f;&#x43e;&#x442;&#x435;&apos;&#x43f;&#x43b;&#x435;&#x43d;&#x438;&#x435;&#x43c;[&#xc628;&#xb09c;&#xd654;.,&#x41a;&#x43b;&#x438;&#x43c;&#x430;&#x442;&#x43e;&apos;&#x43b;&#x43e;&#x433;&#x438;[&#xae30;&#xd6c4;-&#xd559;&#xc790;&#xb4e4;,&#x43e;&#x442;&#x447;&#x438;&#x442;&#x430;&apos;&#x43b;&#x438;&#x441;&#x44c;[&#xbcf4;&#xace0;&#xd588;&#xc2b5;&#xb2c8;&#xb2e4;,&#x443;&#x441;&#x43f;&#x435;&apos;&#x448;&#x43d;&#x43e;&#x43c;[&#xc131;&#xacf5;&#xc801;&#xc73c;&#xb85c;,&#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x435;&apos;&#x43d;&#x438;&#x438;[&#xc644;&#xb8cc;,&#x43f;&#x438;&#x43b;&#x43e;&apos;&#x442;&#x43d;&#x43e;&#x433;&#x43e;[&#xd30c;&#xc77c;&#xb7ff;,&#x43f;&#x440;&#x43e;&#x435;&apos;&#x43a;&#x442;&#x430;[&#xd504;&#xb85c;&#xc81d;&#xd2b8;,&#x432;&#x44b;&apos;&#x432;&#x43e;&#x434;&#x430;[&#xc81c;&#xac70;,&#x43f;&#x43e;&apos;&#x43c;&#x43e;&#x449;&#x438;[,&#x431;&#x430;&#x437;&#x430;&apos;&#x43b;&#x44c;&#x442;&#x43e;&#x432;&#x44b;&#x445;[&#xc554;&#xc11d;,&#x43f;&#x43e;&#x440;&#x43e;&apos;&#x434;[species,&#x43c;&#x433;&#x43d;&#x43e;&lt;a&gt;&#x432;&#x435;&apos;&#x43d;&#x43d;&#x43e;[&#xc989;&#xc2dc;,&#x43f;&#x43e;&#x433;&#x43b;&#x43e;&#x449;&#x430;&apos;&#x44e;&#x449;&#x438;&#x43c;[&#xd761;&#xc218;&#xd558;&#xc5ec;,&#x43f;&#x440;&#x435;&#x432;&#x440;&#x430;&#x449;&#x430;&apos;&#x44e;&#x449;&#x438;&#x43c;[&#xbcc0;&#xd658;,&#x43a;&#x430;&#x440;&#x431;&#x43e;&#x43d;&#x430;&apos;&#x442;&#x44b;[&#xd0c4;&#xc0b0;&#xc5fc;."/>
 </node>
 </node>
 <node CREATED="1621583564697" ID="ID_436780753" MODIFIED="1621583588056" TEXT="#2 &#x41c;&#x41e;&#x421;&#x41a;&#x412;&#x410;, 9 &#x438;&#x44e;&#x43d; &#x2013; &#x420;&#x418;&#x410; &#x41d;&#x43e;&#x432;&#x43e;&#x441;&#x442;&#x438;">
 <arrowlink DESTINATION="ID_1961316133" ENDARROW="Default" ENDINCLINATION="1080;0;" ID="Arrow_ID_1294885770" STARTARROW="None" STARTINCLINATION="1080;0;"/>
+<arrowlink DESTINATION="ID_1621315020" ENDARROW="Default" ENDINCLINATION="1080;0;" ID="Arrow_ID_1189525683" STARTARROW="None" STARTINCLINATION="1080;0;"/>
+<node COLOR="#990000" CREATED="1621662335311" ID="ID_983882408" MODIFIED="1621662337213" TEXT="20210522_144533/"/>
+<node COLOR="#006699" CREATED="1621663978564" FOLDED="true" ID="ID_1399139590" MODIFIED="1621663982623" TEXT="trans">
+<node CREATED="1621663978580" ID="ID_618553058" MODIFIED="1621663978580" TEXT="&#x43e;&#x442;&#x447;&#x438;&apos;&#x442;&#x430;&#x43b;&#x438;&#x441;&#x44c;[&#xbcf4;&#xace0;,&#x436;&#x443;&#x440;&#x43d;&#x430;&apos;&#x43b;&#x435;[&#xc7a1;&#xc9c0;,&#x443;&#x441;&#x43f;&#x435;&apos;&#x448;&#x43d;&#x43e;&#x43c;[&#xc131;&#xacf5;&#xc801;,&#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x435;&apos;&#x43d;&#x438;&#x438;[&#xc644;&#xb8cc;,&#x43f;&#x43e;&#x440;&#x43e;&apos;&#x434;[species,&#x444;&#x430;&#x43a;&#x442;&#x438;&apos;&#x447;&#x435;&#x441;&#x43a;&#x438;[&#xc2e4;&#xc81c;&#xb85c;,&#x43c;&#x433;&#x43d;&#x43e;&apos;&lt;a&gt;&#x432;&#x435;&#x43d;&#x43d;&#x43e;[&#xc989;&#xc2dc;,&#x43f;&#x43e;&#x433;&#x43b;&#x43e;&apos;&lt;a&gt;&#x449;&#x430;&#x44e;&#x449;&#x438;&#x43c;[&#xd761;&#xc218;,&#x43f;&#x440;&#x435;&#x432;&#x440;&#x430;&apos;&#x449;&#x430;&#x44e;&#x449;&#x438;&#x43c;[&#xc804;&#xd658;"/>
+</node>
+<node COLOR="#338800" CREATED="1621663978589" ID="ID_577500317" MODIFIED="1621663990499" TEXT="#2.1 &quot;&#x41a;&#x430;&#x440;&#x431;&#x43e;&#x43d;&#x430;&#x442;&#x44b; &#x43d;&#x435; &#x43c;&#x43e;&#x433;&#x443;&#x442; &quot;&#x432;&#x44b;&#x442;&#x435;&#x447;&#x44c;&quot;">
+<node COLOR="#006699" CREATED="1621663978591" FOLDED="true" ID="ID_412375257" MODIFIED="1621663988003" TEXT="trans">
+<node CREATED="1621663978592" MODIFIED="1621663978592" TEXT="&quot;&#x432;&#x44b;&apos;&#x442;&#x435;&#x447;&#x44c;&quot;[&#xb204;&#xcd9c;;leak,&#x438;&#x437;-&#x43f;&#x43e;&#x434;[&#xb545;&#xc5d0;&#xc11c;~&#x437;&#x435;&#x43c;&#x43b;&#x438;&apos;,&#x433;&#x43e;&#x432;&#x43e;&#x440;&#x438;&apos;&#x442;[&#xc2dc;&#xc0ac;~&#x43e;~&#x442;&#x43e;&#x43c;,&#x43c;&#x435;&apos;&#x442;&#x43e;&#x434;[&#xbc29;&#xbc95;,&#x44f;&#x432;&#x43b;&#x44f;&apos;&#x435;&#x442;&#x441;&#x44f;[appear,&#x43f;&#x43e;&#x441;&#x442;&#x43e;&#x44f;&apos;&#x43d;&#x43d;&#x44b;&#x43c;[&#xc601;&#xad6c;&#xc801;,&#x44d;&#x43a;&#x43e;&#x43b;&#x43e;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;[&#xd658;&#xacbd;-&#xce5c;&#xd654;&#xc801;~&#x447;&#x438;&apos;&#x441;&#x442;&#x44b;&#x43c;,&#x441;&#x43d;&#x438;&#x436;&#x435;&#x43d;&#x438;&#x44f;[&#xc904;&#xc774;&#xb294;,&#x43f;&#x430;&#x440;&#x43d;&#x438;&#x43a;&#x43e;&apos;&#x432;&#x44b;&#x445;[&#xc628;&#xc2e4;-&#xac00;&#xc2a4;~&#x433;&#x430;&#x437;&#x43e;&#x432;,&#x430;&#x442;&#x43c;&#x43e;&#x441;&#x444;&#x435;&#x440;&#x435;.,&#x411;&#x430;&#x437;&#x430;&apos;&#x43b;&#x44c;&#x442;&#x44b;[&#xd604;&#xbb34;&#xc554;,&#x432;&#x441;&#x442;&#x440;&#x435;&#x447;&#x430;&apos;&#x44e;&#x442;&#x441;&#x44f;[meet,&#x43f;&#x43e;&#x432;&#x441;&#x435;&#x43c;&#x435;&apos;&#x441;&#x442;&#x43d;&#x43e;[&#xc5b4;&#xb514;&#xc5d0;&#xb098;-&#xc874;&#xc7ac;,&#x443;&#x433;&#x43e;&#x43b;&#x43a;&#x430;&apos;&#x445;[corner,&#x43f;&#x43e;&#x447;&#x442;&#x438;&apos;[&#xac70;&#xc758;,&#x431;&#x435;&#x441;&#x43a;&#x43e;&#x43d;&#x435;&apos;&#x447;&#x43d;&#x44b;&#x435;[&#xbb34;&#xd55c;&#xd55c;,&#x43e;&#x431;&#x44a;&#x435;&apos;&lt;jo&gt;&#x43c;&#x44b;[&#xc591;,&#x437;&#x430;&#x43f;&#x430;&#x441;&#x430;&apos;&#x43d;&#x438;&#x44f;[&#xc800;&#xc7a5;,&#x2014;,&#x437;&#x430;&#x44f;&apos;&lt;ji&gt;&#x432;&#x438;&#x43b;[&#xb9d0;&#xd588;,&#x443;&#x43d;&#x438;&#x432;&#x435;&#x440;&#x441;&#x438;&#x442;&#x435;&apos;&#x442;&#x430;[&#xb300;&#xd559;"/>
+</node>
+</node>
+</node>
+<node CREATED="1621663978604" ID="ID_466244909" MODIFIED="1621664002212" TEXT="#2.2 &#x411;&#x43e;&#x43b;&#x44c;&#x448;&#x430;&#x44f; &#x447;&#x430;&#x441;&#x442;&#x44c; &#x443;&#x433;&#x43b;&#x435;&#x440;&#x43e;&#x434;&#x430;">
+<arrowlink DESTINATION="ID_1831483442" ENDARROW="Default" ENDINCLINATION="1063;0;" ID="Arrow_ID_1935141962" STARTARROW="None" STARTINCLINATION="1063;0;"/>
 </node>
 </node>
 </node>
@@ -7590,7 +7630,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_484531087" MODIFIED="1621584959064" TEXT="s-78">
+<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_484531087" MODIFIED="1621658494243" TEXT="s-78">
 <node COLOR="#990000" CREATED="1621563166452" ID="ID_1010740893" MODIFIED="1621563168559" TEXT="20210521_111244/"/>
 <node COLOR="#338800" CREATED="1610723630275" FOLDED="true" ID="ID_1415582993" MODIFIED="1621584939758" TEXT="do">
 <node COLOR="#338800" CREATED="1617848540964" ID="ID_635865225" MODIFIED="1621574045387" TEXT="1">
@@ -7717,9 +7757,104 @@
 </node>
 </node>
 <node CREATED="1615187554513" ID="ID_1991242421" MODIFIED="1621584957384" TEXT="s-79">
+<node COLOR="#990000" CREATED="1621658500052" ID="ID_416387340" MODIFIED="1621658503078" TEXT="20210522_134138/"/>
+<node CREATED="1610723630275" ID="ID_1855384608" MODIFIED="1621658436078" TEXT="do">
+<node COLOR="#338800" CREATED="1617848540964" ID="ID_382180429" MODIFIED="1621662035450" TEXT="1">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_382180429" ENDARROW="Default" ENDINCLINATION="941;0;" ID="Arrow_ID_1882805235" SOURCE="ID_1842040805" STARTARROW="None" STARTINCLINATION="941;0;"/>
+<node CREATED="1621056228298" ID="ID_1376223638" MODIFIED="1621579264975" TEXT="read C">
+<node CREATED="1621056231092" ID="ID_1170408792" MODIFIED="1621497703613" TEXT="ko"/>
+<node CREATED="1621497739157" ID="ID_1493709070" MODIFIED="1621497747327">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      r-22-4~1 / &#51060;&#49328;&#54868;&#53444;&#49548; &#44305;&#47932;&#54868;(I)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1617501328307" ID="ID_1621315020" MODIFIED="1621664011024" TEXT="2">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1621315020" ENDARROW="Default" ENDINCLINATION="1080;0;" ID="Arrow_ID_1189525683" SOURCE="ID_436780753" STARTARROW="None" STARTINCLINATION="1080;0;"/>
+<node CREATED="1621579365439" ID="ID_254554782" MODIFIED="1621583597794" TEXT="read C">
+<node CREATED="1621579367664" ID="ID_521432832" MODIFIED="1621579368288" TEXT="ru"/>
+<node CREATED="1621579363592" ID="ID_1425530457" MODIFIED="1621579363592">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      r-22-3~1 / &#1060;&#1080;&#1082;&#1089;&#1072;&#1094;&#1080;&#1103; &#1076;&#1080;&#1086;&#1082;&#1089;&#1080;&#1076;&#1072; &#1091;&#1075;&#1083;&#1077;&#1088;&#1086;&#1076;&#1072;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1621664018113" ID="ID_293734346" MODIFIED="1621664020005" TEXT="/20210522_151336">
+<node CREATED="1621664021242" ID="ID_489828615" MODIFIED="1621664022863" TEXT="/s-1"/>
+</node>
+</node>
+<node CREATED="1619754002576" ID="ID_1657729337" MODIFIED="1621584904055" TEXT="3">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1657729337" ENDARROW="Default" ENDINCLINATION="1219;0;" ID="Arrow_ID_1064071535" SOURCE="ID_1865941635" STARTARROW="None" STARTINCLINATION="1219;0;"/>
+<node CREATED="1621583804420" ID="ID_1573903062" MODIFIED="1621584914531" TEXT="read C">
+<node CREATED="1621583806526" ID="ID_613440924" MODIFIED="1621583807081" TEXT="ge"/>
+<node CREATED="1621583802893" ID="ID_239500148" MODIFIED="1621583802893">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      r-22-7~1 / Wie sich Kohlendioxid als
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1619754003255" ID="ID_87972272" MODIFIED="1619754003802" TEXT="4"/>
+</node>
 <node CREATED="1610723630275" ID="ID_983283509" MODIFIED="1621483371401" TEXT="n:">
-<node CREATED="1617848540964" ID="ID_440006488" MODIFIED="1619683344975" TEXT="1"/>
-<node CREATED="1617501328307" ID="ID_1831483442" MODIFIED="1618028459960" TEXT="2"/>
+<node CREATED="1617848540964" ID="ID_440006488" MODIFIED="1621662105936" TEXT="1">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_440006488" ENDARROW="Default" ENDINCLINATION="1231;0;" ID="Arrow_ID_1673668128" SOURCE="ID_1149716358" STARTARROW="None" STARTINCLINATION="1231;0;"/>
+<node CREATED="1621056228298" ID="ID_103307796" MODIFIED="1621662123082" TEXT="read N">
+<node CREATED="1621056231092" ID="ID_1240554734" MODIFIED="1621497703613" TEXT="ko"/>
+</node>
+<node CREATED="1621662114915" ID="ID_935052665" MODIFIED="1621662114915">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      r-22-5~1 / 4. &#51060;&#49328;&#54868;&#53444;&#49548; &#44305;&#47932;&#54868;(II)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1617501328307" ID="ID_1831483442" MODIFIED="1621664002211" TEXT="2">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1831483442" ENDARROW="Default" ENDINCLINATION="1063;0;" ID="Arrow_ID_1935141962" SOURCE="ID_466244909" STARTARROW="None" STARTINCLINATION="1063;0;"/>
+<node CREATED="1621579365439" ID="ID_454429461" MODIFIED="1621583597794" TEXT="read C">
+<node CREATED="1621579367664" ID="ID_1467025620" MODIFIED="1621579368288" TEXT="ru"/>
+<node CREATED="1621579363592" ID="ID_1584540671" MODIFIED="1621579363592">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      r-22-3~1 / &#1060;&#1080;&#1082;&#1089;&#1072;&#1094;&#1080;&#1103; &#1076;&#1080;&#1086;&#1082;&#1089;&#1080;&#1076;&#1072; &#1091;&#1075;&#1083;&#1077;&#1088;&#1086;&#1076;&#1072;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
 <node CREATED="1619754002576" ID="ID_27199969" MODIFIED="1619754002920" TEXT="3"/>
 <node CREATED="1619754003255" ID="ID_88757776" MODIFIED="1619754003802" TEXT="4"/>
 </node>
@@ -10553,8 +10688,8 @@
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_340619025" ENDARROW="Default" ENDINCLINATION="660;0;" ID="Arrow_ID_961682758" SOURCE="ID_561595026" STARTARROW="None" STARTINCLINATION="660;0;"/>
 <node CREATED="1621497558343" ID="ID_1399657995" MODIFIED="1621497559826" TEXT="ko"/>
 </node>
-<node CREATED="1620981430213" ID="ID_983528763" MODIFIED="1621579186266" TEXT="22-5">
-<arrowlink DESTINATION="ID_1259504486" ENDARROW="Default" ENDINCLINATION="1628;0;" ID="Arrow_ID_138385723" STARTARROW="None" STARTINCLINATION="1628;0;"/>
+<node CREATED="1620981430213" ID="ID_983528763" MODIFIED="1621662078495" TEXT="22-5">
+<arrowlink DESTINATION="ID_1259504486" ENDARROW="Default" ENDINCLINATION="1609;-64;" ID="Arrow_ID_138385723" STARTARROW="None" STARTINCLINATION="1628;0;"/>
 <node CREATED="1621579194478" ID="ID_1545856443" MODIFIED="1621579195759" TEXT="ko"/>
 </node>
 <node CREATED="1620981430213" ID="ID_1560671619" MODIFIED="1621583660908" TEXT="22-6">
