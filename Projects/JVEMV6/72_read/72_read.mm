@@ -181,7 +181,7 @@
 <node CREATED="1617697553318" ID="ID_966927242" MODIFIED="1617697553699" TEXT="7"/>
 </node>
 </node>
-<node CREATED="1617634565632" FOLDED="true" ID="ID_529829575" MODIFIED="1622186585314" POSITION="right" TEXT="sessions">
+<node CREATED="1617634565632" ID="ID_529829575" MODIFIED="1622186763127" POSITION="right" TEXT="sessions">
 <node CREATED="1619921543432" FOLDED="true" ID="ID_1341589562" MODIFIED="1622181960133" TEXT="s-1~">
 <node COLOR="#338800" CREATED="1619323820050" FOLDED="true" ID="ID_328473720" MODIFIED="1619330995916" TEXT="s-1 / g-1">
 <node COLOR="#990000" CREATED="1617634575054" ID="ID_748154062" MODIFIED="1619323828265" TEXT="20210405_235612"/>
@@ -899,8 +899,7 @@
       taskkill /f /im javaw.exe &amp;&amp; C:\WORKS_2\a &amp;&amp; r f &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_72.[theme=read]) (%stringof_session:&quot;=%) periodical updates&quot; &amp;&amp; e &amp;&amp; p &amp;&amp; r oj &amp;&amp; g a . &amp;&amp; g c -m &quot;(JVE_72.[theme=read]) (%stringof_session:&quot;=%) periodical updates&quot; &amp;&amp; e &amp;&amp; p
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
