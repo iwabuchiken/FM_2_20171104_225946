@@ -21,6 +21,19 @@
 <node CREATED="1609426935847" ID="ID_677494908" LINK="C:\WORKS_2\t.bat" MODIFIED="1609426941038" TEXT="time"/>
 <node CREATED="1608627704595" ID="ID_1116133850" MODIFIED="1610686026668" TEXT="git">
 <node CREATED="1608627706371" ID="ID_492644994" MODIFIED="1610686027385" TEXT="1">
+<node CREATED="1625389133863" ID="ID_1111543266" LINK="C:\WORKS_2\start_a.bat" MODIFIED="1625389140630">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      C:\WORKS_2\start_a.bat
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1618886168751" ID="ID_1641120082" MODIFIED="1625389021343">
 <richcontent TYPE="NODE"><html>
   <head>
