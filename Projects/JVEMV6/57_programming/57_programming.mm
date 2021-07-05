@@ -16,6 +16,12 @@
 </node>
 </node>
 <node CREATED="1609426935847" ID="ID_103785999" LINK="C:\WORKS_2\t.bat" MODIFIED="1625362355770" TEXT="time"/>
+<node CREATED="1615187554513" ID="ID_1176680659" MODIFIED="1625454931447" TEXT="s-3 / g-2">
+<node CREATED="1610723630275" ID="ID_805840510" MODIFIED="1615959628072" TEXT="n:">
+<node CREATED="1610781936849" ID="ID_1375354389" MODIFIED="1610781937241" TEXT="1"/>
+<node CREATED="1624859724607" ID="ID_1230856862" MODIFIED="1624859725347" TEXT="2"/>
+</node>
+</node>
 </node>
 <node CREATED="1609453656833" ID="ID_37527138" MODIFIED="1610686025388" POSITION="left" TEXT="utils">
 <node CREATED="1609426935847" ID="ID_677494908" LINK="C:\WORKS_2\t.bat" MODIFIED="1609426941038" TEXT="time"/>
@@ -31,17 +37,16 @@
       C:\WORKS_2\start_a.bat
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1618886168751" ID="ID_1641120082" MODIFIED="1625389021343">
+<node CREATED="1618886168751" ID="ID_1641120082" MODIFIED="1625454967073">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      set stringof_session_id=&quot;s-43 / g-23s-2 / g-2&quot;
+      set stringof_session_id=&quot;s-3 / g-2&quot;
     </p>
     <p>
       set stringof_project_id=&quot;JVE_57.[programming] :&#160;%stringof_session_id:&quot;=%&quot;
