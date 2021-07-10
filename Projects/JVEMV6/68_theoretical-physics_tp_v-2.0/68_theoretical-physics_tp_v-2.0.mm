@@ -1961,7 +1961,6 @@
 </node>
 <node COLOR="#338800" CREATED="1624859724607" ID="ID_949652064" MODIFIED="1625886898498" TEXT="2">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_949652064" ENDARROW="Default" ENDINCLINATION="859;0;" ID="Arrow_ID_1009765308" SOURCE="ID_918683685" STARTARROW="None" STARTINCLINATION="859;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_949652064" ENDARROW="Default" ENDINCLINATION="859;0;" ID="Arrow_ID_33783655" SOURCE="ID_1067189447" STARTARROW="None" STARTINCLINATION="859;0;"/>
 <node CREATED="1625113582327" ID="ID_1608362184" MODIFIED="1625884265489" TEXT="r-N">
 <node CREATED="1625884277797" ID="ID_738333843" MODIFIED="1625884277797">
 <richcontent TYPE="NODE"><html>
@@ -2054,8 +2053,8 @@
 <node CREATED="1616745499371" ID="ID_83437063" MODIFIED="1616745499638" TEXT="2"/>
 <node CREATED="1616745499862" ID="ID_1596798781" MODIFIED="1616745500161" TEXT="3"/>
 </node>
-<node CREATED="1618040450002" FOLDED="true" ID="ID_583841632" MODIFIED="1625886933607" POSITION="right" TEXT="read">
-<node CREATED="1618040451479" FOLDED="true" ID="ID_1863172685" MODIFIED="1625886933607" TEXT="1">
+<node CREATED="1618040450002" ID="ID_583841632" MODIFIED="1625887274942" POSITION="right" TEXT="read">
+<node CREATED="1618040451479" ID="ID_1863172685" MODIFIED="1625887274942" TEXT="1">
 <node CREATED="1622715707320" FOLDED="true" ID="ID_998077453" MODIFIED="1624068326114" TEXT="1-1">
 <node CREATED="1622715749292" FOLDED="true" ID="ID_1001621122" MODIFIED="1624938985661" TEXT="~1">
 <node COLOR="#338800" CREATED="1609045209918" FOLDED="true" ID="ID_571998186" LINK="https://ja.wikipedia.org/wiki/&#x91cf;&#x5b50;&#x91cd;&#x529b;&#x7406;&#x8ad6;" MODIFIED="1624938985661">
@@ -4351,7 +4350,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1625364329178" FOLDED="true" ID="ID_776842162" MODIFIED="1625886933607" TEXT="1-5">
+<node CREATED="1625364329178" ID="ID_776842162" MODIFIED="1625887275051" TEXT="1-5">
 <node CREATED="1624780564124" ID="ID_1603863299" LINK="http://hooktail.org/misc/index.php?%A5%D9%A5%AF%A5%C8%A5%EB%B2%F2%C0%CF" MODIFIED="1624780578058">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4603,8 +4602,8 @@
 <node COLOR="#990000" CREATED="1625884295050" ID="ID_1681508337" MODIFIED="1625884296852" TEXT="/20210710_113133"/>
 </node>
 </node>
-<node CREATED="1625884230426" FOLDED="true" ID="ID_1200796567" MODIFIED="1625886933607" TEXT="~8">
-<node COLOR="#338800" CREATED="1625463099342" FOLDED="true" ID="ID_918683685" LINK="http://hooktail.sub.jp/vectoranalysis/TensorPrincipalAxis1/" MODIFIED="1625886847946">
+<node CREATED="1625884230426" ID="ID_1200796567" MODIFIED="1625887275082" TEXT="~8">
+<node COLOR="#338800" CREATED="1625463099342" FOLDED="true" ID="ID_918683685" LINK="http://hooktail.sub.jp/vectoranalysis/TensorPrincipalAxis1/" MODIFIED="1625887878296">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4616,7 +4615,7 @@
   </body>
 </html></richcontent>
 <arrowlink DESTINATION="ID_949652064" ENDARROW="Default" ENDINCLINATION="859;0;" ID="Arrow_ID_1009765308" STARTARROW="None" STARTINCLINATION="859;0;"/>
-<node COLOR="#006699" CREATED="1623917510741" FOLDED="true" ID="ID_1502847177" MODIFIED="1625886933607" TEXT="texts">
+<node COLOR="#006699" CREATED="1623917510741" ID="ID_1502847177" MODIFIED="1625887313575" TEXT="texts">
 <node COLOR="#338800" CREATED="1625886813450" ID="ID_807166973" MODIFIED="1625886819631" TEXT="#1"/>
 <node COLOR="#338800" CREATED="1625886813450" ID="ID_1866106313" MODIFIED="1625886819631" TEXT="#2 &#x5bfe;&#x79f0;&#x30c6;&#x30f3;&#x30bd;&#x30eb;&#x306e;&#x56fa;&#x6709;&#x30d9;&#x30af;&#x30c8;&#x30eb;&#x306f;&#x76f4;&#x4ea4;&#x3059;&#x308b;"/>
 <node COLOR="#338800" CREATED="1625886813450" FOLDED="true" ID="ID_1642846754" MODIFIED="1625886933607" TEXT="#3 &#x30c6;&#x30f3;&#x30bd;&#x30eb;&#x306e;&#x4e3b;&#x8ef8;&#x5909;&#x63db;">
@@ -4637,6 +4636,73 @@
 <node COLOR="#338800" CREATED="1625886813466" ID="ID_673405063" MODIFIED="1625886819630" TEXT="#.2 &#x30c6;&#x30f3;&#x30bd;&#x30eb;&#x306e;&#x3053;&#x306e;&#x3088;&#x3046;&#x306a;&#x50cd;&#x304d;&#x304c;"/>
 </node>
 <node COLOR="#338800" CREATED="1625886813466" ID="ID_1618468402" MODIFIED="1625886823794" TEXT="#4 &#x56fa;&#x6709;&#x65b9;&#x7a0b;&#x5f0f;&#x304c;&#x91cd;&#x89e3;&#x3092;&#x6301;&#x3064;&#x5834;&#x5408;"/>
+<node CREATED="1625887316063" ID="ID_867035567" MODIFIED="1625887318767" TEXT="unrelated">
+<node CREATED="1625887326735" ID="ID_1067882644" LINK="http://hooktail.sub.jp/solid/rotationSymmetry/" MODIFIED="1625887342189">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#22238;&#36578;&#23550;&#31216;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1625887376623" ID="ID_1630830192" LINK="https://ocw.nagoya-u.jp/files/109/lecnote_05.pdf" MODIFIED="1625887391962">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#31532;&#65301;&#22238; &#32080;&#26230;&#27083;&#36896;&#12392;&#23550;&#31216;&#24615;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1625887406139" ID="ID_1980230641" LINK="https://www.phys.chuo-u.ac.jp/labs/ishii/class/modernphys.pdf" MODIFIED="1625887418436">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#28310;&#32080;&#26230;&#12398;&#35441;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1625887655778" ID="ID_1997899743" LINK="https://ja.wikipedia.org/wiki/&#x56de;&#x8ee2;&#x5bfe;&#x79f0;" MODIFIED="1625887664655">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#22238;&#36578;&#23550;&#31216; wi
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1625887684982" ID="ID_436697371" LINK="http://hooktail.sub.jp/solid/whatCrystallography/" MODIFIED="1625887697841">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#32080;&#26230;&#23398;&#12392;&#12399;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node COLOR="#990000" CREATED="1625886845401" ID="ID_1435026307" MODIFIED="1625886847157" TEXT="/20210710_121404"/>
 </node>
@@ -4652,8 +4718,7 @@
       r-1-5~9 / &#12486;&#12531;&#12477;&#12523;&#26965;&#20870;&#20307;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink DESTINATION="ID_1803123879" ENDARROW="Default" ENDINCLINATION="815;0;" ID="Arrow_ID_1438711381" STARTARROW="None" STARTINCLINATION="815;0;"/>
 </node>
 </node>
