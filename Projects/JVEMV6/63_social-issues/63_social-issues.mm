@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1604813137487" ID="ID_1373303258" LINK="../../JVEMV6.mm" MODIFIED="1618622497079" TEXT="63. social issues">
-<node CREATED="1626399409685" FOLDED="true" ID="ID_1507386241" MODIFIED="1626402029911" POSITION="right" TEXT="genres">
+<node CREATED="1626399409685" ID="ID_1507386241" MODIFIED="1626402346480" POSITION="right" TEXT="genres">
 <node CREATED="1604813191529" ID="ID_60557170" MODIFIED="1626399454581" TEXT="1. julian assange">
 <node CREATED="1604813201118" ID="ID_1686117754" MODIFIED="1609129866992" TEXT="docs">
 <node CREATED="1604813292497" FOLDED="true" ID="ID_425706949" MODIFIED="1606747104424" TEXT="1. Assange Defense Post-Election Update: Get Involved! / 2020/11/07 5:17">
@@ -184,7 +184,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1618727157289" FOLDED="true" ID="ID_656967398" MODIFIED="1626402028218" TEXT="5. &#x5357;&#x4eac;&#x5927;&#x8650;&#x6bba;">
+<node CREATED="1618727157289" ID="ID_656967398" MODIFIED="1626402346526" TEXT="5. &#x5357;&#x4eac;&#x5927;&#x8650;&#x6bba;">
 <node CREATED="1618642613638" ID="ID_1649846700" MODIFIED="1618730579886" TEXT="git">
 <node CREATED="1608627706941" ID="ID_193735912" LINK="C:\WORKS_2\shortcuts_docs\end_log_JVE_63.[social-issues].bat nanjing" MODIFIED="1618730602097">
 <richcontent TYPE="NODE"><html>
@@ -230,6 +230,10 @@
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_360794369" ENDARROW="Default" ENDINCLINATION="1096;0;" ID="Arrow_ID_252539042" SOURCE="ID_866712393" STARTARROW="None" STARTINCLINATION="1096;0;"/>
 <node COLOR="#990000" CREATED="1626401917173" ID="ID_845369982" MODIFIED="1626401934333" TEXT="&lt;= lets-read"/>
 </node>
+</node>
+<node COLOR="#006699" CREATED="1626402378038" ID="ID_1769396806" LINK="C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210716_104538_130191.txt" MODIFIED="1626402391915" TEXT="file"/>
+<node COLOR="#006699" CREATED="1626402349153" ID="ID_1553570030" MODIFIED="1626402374631" TEXT="trans">
+<node CREATED="1626402352229" MODIFIED="1626402352229" TEXT="&#x60e8;&#x70c8;[can3li4,&#x80f6;&#x7740;[jiao1zhe0,&#x9519;&#x4f30;[cuo4qu1,&#x96be;&#x582a;[nan2kan1,&#x64a4;&#x9000;[che4-,&#x6e83;&#x9003;[kui4tao2,&#x89c2;&#x77bb;[-zhan1,&#x63a9;&#x62a4;[yan3-,&#x536b;&#x620d;[wei4shu4,&#x5353;[zhuo1,&#x58ee;&#x4e01;[zhuang4ding1,&#x6d66;&#x53e3;[pu3-,&#x8258;[sou1,&#x6e21;&#x8f6e;[du4lun2:ferry,&#x4e0b;&#x5173;[:close,&#x7801;&#x5934;[ma3-,&#x6339;&#x6c5f;&#x95e8;[yi4--,&#x77e5;&#x6653;[-xiao3,&#x75af;&#x72c2;[feng1-,&#x7834;&#x91dc;&#x6c89;&#x821f;[-fuchen2zhou1,&#x57cb;&#x4e0b;[mai2-,&#x6eba;&#x6bd9;[ni4bi4,&#x60e8;&#x4e0d;&#x5fcd;&#x7779;[can3--du3,&#x7eb7;&#x7eb7;[fen1-,&#x4fa8;[qiao2,&#x8eb2;&#x907f;[duo3bi4,&#x70ae;&#x706b;[pao4-,&#x6a21;&#x68f1;&#x4e24;&#x53ef;[mo2leng2--"/>
 </node>
 </node>
 <node CREATED="1626401837393" ID="ID_608557525" LINK="https://zh.wikipedia.org/zh-cn/&#x5357;&#x4eac;&#x5927;&#x5c60;&#x6bba;#&#x4ece;&#x4e0a;&#x6d77;&#x5230;&#x5357;&#x4eac;&#x7684;&#x4e8b;&#x60c5;&#x7d93;&#x904e;" MODIFIED="1626401927485">
