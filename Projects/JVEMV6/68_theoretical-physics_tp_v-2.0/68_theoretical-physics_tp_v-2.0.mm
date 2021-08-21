@@ -4425,7 +4425,7 @@
 <node CREATED="1624859724607" ID="ID_112524859" MODIFIED="1624859725347" TEXT="2"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_704320760" MODIFIED="1629450013511" TEXT="s-71">
+<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_704320760" MODIFIED="1629523315394" TEXT="s-71">
 <node CREATED="1610723630275" ID="ID_1329315444" MODIFIED="1629447708725" TEXT="do">
 <node COLOR="#990000" CREATED="1629431905970" ID="ID_1339790941" MODIFIED="1629431908434" TEXT="20210820_125808/"/>
 <node COLOR="#338800" CREATED="1610781936849" ID="ID_1503633594" MODIFIED="1629434840923" TEXT="1">
@@ -4506,8 +4506,45 @@
 </node>
 </node>
 <node CREATED="1615187554513" ID="ID_625153075" MODIFIED="1629450019019" TEXT="s-72">
-<node CREATED="1610723630275" ID="ID_343107889" MODIFIED="1615959628072" TEXT="n:">
-<node CREATED="1610781936849" ID="ID_1005823502" MODIFIED="1610781937241" TEXT="1"/>
+<node COLOR="#990000" CREATED="1629523312188" ID="ID_1978029589" MODIFIED="1629523314590" TEXT="20210821_142148/"/>
+<node CREATED="1610723630275" ID="ID_783611968" MODIFIED="1629523305683" TEXT="do">
+<node COLOR="#338800" CREATED="1624859724607" ID="ID_449267242" MODIFIED="1629530148301" TEXT="1">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_449267242" ENDARROW="Default" ENDINCLINATION="1242;0;" ID="Arrow_ID_1046452265" SOURCE="ID_1212905200" STARTARROW="None" STARTINCLINATION="1242;0;"/>
+<node CREATED="1629354424394" ID="ID_1897464800" MODIFIED="1629440764919" TEXT="r-c">
+<node CREATED="1629434831004" ID="ID_808276818" MODIFIED="1629434831004">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      r-5-2~2 / &#65298;&#12288;&#25968;&#21015;&#12398;&#21454;&#26463;&#65381;&#30330;&#25955;&#36895;&#24230;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1629530155245" ID="ID_582451788" MODIFIED="1629530157014" TEXT="/20210821_161553"/>
+</node>
+</node>
+<node CREATED="1610723630275" ID="ID_343107889" MODIFIED="1629530054480" TEXT="n:">
+<node CREATED="1610781936849" ID="ID_1005823502" MODIFIED="1629530050634" TEXT="1">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1005823502" ENDARROW="Default" ENDINCLINATION="1356;0;" ID="Arrow_ID_135190374" SOURCE="ID_1852241066" STARTARROW="None" STARTINCLINATION="1356;0;"/>
+<node CREATED="1629354424394" ID="ID_1093876403" MODIFIED="1629440764919" TEXT="r-c">
+<node CREATED="1629434831004" ID="ID_626215776" MODIFIED="1629434831004">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      r-5-2~2 / &#65298;&#12288;&#25968;&#21015;&#12398;&#21454;&#26463;&#65381;&#30330;&#25955;&#36895;&#24230;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
 <node CREATED="1624859724607" ID="ID_947763628" MODIFIED="1624859725347" TEXT="2"/>
 </node>
 </node>
@@ -4553,7 +4590,7 @@
 <node CREATED="1610762155865" ID="ID_1410328441" MODIFIED="1610762157174" TEXT="e3"/>
 </node>
 </node>
-<node CREATED="1618040450002" FOLDED="true" ID="ID_583841632" MODIFIED="1629450021999" POSITION="right" TEXT="read">
+<node CREATED="1618040450002" FOLDED="true" ID="ID_583841632" MODIFIED="1629530144427" POSITION="right" TEXT="read">
 <node CREATED="1618040451479" ID="ID_1863172685" MODIFIED="1627954577729" TEXT="1">
 <node CREATED="1622715707320" ID="ID_998077453" MODIFIED="1629354070703" TEXT="1-1">
 <node CREATED="1622715749292" FOLDED="true" ID="ID_1001621122" MODIFIED="1624938985661" TEXT="~1">
@@ -10050,45 +10087,160 @@
       &#12521;&#12531;&#12480;&#12454;&#12398;&#35352;&#21495;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1629449969286" ID="ID_1212905200" MODIFIED="1629449990535" TEXT="#4 &#xff3b;&#xff13;&#xff3d;&#x3000;&#x6b21;&#x306e;&#x3088;&#x3046;&#x306a;&#x4ee3;&#x8868;&#x7684;&#x306a;">
+<node COLOR="#338800" CREATED="1629449969286" FOLDED="true" ID="ID_1212905200" MODIFIED="1629530008577" TEXT="#4 &#xff3b;&#xff13;&#xff3d;&#x3000;&#x6b21;&#x306e;&#x3088;&#x3046;&#x306a;&#x4ee3;&#x8868;&#x7684;&#x306a;">
 <arrowlink DESTINATION="ID_553268274" ENDARROW="Default" ENDINCLINATION="1242;0;" ID="Arrow_ID_1426383311" STARTARROW="None" STARTINCLINATION="1242;0;"/>
+<arrowlink DESTINATION="ID_449267242" ENDARROW="Default" ENDINCLINATION="1242;0;" ID="Arrow_ID_1046452265" STARTARROW="None" STARTINCLINATION="1242;0;"/>
+<node COLOR="#006699" CREATED="1629523349261" FOLDED="true" ID="ID_383049510" MODIFIED="1629523440976" TEXT="related">
+<node CREATED="1629523349261" LINK="https://duckduckgo.com/?q=&#x5b9f;&#x6570;&#x89e3;&#x6790;&amp;ia=web" MODIFIED="1629523349261" TEXT="https://duckduckgo.com/?q=&#x5b9f;&#x6570;&#x89e3;&#x6790;&amp;ia=web"/>
+<node CREATED="1629523349261" ID="ID_779548030" LINK="http://nalab.mind.meiji.ac.jp/~mk/lecture/kaiseki-2016/kaiseki-2016.pdf" MODIFIED="1629523421070">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#25968;&#23398;&#35299;&#26512;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1629523349277" ID="ID_1093153341" LINK="http://racco.mikeneko.jp/Kougi/2015a/AMA/2015a_ama03.pdf" MODIFIED="1629523361758">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#31532;&#65297;&#37096;&#12539;&#12300;&#28961;&#38480;&#12301;&#12398;&#29702;&#35299;&#65295; &#23455;&#25968;&#12392;&#12399;&#20309;&#12363;
+    </p>
+  </body>
+</html></richcontent>
+<node COLOR="#990000" CREATED="1629523349277" ID="ID_1274165803" MODIFIED="1629523415117" TEXT="&lt;= &#x8aac;&#x660e;&#xff1a;&#x539a;&#x3044;"/>
+</node>
+<node CREATED="1629523349277" ID="ID_1454503499" LINK="https://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/H29-isono.pdf" MODIFIED="1629523349277" TEXT="https://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/H29-isono.pdf">
+<node COLOR="#990000" CREATED="1629523349277" ID="ID_368140558" MODIFIED="1629523413239" TEXT="&lt;= &#x8aac;&#x660e;&#xff1a;&#x539a;&#x3044;"/>
+</node>
+<node CREATED="1629523349277" ID="ID_654388940" LINK="https://www.sci.kanagawa-u.ac.jp/math-phys/hmatsu/BasicAnalysis.pdf" MODIFIED="1629523349277" TEXT="https://www.sci.kanagawa-u.ac.jp/math-phys/hmatsu/BasicAnalysis.pdf">
+<node COLOR="#990000" CREATED="1629523349277" ID="ID_344059656" MODIFIED="1629523413238" TEXT="&lt;= &#x8a3c;&#x660e;&#x3042;&#x308a;"/>
+</node>
+<node CREATED="1629523349277" ID="ID_1358562175" LINK="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0869-10.pdf" MODIFIED="1629523372312" TEXT="&#x30b9;&#x30ab;&#x30e9;&#x30fc;&#x578b;&#x68af;&#x5b50;&#x6a21;&#x578b;&#x306e;Bethe-Salpeter&#x65b9;&#x7a0b;&#x5f0f;&#x306e;&#x56fa;&#x6709;&#x5024;"/>
+<node CREATED="1629523349293" ID="ID_1339099439" LINK="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1019-2.pdf" MODIFIED="1629523407561">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#12462;&#12522;&#12471;&#12450;&#27604;&#20363;&#35542;&#12398;&#36969;&#29992;&#12395;&#12388;&#12356;&#12390;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1629523349293" ID="ID_1269717706" LINK="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/kokyuroku.html" MODIFIED="1629523400806">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      RIMS K&#244;ky&#251;roku
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1629523349293" ID="ID_171932572" LINK="https://www1.econ.hit-u.ac.jp/kawahira/courses/17S-kaiseki.pdf" MODIFIED="1629523378045">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#35299;&#26512;&#23398;&#27010;&#35542;&#31532;&#19968;/&#31532;&#20108;
+    </p>
+  </body>
+</html></richcontent>
+<node COLOR="#990000" CREATED="1629523349308" ID="ID_227074691" MODIFIED="1629523434852" TEXT="&lt;= &#x8a3c;&#x660e;&#x3042;&#x308a;"/>
+</node>
+<node CREATED="1629523349308" ID="ID_1919122440" LINK="http://nalab.mind.meiji.ac.jp/~mk/lecture/kaiseki-2016/kaiseki-2016.pdf" MODIFIED="1629523384472">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#25968;&#23398;&#35299;&#26512;
+    </p>
+  </body>
+</html></richcontent>
+<node COLOR="#990000" CREATED="1629523349308" ID="ID_1239408080" MODIFIED="1629523435327" TEXT="&lt;= &#x8a3c;&#x660e;&#x3042;&#x308a;"/>
+</node>
+<node CREATED="1629523349308" ID="ID_851436934" LINK="http://www.r.dendai.ac.jp/~ara_lab/kaisekiIensyuu/16analexercise.pdf" MODIFIED="1629523391321">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#35299;&#26512;&#23398;I&#28436;&#32722;
+    </p>
+  </body>
+</html></richcontent>
+<node COLOR="#990000" CREATED="1629523349308" ID="ID_927868440" MODIFIED="1629523435804" TEXT="&lt;= &#x89e3;&#x7b54;&#x4f8b;&#xff1a;&#x3042;&#x308a;"/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1629529995371" ID="ID_1982328193" MODIFIED="1629529998374" TEXT="#.1"/>
+<node COLOR="#338800" CREATED="1629529995371" ID="ID_926685041" MODIFIED="1629529998359" TEXT="#.2 &#x3064;&#x304e;&#x306e;&#x5b9a;&#x7406;&#x304c;&#x6210;&#x308a;&#x7acb;&#x3061;&#x307e;&#x3059;"/>
+</node>
+<node COLOR="#338800" CREATED="1629529995387" FOLDED="true" ID="ID_1704390823" MODIFIED="1629530008117" TEXT="#6 &#xff3b;&#xff11;&#xff3d;&#x3000;&#x53ce;&#x675f;&#x3059;&#x308b;&#x6570;&#x5217;&#x304c;&#xff0c;">
+<node COLOR="#338800" CREATED="1629529995387" ID="ID_1903188970" MODIFIED="1629530003499" TEXT="#.1"/>
+<node COLOR="#338800" CREATED="1629529995403" ID="ID_7989148" MODIFIED="1629530003499" TEXT="#.2 &#xff3b;&#xff12;&#xff3d;&#x3000;&#x3055;&#x3066;&#xff0c;&#x4e0b;&#x6975;&#x9650;&#xff0c;"/>
+<node COLOR="#338800" CREATED="1629529995403" ID="ID_67353423" MODIFIED="1629530003498" TEXT="#.3 &#x96c6;&#x5408; M &#xff1d;"/>
+</node>
+<node COLOR="#338800" CREATED="1629529995403" ID="ID_1631721410" MODIFIED="1629530011346" TEXT="#7 &#x631f;&#x307f;&#x6483;&#x3061;&#x306e;&#x65b9;&#x6cd5;&#x3068;&#x4e0d;&#x7b49;&#x5f0f;">
+<node COLOR="#006699" CREATED="1629529995403" FOLDED="true" ID="ID_1384408178" MODIFIED="1629530020019" TEXT="related">
+<node CREATED="1629529995403" ID="ID_1535376804" LINK="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1311988133" MODIFIED="1629530016665" TEXT="#7.d-1 / y&#xff1d;x&#xff01;&#x3092;&#x5fae;&#x5206;&#x3059;&#x308b;&#x3068;&#x3069;&#x3046;&#x306a;&#x308a;&#x307e;&#x3059;&#x304b;&#xff1f;"/>
+</node>
+</node>
+<node CREATED="1629529995418" ID="ID_1852241066" MODIFIED="1629530050634" TEXT="#8 &#x30ed;&#x30d4;&#x30bf;&#x30eb;&#x306e;&#x5b9a;&#x7406;&#x306e;&#x8a3c;&#x660e;&#x306e;&#x6982;&#x7565;">
+<arrowlink DESTINATION="ID_1005823502" ENDARROW="Default" ENDINCLINATION="1356;0;" ID="Arrow_ID_135190374" STARTARROW="None" STARTINCLINATION="1356;0;"/>
 </node>
 </node>
 </node>
 </node>
 <node CREATED="1628323250974" ID="ID_1184525797" MODIFIED="1628323250974" TEXT="~3">
-<node CREATED="1629354364123" ID="ID_1728747698" MODIFIED="1629354376838">
+<node CREATED="1629354364123" ID="ID_1728747698" LINK="http://www.f-denshi.com/000TokiwaJPN/10kaisk/030ksk.html" MODIFIED="1629530041477">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      r-5-2~3 /
+      r-5-2~3 / &#65299;&#12288;&#36899;&#32154;&#38306;&#25968;&#12392;&#24494;&#20998;&#21487;&#33021;&#24615;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node COLOR="#006699" CREATED="1628324631420" ID="ID_1823896554" MODIFIED="1628324641309" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1628323250974" ID="ID_1520969552" MODIFIED="1628323250974" TEXT="~4">
-<node CREATED="1629354365223" ID="ID_1271975865" MODIFIED="1629354381760">
+<node CREATED="1629354365223" ID="ID_1271975865" LINK="http://www.f-denshi.com/000TokiwaJPN/10kaisk/040ksk.html" MODIFIED="1629530097844">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      r-5-2~4 /
+      r-5-2~4 / &#65300;&#12288;&#12486;&#12452;&#12521;&#12540;&#23637;&#38283;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node COLOR="#006699" CREATED="1628324631420" ID="ID_1064036366" MODIFIED="1628324641309" TEXT="texts"/>
 </node>
 </node>
