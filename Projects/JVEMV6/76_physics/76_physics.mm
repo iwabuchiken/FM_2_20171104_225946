@@ -122,6 +122,90 @@
 <node COLOR="#338800" CREATED="1631944300766" ID="ID_624468496" MODIFIED="1632036512690" TEXT="s-1">
 <arrowlink DESTINATION="ID_1822694400" ENDARROW="Default" ENDINCLINATION="570;0;" ID="Arrow_ID_1887464621" STARTARROW="None" STARTINCLINATION="570;0;"/>
 <node COLOR="#990000" CREATED="1632036519905" ID="ID_845300865" MODIFIED="1632036522141" TEXT="/20210919_162838"/>
+<node CREATED="1632036593295" ID="ID_1904443990" LINK="https://duckduckgo.com/?q=&#x7a7a;&#x6c17;&#x62b5;&#x6297;+&#x516c;&#x5f0f;&amp;ia=web" MODIFIED="1632036604660">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      search : &#31354;&#27671;&#25269;&#25239; &#20844;&#24335;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1632036593576" ID="ID_741196199" MODIFIED="1632036593576" TEXT="docs">
+<node CREATED="1632036593576" ID="ID_1711427539" LINK="https://wakariyasui.sakura.ne.jp/p/mech/houteisiki/kuukiteikou.html" MODIFIED="1632036616976">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#31354;&#27671;&#25269;&#25239;&#12434;&#21463;&#12369;&#12427;&#36939;&#21205;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1632036593591" ID="ID_488155689" LINK="https://duckduckgo.com/?q=&#x7a7a;&#x6c17;&#x62b5;&#x6297;+&#x516c;&#x5f0f;&amp;ia=web" MODIFIED="1632036650118">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      search : &#31354;&#27671;&#25269;&#25239;+&#20844;&#24335;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#006699" CREATED="1632036593591" FOLDED="true" ID="ID_1400296783" MODIFIED="1632036644072" TEXT="docs">
+<node CREATED="1632036593591" ID="ID_1958992963" LINK="https://clicccar.com/2021/03/11/1063306/" MODIFIED="1632036626375">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#31354;&#27671;&#25269;&#25239;&#12392;&#12399;&#65311;&#31354;&#27671;&#25269;&#25239;&#20418;&#25968;Cd&#12395;&#20195;&#34920;&#12373;&#12428;&#12427;&#36208;&#34892;&#20013;&#12398;&#25269;&#25239;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1632036593591" ID="ID_258843909" LINK="http://sekigin.jp/science/phys/phys_02_04.html" MODIFIED="1632036634612">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#29289;&#29702; &#31532;&#19977;&#37096;&#65306;&#27969;&#20307;&#12398;&#29289;&#29702;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#990000" CREATED="1632036593591" ID="ID_923829143" MODIFIED="1632036629580" TEXT="&lt;= good"/>
+</node>
+<node CREATED="1632036593591" ID="ID_770410100" LINK="https://pigeon-poppo.com/aerodynamic-drag-comparison/" MODIFIED="1632036640415">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#31354;&#27671;&#25269;&#25239;&#12392;&#24418;&#29366;&#12398;&#38306;&#20418;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#990000" CREATED="1632036593591" ID="ID_1737848606" MODIFIED="1632036629579" TEXT="&lt;= want-to-read"/>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1631944340459" ID="ID_908406854" MODIFIED="1632036531379" TEXT="s-2">
 <arrowlink DESTINATION="ID_934412866" ENDARROW="Default" ENDINCLINATION="549;0;" ID="Arrow_ID_764403594" STARTARROW="None" STARTINCLINATION="549;0;"/>
