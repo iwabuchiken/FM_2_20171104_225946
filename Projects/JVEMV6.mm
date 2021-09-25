@@ -130,6 +130,7 @@
 <node CREATED="1618878780605" ID="ID_896187492" LINK="JVEMV6/74_dyslexia/74_dyslexia.mm" MODIFIED="1618885631082" TEXT="74. dyslexia"/>
 <node CREATED="1622881706705" ID="ID_951892008" LINK="JVEMV6/75_science-research/75_science-research.mm" MODIFIED="1622881706705" TEXT="75. science research"/>
 <node CREATED="1632030117710" ID="ID_1890231714" LINK="JVEMV6/76_physics/76_physics.mm" MODIFIED="1632030117710" TEXT="76. physics"/>
+<node CREATED="1632579823601" ID="ID_1320319082" LINK="JVEMV6/77_green-technology/77_green-technology.mm" MODIFIED="1632579823601" TEXT="77. green technology"/>
 </node>
 <node CREATED="1598259875393" ID="ID_1229597463" LINK="C:\WORKS_2\Utils\commands\push_fm.bat" MODIFIED="1598259892267" POSITION="left" TEXT="git"/>
 </node>
