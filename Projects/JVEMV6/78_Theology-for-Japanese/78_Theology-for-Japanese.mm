@@ -135,8 +135,8 @@
 <node CREATED="1631414180976" ID="ID_501189167" MODIFIED="1633245915481" TEXT="t-1~1">
 <arrowlink DESTINATION="ID_1855049166" ENDARROW="Default" ENDINCLINATION="300;0;" ID="Arrow_ID_1694995235" STARTARROW="None" STARTINCLINATION="300;0;"/>
 <node CREATED="1633245844498" ID="ID_1893332705" MODIFIED="1633245855943" TEXT="&#x300c;&#x793e;&#x4f1a;&#x300d;&#x3068;&#x306f;&#x4f55;&#x304b;"/>
-<node COLOR="#338800" CREATED="1631944300766" FOLDED="true" ID="ID_663589213" MODIFIED="1633247191652" TEXT="s-1">
-<node CREATED="1633245944193" FOLDED="true" ID="ID_1705206570" MODIFIED="1633247156677" TEXT="&#x4eba;&#x306e;&#x96c6;&#x307e;&#x308a;&#x3002;&#x305d;&#x306e;&#x5168;&#x4f53;">
+<node COLOR="#338800" CREATED="1631944300766" ID="ID_663589213" MODIFIED="1636328750089" TEXT="s-1">
+<node CREATED="1633245944193" FOLDED="true" ID="ID_1705206570" MODIFIED="1636328864172" TEXT="&#x4eba;&#x306e;&#x96c6;&#x307e;&#x308a;&#x3002;&#x305d;&#x306e;&#x5168;&#x4f53;">
 <node CREATED="1633246657374" ID="ID_742928091" MODIFIED="1633246660208" TEXT="theme-1">
 <node CREATED="1633246363162" ID="ID_1167963593" MODIFIED="1633246364193" TEXT="A">
 <node COLOR="#006699" CREATED="1633246188126" ID="ID_1332524172" MODIFIED="1633247134539" TEXT="&#xc0ac;&#xb78c;&#xb4e4;&#xc758; &#xbaa8;&#xc784;. &#xadf8; &#xbaa8;&#xc784;&#xc758; &#xc804;&#xccb4;.">
@@ -178,8 +178,7 @@
       &#44060;&#51064;&#49324;&#51060;&#50644; &#47956;&#44032; &#44288;&#44228;&#46020; &#50630;&#51004;&#45768;&#44620;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
@@ -204,8 +203,7 @@
       &#50696;, &#44032;&#51313;&#46020; &#49324;&#54924;&#51032; &#54616;&#45208; &#51060;&#50640;&#50836;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
@@ -226,8 +224,7 @@
       &#48512;&#51201;&#45817;&#54616;&#45796;&#44256; &#45712;&#45184;&#45796;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
