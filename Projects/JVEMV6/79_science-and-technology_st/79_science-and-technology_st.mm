@@ -502,7 +502,7 @@
 </node>
 </node>
 <node CREATED="1622882036952" ID="ID_685341006" MODIFIED="1622882040183" POSITION="left" TEXT="utils">
-<node CREATED="1608627706941" ID="ID_1183827369" LINK="C:\WORKS_2\shortcuts_docs\end_log_JVE_79_science-and-technology_st.bat" MODIFIED="1638492061652">
+<node CREATED="1608627706941" ID="ID_1183827369" LINK="C:\WORKS_2\shortcuts_docs\end_log_JVE_79_science-and-technology_st.bat" MODIFIED="1638492200644">
 <richcontent TYPE="NODE"><html>
   <head>
     
