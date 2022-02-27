@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1608648916959" ID="ID_788379652" LINK="../../JVEMV6.mm" MODIFIED="1642303127243" TEXT="68. theoretical physics (tp)(v-2.0)">
-<node CREATED="1608648934595" FOLDED="true" ID="ID_874403350" MODIFIED="1645605051376" POSITION="right" TEXT="sessions">
+<node CREATED="1608648916959" ID="ID_788379652" LINK="../../JVEMV6.mm" MODIFIED="1645944980356" TEXT="68. theoretical physics (tp)(v-2.0)">
+<node CREATED="1608648934595" ID="ID_874403350" MODIFIED="1645945482009" POSITION="right" TEXT="sessions">
 <node CREATED="1626334298294" FOLDED="true" ID="ID_1656799256" MODIFIED="1634026397350" TEXT="s-1~">
 <node CREATED="1623031117482" FOLDED="true" ID="ID_485282986" MODIFIED="1626334295964" TEXT="s-1~">
 <node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1380960465" MODIFIED="1618113392097" TEXT="s-1">
@@ -3242,7 +3242,7 @@
 <node COLOR="#338800" CREATED="1627882496084" FOLDED="true" ID="ID_1397383707" MODIFIED="1633141460038" TEXT="4">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_352401122" ENDARROW="Default" ENDINCLINATION="305;0;" ID="Arrow_ID_793572805" STARTARROW="None" STARTINCLINATION="305;0;"/>
 <node CREATED="1627799760171" FOLDED="true" ID="ID_1619465398" MODIFIED="1633141460038" TEXT="r-N">
-<node CREATED="1627882511529" ID="ID_1083077674" MODIFIED="1627882542331">
+<node CREATED="1627882511529" ID="ID_1083077674" MODIFIED="1645944980356">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3266,7 +3266,7 @@
 <node CREATED="1627880892207" FOLDED="true" ID="ID_1407649371" MODIFIED="1633141460038" TEXT="1">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1407649371" ENDARROW="Default" ENDINCLINATION="800;0;" ID="Arrow_ID_962529338" SOURCE="ID_1469985733" STARTARROW="None" STARTINCLINATION="800;0;"/>
 <node CREATED="1627895212122" FOLDED="true" ID="ID_1883547200" MODIFIED="1633141460038" TEXT="r-n">
-<node CREATED="1627895210991" ID="ID_212397583" MODIFIED="1627895210991">
+<node CREATED="1627895210991" ID="ID_212397583" MODIFIED="1645944980354">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3305,7 +3305,7 @@
 <node COLOR="#338800" CREATED="1627880892207" FOLDED="true" ID="ID_538144369" MODIFIED="1633141460038" TEXT="2">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_538144369" ENDARROW="Default" ENDINCLINATION="800;0;" ID="Arrow_ID_197331102" SOURCE="ID_1469985733" STARTARROW="None" STARTINCLINATION="800;0;"/>
 <node CREATED="1627895212122" FOLDED="true" ID="ID_536075784" MODIFIED="1633141460038" TEXT="r-n">
-<node CREATED="1627895210991" ID="ID_19285897" MODIFIED="1627895210991">
+<node CREATED="1627895210991" ID="ID_19285897" MODIFIED="1645944980352">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8466,7 +8466,7 @@
 </node>
 <node CREATED="1610723630275" FOLDED="true" ID="ID_1069058766" MODIFIED="1639974828630" TEXT="n:">
 <node CREATED="1610781936849" FOLDED="true" ID="ID_930122358" MODIFIED="1639974828629" TEXT="1">
-<node CREATED="1633251673465" ID="ID_609595527" MODIFIED="1633251687271" TEXT="s-112:not-yet:1~4"/>
+<node CREATED="1633251673465" ID="ID_609595527" MODIFIED="1645944980349" TEXT="s-112:not-yet:1~4"/>
 </node>
 <node CREATED="1624859724607" FOLDED="true" ID="ID_1700295717" MODIFIED="1639974828629" TEXT="2">
 <arrowlink DESTINATION="ID_1945645894" ENDARROW="Default" ENDINCLINATION="1031;0;" ID="Arrow_ID_740591493" STARTARROW="None" STARTINCLINATION="1031;0;"/>
@@ -8484,7 +8484,7 @@
 <node COLOR="#990000" CREATED="1633318522063" ID="ID_276832823" MODIFIED="1633318524512" TEXT="20211004_123519/"/>
 <node CREATED="1610723630275" FOLDED="true" ID="ID_1222675476" MODIFIED="1639974828631" TEXT="do">
 <node COLOR="#338800" CREATED="1610781936849" FOLDED="true" ID="ID_1913642976" MODIFIED="1639974828630" TEXT="1">
-<node CREATED="1633251673465" ID="ID_1799912678" MODIFIED="1633251687271" TEXT="s-112:not-yet:1~4"/>
+<node CREATED="1633251673465" ID="ID_1799912678" MODIFIED="1645944980349" TEXT="s-112:not-yet:1~4"/>
 </node>
 <node COLOR="#338800" CREATED="1610781936849" FOLDED="true" ID="ID_1237671926" MODIFIED="1639974828631" TEXT="2">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1237671926" ENDARROW="Default" ENDINCLINATION="1567;0;" ID="Arrow_ID_1008516077" SOURCE="ID_932737260" STARTARROW="None" STARTINCLINATION="1567;0;"/>
@@ -8564,7 +8564,7 @@
 <node CREATED="1633337860467" ID="ID_740462004" MODIFIED="1633337863215" TEXT="s-113:2"/>
 </node>
 <node CREATED="1633337870990" FOLDED="true" ID="ID_1857735431" MODIFIED="1639974828640" TEXT="3">
-<node CREATED="1633251673465" ID="ID_292236571" MODIFIED="1633251687271" TEXT="s-112:not-yet:1~4"/>
+<node CREATED="1633251673465" ID="ID_292236571" MODIFIED="1645944980349" TEXT="s-112:not-yet:1~4"/>
 </node>
 </node>
 <node COLOR="#990000" CREATED="1633337878564" ID="ID_121155990" MODIFIED="1633337881272" TEXT="/20211004_175757"/>
@@ -8608,7 +8608,7 @@
 <node CREATED="1633337860467" ID="ID_714201906" MODIFIED="1633337863215" TEXT="s-113:2"/>
 </node>
 <node CREATED="1633337870990" FOLDED="true" ID="ID_1555327077" MODIFIED="1639974828641" TEXT="3">
-<node CREATED="1633251673465" ID="ID_1083407724" MODIFIED="1633251687271" TEXT="s-112:not-yet:1~4"/>
+<node CREATED="1633251673465" ID="ID_1083407724" MODIFIED="1645944980349" TEXT="s-112:not-yet:1~4"/>
 </node>
 </node>
 <node CREATED="1610723630275" FOLDED="true" ID="ID_1121036245" MODIFIED="1639974828642" TEXT="n:">
@@ -8648,7 +8648,7 @@
 <node CREATED="1633337860467" ID="ID_1804688633" MODIFIED="1633337863215" TEXT="s-113:2"/>
 </node>
 <node CREATED="1633337870990" FOLDED="true" ID="ID_1742499605" MODIFIED="1639974828642" TEXT="3">
-<node CREATED="1633251673465" ID="ID_1347077612" MODIFIED="1633251687271" TEXT="s-112:not-yet:1~4"/>
+<node CREATED="1633251673465" ID="ID_1347077612" MODIFIED="1645944980349" TEXT="s-112:not-yet:1~4"/>
 </node>
 </node>
 <node COLOR="#990000" CREATED="1633419509436" ID="ID_671733971" MODIFIED="1633419510925" TEXT="/20211005_163827"/>
@@ -8747,7 +8747,7 @@
 <node CREATED="1633337860467" ID="ID_1711626869" MODIFIED="1633337863215" TEXT="s-113:2"/>
 </node>
 <node CREATED="1633337870990" FOLDED="true" ID="ID_1025700260" MODIFIED="1639974828644" TEXT="3">
-<node CREATED="1633251673465" ID="ID_1332801451" MODIFIED="1633251687271" TEXT="s-112:not-yet:1~4"/>
+<node CREATED="1633251673465" ID="ID_1332801451" MODIFIED="1645944980349" TEXT="s-112:not-yet:1~4"/>
 </node>
 </node>
 <node CREATED="1610723630275" FOLDED="true" ID="ID_208936371" MODIFIED="1639974828645" TEXT="n:">
@@ -10896,7 +10896,7 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_409468616" ENDARROW="Default" ENDINCLINATION="468;0;" ID="Arrow_ID_365942819" STARTARROW="None" STARTINCLINATION="468;0;"/>
 <node CREATED="1642215612028" ID="ID_1294180085" MODIFIED="1642215612028" TEXT="LDE --&gt; &#x5b9a;&#x6570;&#x4fc2;&#x6570;&#x7dda;&#x5f62;&#x975e;&#x540c;&#x6b21;&#x5fae;&#x5206;&#x65b9;&#x7a0b;&#x5f0f; &#x3050;&#x3089;&#x3044;&#x307e;&#x3067;"/>
 <node CREATED="1642215636061" ID="ID_263800578" MODIFIED="1642559316995" TEXT="&#x305d;&#x306e;&#x3042;&#x3068;&#x3000;=&gt;&#x3000;&#x30c9;&#x30fb;&#x30d6;&#x30ed;&#x30a4;&#x6ce2;&#x3001;i naprzo`d"/>
-<node CREATED="1642215874796" ID="ID_1461969397" MODIFIED="1642215946107" TEXT="&#x300c;&#x30ea;&#x30fc;&#x7fa4;&#x300d;&#x3000;=&gt;&#x3000;nie jeszcze. kiedy czuesz koniecznos`c`"/>
+<node CREATED="1642215874796" ID="ID_1461969397" MODIFIED="1645944980349" TEXT="&#x300c;&#x30ea;&#x30fc;&#x7fa4;&#x300d;&#x3000;=&gt;&#x3000;nie jeszcze. kiedy czuesz koniecznos`c`"/>
 </node>
 <node CREATED="1624859724607" ID="ID_951021734" MODIFIED="1642233041167" TEXT="X">
 <node CREATED="1641953986736" ID="ID_530163908" MODIFIED="1641954001135" TEXT="==&gt; eman:&#x91cf;&#x5b50;&#x529b;&#x5b66;"/>
@@ -11749,7 +11749,7 @@
 </node>
 <node CREATED="1644885466073" ID="ID_992543466" LINK="https://duckduckgo.com/?q=&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;&amp;ia=web" MODIFIED="1644892971325" TEXT="search : &#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;">
 <node COLOR="#006699" CREATED="1644885466073" FOLDED="true" ID="ID_1717562075" MODIFIED="1644892994553" TEXT="docs">
-<node CREATED="1644885466083" LINK="https://home.hiroshima-u.ac.jp/kyam/pages/results/monograph/Ref04_g_val.pdf" MODIFIED="1644885466083" TEXT="&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;&#x3068; g &#x5024; https://home.hiroshima-u.ac.jp/kyam/pages/results/monograph/Ref04_g_val.pdf">
+<node CREATED="1644885466083" ID="ID_457482258" LINK="https://home.hiroshima-u.ac.jp/kyam/pages/results/monograph/Ref04_g_val.pdf" MODIFIED="1645944980349" TEXT="&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;&#x3068; g &#x5024; https://home.hiroshima-u.ac.jp/kyam/pages/results/monograph/Ref04_g_val.pdf">
 <node COLOR="#990000" CREATED="1644885466083" ID="ID_468687181" MODIFIED="1644885482186" TEXT="&lt;= good : &#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;&#x306e;&#x69cb;&#x6210;&#x5f0f;&#x3002;&#x8aac;&#x660e;&#x306f;&#x306a;&#x304f;&#x5c0e;&#x5165;&#x3002;&#x4ed6;&#x306f;&#x3001;&#x3056;&#x3063;&#x3068;&#x898b;&#x3066;&#x3001;&#x5206;&#x304b;&#x3089;&#x306a;&#x3044;&#x3068;&#x611f;&#x3058;&#x308b;&#x7b87;&#x6240;&#x306f;&#x306a;&#x304b;&#x3063;&#x305f;&#x3002;"/>
 </node>
 <node CREATED="1644885466093" LINK="http://www.nda.ac.jp/~asanoa/lectures/hikichi/chapt2-v6_B5_3_4pdf.pdf" MODIFIED="1644885466093" TEXT="&#x7b2c;&#xff12;&#x7ae0; &#x89d2;&#x904b;&#x52d5;&#x91cf;&#x3068;&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8; http://www.nda.ac.jp/~asanoa/lectures/hikichi/chapt2-v6_B5_3_4pdf.pdf">
@@ -11760,17 +11760,17 @@
 <node COLOR="#990000" CREATED="1644885466093" ID="ID_1218197934" MODIFIED="1644885483788" TEXT="&lt;= ok : &#x6570;&#x5f0f;&#x3042;&#x308a;&#x3002;&#x8a08;&#x7b97;&#x5f0f;&#x306f;&#x306a;&#x3044;&#x3002;"/>
 </node>
 </node>
-<node CREATED="1644885466093" ID="ID_1198731249" LINK="http://home.sato-gallery.com/research/magnetism_ultraprimer" MODIFIED="1644885466093" TEXT="&#x78c1;&#x6027;&#x8d85;&#x5165;&#x9580;&#xff08;2&#xff09; http://home.sato-gallery.com/research/magnetism_ultraprimer(2).pdf"/>
-<node CREATED="1644885466103" ID="ID_388698824" LINK="https://www.syero-chem.com/entry/2021/09/01/090901" MODIFIED="1644885466103" TEXT="&#x96fb;&#x5b50;&#x306e;&#x30b9;&#x30d4;&#x30f3;&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;&#x3068;&#x30bc;&#x30fc;&#x30de;&#x30f3;&#x52b9;&#x679c; https://www.syero-chem.com/entry/2021/09/01/090901">
+<node CREATED="1644885466093" ID="ID_1198731249" LINK="http://home.sato-gallery.com/research/magnetism_ultraprimer" MODIFIED="1645944980349" TEXT="&#x78c1;&#x6027;&#x8d85;&#x5165;&#x9580;&#xff08;2&#xff09; http://home.sato-gallery.com/research/magnetism_ultraprimer(2).pdf"/>
+<node CREATED="1644885466103" ID="ID_388698824" LINK="https://www.syero-chem.com/entry/2021/09/01/090901" MODIFIED="1645944980349" TEXT="&#x96fb;&#x5b50;&#x306e;&#x30b9;&#x30d4;&#x30f3;&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;&#x3068;&#x30bc;&#x30fc;&#x30de;&#x30f3;&#x52b9;&#x679c; https://www.syero-chem.com/entry/2021/09/01/090901">
 <node COLOR="#990000" CREATED="1644885466103" ID="ID_1439678988" MODIFIED="1644885486691" TEXT="&lt;= ok : &#x5217;&#x6319;&#x3002;&#x5f8c;&#x65e5;&#x3001;&#x898b;&#x308b;&#x3053;&#x3068;&#x3082;&#x3042;&#x308b;&#x304b;&#x3002;"/>
 </node>
-<node CREATED="1644885466103" ID="ID_1604403503" LINK="https://storytellphys.wordpress.com/2021/02/04/&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;/" MODIFIED="1644885466103" TEXT="&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8; https://storytellphys.wordpress.com/2021/02/04/&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;/">
+<node CREATED="1644885466103" ID="ID_1604403503" LINK="https://storytellphys.wordpress.com/2021/02/04/&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;/" MODIFIED="1645944980349" TEXT="&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8; https://storytellphys.wordpress.com/2021/02/04/&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;/">
 <node COLOR="#990000" CREATED="1644885466103" ID="ID_1388920068" MODIFIED="1644885487324" TEXT="&lt;= good : &#x56f3;&#x3042;&#x308a;&#x3002;&#x8a08;&#x7b97;&#x5f0f;&#x3001;&#x3042;&#x308a;&#x3002;"/>
 </node>
-<node CREATED="1644885466103" LINK="https://www.toei-si.jp/yshimada/shimada_note_01.html" MODIFIED="1644885466103" TEXT="1.&#x96fb;&#x8377;&#x3068;&#x78c1;&#x8377; https://www.toei-si.jp/yshimada/shimada_note_01.html">
+<node CREATED="1644885466103" ID="ID_1145774449" LINK="https://www.toei-si.jp/yshimada/shimada_note_01.html" MODIFIED="1645944980349" TEXT="1.&#x96fb;&#x8377;&#x3068;&#x78c1;&#x8377; https://www.toei-si.jp/yshimada/shimada_note_01.html">
 <node COLOR="#990000" CREATED="1644885466103" ID="ID_1888523093" MODIFIED="1644885490124" TEXT="&lt;= good : &#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;&#x3002;&#x8a08;&#x7b97;&#x5f0f;&#x6709;&#x308a;&#x3001;&#x5c0e;&#x51fa;&#x904e;&#x7a0b;&#x3001;&#x3042;&#x308a;&#x3002;"/>
 </node>
-<node CREATED="1644885466113" LINK="https://www.toei-si.jp/yshimada/shimada_note_02.html" MODIFIED="1644885466113" TEXT="2.&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;&#x3068;&#x78c1;&#x6027;&#x6750;&#x6599; https://www.toei-si.jp/yshimada/shimada_note_02.html">
+<node CREATED="1644885466113" ID="ID_1119488994" LINK="https://www.toei-si.jp/yshimada/shimada_note_02.html" MODIFIED="1645944980349" TEXT="2.&#x78c1;&#x6c17;&#x30e2;&#x30fc;&#x30e1;&#x30f3;&#x30c8;&#x3068;&#x78c1;&#x6027;&#x6750;&#x6599; https://www.toei-si.jp/yshimada/shimada_note_02.html">
 <node COLOR="#990000" CREATED="1644885466114" ID="ID_1858067113" MODIFIED="1644885490124" TEXT="&lt;= good : &#x56f3;&#x3001;&#x3042;&#x308a;&#x3002;&#x8a08;&#x7b97;&#x5f0f;&#x306f;&#x3001;&#x306a;&#x3044;&#x3002;&#x5f0f;&#x3001;&#x3042;&#x308a;&#x3002;"/>
 </node>
 </node>
@@ -11780,19 +11780,19 @@
 <node CREATED="1644885466117" LINK="http://www.amsd.mech.tohoku.ac.jp/Thermoacoustics/Chap_13.pdf" MODIFIED="1644885466117" TEXT="&#x7b2c;13&#x7ae0; &#x91cf;&#x5b50;&#x7d71;&#x8a08;&#x7269;&#x7406;&#x5b66; http://www.amsd.mech.tohoku.ac.jp/Thermoacoustics/Chap_13.pdf">
 <node COLOR="#990000" CREATED="1644885466119" ID="ID_1693991520" MODIFIED="1644885490123" TEXT="&lt;= good : &#x6b74;&#x53f2;&#x306b;&#x8a00;&#x53ca;&#x3002;&#x6570;&#x5f0f;&#x3002;"/>
 </node>
-<node CREATED="1644885466120" LINK="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1507-1.pdf" MODIFIED="1644885466120" TEXT="&#x30df;&#x30af;&#x30ed;. &#x30de;&#x30af;&#x30ed;&#x53cc;&#x5bfe;&#x6027;&#x3068;&#x91cf;&#x5b50;&#x5834;&#x306e;&#x518d;&#x69cb;&#x6210; https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1507-1.pdf">
+<node CREATED="1644885466120" ID="ID_498910927" LINK="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1507-1.pdf" MODIFIED="1645944980349" TEXT="&#x30df;&#x30af;&#x30ed;. &#x30de;&#x30af;&#x30ed;&#x53cc;&#x5bfe;&#x6027;&#x3068;&#x91cf;&#x5b50;&#x5834;&#x306e;&#x518d;&#x69cb;&#x6210; https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1507-1.pdf">
 <node COLOR="#990000" CREATED="1644885466124" ID="ID_415102734" MODIFIED="1644885492776" TEXT="&lt;= want-to-read"/>
 </node>
-<node CREATED="1644885466125" LINK="http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/LectureNotes/Note-StatMech-I.pdf" MODIFIED="1644885466125" TEXT="&#x7d71;&#x8a08;&#x529b;&#x5b66; I &#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8; http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/LectureNotes/Note-StatMech-I.pdf">
-<node COLOR="#990000" CREATED="1644885466132" ID="ID_1676116" MODIFIED="1644885492776" TEXT="&lt;= not-now;maybe-later : &#x5185;&#x5bb9;&#x304c;&#x7d30;&#x304b;&#x3044;&#x3002;"/>
+<node CREATED="1644885466125" ID="ID_1225596512" LINK="http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/LectureNotes/Note-StatMech-I.pdf" MODIFIED="1645944980349" TEXT="&#x7d71;&#x8a08;&#x529b;&#x5b66; I &#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8; http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/LectureNotes/Note-StatMech-I.pdf">
+<node COLOR="#990000" CREATED="1644885466132" ID="ID_1676116" MODIFIED="1645944980349" TEXT="&lt;= not-now;maybe-later : &#x5185;&#x5bb9;&#x304c;&#x7d30;&#x304b;&#x3044;&#x3002;"/>
 </node>
-<node CREATED="1644885466133" LINK="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1507-5.pdf" MODIFIED="1644885466133" TEXT="&#x7af9;&#x5d0e;&#x306e;&#x53cc;&#x5bfe;&#x5b9a;&#x7406;&#x306b;&#x3064;&#x3044;&#x3066; https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1507-5.pdf">
-<node COLOR="#990000" CREATED="1644885466134" ID="ID_1507400937" MODIFIED="1644885492776" TEXT="&lt;= not-now;maybe-later : &#x300c;&#x6e2c;&#x5ea6;&#x300d;&#x3001;&#x51fa;&#x3066;&#x304f;&#x308b;&#x3002;"/>
+<node CREATED="1644885466133" ID="ID_108740054" LINK="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1507-5.pdf" MODIFIED="1645944980349" TEXT="&#x7af9;&#x5d0e;&#x306e;&#x53cc;&#x5bfe;&#x5b9a;&#x7406;&#x306b;&#x3064;&#x3044;&#x3066; https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1507-5.pdf">
+<node COLOR="#990000" CREATED="1644885466134" ID="ID_1507400937" MODIFIED="1645944980349" TEXT="&lt;= not-now;maybe-later : &#x300c;&#x6e2c;&#x5ea6;&#x300d;&#x3001;&#x51fa;&#x3066;&#x304f;&#x308b;&#x3002;"/>
 </node>
-<node CREATED="1644885466135" ID="ID_1565030387" LINK="https://as2.c.u-tokyo.ac.jp/~shmz/zakkifiles/12-03-26.html" MODIFIED="1644885466135" TEXT="&#x91cf;&#x5b50;&#x7d71;&#x8a08;&#x529b;&#x5b66;&#x306e;&#x65b0;&#x3057;&#x3044;&#x5b9a;&#x5f0f;&#x5316; https://as2.c.u-tokyo.ac.jp/~shmz/zakkifiles/12-03-26.html">
+<node CREATED="1644885466135" ID="ID_1565030387" LINK="https://as2.c.u-tokyo.ac.jp/~shmz/zakkifiles/12-03-26.html" MODIFIED="1645944980349" TEXT="&#x91cf;&#x5b50;&#x7d71;&#x8a08;&#x529b;&#x5b66;&#x306e;&#x65b0;&#x3057;&#x3044;&#x5b9a;&#x5f0f;&#x5316; https://as2.c.u-tokyo.ac.jp/~shmz/zakkifiles/12-03-26.html">
 <node COLOR="#990000" CREATED="1644885466136" ID="ID_884107567" MODIFIED="1644885492774" TEXT="&lt;= &#x30ea;&#x30f3;&#x30af;&#x3042;&#x308a;&#x3002;"/>
 </node>
-<node CREATED="1644885466137" LINK="https://eman-physics.net/statistic/contents.html" MODIFIED="1644885466137" TEXT="&#x7d71;&#x8a08;&#x529b;&#x5b66;(eman) https://eman-physics.net/statistic/contents.html"/>
+<node CREATED="1644885466137" ID="ID_1028723786" LINK="https://eman-physics.net/statistic/contents.html" MODIFIED="1645944980349" TEXT="&#x7d71;&#x8a08;&#x529b;&#x5b66;(eman) https://eman-physics.net/statistic/contents.html"/>
 </node>
 </node>
 <node COLOR="#990000" CREATED="1644886889557" ID="ID_288139299" MODIFIED="1644886891831" TEXT="/20220215_100124"/>
@@ -11834,7 +11834,7 @@
 <node CREATED="1624859724607" ID="ID_35615716" MODIFIED="1644913996477" TEXT="2">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_35615716" ENDARROW="Default" ENDINCLINATION="2404;0;" ID="Arrow_ID_521956772" SOURCE="ID_948817636" STARTARROW="None" STARTINCLINATION="2404;0;"/>
 <node CREATED="1644913800662" ID="ID_1485214837" MODIFIED="1644913802112" TEXT="r-n">
-<node CREATED="1644900915566" ID="ID_1216870620" MODIFIED="1644913800112" TEXT="#3.2~d-4 / &#x6975;&#x5ea7;&#x6a19;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / diracphysics"/>
+<node CREATED="1644900915566" ID="ID_1216870620" MODIFIED="1645944980349" TEXT="#3.2~d-4 / &#x6975;&#x5ea7;&#x6a19;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / diracphysics"/>
 </node>
 </node>
 </node>
@@ -11863,7 +11863,7 @@
 <node CREATED="1624859724607" ID="ID_1960025963" MODIFIED="1644996384409" TEXT="3">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1960025963" ENDARROW="Default" ENDINCLINATION="2404;0;" ID="Arrow_ID_1557460471" SOURCE="ID_948817636" STARTARROW="None" STARTINCLINATION="2404;0;"/>
 <node CREATED="1644913800662" ID="ID_1504241537" MODIFIED="1644913802112" TEXT="r-n">
-<node CREATED="1644900915566" ID="ID_1382814376" MODIFIED="1644913800112" TEXT="#3.2~d-4 / &#x6975;&#x5ea7;&#x6a19;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / diracphysics"/>
+<node CREATED="1644900915566" ID="ID_1382814376" MODIFIED="1645944980349" TEXT="#3.2~d-4 / &#x6975;&#x5ea7;&#x6a19;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / diracphysics"/>
 </node>
 </node>
 </node>
@@ -11979,7 +11979,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1412246867" MODIFIED="1645605032243" TEXT="s-188">
+<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1412246867" MODIFIED="1645947030069" TEXT="s-188">
 <node CREATED="1610723630275" ID="ID_937966992" MODIFIED="1645599365745" TEXT="do">
 <node COLOR="#338800" CREATED="1610781936849" ID="ID_686755803" MODIFIED="1645605013843" TEXT="1">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_686755803" ENDARROW="Default" ENDINCLINATION="786;0;" ID="Arrow_ID_464914792" SOURCE="ID_1920641769" STARTARROW="None" STARTINCLINATION="786;0;"/>
@@ -11995,7 +11995,7 @@
 <node CREATED="1610781936849" ID="ID_1918401526" MODIFIED="1645604987461" TEXT="1">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1918401526" ENDARROW="Default" ENDINCLINATION="941;0;" ID="Arrow_ID_1671185862" SOURCE="ID_1104209090" STARTARROW="None" STARTINCLINATION="941;0;"/>
 <node CREATED="1645604990149" ID="ID_543144050" MODIFIED="1645604991271" TEXT="r-n">
-<node CREATED="1645604434117" ID="ID_1763658504" MODIFIED="1645604994443" TEXT="r-8-1~4.1 / &#x525b;&#x4f53;&#x306e;&#x56de;&#x8ee2;&#x904b;&#x52d5;&#x3092;&#x652f;&#x914d;&#x3059;&#x308b;&#x30aa;&#x30a4;&#x30e9;&#x30fc;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / sky-engin"/>
+<node CREATED="1645604434117" ID="ID_1763658504" MODIFIED="1645944980349" TEXT="r-8-1~4.1 / &#x525b;&#x4f53;&#x306e;&#x56de;&#x8ee2;&#x904b;&#x52d5;&#x3092;&#x652f;&#x914d;&#x3059;&#x308b;&#x30aa;&#x30a4;&#x30e9;&#x30fc;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / sky-engin"/>
 </node>
 </node>
 <node CREATED="1624859724607" ID="ID_884752591" MODIFIED="1624859725347" TEXT="2">
@@ -12010,11 +12010,53 @@
 <node COLOR="#990000" CREATED="1645599361038" ID="ID_1162784188" MODIFIED="1645599362888" TEXT="20220223_155557/"/>
 <node COLOR="#990000" CREATED="1645605029117" ID="ID_78155686" MODIFIED="1645605030757" TEXT="/20220223_173021"/>
 </node>
-<node CREATED="1615187554513" ID="ID_1888048936" MODIFIED="1645605049896" TEXT="s-189">
-<node CREATED="1610723630275" ID="ID_1662996484" MODIFIED="1615959628072" TEXT="n:">
-<node CREATED="1610781936849" ID="ID_1755639504" MODIFIED="1610781937241" TEXT="1"/>
-<node CREATED="1624859724607" ID="ID_1112399045" MODIFIED="1624859725347" TEXT="2"/>
+<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1888048936" MODIFIED="1645952255381" TEXT="s-189">
+<node CREATED="1645945486961" FOLDED="true" ID="ID_383196955" MODIFIED="1645952247993" TEXT="do">
+<node COLOR="#338800" CREATED="1645945500034" ID="ID_1632543759" MODIFIED="1645947020851" TEXT="1">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1632543759" ENDARROW="Default" ENDINCLINATION="1233;0;" ID="Arrow_ID_1600269856" SOURCE="ID_1881518425" STARTARROW="None" STARTINCLINATION="1233;0;"/>
+<node CREATED="1645945519580" ID="ID_1424239532" MODIFIED="1645945520882" TEXT="r-n">
+<node CREATED="1637805270080" ID="ID_314699967" MODIFIED="1645945519172" TEXT="r-11-1~1.1 / &#xacb0;&#xd569; &#xad6c;&#xc870;"/>
 </node>
+<node COLOR="#990000" CREATED="1645947026802" ID="ID_1176462356" MODIFIED="1645947028730" TEXT="/20220227_163023"/>
+</node>
+<node COLOR="#338800" CREATED="1610781936849" ID="ID_110687153" MODIFIED="1645952216021" TEXT="2">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_110687153" ENDARROW="Default" ENDINCLINATION="941;0;" ID="Arrow_ID_316334904" SOURCE="ID_1104209090" STARTARROW="None" STARTINCLINATION="941;0;"/>
+<node CREATED="1645604990149" ID="ID_127643104" MODIFIED="1645604991271" TEXT="r-n">
+<node CREATED="1645604434117" ID="ID_987018528" MODIFIED="1645944980349" TEXT="r-8-1~4.1 / &#x525b;&#x4f53;&#x306e;&#x56de;&#x8ee2;&#x904b;&#x52d5;&#x3092;&#x652f;&#x914d;&#x3059;&#x308b;&#x30aa;&#x30a4;&#x30e9;&#x30fc;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / sky-engin"/>
+</node>
+<node COLOR="#990000" CREATED="1645948530837" ID="ID_1762859579" MODIFIED="1645948532105" TEXT="20220227_165524/"/>
+</node>
+<node COLOR="#ff0000" CREATED="1624859724607" ID="ID_1493955135" MODIFIED="1645952217540" TEXT="3">
+<node CREATED="1645434176613" ID="ID_149993537" MODIFIED="1645518375503" TEXT="r-c">
+<node CREATED="1645433948340" ID="ID_773791708" MODIFIED="1645434180487" TEXT="r-8-1~3.1 / #7~d-1 / &#x6975;&#x5ea7;&#x6a19;&#x3067;&#x306e;&#x30cb;&#x30e5;&#x30fc;&#x30c8;&#x30f3;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;"/>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1624859724607" ID="ID_385703932" MODIFIED="1645952218312" TEXT="4">
+<node CREATED="1645518384315" ID="ID_1527675282" MODIFIED="1645518387616" TEXT="s-187:2"/>
+</node>
+</node>
+<node CREATED="1610723630275" ID="ID_1662996484" MODIFIED="1615959628072" TEXT="n:">
+<node CREATED="1610781936849" ID="ID_1755639504" MODIFIED="1645952002852" TEXT="1">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1755639504" ENDARROW="Default" ENDINCLINATION="1080;0;" ID="Arrow_ID_563493205" SOURCE="ID_1489766135" STARTARROW="None" STARTINCLINATION="1080;0;"/>
+<node CREATED="1645946876969" ID="ID_1169471184" MODIFIED="1645946879170" TEXT="r-n">
+<node CREATED="1645946686663" ID="ID_1564772391" MODIFIED="1645946892591" TEXT="r-11-1~1.3 / Equivalence_class / wi"/>
+</node>
+</node>
+<node CREATED="1624859724607" ID="ID_1112399045" MODIFIED="1645952193270" TEXT="2">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1112399045" ENDARROW="Default" ENDINCLINATION="1597;0;" ID="Arrow_ID_1888710868" SOURCE="ID_396738529" STARTARROW="None" STARTINCLINATION="1597;0;"/>
+<node CREATED="1645952205452" ID="ID_1690031834" MODIFIED="1645952207484" TEXT="r-c">
+<node CREATED="1645951952337" ID="ID_1007312358" MODIFIED="1645952209918" TEXT="#1~d-1 / &#x56de;&#x8ee2;&#x884c;&#x5217;&#xff08;&#x65b9;&#x5411;&#x4f59;&#x5f26;&#x884c;&#x5217;&#xff09;&#x3068;&#x306f;&#xff1f; / sky-engin"/>
+</node>
+</node>
+<node CREATED="1645952232007" ID="ID_1013474250" MODIFIED="1645952232531" TEXT="3">
+<node CREATED="1645518384315" ID="ID_1155974514" MODIFIED="1645518387616" TEXT="s-187:2"/>
+</node>
+<node CREATED="1645952237981" ID="ID_1222014414" MODIFIED="1645952239422" TEXT="4">
+<node CREATED="1645952239423" ID="ID_263637695" MODIFIED="1645952243613" TEXT="s-189:4"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1645945493842" ID="ID_1764891725" MODIFIED="1645945498096" TEXT="20220227_160452/"/>
+<node COLOR="#990000" CREATED="1645952252406" ID="ID_1108258202" MODIFIED="1645952253917" TEXT="/20220227_175730"/>
 </node>
 <node CREATED="1609426935847" ID="ID_103785999" LINK="C:\WORKS_2\t.bat" MODIFIED="1642554570301" TEXT="time"/>
 <node CREATED="1629354424394" ID="ID_1647517107" MODIFIED="1629534298371" TEXT="r-n"/>
@@ -12106,13 +12148,13 @@
 </node>
 </node>
 <node CREATED="1641998672178" ID="ID_1026111370" MODIFIED="1641998674018" TEXT="files">
-<node CREATED="1641998674679" ID="ID_94386910" LINK="C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.dat" MODIFIED="1641998680932" TEXT="C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.dat"/>
-<node CREATED="1641998694912" ID="ID_151924188" LINK="C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log" MODIFIED="1641998700422" TEXT="C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log"/>
+<node CREATED="1641998674679" ID="ID_94386910" LINK="C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.dat" MODIFIED="1645944980349" TEXT="C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.dat"/>
+<node CREATED="1641998694912" ID="ID_151924188" LINK="C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log" MODIFIED="1645944980349" TEXT="C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log"/>
 </node>
 </node>
-<node CREATED="1618040450002" FOLDED="true" ID="ID_583841632" MODIFIED="1645605133581" POSITION="right" TEXT="read">
-<node CREATED="1633241239751" FOLDED="true" ID="ID_1079241047" MODIFIED="1643862889105" TEXT="1~">
-<node CREATED="1618040451479" ID="ID_1863172685" MODIFIED="1643862391682" TEXT="1">
+<node CREATED="1618040450002" FOLDED="true" ID="ID_583841632" MODIFIED="1645952258921" POSITION="right" TEXT="read">
+<node CREATED="1633241239751" FOLDED="true" ID="ID_1079241047" MODIFIED="1645944892336" TEXT="1~">
+<node CREATED="1618040451479" FOLDED="true" ID="ID_1863172685" MODIFIED="1645944891026" TEXT="1">
 <node CREATED="1622715707320" FOLDED="true" ID="ID_998077453" MODIFIED="1640189541682" TEXT="1-1">
 <node CREATED="1622715749292" FOLDED="true" ID="ID_1001621122" MODIFIED="1633829238597" TEXT="~1">
 <node COLOR="#338800" CREATED="1609045209918" FOLDED="true" ID="ID_571998186" LINK="https://ja.wikipedia.org/wiki/&#x91cf;&#x5b50;&#x91cd;&#x529b;&#x7406;&#x8ad6;" MODIFIED="1633829238581">
@@ -12180,10 +12222,10 @@
 </node>
 <node COLOR="#006633" CREATED="1622818926116" FOLDED="true" ID="ID_1736933618" MODIFIED="1633829238581" TEXT="came-to-know">
 <node CREATED="1622818926117" FOLDED="true" ID="ID_1255201822" MODIFIED="1633829238581" TEXT="1">
-<node CREATED="1622818926118" MODIFIED="1622818926118" TEXT="&#x91cd;&#x529b;&#x5834;(g)&#x3000;=&gt;&#x3000;a matter A at the location x; g is a &quot;&#x91cd;&#x306d;&#x5408;&#x308f;&#x305b;&quot; of all the gravities that arise between x and every mass m_i"/>
+<node CREATED="1622818926118" ID="ID_1463712393" MODIFIED="1645944980349" TEXT="&#x91cd;&#x529b;&#x5834;(g)&#x3000;=&gt;&#x3000;a matter A at the location x; g is a &quot;&#x91cd;&#x306d;&#x5408;&#x308f;&#x305b;&quot; of all the gravities that arise between x and every mass m_i"/>
 </node>
 <node CREATED="1622818926129" FOLDED="true" ID="ID_1528846" MODIFIED="1633829238581" TEXT="2">
-<node CREATED="1622818926130" MODIFIED="1622818926130" TEXT="gravity is : F~=mg~(r~)(&quot;~&quot; vector) --&gt; this equation shows : if you put a mass of m volume at a location r~, then a force F~ arises upon this mass"/>
+<node CREATED="1622818926130" ID="ID_1940912532" MODIFIED="1645944980349" TEXT="gravity is : F~=mg~(r~)(&quot;~&quot; vector) --&gt; this equation shows : if you put a mass of m volume at a location r~, then a force F~ arises upon this mass"/>
 </node>
 </node>
 </node>
@@ -12220,7 +12262,7 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1618285970" ENDARROW="Default" ENDINCLINATION="843;0;" ID="Arrow_ID_1188587998" STARTARROW="None" STARTINCLINATION="843;0;"/>
 <node COLOR="#006633" CREATED="1622855760788" FOLDED="true" ID="ID_782559432" MODIFIED="1633829238581" TEXT="cake-to-know">
 <node CREATED="1622855760788" FOLDED="true" ID="ID_1258742992" MODIFIED="1633829238581" TEXT="1">
-<node CREATED="1622855769702" ID="ID_1895185167" MODIFIED="1622855787037">
+<node CREATED="1622855769702" ID="ID_1895185167" MODIFIED="1645944980349">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12395,7 +12437,7 @@
 <node CREATED="1623036608822" ID="ID_939788133" MODIFIED="1623036613948" TEXT="(en)"/>
 <node COLOR="#006699" CREATED="1622967117749" FOLDED="true" ID="ID_1118472894" MODIFIED="1633829238644" TEXT="texts">
 <node CREATED="1623053632187" FOLDED="true" ID="ID_601399717" MODIFIED="1633829238628" TEXT="#1~">
-<node COLOR="#338800" CREATED="1623036435811" FOLDED="true" ID="ID_1837662518" MODIFIED="1633829238613" TEXT="#1 Quantum gravity (QG) is a field of">
+<node COLOR="#338800" CREATED="1623036435811" FOLDED="true" ID="ID_1837662518" MODIFIED="1645944980346" TEXT="#1 Quantum gravity (QG) is a field of">
 <node COLOR="#338800" CREATED="1623036435811" ID="ID_940365450" MODIFIED="1623036438721" TEXT="#.1 This signals the breakdown of"/>
 <node COLOR="#338800" CREATED="1623036435827" FOLDED="true" ID="ID_157936361" MODIFIED="1633829238613" TEXT="#.2 On more formal grounds,">
 <node COLOR="#006699" CREATED="1623036435827" FOLDED="true" ID="ID_650025795" MODIFIED="1633829238613" TEXT="words">
@@ -12439,12 +12481,12 @@
 <node CREATED="1623053458709" ID="ID_1601407727" MODIFIED="1623053458709" TEXT="Weinberg&#x2013;Witten theorem"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623053458744" FOLDED="true" ID="ID_304111880" LINK="https://en.wikipedia.org/wiki/Quantum_gravity#Nonrenormalizability_of_gravity" MODIFIED="1633829238613" TEXT="#4 Nonrenormalizability_of_gravity">
+<node COLOR="#338800" CREATED="1623053458744" FOLDED="true" ID="ID_304111880" LINK="https://en.wikipedia.org/wiki/Quantum_gravity#Nonrenormalizability_of_gravity" MODIFIED="1645944980346" TEXT="#4 Nonrenormalizability_of_gravity">
 <node COLOR="#006699" CREATED="1623053458747" FOLDED="true" ID="ID_293131067" MODIFIED="1633829238613" TEXT="words">
-<node CREATED="1623053458762" MODIFIED="1623053458762" TEXT="perturbatively nonrenormalizable"/>
-<node CREATED="1623053458762" FOLDED="true" ID="ID_666232203" MODIFIED="1633829238613" TEXT="asymptotically">
+<node CREATED="1623053458762" ID="ID_42867274" MODIFIED="1645944980346" TEXT="perturbatively nonrenormalizable"/>
+<node CREATED="1623053458762" FOLDED="true" ID="ID_666232203" MODIFIED="1645944980346" TEXT="asymptotically">
 <node COLOR="#990000" CREATED="1623053458762" FOLDED="true" ID="ID_1698455521" MODIFIED="1633829238613" TEXT="*&lt;= know-this">
-<node CREATED="1623053458762" ID="ID_611617976" LINK="https://www.thefreedictionary.com/asymptotic" MODIFIED="1623053510805">
+<node CREATED="1623053458762" ID="ID_611617976" LINK="https://www.thefreedictionary.com/asymptotic" MODIFIED="1645944980346">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12458,10 +12500,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1623053458762" FOLDED="true" ID="ID_676529154" MODIFIED="1633829238613" TEXT="quantum electrodynamics">
+<node CREATED="1623053458762" FOLDED="true" ID="ID_676529154" MODIFIED="1645944980344" TEXT="quantum electrodynamics">
 <node COLOR="#990000" CREATED="1623053458762" ID="ID_820766531" MODIFIED="1623053503811" TEXT="&lt;= know-this"/>
 </node>
-<node CREATED="1623053458762" MODIFIED="1623053458762" TEXT="energy scale"/>
+<node CREATED="1623053458762" ID="ID_1947392224" MODIFIED="1645944980344" TEXT="energy scale"/>
 <node CREATED="1623053458762" MODIFIED="1623053458762" TEXT="counterterm coefficients"/>
 </node>
 <node COLOR="#338800" CREATED="1623053458762" FOLDED="true" ID="ID_86610080" MODIFIED="1633829238613" TEXT="#.1 It is conceivable that,">
@@ -12486,7 +12528,7 @@
 </node>
 </node>
 <node CREATED="1623053458778" ID="ID_1959370862" MODIFIED="1623053458778" TEXT="non-perturbative quantum field theory"/>
-<node CREATED="1623053458778" FOLDED="true" ID="ID_691965869" MODIFIED="1633829238613" TEXT="asymptotic safety program">
+<node CREATED="1623053458778" FOLDED="true" ID="ID_691965869" MODIFIED="1645944980344" TEXT="asymptotic safety program">
 <node COLOR="#990000" CREATED="1623053458778" ID="ID_32381681" MODIFIED="1623053521914" TEXT="&lt;= know-this"/>
 <node CREATED="1623053458778" ID="ID_1719764609" LINK="https://3g2upl4pq6kufc4m.onion/?q=asymptotic+safety+program&amp;ia=web" MODIFIED="1623053537463">
 <richcontent TYPE="NODE"><html>
@@ -12503,14 +12545,14 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623053458778" FOLDED="true" ID="ID_492597811" MODIFIED="1633829238613" TEXT="#.2 Another possibility is that">
+<node COLOR="#338800" CREATED="1623053458778" FOLDED="true" ID="ID_492597811" MODIFIED="1645944980344" TEXT="#.2 Another possibility is that">
 <node COLOR="#006699" CREATED="1623053458778" FOLDED="true" ID="ID_433305679" MODIFIED="1633829238613" TEXT="words">
-<node CREATED="1623053458778" MODIFIED="1623053458778" TEXT="symmetry principles"/>
+<node CREATED="1623053458778" ID="ID_725103020" MODIFIED="1645944980344" TEXT="symmetry principles"/>
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623053458793" FOLDED="true" ID="ID_353965577" LINK="https://en.wikipedia.org/wiki/Quantum_gravity#Quantum_gravity_as_an_effective_field_theory" MODIFIED="1633829238628" TEXT="#5 Quantum_gravity_as_an_effective_field_theory">
-<node COLOR="#338800" CREATED="1623053458793" FOLDED="true" ID="ID_983196246" MODIFIED="1633829238628" TEXT="#.1 In an effective field theory,">
+<node COLOR="#338800" CREATED="1623053458793" FOLDED="true" ID="ID_353965577" LINK="https://en.wikipedia.org/wiki/Quantum_gravity#Quantum_gravity_as_an_effective_field_theory" MODIFIED="1645944980344" TEXT="#5 Quantum_gravity_as_an_effective_field_theory">
+<node COLOR="#338800" CREATED="1623053458793" FOLDED="true" ID="ID_983196246" MODIFIED="1645944980344" TEXT="#.1 In an effective field theory,">
 <node COLOR="#006699" CREATED="1623053458793" FOLDED="true" ID="ID_515066627" MODIFIED="1633829238628" TEXT="words">
 <node CREATED="1623053458793" FOLDED="true" ID="ID_181480497" MODIFIED="1633829238628" TEXT="effective field theory">
 <node COLOR="#006699" CREATED="1623053458793" FOLDED="true" ID="ID_536036273" MODIFIED="1633829238628" TEXT="related">
@@ -12584,7 +12626,7 @@
 <node CREATED="1623116251276" MODIFIED="1623116258491" TEXT="quark confinement"/>
 <node CREATED="1623116251276" MODIFIED="1623116258491" TEXT="condensation"/>
 <node CREATED="1623116251276" MODIFIED="1623116258491" TEXT="string perturbation theory"/>
-<node CREATED="1623116251291" MODIFIED="1623116258491" TEXT="asymptotics"/>
+<node CREATED="1623116251291" ID="ID_1982857060" MODIFIED="1645944980344" TEXT="asymptotics"/>
 <node CREATED="1623116251291" MODIFIED="1623116258491" TEXT="AdS/CFT correspondence"/>
 <node CREATED="1623116251291" MODIFIED="1623116258491" TEXT="background dependence"/>
 </node>
@@ -12609,7 +12651,7 @@
 <node CREATED="1623116251307" MODIFIED="1623116251307" TEXT="black hole radiation"/>
 <node CREATED="1623116251307" MODIFIED="1623116251307" TEXT="Unruh effect"/>
 <node CREATED="1623116251307" ID="ID_1031186940" MODIFIED="1623116251307" TEXT="The vacuum state"/>
-<node CREATED="1623116251307" FOLDED="true" ID="ID_1292196155" LINK="https://en.wikipedia.org/wiki/Quantum_field_theory_in_curved_spacetime" MODIFIED="1633829238628" TEXT="Quantum field theory in curved spacetime">
+<node CREATED="1623116251307" FOLDED="true" ID="ID_1292196155" LINK="https://en.wikipedia.org/wiki/Quantum_field_theory_in_curved_spacetime" MODIFIED="1645944980344" TEXT="Quantum field theory in curved spacetime">
 <node COLOR="#990000" CREATED="1623116251307" ID="ID_438375281" MODIFIED="1623116295866" TEXT="&lt;= lets-read"/>
 </node>
 </node>
@@ -12657,11 +12699,11 @@
 <node CREATED="1623120444852" FOLDED="true" ID="ID_243893078" LINK="http://myweb.rz.uni-augsburg.de/~eckern/adp/history/einstein-papers/1901_4_513-523.pdf" MODIFIED="1633829238628" TEXT="Folgerungen aus den Capillarit&#xe4;tserscheinungen">
 <node COLOR="#990000" CREATED="1623120444852" ID="ID_1565697271" MODIFIED="1623120450890" TEXT="&lt;= lets-read"/>
 </node>
-<node CREATED="1623120444852" FOLDED="true" ID="ID_645585749" LINK="https://arxiv.org/pdf/0705.2222.pdf" MODIFIED="1633829238628" TEXT="&quot;Loop Quantum Gravity: Four Recent Advances and a Dozen Frequently Asked Questions&quot;.">
+<node CREATED="1623120444852" FOLDED="true" ID="ID_645585749" LINK="https://arxiv.org/pdf/0705.2222.pdf" MODIFIED="1645944980344" TEXT="&quot;Loop Quantum Gravity: Four Recent Advances and a Dozen Frequently Asked Questions&quot;.">
 <node COLOR="#990000" CREATED="1623120444868" ID="ID_1253014399" MODIFIED="1623120450889" TEXT="&lt;= lets-read"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623120444868" FOLDED="true" ID="ID_905021128" LINK="https://en.wikipedia.org/wiki/Quantum_gravity#String_theory_2" MODIFIED="1633829238628" TEXT="#7.1 String_theory https://en.wikipedia.org/wiki/Quantum_gravity#String_theory_2">
+<node COLOR="#338800" CREATED="1623120444868" FOLDED="true" ID="ID_905021128" LINK="https://en.wikipedia.org/wiki/Quantum_gravity#String_theory_2" MODIFIED="1645944980344" TEXT="#7.1 String_theory https://en.wikipedia.org/wiki/Quantum_gravity#String_theory_2">
 <node COLOR="#006699" CREATED="1623120444868" FOLDED="true" ID="ID_119294581" MODIFIED="1633829238628" TEXT="words">
 <node CREATED="1623120444868" ID="ID_1064368545" MODIFIED="1623120444868" TEXT="one-dimensional extended objects"/>
 </node>
@@ -12679,10 +12721,10 @@
 <node COLOR="#006699" CREATED="1623120444884" FOLDED="true" ID="ID_356899320" MODIFIED="1633829238628" TEXT="unrelated">
 <node CREATED="1623120444884" ID="ID_552140544" LINK="https://en.wikipedia.org/wiki/Gravitoelectromagnetism" MODIFIED="1623120444884" TEXT="Gravitoelectromagnetism https://en.wikipedia.org/wiki/Gravitoelectromagnetism"/>
 <node CREATED="1623120444884" ID="ID_1828031125" MODIFIED="1623120444884" TEXT="A GRAVITATIONAL AND ELECTROMAGNETIC"/>
-<node CREATED="1623120444884" ID="ID_1731778472" LINK="http://sergf.ru/Heavisid.htm" MODIFIED="1623120444884" TEXT="ANALOGY. http://sergf.ru/Heavisid.htm"/>
-<node CREATED="1623120444884" ID="ID_951122905" LINK="https://en.wikipedia.org/wiki/Anti-gravity" MODIFIED="1623120444884" TEXT="Anti-gravity https://en.wikipedia.org/wiki/Anti-gravity"/>
-<node CREATED="1623120444884" ID="ID_495802048" LINK="https://en.wikipedia.org/wiki/United_States_gravity_control_propulsion_research" MODIFIED="1623120444884" TEXT="United_States_gravity_control_propulsion_research https://en.wikipedia.org/wiki/United_States_gravity_control_propulsion_research"/>
-<node CREATED="1623120444884" ID="ID_1457877076" LINK="https://patents.google.com/patent/US3626605" MODIFIED="1623120444884" TEXT="Method and apparatus for generating a secondary gravitational force field  https://patents.google.com/patent/US3626605"/>
+<node CREATED="1623120444884" ID="ID_1731778472" LINK="http://sergf.ru/Heavisid.htm" MODIFIED="1645944980344" TEXT="ANALOGY. http://sergf.ru/Heavisid.htm"/>
+<node CREATED="1623120444884" ID="ID_951122905" LINK="https://en.wikipedia.org/wiki/Anti-gravity" MODIFIED="1645944980344" TEXT="Anti-gravity https://en.wikipedia.org/wiki/Anti-gravity"/>
+<node CREATED="1623120444884" ID="ID_495802048" LINK="https://en.wikipedia.org/wiki/United_States_gravity_control_propulsion_research" MODIFIED="1645944980344" TEXT="United_States_gravity_control_propulsion_research https://en.wikipedia.org/wiki/United_States_gravity_control_propulsion_research"/>
+<node CREATED="1623120444884" ID="ID_1457877076" LINK="https://patents.google.com/patent/US3626605" MODIFIED="1645944980344" TEXT="Method and apparatus for generating a secondary gravitational force field  https://patents.google.com/patent/US3626605"/>
 </node>
 <node COLOR="#990000" CREATED="1623120539038" ID="ID_1587963825" MODIFIED="1623120541040" TEXT="/20210608_114858"/>
 </node>
@@ -12700,7 +12742,7 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1030887307" ENDARROW="Default" ENDINCLINATION="893;0;" ID="Arrow_ID_1313691411" STARTARROW="None" STARTINCLINATION="893;0;"/>
 <node COLOR="#006699" CREATED="1623132883968" FOLDED="true" ID="ID_561085866" MODIFIED="1633829238644" TEXT="memos">
 <node CREATED="1623132883984" MODIFIED="1623132883984" TEXT="granular structure"/>
-<node CREATED="1623132883984" ID="ID_1460733056" MODIFIED="1623132883984" TEXT="elementary quanta of space"/>
+<node CREATED="1623132883984" ID="ID_1460733056" MODIFIED="1645944980344" TEXT="elementary quanta of space"/>
 <node CREATED="1623132883984" MODIFIED="1623132883984" TEXT="ultraviolet infinities of quantum field theory"/>
 </node>
 </node>
@@ -12709,7 +12751,7 @@
 <node CREATED="1623132883999" ID="ID_594871762" MODIFIED="1623132883999" TEXT="spin networks"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623132883999" FOLDED="true" ID="ID_1129671100" MODIFIED="1633829238644">
+<node COLOR="#338800" CREATED="1623132883999" FOLDED="true" ID="ID_1129671100" MODIFIED="1645944980344">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12724,7 +12766,7 @@
 <node CREATED="1623132883999" ID="ID_463375932" MODIFIED="1623132883999" TEXT="Ashtekar variables"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623132884015" FOLDED="true" ID="ID_1265972583" MODIFIED="1633829238644">
+<node COLOR="#338800" CREATED="1623132884015" FOLDED="true" ID="ID_1265972583" MODIFIED="1645944980342">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12786,7 +12828,7 @@
 <node CREATED="1623132884031" MODIFIED="1623132884031" TEXT="BICEP2"/>
 </node>
 <node COLOR="#006699" CREATED="1623132884031" FOLDED="true" ID="ID_1055465260" MODIFIED="1633829238644" TEXT="related">
-<node CREATED="1623132884031" FOLDED="true" ID="ID_1317406618" LINK="https://www.nature.com/articles/nature.2015.16830.pdf?origin=ppub" MODIFIED="1633829238644" TEXT="Gravitational waves discovery now officially dead">
+<node CREATED="1623132884031" FOLDED="true" ID="ID_1317406618" LINK="https://www.nature.com/articles/nature.2015.16830.pdf?origin=ppub" MODIFIED="1645944980340" TEXT="Gravitational waves discovery now officially dead">
 <node COLOR="#990000" CREATED="1623132884046" ID="ID_1853106787" MODIFIED="1623132988106" TEXT="&lt;= lets-read"/>
 <node CREATED="1623132884046" ID="ID_392913293" LINK="https://scholar.google.com/scholar?hl=de&amp;as_sdt=0%2C5&amp;q=Gravitational+waves+discovery&amp;btnG=" MODIFIED="1623132991815" TEXT="referer"/>
 </node>
@@ -12836,12 +12878,12 @@
 </node>
 <node COLOR="#338800" CREATED="1623041006018" ID="ID_58977394" MODIFIED="1623041010505" TEXT="#.1 For example, an electron"/>
 <node COLOR="#338800" CREATED="1623041006018" ID="ID_1843152608" MODIFIED="1623041010505" TEXT="#.2  Renormalization specifies relationships"/>
-<node COLOR="#338800" CREATED="1623041006018" ID="ID_310113215" MODIFIED="1623041010505" TEXT="#.3 Physically, the pileup of"/>
+<node COLOR="#338800" CREATED="1623041006018" ID="ID_310113215" MODIFIED="1645944980339" TEXT="#.3 Physically, the pileup of"/>
 <node COLOR="#338800" CREATED="1623041006018" ID="ID_284700571" MODIFIED="1623041010505" TEXT="#.4 When describing space-time as a continuum"/>
 </node>
 <node COLOR="#338800" CREATED="1623041006034" FOLDED="true" ID="ID_1048937737" MODIFIED="1640189541679" TEXT="#.5 Renormalization was first developed">
 <node COLOR="#006699" CREATED="1623041006034" FOLDED="true" ID="ID_1732444898" MODIFIED="1640189541679" TEXT="words">
-<node CREATED="1623041006034" FOLDED="true" ID="ID_1095975484" LINK="https://www.real-world-physics-problems.com/physics-of-scale.html" MODIFIED="1640189541679">
+<node CREATED="1623041006034" FOLDED="true" ID="ID_1095975484" LINK="https://www.real-world-physics-problems.com/physics-of-scale.html" MODIFIED="1645944980339">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12868,7 +12910,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623041006034" ID="ID_782295957" MODIFIED="1623041043503" TEXT="#.6 Today, the point of view"/>
+<node COLOR="#338800" CREATED="1623041006034" ID="ID_782295957" MODIFIED="1645944980337" TEXT="#.6 Today, the point of view"/>
 <node COLOR="#338800" CREATED="1623041006034" ID="ID_1930521877" MODIFIED="1623041043502" TEXT="#.7 All scales are linked in a"/>
 <node COLOR="#990000" CREATED="1623041048218" FOLDED="true" ID="ID_1780126486" MODIFIED="1633829238644" TEXT="ENOUGH">
 <node COLOR="#990000" CREATED="1623041051876" ID="ID_664019406" MODIFIED="1623041053848" TEXT="/20210607_134406"/>
@@ -12897,8 +12939,8 @@
 <node CREATED="1623807309736" ID="ID_978113706" MODIFIED="1627886260302" TEXT="n:&#xa;    1&#xa;        read C&#xa;            r-1-2~1&#xa0;/ Loop quantum gravity&#xa;            en&#xa;"/>
 <node COLOR="#006699" CREATED="1622967117749" FOLDED="true" ID="ID_1098622134" MODIFIED="1633829238691" TEXT="texts">
 <node CREATED="1623301568687" FOLDED="true" ID="ID_729727358" MODIFIED="1633829238675" TEXT="#1~">
-<node COLOR="#338800" CREATED="1623140629089" FOLDED="true" ID="ID_10731701" MODIFIED="1633829238659" TEXT="#1 Loop quantum gravity (LQG)[1][2][3][4][5] is a theory">
-<node CREATED="1623140629105" ID="ID_1047958782" MODIFIED="1623140629105" TEXT="&quot;treatment of gravity as a force&quot; --&gt; not in LQG"/>
+<node COLOR="#338800" CREATED="1623140629089" FOLDED="true" ID="ID_10731701" MODIFIED="1645944980337" TEXT="#1 Loop quantum gravity (LQG)[1][2][3][4][5] is a theory">
+<node CREATED="1623140629105" ID="ID_1047958782" MODIFIED="1645944980337" TEXT="&quot;treatment of gravity as a force&quot; --&gt; not in LQG"/>
 <node CREATED="1623140629105" ID="ID_1727647535" MODIFIED="1623140629105" TEXT="&quot;a minimum distance exists&quot;"/>
 <node COLOR="#338800" CREATED="1623140629105" FOLDED="true" ID="ID_1690860386" MODIFIED="1633829238659" TEXT="#.1 LQG postulates that the">
 <node COLOR="#006699" CREATED="1623140629105" FOLDED="true" ID="ID_248046065" MODIFIED="1633829238644" TEXT="memos">
@@ -12916,7 +12958,7 @@
 <node CREATED="1623140629105" MODIFIED="1623140629105" TEXT="spin foam theory"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623140629105" FOLDED="true" ID="ID_1127794781" MODIFIED="1633829238659" TEXT="#1.3 The most well-developed theory that">
+<node COLOR="#338800" CREATED="1623140629105" FOLDED="true" ID="ID_1127794781" MODIFIED="1645944980337" TEXT="#1.3 The most well-developed theory that">
 <node COLOR="#006699" CREATED="1623140629105" FOLDED="true" ID="ID_165278794" MODIFIED="1633829238659" TEXT="words">
 <node CREATED="1623140629120" MODIFIED="1623140629120" TEXT="loop quantum cosmology"/>
 <node CREATED="1623140629120" ID="ID_1513784921" MODIFIED="1623140629120" TEXT="Big Bounce"/>
@@ -12925,17 +12967,17 @@
 </node>
 </node>
 <node COLOR="#338800" CREATED="1623140629120" FOLDED="true" ID="ID_616004332" LINK="https://en.wikipedia.org/wiki/Loop_quantum_gravity#History" MODIFIED="1633829238659" TEXT="#2 History">
-<node COLOR="#338800" CREATED="1623140629120" FOLDED="true" ID="ID_850419037" MODIFIED="1633829238659" TEXT="#.1 In 1986, Abhay Ashtekar reformulated">
+<node COLOR="#338800" CREATED="1623140629120" FOLDED="true" ID="ID_850419037" MODIFIED="1645944980337" TEXT="#.1 In 1986, Abhay Ashtekar reformulated">
 <node COLOR="#006699" CREATED="1623140629120" FOLDED="true" ID="ID_1572968055" MODIFIED="1633829238659" TEXT="memos">
-<node CREATED="1623140629120" MODIFIED="1623140629120" TEXT="1986, Abhay Ashtekar"/>
+<node CREATED="1623140629120" ID="ID_1053212747" MODIFIED="1645944980337" TEXT="1986, Abhay Ashtekar"/>
 <node CREATED="1623140629120" MODIFIED="1623140629120" TEXT="Ted Jacobson, Lee Smolin"/>
 <node CREATED="1623140629120" MODIFIED="1623140629120" TEXT="Carlo Rovelli, Smolin"/>
-<node CREATED="1623140629120" MODIFIED="1623140629120" TEXT="Jorge Pullin, Jerzy Lewandowski"/>
+<node CREATED="1623140629120" ID="ID_1798549526" MODIFIED="1645944980337" TEXT="Jorge Pullin, Jerzy Lewandowski"/>
 <node CREATED="1623140629120" MODIFIED="1623140629120" TEXT="In 1994, Rovelli, Smolin"/>
-<node CREATED="1623140629136" MODIFIED="1623140629136" TEXT="Thomas Thiemann --&gt; &quot;canonical version of the dynamics&quot;"/>
+<node CREATED="1623140629136" ID="ID_822221231" MODIFIED="1645944980337" TEXT="Thomas Thiemann --&gt; &quot;canonical version of the dynamics&quot;"/>
 <node CREATED="1623140629136" FOLDED="true" ID="ID_374337323" MODIFIED="1633829238659" TEXT="&apos;&quot;spin foam&quot;, version&apos; --&gt; &quot;completed in 2008&quot;">
 <node CREATED="1623140629136" FOLDED="true" ID="ID_7193255" MODIFIED="1633829238659" TEXT="ref-[8]">
-<node CREATED="1623140629136" FOLDED="true" ID="ID_1417978686" LINK="https://arxiv.org/pdf/1102.3660.pdf" MODIFIED="1633829238659" TEXT="Zakopane lectures on loop gravity https://arxiv.org/pdf/1102.3660.pdf">
+<node CREATED="1623140629136" FOLDED="true" ID="ID_1417978686" LINK="https://arxiv.org/pdf/1102.3660.pdf" MODIFIED="1645944980337" TEXT="Zakopane lectures on loop gravity https://arxiv.org/pdf/1102.3660.pdf">
 <node CREATED="1623140629136" MODIFIED="1623140629136" TEXT="&lt;= lets-read"/>
 </node>
 </node>
@@ -12948,7 +12990,7 @@
 <node COLOR="#338800" CREATED="1623140629152" ID="ID_1417254526" MODIFIED="1623140671396" TEXT="#.2 The covariant, or &quot;spin foam&quot;"/>
 </node>
 <node COLOR="#338800" CREATED="1623140629152" FOLDED="true" ID="ID_892313911" LINK="https://en.wikipedia.org/wiki/Loop_quantum_gravity#General_covariance_and_background_independence" MODIFIED="1633829238659" TEXT="#3 General_covariance_and_background_independence">
-<node COLOR="#338800" CREATED="1623140629152" FOLDED="true" ID="ID_1931659063" MODIFIED="1633829238659" TEXT="#.1 In theoretical physics, general covariance is">
+<node COLOR="#338800" CREATED="1623140629152" FOLDED="true" ID="ID_1931659063" MODIFIED="1645944980337" TEXT="#.1 In theoretical physics, general covariance is">
 <node COLOR="#006699" CREATED="1623140629152" FOLDED="true" ID="ID_1416157258" MODIFIED="1633829238659" TEXT="words">
 <node CREATED="1623140629152" FOLDED="true" ID="ID_149807896" MODIFIED="1633829238659" TEXT="general covariance">
 <node COLOR="#006699" CREATED="1623140629152" FOLDED="true" ID="ID_816155390" MODIFIED="1633829238659" TEXT="docs">
@@ -12971,9 +13013,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1623140629167" FOLDED="true" ID="ID_938062922" MODIFIED="1633829238659" TEXT="invariance of the form of physical laws">
+<node CREATED="1623140629167" FOLDED="true" ID="ID_938062922" MODIFIED="1645944980337" TEXT="invariance of the form of physical laws">
 <node COLOR="#006699" CREATED="1623140629167" FOLDED="true" ID="ID_654379614" MODIFIED="1633829238659" TEXT="docs">
-<node CREATED="1623140629167" FOLDED="true" ID="ID_1206771194" LINK="https://en.wikipedia.org/wiki/Invariant_(physics)" MODIFIED="1633829238659">
+<node CREATED="1623140629167" FOLDED="true" ID="ID_1206771194" LINK="https://en.wikipedia.org/wiki/Invariant_(physics)" MODIFIED="1645944980337">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12992,7 +13034,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1623140629167" ID="ID_1302090555" MODIFIED="1623140629167" TEXT="arbitrary differentiable coordinate transformations"/>
+<node CREATED="1623140629167" ID="ID_1302090555" MODIFIED="1645944980335" TEXT="arbitrary differentiable coordinate transformations"/>
 <node CREATED="1623140629167" FOLDED="true" ID="ID_491525048" MODIFIED="1633829238659" TEXT="artifices">
 <node COLOR="#006699" CREATED="1623140629167" FOLDED="true" ID="ID_499401052" MODIFIED="1633829238659" TEXT="docs">
 <node CREATED="1623140629167" ID="ID_750503662" LINK="https://www.thefreedictionary.com/artifices" MODIFIED="1623140736714">
@@ -13023,25 +13065,25 @@
 <node CREATED="1623301490578" ID="ID_1027366782" MODIFIED="1623301490578" TEXT="diffeomorphism --&gt; &quot;maps one differentiable manifold to another&quot;"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623301490579" FOLDED="true" ID="ID_1461790879" MODIFIED="1633829238659" TEXT="#3.3 In general relativity, general covariance is">
+<node COLOR="#338800" CREATED="1623301490579" FOLDED="true" ID="ID_1461790879" MODIFIED="1645944980335" TEXT="#3.3 In general relativity, general covariance is">
 <node COLOR="#006699" CREATED="1623301490580" FOLDED="true" ID="ID_280047535" MODIFIED="1633829238659" TEXT="words">
 <node CREATED="1623301490581" MODIFIED="1623301490581" TEXT="diffeomorphism invariance"/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1623301490583" FOLDED="true" ID="ID_1068563114" MODIFIED="1633829238659" TEXT="#.4 Diffeomorphisms, as mathematicians define">
 <node COLOR="#006699" CREATED="1623301490584" FOLDED="true" ID="ID_120343453" MODIFIED="1633829238659" TEXT="memos">
-<node CREATED="1623301490586" ID="ID_1461664990" MODIFIED="1623301490586" TEXT="Diffeomorphisms --&gt; &quot;the true symmetry transformations of general relativity&quot;"/>
+<node CREATED="1623301490586" ID="ID_1461664990" MODIFIED="1645944980335" TEXT="Diffeomorphisms --&gt; &quot;the true symmetry transformations of general relativity&quot;"/>
 </node>
 <node COLOR="#006699" CREATED="1623301490587" FOLDED="true" ID="ID_1727119699" MODIFIED="1633829238659" TEXT="words">
 <node CREATED="1623301490588" ID="ID_1288661092" MODIFIED="1623301490588" TEXT="relationalist interpretation of space-time"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623301490589" FOLDED="true" ID="ID_937626928" MODIFIED="1633829238659" TEXT="#.5 In LQG this aspect of general relativity is">
+<node COLOR="#338800" CREATED="1623301490589" FOLDED="true" ID="ID_937626928" MODIFIED="1645944980335" TEXT="#.5 In LQG this aspect of general relativity is">
 <node COLOR="#006699" CREATED="1623301490590" FOLDED="true" ID="ID_1414884416" MODIFIED="1633829238659" TEXT="words">
 <node CREATED="1623301490591" MODIFIED="1623301490591" TEXT="Hamiltonian constraint"/>
 </node>
 <node COLOR="#006699" CREATED="1623301490593" FOLDED="true" ID="ID_1275218605" MODIFIED="1633829238659" TEXT="related">
-<node CREATED="1623301490593" FOLDED="true" ID="ID_1409418363" LINK="https://arxiv.org/search/hep-th?searchtype=author&amp;query=Smolin%2C+L" MODIFIED="1633829238659">
+<node CREATED="1623301490593" FOLDED="true" ID="ID_1409418363" LINK="https://arxiv.org/search/hep-th?searchtype=author&amp;query=Smolin%2C+L" MODIFIED="1645944980335">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13056,13 +13098,13 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623301490597" ID="ID_262378693" MODIFIED="1623301558223" TEXT="#3.6 LQG is formally background independent."/>
+<node COLOR="#338800" CREATED="1623301490597" ID="ID_262378693" MODIFIED="1645944980333" TEXT="#3.6 LQG is formally background independent."/>
 </node>
 <node COLOR="#338800" CREATED="1623301490598" FOLDED="true" ID="ID_1806364415" LINK="https://en.wikipedia.org/wiki/Loop_quantum_gravity#Constraints_and_their_Poisson_bracket_algebra" MODIFIED="1633829238675" TEXT="#4 Constraints_and_their_Poisson_bracket_algebra">
 <node COLOR="#338800" CREATED="1623301490604" FOLDED="true" ID="ID_1916199796" MODIFIED="1633829238675" TEXT="#.1 The constraints of classical canonical">
 <node COLOR="#006699" CREATED="1623301490610" FOLDED="true" ID="ID_1691252261" MODIFIED="1633829238675" TEXT="words">
-<node CREATED="1623301490611" MODIFIED="1623301490611" TEXT="constrained system"/>
-<node CREATED="1623301490613" MODIFIED="1623301490613" TEXT="canonical coordinate system"/>
+<node CREATED="1623301490611" ID="ID_1677706464" MODIFIED="1645944980333" TEXT="constrained system"/>
+<node CREATED="1623301490613" ID="ID_967759004" MODIFIED="1645944980333" TEXT="canonical coordinate system"/>
 <node CREATED="1623301490613" FOLDED="true" ID="ID_634348228" LINK="https://en.wikipedia.org/wiki/Poisson_bracket" MODIFIED="1633829238675">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13082,9 +13124,9 @@
 <node CREATED="1623301490621" ID="ID_935907605" MODIFIED="1623301490621" TEXT="time evolution"/>
 <node CREATED="1623301490622" MODIFIED="1623301490622" TEXT="coordinate transformations"/>
 </node>
-<node COLOR="#338800" CREATED="1623301490623" FOLDED="true" ID="ID_1924033811" MODIFIED="1633829238659" TEXT="#.1 A &quot;canonical coordinate system&quot; consists of">
+<node COLOR="#338800" CREATED="1623301490623" FOLDED="true" ID="ID_1924033811" MODIFIED="1645944980333" TEXT="#.1 A &quot;canonical coordinate system&quot; consists of">
 <node COLOR="#006699" CREATED="1623301490624" FOLDED="true" ID="ID_1829504234" MODIFIED="1633829238659" TEXT="words">
-<node CREATED="1623301490625" MODIFIED="1623301490625" TEXT="canonical coordinate system"/>
+<node CREATED="1623301490625" ID="ID_1854588031" MODIFIED="1645944980333" TEXT="canonical coordinate system"/>
 </node>
 </node>
 </node>
@@ -13094,24 +13136,24 @@
 </node>
 </node>
 </node>
-<node CREATED="1623301490629" MODIFIED="1623301490629" TEXT="arbitrary phase space functions"/>
+<node CREATED="1623301490629" ID="ID_30388655" MODIFIED="1645944980333" TEXT="arbitrary phase space functions"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623301490630" FOLDED="true" ID="ID_1541692703" MODIFIED="1633829238675" TEXT="#4.2 In a similar way the Poisson">
+<node COLOR="#338800" CREATED="1623301490630" FOLDED="true" ID="ID_1541692703" MODIFIED="1645944980333" TEXT="#4.2 In a similar way the Poisson">
 <node COLOR="#006699" CREATED="1623301490631" FOLDED="true" ID="ID_349381169" MODIFIED="1633829238675" TEXT="file">
 <node CREATED="1623301490632" ID="ID_549180052" MODIFIED="1623301490632" TEXT="out.20210610_140004_394174.txt"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623301490634" FOLDED="true" ID="ID_481608600" MODIFIED="1633829238675" TEXT="#4.3 There are three types of constraints in">
+<node COLOR="#338800" CREATED="1623301490634" FOLDED="true" ID="ID_481608600" MODIFIED="1645944980333" TEXT="#4.3 There are three types of constraints in">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1542776363" ENDARROW="Default" ENDINCLINATION="1134;0;" ID="Arrow_ID_1728269526" STARTARROW="None" STARTINCLINATION="1134;0;"/>
 <node COLOR="#006699" CREATED="1623313967664" FOLDED="true" ID="ID_1254284723" MODIFIED="1633829238675" TEXT="words">
 <node CREATED="1623313967664" MODIFIED="1623313967664" TEXT="The Gauss constraints"/>
-<node CREATED="1623313967664" MODIFIED="1623313967664" TEXT="Yang&#x2013;Mills type gauge theory"/>
+<node CREATED="1623313967664" ID="ID_1424299201" MODIFIED="1645944980333" TEXT="Yang&#x2013;Mills type gauge theory"/>
 <node CREATED="1623313967664" MODIFIED="1623313967664" TEXT="gauge field"/>
 <node CREATED="1623313967664" MODIFIED="1623313967664" TEXT="Gauss transformations"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623313967664" ID="ID_695271434" MODIFIED="1623313974582" TEXT="#.4 Ashtekar&apos;s formulation may be"/>
+<node COLOR="#338800" CREATED="1623313967664" ID="ID_695271434" MODIFIED="1645944980333" TEXT="#.4 Ashtekar&apos;s formulation may be"/>
 </node>
 <node COLOR="#338800" CREATED="1623313967664" ID="ID_1036879972" LINK="https://en.wikipedia.org/wiki/Loop_quantum_gravity#Spatial_diffeomorphisms_constraints" MODIFIED="1623313987651" TEXT="#5 Spatial_diffeomorphisms_constraints"/>
 </node>
@@ -13184,12 +13226,12 @@
 </html></richcontent>
 <node CREATED="1623487028472" FOLDED="true" ID="ID_951897775" MODIFIED="1633829238675" TEXT="texts">
 <node CREATED="1623487028472" MODIFIED="1623487028472" TEXT="out.20210612_170544_359244.txt"/>
-<node COLOR="#338800" CREATED="1623487028472" FOLDED="true" ID="ID_1675636156" MODIFIED="1633829238675" TEXT="#1 In dynamical system theory, a phase space is">
+<node COLOR="#338800" CREATED="1623487028472" FOLDED="true" ID="ID_1675636156" MODIFIED="1645944980333" TEXT="#1 In dynamical system theory, a phase space is">
 <node COLOR="#006699" CREATED="1623487028472" FOLDED="true" ID="ID_1581834062" MODIFIED="1633829238675" TEXT="words">
-<node CREATED="1623487028488" ID="ID_1492790281" MODIFIED="1623487028488" TEXT="dynamical system theory"/>
+<node CREATED="1623487028488" ID="ID_1492790281" MODIFIED="1645944980333" TEXT="dynamical system theory"/>
 </node>
 <node COLOR="#006699" CREATED="1623487028488" FOLDED="true" ID="ID_887007097" MODIFIED="1633829238675" TEXT="memos">
-<node CREATED="1623487028488" MODIFIED="1623487028488" TEXT="&quot;all possible states of a system&quot;"/>
+<node CREATED="1623487028488" ID="ID_1225011068" MODIFIED="1645944980333" TEXT="&quot;all possible states of a system&quot;"/>
 </node>
 </node>
 </node>
@@ -13215,15 +13257,15 @@
 </html></richcontent>
 <node COLOR="#006699" CREATED="1623487028488" FOLDED="true" ID="ID_1769505070" MODIFIED="1633829238675" TEXT="texts">
 <node CREATED="1623487028488" ID="ID_544196770" MODIFIED="1623487028488" TEXT="out.20210612_171821_910876.txt"/>
-<node COLOR="#338800" CREATED="1623487028488" FOLDED="true" ID="ID_1172662854" MODIFIED="1633829238675" TEXT="#1 In physics, a gauge theory is">
+<node COLOR="#338800" CREATED="1623487028488" FOLDED="true" ID="ID_1172662854" MODIFIED="1645944980333" TEXT="#1 In physics, a gauge theory is">
 <node COLOR="#006699" CREATED="1623487028488" FOLDED="true" ID="ID_504029358" MODIFIED="1633829238675" TEXT="memos">
-<node CREATED="1623487028504" MODIFIED="1623487028504" TEXT="&quot;a type of field theory&quot;"/>
+<node CREATED="1623487028504" ID="ID_1041115450" MODIFIED="1645944980333" TEXT="&quot;a type of field theory&quot;"/>
 <node CREATED="1623487028504" MODIFIED="1623487028504" TEXT="&quot;the Lagrangian does not change&quot;"/>
 <node CREATED="1623487028504" MODIFIED="1623487028504" TEXT="&quot;The term gauge refers&quot; ... &quot;mathematical formalism&quot;"/>
 <node CREATED="1623487028504" MODIFIED="1623487028504" TEXT="&quot;gauge transformations&quot; --&gt; &quot;transformations between possible gauges&quot;"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623487028504" FOLDED="true" ID="ID_105658588" MODIFIED="1633829238675" TEXT="#1.1 Associated with any Lie group">
+<node COLOR="#338800" CREATED="1623487028504" FOLDED="true" ID="ID_105658588" MODIFIED="1645944980333" TEXT="#1.1 Associated with any Lie group">
 <node COLOR="#006699" CREATED="1623487028504" FOLDED="true" ID="ID_544429348" MODIFIED="1633829238675" TEXT="words">
 <node CREATED="1623487028504" MODIFIED="1623487028504" TEXT="Lie algebra"/>
 <node CREATED="1623487028504" MODIFIED="1623487028504" TEXT="group generators"/>
@@ -13235,13 +13277,13 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623487028504" ID="ID_616538091" MODIFIED="1623487317340" TEXT="#7.3 Then, solving only the constraint"/>
-<node COLOR="#338800" CREATED="1623487028504" ID="ID_325268433" MODIFIED="1623487317339" TEXT="#.4 The dynamics of general"/>
+<node COLOR="#338800" CREATED="1623487028504" ID="ID_616538091" MODIFIED="1645944980333" TEXT="#7.3 Then, solving only the constraint"/>
+<node COLOR="#338800" CREATED="1623487028504" ID="ID_325268433" MODIFIED="1645944980333" TEXT="#.4 The dynamics of general"/>
 </node>
 <node COLOR="#338800" CREATED="1623487028504" FOLDED="true" ID="ID_606627740" LINK="https://en.wikipedia.org/wiki/Loop_quantum_gravity#Quantization_of_the_constraints_&#x2013;_the_equations_of_quantum_general_relativity" MODIFIED="1633829238691" TEXT="#8 Quantization_of_the_constraints">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_337789289" ENDARROW="Default" ENDINCLINATION="618;0;" ID="Arrow_ID_1967853711" STARTARROW="None" STARTINCLINATION="618;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_405032916" ENDARROW="Default" ENDINCLINATION="618;0;" ID="Arrow_ID_1958011956" STARTARROW="None" STARTINCLINATION="618;0;"/>
-<node COLOR="#338800" CREATED="1623565366258" FOLDED="true" ID="ID_1969062968" LINK="https://en.wikipedia.org/wiki/Loop_quantum_gravity#Pre-history_and_Ashtekar_new_variables" MODIFIED="1633829238675" TEXT="#.1 Pre-history_and_Ashtekar_new_variables">
+<node COLOR="#338800" CREATED="1623565366258" FOLDED="true" ID="ID_1969062968" LINK="https://en.wikipedia.org/wiki/Loop_quantum_gravity#Pre-history_and_Ashtekar_new_variables" MODIFIED="1645944980333" TEXT="#.1 Pre-history_and_Ashtekar_new_variables">
 <node COLOR="#006699" CREATED="1623565366273" FOLDED="true" ID="ID_25096025" MODIFIED="1633829238675" TEXT="words">
 <node CREATED="1623565366289" MODIFIED="1623565366289" TEXT="canonical quantum gravity"/>
 <node CREATED="1623565366336" MODIFIED="1623565366336" TEXT="Canonical general relativity"/>
@@ -13255,7 +13297,7 @@
 <node COLOR="#006699" CREATED="1623565366398" FOLDED="true" ID="ID_321267778" MODIFIED="1633829238675" TEXT="words">
 <node CREATED="1623565366398" MODIFIED="1623565366398" TEXT="densitized triads"/>
 <node CREATED="1623565366398" MODIFIED="1623565366398" TEXT="flat space metric"/>
-<node CREATED="1623565366398" MODIFIED="1623565366398" TEXT="&quot;locally flat&quot;"/>
+<node CREATED="1623565366398" ID="ID_1070106223" MODIFIED="1645944980333" TEXT="&quot;locally flat&quot;"/>
 </node>
 <node COLOR="#006699" CREATED="1623565366398" FOLDED="true" ID="ID_1854251841" MODIFIED="1633829238675" TEXT="memos">
 <node CREATED="1623565366414" MODIFIED="1623565366414" TEXT="&quot;densitized triads&quot;...&quot;to encode information about the spatial metric&quot;"/>
@@ -13312,7 +13354,7 @@
 </node>
 <node COLOR="#006699" CREATED="1622967117749" FOLDED="true" ID="ID_1929235525" MODIFIED="1633829238691" TEXT="texts : 2">
 <node CREATED="1627886278102" ID="ID_1059643950" MODIFIED="1627886278102" TEXT="#1"/>
-<node CREATED="1627886278102" ID="ID_1214135392" MODIFIED="1627886278102" TEXT="#.1 As a theory LQG postulates"/>
+<node CREATED="1627886278102" ID="ID_1214135392" MODIFIED="1645944980333" TEXT="#.1 As a theory LQG postulates"/>
 <node CREATED="1627886278102" FOLDED="true" ID="ID_1496014620" MODIFIED="1633829238691" TEXT="#.2 These networks of loops are">
 <node COLOR="#006699" CREATED="1627886278102" FOLDED="true" ID="ID_777197885" MODIFIED="1633829238691" TEXT="words">
 <node CREATED="1627886278102" FOLDED="true" ID="ID_1832115224" MODIFIED="1633829238691" TEXT="spin networks">
@@ -13326,7 +13368,7 @@
 </node>
 </node>
 <node CREATED="1622855889779" ID="ID_202472393" MODIFIED="1640189552989" TEXT="~2">
-<node CREATED="1623377363089" FOLDED="true" ID="ID_676258529" LINK="https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)" MODIFIED="1640218918645">
+<node CREATED="1623377363089" FOLDED="true" ID="ID_676258529" LINK="https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)" MODIFIED="1645944889542">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13343,13 +13385,13 @@
 <node CREATED="1623314049713" ID="ID_921969716" MODIFIED="1623314051975" TEXT="#6~"/>
 <node COLOR="#338800" CREATED="1623384949212" FOLDED="true" ID="ID_1099441502" MODIFIED="1633829238691" TEXT="#1 In quantum mechanics, the Hamiltonian of">
 <node COLOR="#006699" CREATED="1623384949212" FOLDED="true" ID="ID_1925400731" MODIFIED="1633829238691" TEXT="memos">
-<node CREATED="1623384949212" MODIFIED="1623384949212" TEXT="&quot;total energy of that system&quot;"/>
+<node CREATED="1623384949212" ID="ID_797327409" MODIFIED="1645944980333" TEXT="&quot;total energy of that system&quot;"/>
 </node>
-<node COLOR="#338800" CREATED="1623384949212" FOLDED="true" ID="ID_591367926" MODIFIED="1633829238691" TEXT="#.1 Its spectrum, the system&apos;s">
+<node COLOR="#338800" CREATED="1623384949212" FOLDED="true" ID="ID_591367926" MODIFIED="1645944980332" TEXT="#.1 Its spectrum, the system&apos;s">
 <node COLOR="#006699" CREATED="1623384956231" FOLDED="true" ID="ID_135776930" MODIFIED="1633829238691" TEXT="words">
-<node CREATED="1623384949212" ID="ID_1259956149" MODIFIED="1623384949212" TEXT="energy spectrum"/>
-<node CREATED="1623384949212" ID="ID_608295869" MODIFIED="1623384949212" TEXT="energy eigenvalues"/>
-<node CREATED="1623384949212" ID="ID_1691009118" MODIFIED="1623384949212" TEXT="time-evolution of a system"/>
+<node CREATED="1623384949212" ID="ID_1259956149" MODIFIED="1645944980332" TEXT="energy spectrum"/>
+<node CREATED="1623384949212" ID="ID_608295869" MODIFIED="1645944980332" TEXT="energy eigenvalues"/>
+<node CREATED="1623384949212" ID="ID_1691009118" MODIFIED="1645944980332" TEXT="time-evolution of a system"/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1623384949212" FOLDED="true" ID="ID_1571479074" MODIFIED="1633829238691" TEXT="#.2 The Hamiltonian is named after">
@@ -13401,9 +13443,9 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#338800" CREATED="1623384949243" FOLDED="true" ID="ID_1763823100" MODIFIED="1633829238691" TEXT="#.1 The Hamiltonian of a system is">
+<node COLOR="#338800" CREATED="1623384949243" FOLDED="true" ID="ID_1763823100" MODIFIED="1645944980332" TEXT="#.1 The Hamiltonian of a system is">
 <node COLOR="#006699" CREATED="1623384949243" FOLDED="true" ID="ID_1768057517" MODIFIED="1633829238691" TEXT="memos">
-<node CREATED="1623384949243" ID="ID_1113097825" MODIFIED="1623384949243" TEXT="&quot;sum of the kinetic energies&quot;...&quot;plus the potential energy&quot;"/>
+<node CREATED="1623384949243" ID="ID_1113097825" MODIFIED="1645944980332" TEXT="&quot;sum of the kinetic energies&quot;...&quot;plus the potential energy&quot;"/>
 </node>
 </node>
 </node>
@@ -13423,7 +13465,7 @@
 </node>
 </node>
 <node COLOR="#338800" CREATED="1623384949243" ID="ID_1899927625" MODIFIED="1623385039725" TEXT="#.1 In three dimensions using Cartesian"/>
-<node COLOR="#338800" CREATED="1623384949243" ID="ID_1087934141" LINK="https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)#Many_particles" MODIFIED="1640189553030">
+<node COLOR="#338800" CREATED="1623384949243" ID="ID_1087934141" LINK="https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)#Many_particles" MODIFIED="1645944980332">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13435,13 +13477,13 @@
   </body>
 </html></richcontent>
 <node COLOR="#006699" CREATED="1623384949259" ID="ID_1314621104" MODIFIED="1640189553031" TEXT="memos">
-<node CREATED="1623384949259" ID="ID_978890230" MODIFIED="1623384949259" TEXT="&quot;spatial configuration of the system&quot;"/>
+<node CREATED="1623384949259" ID="ID_978890230" MODIFIED="1645944980330" TEXT="&quot;spatial configuration of the system&quot;"/>
 </node>
 <node COLOR="#006699" CREATED="1623384949259" FOLDED="true" ID="ID_1926172291" MODIFIED="1633829238691" TEXT="words">
 <node CREATED="1623384949259" MODIFIED="1623384949259" TEXT="the Laplacian"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1623384949259" FOLDED="true" ID="ID_1997216904" MODIFIED="1633829238691" TEXT="#.3 Combining these yields the Schr&#xf6;dinger">
+<node COLOR="#338800" CREATED="1623384949259" FOLDED="true" ID="ID_1997216904" MODIFIED="1645944980330" TEXT="#.3 Combining these yields the Schr&#xf6;dinger">
 <node COLOR="#006699" CREATED="1623384949259" FOLDED="true" ID="ID_1744228268" MODIFIED="1633829238691" TEXT="file">
 <node CREATED="1623384949259" MODIFIED="1623384949259" TEXT="out.20210611_130628_431915.txt"/>
 </node>
@@ -13449,7 +13491,7 @@
 <node COLOR="#338800" CREATED="1623384949259" FOLDED="true" ID="ID_820891014" MODIFIED="1633829238691" TEXT="#.4 However, complications can arise">
 <node CREATED="1623384949259" ID="ID_1223918991" MODIFIED="1623384949259" TEXT="out.20210611_130939_877449.txt"/>
 <node COLOR="#006699" CREATED="1623384949274" FOLDED="true" ID="ID_362031315" MODIFIED="1633829238691" TEXT="words">
-<node CREATED="1623384949274" MODIFIED="1623384949274" TEXT="many-body problem"/>
+<node CREATED="1623384949274" ID="ID_266092184" MODIFIED="1645944980330" TEXT="many-body problem"/>
 <node CREATED="1623384949274" MODIFIED="1623384949274" TEXT="mass polarization terms"/>
 </node>
 </node>
@@ -13520,11 +13562,11 @@
 <node COLOR="#990000" CREATED="1627886278133" ID="ID_1349345585" MODIFIED="1627886403933" TEXT="=&gt; ENOUGH : 20210802_153325"/>
 </node>
 </node>
-<node CREATED="1627886278133" FOLDED="true" ID="ID_943414329" LINK="https://en.wikipedia.org/wiki/Gauge_theory#Classical_gauge_theory" MODIFIED="1633829238706" TEXT="r-1-2.A-4 / Classical_gauge_theory [gauge transformations]">
+<node CREATED="1627886278133" FOLDED="true" ID="ID_943414329" LINK="https://en.wikipedia.org/wiki/Gauge_theory#Classical_gauge_theory" MODIFIED="1645944980330" TEXT="r-1-2.A-4 / Classical_gauge_theory [gauge transformations]">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_943414329" ENDARROW="Default" ENDINCLINATION="445;0;" ID="Arrow_ID_212595548" SOURCE="ID_1206600972" STARTARROW="None" STARTINCLINATION="447;-44;"/>
 <node COLOR="#006699" CREATED="1627886278149" FOLDED="true" ID="ID_1476006414" MODIFIED="1633829238706" TEXT="texts">
 <node CREATED="1627895131594" FOLDED="true" ID="ID_556642774" MODIFIED="1633829238706" TEXT="#1">
-<node CREATED="1627895131594" FOLDED="true" ID="ID_1162582333" MODIFIED="1633829238706" TEXT="#.1 In physics, a gauge theory is">
+<node CREATED="1627895131594" FOLDED="true" ID="ID_1162582333" MODIFIED="1645944980330" TEXT="#.1 In physics, a gauge theory is">
 <node COLOR="#006699" CREATED="1627895131594" FOLDED="true" ID="ID_477134196" MODIFIED="1633829238706" TEXT="words">
 <node CREATED="1627895131610" FOLDED="true" ID="ID_929457987" MODIFIED="1633829238706" TEXT="Lagrangian">
 <node COLOR="#006633" CREATED="1627895131610" ID="ID_1950898789" MODIFIED="1627895152670" TEXT="SEG : r-1-2.A-5">
@@ -13538,7 +13580,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1627895131610" FOLDED="true" ID="ID_1469985733" LINK="https://en.wikipedia.org/wiki/Lagrangian_(field_theory)" MODIFIED="1633829238706">
+<node CREATED="1627895131610" FOLDED="true" ID="ID_1469985733" LINK="https://en.wikipedia.org/wiki/Lagrangian_(field_theory)" MODIFIED="1645944980330">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13879,7 +13921,7 @@
 <node COLOR="#006699" CREATED="1624090741306" FOLDED="true" ID="ID_66184346" MODIFIED="1633829238722" TEXT="search">
 <node CREATED="1624090741306" MODIFIED="1624090741306" TEXT="&#x5408;&#x6210;&#x95a2;&#x6570; &#x7a4d;&#x5206;"/>
 <node CREATED="1624090741321" FOLDED="true" ID="ID_1938527132" MODIFIED="1633829238722" TEXT="&#x7a4d;&#x5206; &#x516c;&#x5f0f;">
-<node CREATED="1624090741321" ID="ID_385390356" LINK="https://w3e.kanazawa-it.ac.jp/math/category/sekibun/henkan-tex.cgi?target=/math/category/sekibun/bubunsekibun.html" MODIFIED="1624090741321" TEXT="https://w3e.kanazawa-it.ac.jp/math/category/sekibun/henkan-tex.cgi?target=/math/category/sekibun/bubunsekibun.html"/>
+<node CREATED="1624090741321" ID="ID_385390356" LINK="https://w3e.kanazawa-it.ac.jp/math/category/sekibun/henkan-tex.cgi?target=/math/category/sekibun/bubunsekibun.html" MODIFIED="1645944980328" TEXT="https://w3e.kanazawa-it.ac.jp/math/category/sekibun/henkan-tex.cgi?target=/math/category/sekibun/bubunsekibun.html"/>
 </node>
 <node CREATED="1624090741337" ID="ID_836283412" MODIFIED="1624090741337" TEXT="&#x95a2;&#x6570; &#x5185;&#x7a4d;"/>
 </node>
@@ -13974,7 +14016,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1624164341215" FOLDED="true" ID="ID_1409394351" LINK="http://www.math.tohoku.ac.jp/~kuroki/LaTeX/20100731_Cauchy-Schwarz-Buniakowski.pdf" MODIFIED="1633829238737" TEXT="Cauchy-Schwarz-Buniakowski&#x306e;&#x4e0d;&#x7b49;&#x5f0f;&#x306e;&#x8a3c;&#x660e;">
+<node CREATED="1624164341215" FOLDED="true" ID="ID_1409394351" LINK="http://www.math.tohoku.ac.jp/~kuroki/LaTeX/20100731_Cauchy-Schwarz-Buniakowski.pdf" MODIFIED="1645944980328" TEXT="Cauchy-Schwarz-Buniakowski&#x306e;&#x4e0d;&#x7b49;&#x5f0f;&#x306e;&#x8a3c;&#x660e;">
 <node CREATED="1624164341215" ID="ID_1499663818" MODIFIED="1624164341215" TEXT="&lt;= this"/>
 <node COLOR="#990000" CREATED="1624164393879" ID="ID_1704126916" MODIFIED="1624164396132" TEXT="&lt;= lets-read"/>
 </node>
@@ -14052,7 +14094,7 @@
 <node COLOR="#006699" CREATED="1623917510741" FOLDED="true" ID="ID_853841113" MODIFIED="1633829238737" TEXT="texts">
 <node COLOR="#338800" CREATED="1624435572578" FOLDED="true" ID="ID_954321057" MODIFIED="1633829238737" TEXT="#1">
 <node COLOR="#006699" CREATED="1624435572594" FOLDED="true" ID="ID_899163685" MODIFIED="1633829238737" TEXT="ref">
-<node CREATED="1624435572594" LINK="http://hooktail.sub.jp/vectoranalysis/BaseTransform/" MODIFIED="1624435572594" TEXT="1 http://hooktail.sub.jp/vectoranalysis/BaseTransform/"/>
+<node CREATED="1624435572594" ID="ID_209028970" LINK="http://hooktail.sub.jp/vectoranalysis/BaseTransform/" MODIFIED="1645944980328" TEXT="1 http://hooktail.sub.jp/vectoranalysis/BaseTransform/"/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1624435572594" FOLDED="true" ID="ID_909877925" MODIFIED="1633829238737" TEXT="#2 &#x5168;&#x304f;&#x540c;&#x69d8;&#x306b;&#x3057;&#x3066;&#xff0c;&#x53cd;&#x5909;&#x30d9;&#x30af;&#x30c8;&#x30eb;">
@@ -14117,7 +14159,7 @@
 <node COLOR="#338800" CREATED="1624694142388" ID="ID_993824445" MODIFIED="1624694145204" TEXT="#1"/>
 <node COLOR="#338800" CREATED="1624694142403" FOLDED="true" ID="ID_1809572656" MODIFIED="1633829238737" TEXT="#2 &#x307e;&#x305f;&#xff0c; &#x8a08;&#x91cf;&#x30c6;&#x30f3;&#x30bd;&#x30eb; &#x306e;&#x8a18;&#x4e8b;&#x3067;&#x884c;&#x3063;&#x305f;&#x3088;&#x3046;&#x306b;&#xff0c;">
 <node COLOR="#006699" CREATED="1624694142403" FOLDED="true" ID="ID_678546797" MODIFIED="1633829238737" TEXT="related">
-<node CREATED="1624694142403" ID="ID_1584601439" LINK="http://hooktail.sub.jp/vectoranalysis/MetricTensor/" MODIFIED="1624694142403" TEXT=":d-1 http://hooktail.sub.jp/vectoranalysis/MetricTensor/"/>
+<node CREATED="1624694142403" ID="ID_1584601439" LINK="http://hooktail.sub.jp/vectoranalysis/MetricTensor/" MODIFIED="1645944980328" TEXT=":d-1 http://hooktail.sub.jp/vectoranalysis/MetricTensor/"/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1624694142403" ID="ID_1361935848" MODIFIED="1624694145204" TEXT="#3 &#x8a08;&#x91cf;&#x56e0;&#x5b50;&#x306f;&#xff0c;&#x76f4;&#x4ea4;&#x5ea7;&#x6a19;&#x7cfb;&#x304b;&#x3089;"/>
@@ -14357,7 +14399,7 @@
 <node COLOR="#338800" CREATED="1624943084667" ID="ID_1365265203" MODIFIED="1624943093496" TEXT="#.2 &#x540c;&#x69d8;&#x306b;&#x53cd;&#x5909;&#x6210;&#x5206;&#x3084;"/>
 <node COLOR="#338800" CREATED="1624943084667" FOLDED="true" ID="ID_96306823" MODIFIED="1633829238753" TEXT="#.3 &#x8a08;&#x91cf;&#x30c6;&#x30f3;&#x30bd;&#x30eb;&#x306e;&#x6df7;&#x5408;&#x6210;&#x5206;&#x306f;">
 <node COLOR="#006699" CREATED="1624943084667" FOLDED="true" ID="ID_1119747280" MODIFIED="1633829238753" TEXT="related">
-<node CREATED="1624943084667" FOLDED="true" ID="ID_1890635890" LINK="http://hooktail.sub.jp/vectoranalysis/DualBases/" MODIFIED="1633829238753" TEXT="#2.3~1 / http://hooktail.sub.jp/vectoranalysis/DualBases/">
+<node CREATED="1624943084667" FOLDED="true" ID="ID_1890635890" LINK="http://hooktail.sub.jp/vectoranalysis/DualBases/" MODIFIED="1645944980328" TEXT="#2.3~1 / http://hooktail.sub.jp/vectoranalysis/DualBases/">
 <node COLOR="#006699" CREATED="1624943084683" FOLDED="true" ID="ID_1897422791" MODIFIED="1633829238753" TEXT="search">
 <node CREATED="1624943084683" MODIFIED="1624943084683" TEXT="&#x30d9;&#x30af;&#x30c8;&#x30eb; &#x5916;&#x7a4d; &#x5206;&#x914d;"/>
 <node CREATED="1624943084683" ID="ID_1744635806" MODIFIED="1624943084683" TEXT="&#x30d9;&#x30af;&#x30c8;&#x30eb; &#x6f14;&#x7b97; &#x516c;&#x5f0f;"/>
@@ -14572,7 +14614,7 @@
 <node COLOR="#338800" CREATED="1625463021857" ID="ID_1514322952" MODIFIED="1625463025750" TEXT="#.1 &#x4ee3;&#x6570;&#x7684;&#x306b;&#x8a00;&#x3048;&#x3070;&#xff0c;"/>
 <node COLOR="#338800" CREATED="1625463021857" FOLDED="true" ID="ID_1888568898" MODIFIED="1633829238769" TEXT="#.2 &#x3068;&#x3053;&#x308d;&#x304c;&#xff0c;&#x3055;&#x304d;&#x307b;&#x3069;">
 <node COLOR="#006699" CREATED="1625463021857" FOLDED="true" ID="ID_65857678" MODIFIED="1633829238769" TEXT="ref">
-<node CREATED="1625463021857" ID="ID_1337804611" LINK="http://hooktail.sub.jp/vectoranalysis/VectorSpaceV/" MODIFIED="1625463021857" TEXT="#1.2~d-1 / http://hooktail.sub.jp/vectoranalysis/VectorSpaceV/"/>
+<node CREATED="1625463021857" ID="ID_1337804611" LINK="http://hooktail.sub.jp/vectoranalysis/VectorSpaceV/" MODIFIED="1645944980328" TEXT="#1.2~d-1 / http://hooktail.sub.jp/vectoranalysis/VectorSpaceV/"/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1625463021857" ID="ID_1624335874" MODIFIED="1625463029799" TEXT="#.3 &#x3053;&#x306e;&#x3088;&#x3046;&#x306b;&#x3057;&#x3066;&#x30c6;&#x30f3;&#x30bd;&#x30eb;&#x7a7a;&#x9593;&#x306e;"/>
@@ -14755,7 +14797,7 @@
 <node COLOR="#006699" CREATED="1625884310683" FOLDED="true" ID="ID_743416822" MODIFIED="1633829238784" TEXT="search">
 <node CREATED="1625884310683" MODIFIED="1625884310683" TEXT="&#x30c6;&#x30f3;&#x30bd;&#x30eb; &#x56fa;&#x6709;&#x5024; &#x30af;&#x30e9;&#x30e1;&#x30eb;"/>
 <node CREATED="1625884310683" LINK="https://ja.wikipedia.org/wiki/&#x30af;&#x30e9;&#x30e1;&#x30eb;&#x306e;&#x516c;&#x5f0f;" MODIFIED="1625884310683" TEXT="https://ja.wikipedia.org/wiki/&#x30af;&#x30e9;&#x30e1;&#x30eb;&#x306e;&#x516c;&#x5f0f;         / #.1~d-1"/>
-<node CREATED="1625884310683" LINK="http://www2.kaiyodai.ac.jp/~yoshi-s/Lectures/LAlgebra/2013/Cramer.pdf" MODIFIED="1625884310683" TEXT="http://www2.kaiyodai.ac.jp/~yoshi-s/Lectures/LAlgebra/2013/Cramer.pdf         / #.1~d-2"/>
+<node CREATED="1625884310683" ID="ID_1354615413" LINK="http://www2.kaiyodai.ac.jp/~yoshi-s/Lectures/LAlgebra/2013/Cramer.pdf" MODIFIED="1645944980328" TEXT="http://www2.kaiyodai.ac.jp/~yoshi-s/Lectures/LAlgebra/2013/Cramer.pdf         / #.1~d-2"/>
 </node>
 <node COLOR="#006699" CREATED="1625884310683" FOLDED="true" ID="ID_1317778802" MODIFIED="1633829238784" TEXT="related">
 <node CREATED="1625884310699" ID="ID_1594736452" LINK="http://web.tuat.ac.jp/~vcl_/math/eigen2D.html" MODIFIED="1625884310699" TEXT="http://web.tuat.ac.jp/~vcl_/math/eigen2D.html / #.1~d-3"/>
@@ -14792,7 +14834,7 @@
 <node CREATED="1625886813466" FOLDED="true" ID="ID_780842212" LINK="https://www.headboost.jp/matrix-diagonalization/" MODIFIED="1633829238784" TEXT="https://www.headboost.jp/matrix-diagonalization/">
 <node COLOR="#990000" CREATED="1625886813466" ID="ID_298854500" MODIFIED="1625886834215" TEXT="&lt;= good"/>
 </node>
-<node CREATED="1625886813466" FOLDED="true" ID="ID_181049152" LINK="https://linky-juku.com/matrix-diagonalization/" MODIFIED="1633829238784" TEXT="https://linky-juku.com/matrix-diagonalization/">
+<node CREATED="1625886813466" FOLDED="true" ID="ID_181049152" LINK="https://linky-juku.com/matrix-diagonalization/" MODIFIED="1645944980328" TEXT="https://linky-juku.com/matrix-diagonalization/">
 <node COLOR="#990000" CREATED="1625886813466" ID="ID_1441483954" MODIFIED="1625886834217" TEXT="&lt;= also-good"/>
 </node>
 </node>
@@ -14934,7 +14976,7 @@
 <node CREATED="1618040453801" ID="ID_1748842383" MODIFIED="1618040454162" TEXT="3"/>
 <node CREATED="1618040454402" ID="ID_673693107" MODIFIED="1618040454638" TEXT="4"/>
 </node>
-<node CREATED="1618040453801" ID="ID_1260398470" MODIFIED="1643862391689" TEXT="3">
+<node CREATED="1618040453801" FOLDED="true" ID="ID_1260398470" MODIFIED="1645944886772" TEXT="3">
 <node CREATED="1625969009289" FOLDED="true" ID="ID_1179903950" MODIFIED="1640189541684" TEXT="hooktail">
 <node CREATED="1625969019087" ID="ID_364525166" MODIFIED="1625969019087" TEXT="&#x4ee3;&#x6570;&#x5b66;"/>
 </node>
@@ -14957,7 +14999,7 @@
 <node COLOR="#338800" CREATED="1626139362014" ID="ID_465691982" MODIFIED="1626139366687" TEXT="#1"/>
 <node COLOR="#338800" CREATED="1626139362030" ID="ID_874977978" MODIFIED="1626139366687" TEXT="#2 &#x7f6e;&#x63db;&#x306b;&#x3088;&#x308b;&#x8868;&#x73fe;"/>
 <node COLOR="#338800" CREATED="1626139362030" FOLDED="true" ID="ID_442348963" MODIFIED="1628324734625" TEXT="#3 &#x4e00;&#x822c;&#x5316;">
-<node CREATED="1626139362030" MODIFIED="1626139362030" TEXT="&lt;= search : drugi trafiony rzecz"/>
+<node CREATED="1626139362030" ID="ID_346032138" MODIFIED="1645944980328" TEXT="&lt;= search : drugi trafiony rzecz"/>
 </node>
 <node COLOR="#338800" CREATED="1626139362030" ID="ID_528166070" MODIFIED="1626139366671" TEXT="#4 &#x88dc;&#x907a;"/>
 <node COLOR="#338800" CREATED="1626139362046" ID="ID_1015042714" MODIFIED="1626139366671" TEXT="#.1 &#x304c;&#x5f97;&#x3089;&#x308c;&#xff0c;&#x540c;&#x69d8;&#x306b;"/>
@@ -15358,7 +15400,7 @@
 <node COLOR="#338800" CREATED="1627095544604" ID="ID_1154350064" MODIFIED="1627095548810" TEXT="#3 &#x7dda;&#x5bfe;&#x79f0;&#x79fb;&#x52d5;&#x3082;&#x7fa4;&#x3092;"/>
 <node COLOR="#338800" CREATED="1627095544604" FOLDED="true" ID="ID_544455031" MODIFIED="1632384417790" TEXT="#4 &#x88dc;&#x8db3;&#xff1a;&#x5408;&#x540c;&#x5909;&#x63db;&#x306e;&#x884c;&#x5217;&#x8868;&#x793a;">
 <node COLOR="#006699" CREATED="1627095544604" FOLDED="true" ID="ID_1639004231" MODIFIED="1632384417790" TEXT="SEG">
-<node CREATED="1627095544604" ID="ID_1506701618" MODIFIED="1627095544604" TEXT="python --&gt; plot 3d"/>
+<node CREATED="1627095544604" ID="ID_1506701618" MODIFIED="1645944980328" TEXT="python --&gt; plot 3d"/>
 <node CREATED="1627095544620" ID="ID_1347528163" LINK="https://3g2upl4pq6kufc4m.onion/?q=python+plot+3d&amp;ia=web" MODIFIED="1627095557873">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -15372,9 +15414,9 @@
 </html></richcontent>
 </node>
 <node CREATED="1627095544620" FOLDED="true" ID="ID_462326208" MODIFIED="1628324734703" TEXT="console">
-<node CREATED="1627095544620" ID="ID_1510354847" MODIFIED="1627095544620" TEXT="python -m pip list"/>
+<node CREATED="1627095544620" ID="ID_1510354847" MODIFIED="1645944980328" TEXT="python -m pip list"/>
 </node>
-<node CREATED="1627095544620" ID="ID_965501266" LINK="C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\s-45~\s_48.py" MODIFIED="1627095570158" TEXT="python file"/>
+<node CREATED="1627095544620" ID="ID_965501266" LINK="C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\s-45~\s_48.py" MODIFIED="1645944980328" TEXT="python file"/>
 <node CREATED="1627095544620" ID="ID_352585703" LINK="C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\s-45~\s-48.log" MODIFIED="1627095577568">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -15460,7 +15502,7 @@
 </node>
 </node>
 <node COLOR="#006699" CREATED="1627194448080" FOLDED="true" ID="ID_592681423" MODIFIED="1628324734718" TEXT="unrelated">
-<node CREATED="1627194448080" ID="ID_74969500" LINK="https://mathshistory.st-andrews.ac.uk/HistTopics/" MODIFIED="1627194472098">
+<node CREATED="1627194448080" ID="ID_74969500" LINK="https://mathshistory.st-andrews.ac.uk/HistTopics/" MODIFIED="1645944980328">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16462,7 +16504,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1618040454402" ID="ID_1546878203" MODIFIED="1643862391689" TEXT="4">
+<node CREATED="1618040454402" FOLDED="true" ID="ID_1546878203" MODIFIED="1645944886150" TEXT="4">
 <node CREATED="1625969009289" FOLDED="true" ID="ID_502976210" MODIFIED="1640189541689" TEXT="hooktail">
 <node CREATED="1626240006872" ID="ID_287458604" MODIFIED="1626240010609" TEXT="&#x5fae;&#x5206;&#x5f62;&#x5f0f;"/>
 </node>
@@ -16531,7 +16573,7 @@
 <node COLOR="#338800" CREATED="1626317563155" FOLDED="true" ID="ID_963429187" MODIFIED="1627015639439" TEXT="#5 &#x30a6;&#x30a7;&#x30c3;&#x30b8;&#x7a4d;&#x306e;&#x4f8b;">
 <node COLOR="#006699" CREATED="1626317563155" FOLDED="true" ID="ID_1599533569" MODIFIED="1626317595247" TEXT="search">
 <node CREATED="1626317563155" MODIFIED="1626317563155" TEXT="&#x30a6;&#x30a7;&#x30c3;&#x30b8;&#x7a4d; &#x8a08;&#x7b97;&#x4f8b;"/>
-<node CREATED="1626317563155" ID="ID_1544208553" LINK="https://staff.aist.go.jp/yoshizawa-akio/appendix_pdf/714_wedge_131101.pdf" MODIFIED="1626317563155" TEXT="https://staff.aist.go.jp/yoshizawa-akio/appendix_pdf/714_wedge_131101.pdf"/>
+<node CREATED="1626317563155" ID="ID_1544208553" LINK="https://staff.aist.go.jp/yoshizawa-akio/appendix_pdf/714_wedge_131101.pdf" MODIFIED="1645944980326" TEXT="https://staff.aist.go.jp/yoshizawa-akio/appendix_pdf/714_wedge_131101.pdf"/>
 <node CREATED="1626317563171" FOLDED="true" ID="ID_519424563" LINK="https://qiita.com/7shi/items/017d2d2c758f76071f23" MODIFIED="1627015639439" TEXT="https://qiita.com/7shi/items/017d2d2c758f76071f23">
 <node CREATED="1626317591838" MODIFIED="1626317591838" TEXT="&lt;= &#x30d7;&#x30ed;&#x30b0;&#x30e9;&#x30e0;&#x3001;&#x3042;&#x308a;"/>
 </node>
@@ -16576,7 +16618,7 @@
 <node COLOR="#006699" CREATED="1626334115339" FOLDED="true" ID="ID_212118114" MODIFIED="1627015639439" TEXT="search">
 <node CREATED="1626334115339" FOLDED="true" ID="ID_360699049" MODIFIED="1627015639439" TEXT="&#x76f4;&#x4ea4;&#x6761;&#x4ef6; &#x884c;&#x5217;&#x5f0f;">
 <node CREATED="1626334115339" ID="ID_1250859621" LINK="https://3g2upl4pq6kufc4m.onion/?q=&#x76f4;&#x4ea4;&#x6761;&#x4ef6;+&#x884c;&#x5217;&#x5f0f;&amp;ia=web" MODIFIED="1626334115339" TEXT="https://3g2upl4pq6kufc4m.onion/?q=&#x76f4;&#x4ea4;&#x6761;&#x4ef6;+&#x884c;&#x5217;&#x5f0f;&amp;ia=web"/>
-<node CREATED="1626334115339" ID="ID_1510013634" LINK="https://www.geisya.or.jp/~mwm48961/electro/orthogonal_vector1.htm" MODIFIED="1626334115339" TEXT="https://www.geisya.or.jp/~mwm48961/electro/orthogonal_vector1.htm"/>
+<node CREATED="1626334115339" ID="ID_1510013634" LINK="https://www.geisya.or.jp/~mwm48961/electro/orthogonal_vector1.htm" MODIFIED="1645944980326" TEXT="https://www.geisya.or.jp/~mwm48961/electro/orthogonal_vector1.htm"/>
 </node>
 </node>
 </node>
@@ -16792,7 +16834,7 @@
 <node CREATED="1618040453801" ID="ID_36787401" MODIFIED="1618040454162" TEXT="3"/>
 <node CREATED="1618040454402" ID="ID_477590171" MODIFIED="1618040454638" TEXT="4"/>
 </node>
-<node CREATED="1618040454402" ID="ID_1762775686" MODIFIED="1643862391689" TEXT="5">
+<node CREATED="1618040454402" FOLDED="true" ID="ID_1762775686" MODIFIED="1645944885510" TEXT="5">
 <node CREATED="1628324541244" ID="ID_1494727243" MODIFIED="1628324543982" TEXT="f-denshi.com"/>
 <node CREATED="1628324631373" FOLDED="true" ID="ID_1933449751" MODIFIED="1634793670005" TEXT="1">
 <node CREATED="1628324662450" ID="ID_1384876120" MODIFIED="1628324669189">
@@ -17385,7 +17427,7 @@
 <node COLOR="#006699" CREATED="1629178869054" FOLDED="true" ID="ID_711193359" MODIFIED="1631779623833" TEXT="unrelated">
 <node CREATED="1629178869054" LINK="https://math-fun.net/" MODIFIED="1629178869054" TEXT="https://math-fun.net/"/>
 <node CREATED="1629178869069" ID="ID_1220764722" LINK="https://duckduckgo.com/?q=&#x5fdc;&#x7528;&#x6570;&#x5b66;&amp;ia=web" MODIFIED="1629178869069" TEXT="https://duckduckgo.com/?q=&#x5fdc;&#x7528;&#x6570;&#x5b66;&amp;ia=web"/>
-<node CREATED="1629178869069" FOLDED="true" ID="ID_1809955399" LINK="https://ja.wikipedia.org/wiki/Category:&#x5fdc;&#x7528;&#x6570;&#x5b66;" MODIFIED="1631779623833">
+<node CREATED="1629178869069" FOLDED="true" ID="ID_1809955399" LINK="https://ja.wikipedia.org/wiki/Category:&#x5fdc;&#x7528;&#x6570;&#x5b66;" MODIFIED="1645944980326">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17657,10 +17699,10 @@
 </html></richcontent>
 <node COLOR="#990000" CREATED="1629523349277" ID="ID_1274165803" MODIFIED="1629523415117" TEXT="&lt;= &#x8aac;&#x660e;&#xff1a;&#x539a;&#x3044;"/>
 </node>
-<node CREATED="1629523349277" FOLDED="true" ID="ID_1454503499" LINK="https://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/H29-isono.pdf" MODIFIED="1631722318269" TEXT="https://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/H29-isono.pdf">
+<node CREATED="1629523349277" FOLDED="true" ID="ID_1454503499" LINK="https://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/H29-isono.pdf" MODIFIED="1645944980324" TEXT="https://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/H29-isono.pdf">
 <node COLOR="#990000" CREATED="1629523349277" ID="ID_368140558" MODIFIED="1629523413239" TEXT="&lt;= &#x8aac;&#x660e;&#xff1a;&#x539a;&#x3044;"/>
 </node>
-<node CREATED="1629523349277" FOLDED="true" ID="ID_654388940" LINK="https://www.sci.kanagawa-u.ac.jp/math-phys/hmatsu/BasicAnalysis.pdf" MODIFIED="1631722318269" TEXT="https://www.sci.kanagawa-u.ac.jp/math-phys/hmatsu/BasicAnalysis.pdf">
+<node CREATED="1629523349277" FOLDED="true" ID="ID_654388940" LINK="https://www.sci.kanagawa-u.ac.jp/math-phys/hmatsu/BasicAnalysis.pdf" MODIFIED="1645944980324" TEXT="https://www.sci.kanagawa-u.ac.jp/math-phys/hmatsu/BasicAnalysis.pdf">
 <node COLOR="#990000" CREATED="1629523349277" ID="ID_344059656" MODIFIED="1629523413238" TEXT="&lt;= &#x8a3c;&#x660e;&#x3042;&#x308a;"/>
 </node>
 <node CREATED="1629523349277" ID="ID_1358562175" LINK="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0869-10.pdf" MODIFIED="1629523372312" TEXT="&#x30b9;&#x30ab;&#x30e9;&#x30fc;&#x578b;&#x68af;&#x5b50;&#x6a21;&#x578b;&#x306e;Bethe-Salpeter&#x65b9;&#x7a0b;&#x5f0f;&#x306e;&#x56fa;&#x6709;&#x5024;"/>
@@ -17676,7 +17718,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1629523349293" ID="ID_1269717706" LINK="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/kokyuroku.html" MODIFIED="1629523400806">
+<node CREATED="1629523349293" ID="ID_1269717706" LINK="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/kokyuroku.html" MODIFIED="1645944980324">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17738,7 +17780,7 @@
 </node>
 <node COLOR="#338800" CREATED="1629529995403" FOLDED="true" ID="ID_1631721410" MODIFIED="1631722318269" TEXT="#7 &#x631f;&#x307f;&#x6483;&#x3061;&#x306e;&#x65b9;&#x6cd5;&#x3068;&#x4e0d;&#x7b49;&#x5f0f;">
 <node COLOR="#006699" CREATED="1629529995403" FOLDED="true" ID="ID_1384408178" MODIFIED="1631722318269" TEXT="related">
-<node CREATED="1629529995403" ID="ID_1535376804" LINK="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1311988133" MODIFIED="1629530016665" TEXT="#7.d-1 / y&#xff1d;x&#xff01;&#x3092;&#x5fae;&#x5206;&#x3059;&#x308b;&#x3068;&#x3069;&#x3046;&#x306a;&#x308a;&#x307e;&#x3059;&#x304b;&#xff1f;"/>
+<node CREATED="1629529995403" ID="ID_1535376804" LINK="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1311988133" MODIFIED="1645944980321" TEXT="#7.d-1 / y&#xff1d;x&#xff01;&#x3092;&#x5fae;&#x5206;&#x3059;&#x308b;&#x3068;&#x3069;&#x3046;&#x306a;&#x308a;&#x307e;&#x3059;&#x304b;&#xff1f;"/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1629529995418" FOLDED="true" ID="ID_1852241066" MODIFIED="1631722318269" TEXT="#8 &#x30ed;&#x30d4;&#x30bf;&#x30eb;&#x306e;&#x5b9a;&#x7406;&#x306e;&#x8a3c;&#x660e;&#x306e;&#x6982;&#x7565;">
@@ -18428,7 +18470,7 @@
 <node COLOR="#338800" CREATED="1630306332257" ID="ID_197973900" MODIFIED="1630306338724" TEXT="#.1 &#x3053;&#x306e;&#x7406;&#x7531;&#x306f;"/>
 </node>
 <node COLOR="#338800" CREATED="1630306332476" ID="ID_1885611717" MODIFIED="1630306338755" TEXT="#1 &#xff11;&#xff0e;&#x3000;&#x4e8c;&#x5909;&#x6570;&#x95a2;&#x6570;&#x306e;&#x504f;&#x5fae;&#x5206;"/>
-<node COLOR="#338800" CREATED="1630306332491" ID="ID_1347676626" MODIFIED="1630306338786" TEXT="#2 &#xff3b;&#xff12;&#xff3d;&#x3000;&#x307e;&#x305f;&#xff0c;f(x,y) &#x304c;"/>
+<node COLOR="#338800" CREATED="1630306332491" ID="ID_1347676626" MODIFIED="1645944980321" TEXT="#2 &#xff3b;&#xff12;&#xff3d;&#x3000;&#x307e;&#x305f;&#xff0c;f(x,y) &#x304c;"/>
 <node COLOR="#338800" CREATED="1630306332554" FOLDED="true" ID="ID_1237813365" MODIFIED="1633073956924" TEXT="#3 &#xff3b;&#xff13;&#xff3d;&#x3000;&#x3042;&#x308b;&#x95a2;&#x6570;&#x304c;">
 <node COLOR="#006699" CREATED="1630306332569" FOLDED="true" ID="ID_1345450401" MODIFIED="1630471906390" TEXT="ref">
 <node CREATED="1630306332569" ID="ID_825751168" LINK="http://www.f-denshi.com/000TokiwaJPN/10kaisk/070ksk.html#2-3" MODIFIED="1630306332569" TEXT="#3.ref-1 / http://www.f-denshi.com/000TokiwaJPN/10kaisk/070ksk.html#2-3"/>
@@ -18446,7 +18488,7 @@
 <node COLOR="#338800" CREATED="1630306332600" ID="ID_56951419" MODIFIED="1630306369058" TEXT="#.1"/>
 <node COLOR="#338800" CREATED="1630306332600" FOLDED="true" ID="ID_833741005" MODIFIED="1630471906390" TEXT="#.2 &#x305f;&#x3060;&#x3057;&#xff0c;&#x4e00;&#x822c;&#x306b;&#x306f;">
 <node COLOR="#006699" CREATED="1630306332678" FOLDED="true" ID="ID_1096613412" MODIFIED="1630471906390" TEXT="ref">
-<node CREATED="1630306332678" ID="ID_760877538" LINK="https://www.symbolab.com/solver/derivative-calculator/%5Cfrac%7B%5Cpartial%7D%7B%5Cpartial%20x%7D%5Cleft" MODIFIED="1630306382411" TEXT="#3.2.ref-1 / https://www.symbolab.com/solver"/>
+<node CREATED="1630306332678" ID="ID_760877538" LINK="https://www.symbolab.com/solver/derivative-calculator/%5Cfrac%7B%5Cpartial%7D%7B%5Cpartial%20x%7D%5Cleft" MODIFIED="1645944980321" TEXT="#3.2.ref-1 / https://www.symbolab.com/solver"/>
 </node>
 </node>
 </node>
@@ -18554,7 +18596,7 @@
 <node COLOR="#338800" CREATED="1630391694020" FOLDED="true" ID="ID_130455140" MODIFIED="1630391701836" TEXT="#2 &#xff3b;&#xff12;&#xff3d;&#x3000;&#x3055;&#x3066;&#xff0c;&#x4ee5;&#x4e0a;&#x306e;">
 <node COLOR="#338800" CREATED="1630391694020" ID="ID_1280195897" MODIFIED="1630391697522" TEXT="#.1 &#x305d;&#x3057;&#x3066;&#xff0c;&#x3053;&#x306e;&#x5f0f;&#x306e;"/>
 </node>
-<node COLOR="#338800" CREATED="1630391694020" FOLDED="true" ID="ID_1404946586" MODIFIED="1630391752450" TEXT="#3 (&#xff12;)&#x3000;&#x307e;&#x305a;&#xff0c;&#x3c6;(x,y) &#x306b;&#x304a;&#x3044;&#x3066;">
+<node COLOR="#338800" CREATED="1630391694020" FOLDED="true" ID="ID_1404946586" MODIFIED="1645944980321" TEXT="#3 (&#xff12;)&#x3000;&#x307e;&#x305a;&#xff0c;&#x3c6;(x,y) &#x306b;&#x304a;&#x3044;&#x3066;">
 <node COLOR="#338800" CREATED="1630391694020" FOLDED="true" ID="ID_266021116" MODIFIED="1631722318389" TEXT="#.1">
 <node CREATED="1630391694020" FOLDED="true" ID="ID_1830326180" LINK="https://duckduckgo.com/?q=&#x5168;&#x5fae;&#x5206;+&#x5b9a;&#x7406;&amp;ia=web" MODIFIED="1631722318389" TEXT="search &#x5168;&#x5fae;&#x5206; &#x5b9a;&#x7406; https://duckduckgo.com/?q=&#x5168;&#x5fae;&#x5206;+&#x5b9a;&#x7406;&amp;ia=web">
 <node COLOR="#006699" CREATED="1630391694036" FOLDED="true" ID="ID_1866534471" MODIFIED="1630391735072" TEXT="docs">
@@ -18602,13 +18644,13 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1630391694051" ID="ID_1723354280" MODIFIED="1630391697522" TEXT="#.2 &#x3053;&#x308c;&#x3092; u&#xff0c;y &#x3092;&#x72ec;&#x7acb;&#x5909;&#x6570;"/>
+<node COLOR="#338800" CREATED="1630391694051" ID="ID_1723354280" MODIFIED="1645944980321" TEXT="#.2 &#x3053;&#x308c;&#x3092; u&#xff0c;y &#x3092;&#x72ec;&#x7acb;&#x5909;&#x6570;"/>
 <node COLOR="#338800" CREATED="1630391694051" ID="ID_1633176073" MODIFIED="1630391739962" TEXT="#3.3 (&#xff13;)&#x3000;&#x6b21;&#x306b;&#xff0c;"/>
 <node COLOR="#338800" CREATED="1630391694051" ID="ID_650362308" MODIFIED="1630391739962" TEXT="#.4 (&#xff14;)&#x3000;&#x540c;&#x3058;&#x3088;&#x3046;&#x306a;&#x8a08;&#x7b97;&#x306e;"/>
 </node>
 <node COLOR="#338800" CREATED="1630391694051" FOLDED="true" ID="ID_1410697569" MODIFIED="1631722318389" TEXT="#4 &#xff3b;&#xff13;&#xff3d;&#x4ee5;&#x4e0b;&#xff0c;&#x86c7;&#x8db3;&#x3067;&#x3059;&#x304c;&#xff0c;">
 <node COLOR="#338800" CREATED="1630391694051" ID="ID_264825594" MODIFIED="1630391739962" TEXT="#.1"/>
-<node COLOR="#338800" CREATED="1630391694051" ID="ID_545342042" MODIFIED="1630391739962" TEXT="#.2 (&#xff14;)&apos;&apos;&#x3000;&#x307e;&#x305f;&#xff0c;&#x3c6;(x,y)&#x3088;&#x308a;"/>
+<node COLOR="#338800" CREATED="1630391694051" ID="ID_545342042" MODIFIED="1645944980321" TEXT="#.2 (&#xff14;)&apos;&apos;&#x3000;&#x307e;&#x305f;&#xff0c;&#x3c6;(x,y)&#x3088;&#x308a;"/>
 <node COLOR="#338800" CREATED="1630391694051" ID="ID_874240577" MODIFIED="1630391739962" TEXT="#.3 &#xff3b;&#xff14;&#xff3d;&#x3000;&#x4ee5;&#x4e0a;&#xff0c;&#x8a08;&#x7b97;&#x7d50;&#x679c;&#x3092;"/>
 </node>
 <node COLOR="#338800" CREATED="1630391694051" ID="ID_1189530181" MODIFIED="1630391739961" TEXT="#5 &#x4f8b;&#x3000;&#x4e0b;&#x306b;&#x51f8;&#x306a;&#xff12;&#x5909;&#x6570;&#x95a2;&#x6570;"/>
@@ -19202,9 +19244,9 @@
 <node COLOR="#006699" CREATED="1630485422781" FOLDED="true" ID="ID_207458465" MODIFIED="1630485485004" TEXT="texts">
 <node COLOR="#338800" CREATED="1630485422781" ID="ID_526420034" MODIFIED="1630485445206" TEXT="#1"/>
 <node COLOR="#338800" CREATED="1630485422781" ID="ID_1349235446" MODIFIED="1630485445208" TEXT="#2 &#x304c;&#x6210;&#x7acb;&#x3059;&#x308b;&#x306e;&#x3067;&#x3001;&#x3053;&#x308c;&#x306f;&#xff12;&#x6b21;&#x306e;"/>
-<node COLOR="#338800" CREATED="1630485422781" ID="ID_1419369430" MODIFIED="1630485445208" TEXT="#3 &#x307e;&#x305f;&#x3001;f(x,y)&#x3068;g(x,y)&#x3092;&#xff11;&#x6b21;&#x306e;"/>
+<node COLOR="#338800" CREATED="1630485422781" ID="ID_1419369430" MODIFIED="1645944980321" TEXT="#3 &#x307e;&#x305f;&#x3001;f(x,y)&#x3068;g(x,y)&#x3092;&#xff11;&#x6b21;&#x306e;"/>
 <node COLOR="#338800" CREATED="1630485422781" ID="ID_31111583" MODIFIED="1630485445208" TEXT="*#4 &#x3055;&#x3089;&#x306b;&#x3001;&#x3b1;&#x3092;&#x5b9f;&#x6570;&#x3068;&#x3059;&#x308b;&#x3068;&#x3001;"/>
-<node CREATED="1630485422781" MODIFIED="1630485422781" TEXT="#5 &#x554f;&#x984c;&#xff11;&#x3000;f(x,y)&#x3092;"/>
+<node CREATED="1630485422781" ID="ID_1755756283" MODIFIED="1645944980321" TEXT="#5 &#x554f;&#x984c;&#xff11;&#x3000;f(x,y)&#x3092;"/>
 </node>
 <node COLOR="#990000" CREATED="1630485422781" ID="ID_361509600" MODIFIED="1630485447429" TEXT="==&gt; ENOUGH"/>
 </node>
@@ -19280,7 +19322,7 @@
 </node>
 </node>
 <node CREATED="1633241242145" ID="ID_1727882208" MODIFIED="1640243839719" TEXT="6~">
-<node CREATED="1618040454402" FOLDED="true" ID="ID_860781203" MODIFIED="1644981566117" TEXT="6">
+<node CREATED="1618040454402" FOLDED="true" ID="ID_860781203" MODIFIED="1645944902639" TEXT="6">
 <node CREATED="1628920683074" ID="ID_1834091204" MODIFIED="1628920686186" TEXT="seg-docs"/>
 <node CREATED="1618040452701" ID="ID_548604558" MODIFIED="1644913717358" TEXT="1">
 <node CREATED="1628323250974" ID="ID_384975754" MODIFIED="1628917865824" TEXT="~1">
@@ -19730,7 +19772,7 @@
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1650187662" ENDARROW="Default" ENDINCLINATION="688;0;" ID="Arrow_ID_375613214" SOURCE="ID_132265884" STARTARROW="None" STARTINCLINATION="688;0;"/>
 <node COLOR="#006699" CREATED="1631339630899" FOLDED="true" ID="ID_298784770" MODIFIED="1644913714590" TEXT="texts">
 <node COLOR="#338800" CREATED="1631779241681" ID="ID_1217889735" MODIFIED="1631779247071" TEXT="#1"/>
-<node COLOR="#338800" CREATED="1631779241681" FOLDED="true" ID="ID_1429176837" MODIFIED="1644913714589" TEXT="#.1 &#x4f8b;.x+y+z= 0&#x306e;">
+<node COLOR="#338800" CREATED="1631779241681" FOLDED="true" ID="ID_1429176837" MODIFIED="1645944980321" TEXT="#.1 &#x4f8b;.x+y+z= 0&#x306e;">
 <node CREATED="1631779241681" FOLDED="true" ID="ID_120062155" MODIFIED="1644913714588" TEXT="search : &#xff13;&#x4e57; &#x5c55;&#x958b; &#x516c;&#x5f0f;">
 <node COLOR="#006699" CREATED="1631779241681" FOLDED="true" ID="ID_885216737" MODIFIED="1644913714588" TEXT="docs">
 <node CREATED="1631779241681" ID="ID_1202251827" LINK="https://math-masteeer.com/formula/formula-expanding-and-factorization.html#i-2" MODIFIED="1631779261189">
@@ -19760,7 +19802,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1631779241681" FOLDED="true" ID="ID_457029695" MODIFIED="1644913714589" TEXT="#2 x&#x338;=y&#x3068;&#x3044;&#x3046;">
+<node COLOR="#338800" CREATED="1631779241681" FOLDED="true" ID="ID_457029695" MODIFIED="1645944980321" TEXT="#2 x&#x338;=y&#x3068;&#x3044;&#x3046;">
 <node CREATED="1631779241728" ID="ID_1470109607" MODIFIED="1631779241728" TEXT="search : &#x8907;&#x7d20;&#x6570; &#x5272;&#x308a;&#x7b97;"/>
 </node>
 <node COLOR="#338800" CREATED="1631779241728" FOLDED="true" ID="ID_1278232403" MODIFIED="1644913714590" TEXT="#3 &#x5b9a;&#x7fa9;.n&#x3092;3&#x4ee5;&#x4e0a;&#x306e;">
@@ -19807,7 +19849,7 @@
 <node COLOR="#990000" CREATED="1631685129209" ID="ID_1635962375" MODIFIED="1631685142172" TEXT="&lt;= want-to-read"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1631695520936" ID="ID_1312095171" MODIFIED="1631695524111" TEXT="#.1 may be read as"/>
+<node COLOR="#338800" CREATED="1631695520936" ID="ID_1312095171" MODIFIED="1645944980321" TEXT="#.1 may be read as"/>
 </node>
 <node COLOR="#338800" CREATED="1631695520936" FOLDED="true" ID="ID_1720953502" LINK="https://en.wikipedia.org/wiki/Uniqueness_quantification#Proving_uniqueness" MODIFIED="1644913714597">
 <richcontent TYPE="NODE"><html>
@@ -19823,7 +19865,7 @@
 <node COLOR="#338800" CREATED="1631695520936" ID="ID_236255156" MODIFIED="1631695530234" TEXT="#.1 For example, to show"/>
 <node COLOR="#338800" CREATED="1631695520936" ID="ID_235418739" MODIFIED="1631695530234" TEXT="#.2 To establish the uniqueness"/>
 <node COLOR="#338800" CREATED="1631695520936" ID="ID_1969053739" MODIFIED="1631695526746" TEXT="#.3 In general, both existence"/>
-<node COLOR="#338800" CREATED="1631695520936" FOLDED="true" ID="ID_742967740" MODIFIED="1644913714596" TEXT="#.4 An alternative way to">
+<node COLOR="#338800" CREATED="1631695520936" FOLDED="true" ID="ID_742967740" MODIFIED="1645944980321" TEXT="#.4 An alternative way to">
 <node COLOR="#006699" CREATED="1631695520936" FOLDED="true" ID="ID_150207695" MODIFIED="1644913714595" TEXT="related">
 <node CREATED="1631695520936" FOLDED="true" ID="ID_489052627" LINK="https://mathvault.ca/math-glossary/#unique" MODIFIED="1644913714594">
 <richcontent TYPE="NODE"><html>
@@ -19857,8 +19899,8 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1631695520952" FOLDED="true" ID="ID_373813090" LINK="https://en.wikipedia.org/wiki/Uniqueness_quantification#Reduction_to_ordinary_existential_and_universal_quantification" MODIFIED="1644913714598" TEXT="#3 Reduction_to_ordinary_existential_and_universal_quantification">
-<node COLOR="#338800" CREATED="1631695520952" ID="ID_1308082542" MODIFIED="1631695695580" TEXT="#.1 which is logically equivalent"/>
+<node COLOR="#338800" CREATED="1631695520952" FOLDED="true" ID="ID_373813090" LINK="https://en.wikipedia.org/wiki/Uniqueness_quantification#Reduction_to_ordinary_existential_and_universal_quantification" MODIFIED="1645944980321" TEXT="#3 Reduction_to_ordinary_existential_and_universal_quantification">
+<node COLOR="#338800" CREATED="1631695520952" ID="ID_1308082542" MODIFIED="1645944980321" TEXT="#.1 which is logically equivalent"/>
 <node COLOR="#338800" CREATED="1631695520952" ID="ID_1528439784" MODIFIED="1631695695580" TEXT="#.2 An equivalent definition that"/>
 <node COLOR="#338800" CREATED="1631695520952" ID="ID_173393351" MODIFIED="1631695695578" TEXT="#.3 Another equivalent definition,"/>
 </node>
@@ -19945,7 +19987,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1618040454402" FOLDED="true" ID="ID_1799658079" MODIFIED="1645605064658" TEXT="7">
+<node CREATED="1618040454402" ID="ID_1799658079" MODIFIED="1645944897175" TEXT="7">
 <node CREATED="1633448446316" ID="ID_1064319634" MODIFIED="1635653235670" TEXT="7 / topics"/>
 <node CREATED="1633241221764" FOLDED="true" ID="ID_668033085" MODIFIED="1643862539440" TEXT="1~">
 <node CREATED="1618040452701" FOLDED="true" ID="ID_1092043047" MODIFIED="1635387768496">
@@ -20146,7 +20188,7 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1220070942" ENDARROW="Default" ENDINCLINATION="826;0;" ID="Arrow_ID_1314512469" STARTARROW="None" STARTINCLINATION="826;0;"/>
 </node>
 <node CREATED="1632550672561" FOLDED="true" ID="ID_508196850" MODIFIED="1633073955185" TEXT="#4 &#x88dc;&#x984c;2.m">
-<node COLOR="#990000" CREATED="1632550672561" ID="ID_1009353980" MODIFIED="1632550676662" TEXT="==&gt; ENOUGH : maybe later"/>
+<node COLOR="#990000" CREATED="1632550672561" ID="ID_1009353980" MODIFIED="1645944980321" TEXT="==&gt; ENOUGH : maybe later"/>
 </node>
 </node>
 <node COLOR="#990000" CREATED="1632550687186" ID="ID_621713556" MODIFIED="1632550688784" TEXT="/20210925_151806"/>
@@ -20286,7 +20328,7 @@
 <node COLOR="#338800" CREATED="1632113005696" FOLDED="true" ID="ID_299585227" MODIFIED="1633073955200" TEXT="#1">
 <node COLOR="#338800" CREATED="1632113005696" ID="ID_202738070" MODIFIED="1632113008699" TEXT="*#.1 Example 1.4.2"/>
 </node>
-<node COLOR="#338800" CREATED="1632113005696" ID="ID_1823805110" MODIFIED="1632113008699" TEXT="#2 In general, if you"/>
+<node COLOR="#338800" CREATED="1632113005696" ID="ID_1823805110" MODIFIED="1645944980321" TEXT="#2 In general, if you"/>
 <node COLOR="#338800" CREATED="1632113005696" ID="ID_598879576" MODIFIED="1632113008699" TEXT="#3 We turn to some examples"/>
 <node COLOR="#338800" CREATED="1632113005712" FOLDED="true" ID="ID_1035249810" MODIFIED="1633073955200" TEXT="#4 Example 1.4.5 Suppose">
 <node COLOR="#338800" CREATED="1632113005712" ID="ID_1839081635" MODIFIED="1632113008698" TEXT="#.1 We often need to"/>
@@ -20328,11 +20370,11 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_642138068" ENDARROW="Default" ENDINCLINATION="883;0;" ID="Arrow_ID_730248375" STARTARROW="None" STARTINCLINATION="883;0;"/>
 <node COLOR="#006699" CREATED="1628324631373" FOLDED="true" ID="ID_277988745" MODIFIED="1640189541745" TEXT="texts">
 <node COLOR="#338800" CREATED="1634521509707" FOLDED="true" ID="ID_1421061799" MODIFIED="1634538078766" TEXT="#1">
-<node COLOR="#338800" CREATED="1634521509707" ID="ID_1499916303" MODIFIED="1634521512984" TEXT="#.1 Tautology: If"/>
-<node COLOR="#338800" CREATED="1634521509707" ID="ID_748255117" MODIFIED="1634521512984" TEXT="#.2 When you read or write"/>
+<node COLOR="#338800" CREATED="1634521509707" ID="ID_1499916303" MODIFIED="1645944980321" TEXT="#.1 Tautology: If"/>
+<node COLOR="#338800" CREATED="1634521509707" ID="ID_748255117" MODIFIED="1645944980321" TEXT="#.2 When you read or write"/>
 </node>
 <node COLOR="#338800" CREATED="1634521509707" FOLDED="true" ID="ID_141371189" MODIFIED="1640189541743" TEXT="#2 A direct proof is a sequence">
-<node COLOR="#338800" CREATED="1634521509707" ID="ID_1979287644" MODIFIED="1634521512982" TEXT="#.1 Every variable in"/>
+<node COLOR="#338800" CREATED="1634521509707" ID="ID_1979287644" MODIFIED="1645944980321" TEXT="#.1 Every variable in"/>
 <node COLOR="#338800" CREATED="1634521509707" ID="ID_1782959586" MODIFIED="1634538076621" TEXT="#.2 When we introduce an">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1782959586" ENDARROW="Default" ENDINCLINATION="1012;0;" ID="Arrow_ID_1456457006" SOURCE="ID_1722799560" STARTARROW="None" STARTINCLINATION="1012;0;"/>
 </node>
@@ -20362,25 +20404,25 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_260275040" ENDARROW="Default" ENDINCLINATION="877;0;" ID="Arrow_ID_297360939" STARTARROW="None" STARTINCLINATION="877;0;"/>
 <node COLOR="#006699" CREATED="1628324631373" FOLDED="true" ID="ID_1041804137" MODIFIED="1640189541746" TEXT="texts">
 <node COLOR="#338800" CREATED="1634288355527" FOLDED="true" ID="ID_1950437574" MODIFIED="1634442490600" TEXT="#1">
-<node COLOR="#338800" CREATED="1634288355543" ID="ID_1582715328" MODIFIED="1634288357907" TEXT="#.1 Yet induction is"/>
+<node COLOR="#338800" CREATED="1634288355543" ID="ID_1582715328" MODIFIED="1645944980321" TEXT="#.1 Yet induction is"/>
 <node COLOR="#338800" CREATED="1634288355543" ID="ID_729057451" MODIFIED="1634288357892" TEXT="#.2 We will use"/>
 </node>
 <node COLOR="#338800" CREATED="1634288355543" FOLDED="true" ID="ID_1039555425" MODIFIED="1634442488072" TEXT="#2 Definition 2.4.1 (Induction">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1915753361" ENDARROW="Default" ENDINCLINATION="1048;0;" ID="Arrow_ID_1767748796" STARTARROW="None" STARTINCLINATION="1048;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_918259364" ENDARROW="Default" ENDINCLINATION="1048;0;" ID="Arrow_ID_951908084" STARTARROW="None" STARTINCLINATION="1048;0;"/>
-<node COLOR="#338800" CREATED="1634442474406" ID="ID_1620484034" MODIFIED="1634442481926" TEXT="#.1 Clearly, though, these"/>
+<node COLOR="#338800" CREATED="1634442474406" ID="ID_1620484034" MODIFIED="1645944980321" TEXT="#.1 Clearly, though, these"/>
 <node COLOR="#338800" CREATED="1634442474422" ID="ID_1145413619" MODIFIED="1634442481910" TEXT="#.2 and if knowing that"/>
-<node COLOR="#338800" CREATED="1634442474422" ID="ID_47842449" MODIFIED="1634442481910" TEXT="#.3 always allows you"/>
+<node COLOR="#338800" CREATED="1634442474422" ID="ID_47842449" MODIFIED="1645944980321" TEXT="#.3 always allows you"/>
 <node COLOR="#338800" CREATED="1634442474422" ID="ID_494658395" MODIFIED="1634442481910" TEXT="#.4 then the statement must"/>
 <node COLOR="#338800" CREATED="1634442474422" ID="ID_300128013" MODIFIED="1634442481910" TEXT="#.5  In effect, induction"/>
-<node COLOR="#338800" CREATED="1634442474438" ID="ID_830251284" MODIFIED="1634442481895" TEXT="#.6 This only works"/>
-<node COLOR="#338800" CREATED="1634442474438" ID="ID_1732279659" MODIFIED="1634442481895" TEXT="#.7 yet the proofs are"/>
+<node COLOR="#338800" CREATED="1634442474438" ID="ID_830251284" MODIFIED="1645944980321" TEXT="#.6 This only works"/>
+<node COLOR="#338800" CREATED="1634442474438" ID="ID_1732279659" MODIFIED="1645944980321" TEXT="#.7 yet the proofs are"/>
 </node>
-<node COLOR="#338800" CREATED="1634442474438" FOLDED="true" ID="ID_1654932657" MODIFIED="1634442501099" TEXT="#2 Proofs by induction always">
+<node COLOR="#338800" CREATED="1634442474438" FOLDED="true" ID="ID_1654932657" MODIFIED="1645944980321" TEXT="#2 Proofs by induction always">
 <node COLOR="#338800" CREATED="1634442474438" ID="ID_1529704331" MODIFIED="1634442481895" TEXT="#.1 To prove the induction"/>
 <node COLOR="#338800" CREATED="1634442474438" ID="ID_1474044391" MODIFIED="1634442481895" TEXT="#.2 Example 2.4.2 For"/>
 <node COLOR="#338800" CREATED="1634442474438" ID="ID_1163503372" MODIFIED="1634442481894" TEXT="#.3  Now, assuming that"/>
-<node COLOR="#338800" CREATED="1634442474438" ID="ID_1717122113" MODIFIED="1634442499726" TEXT="#.4 This example employs the"/>
+<node COLOR="#338800" CREATED="1634442474438" ID="ID_1717122113" MODIFIED="1645944980321" TEXT="#.4 This example employs the"/>
 </node>
 <node COLOR="#338800" CREATED="1634442474438" ID="ID_800433389" MODIFIED="1634442504913" TEXT="#3 Example 2.4.3 Every"/>
 <node COLOR="#338800" CREATED="1634442474438" FOLDED="true" ID="ID_199097170" MODIFIED="1634442507206" TEXT="#4 Theorem 2.4.4 Every">
@@ -20388,13 +20430,13 @@
 <node COLOR="#338800" CREATED="1634442474438" ID="ID_135559290" MODIFIED="1634442504898" TEXT="#.2 We divide this into"/>
 <node COLOR="#338800" CREATED="1634442474453" ID="ID_1676591992" MODIFIED="1634442504896" TEXT="#.3 is not a prime,"/>
 </node>
-<node COLOR="#338800" CREATED="1634442474453" FOLDED="true" ID="ID_60403753" MODIFIED="1634442512572" TEXT="#5 This proof is a very natural">
-<node COLOR="#338800" CREATED="1634442474453" ID="ID_863590645" MODIFIED="1634442509617" TEXT="#.1 You then start over"/>
+<node COLOR="#338800" CREATED="1634442474453" FOLDED="true" ID="ID_60403753" MODIFIED="1645944980321" TEXT="#5 This proof is a very natural">
+<node COLOR="#338800" CREATED="1634442474453" ID="ID_863590645" MODIFIED="1645944980321" TEXT="#.1 You then start over"/>
 <node COLOR="#338800" CREATED="1634442474453" ID="ID_779113681" MODIFIED="1634442509617" TEXT="#.2 This is essentially"/>
 <node COLOR="#338800" CREATED="1634442474453" ID="ID_348898664" MODIFIED="1634442509617" TEXT="#.3 In simple cases such"/>
-<node COLOR="#338800" CREATED="1634442474453" ID="ID_1242842776" MODIFIED="1634442509615" TEXT="#.4 It really is best"/>
+<node COLOR="#338800" CREATED="1634442474453" ID="ID_1242842776" MODIFIED="1645944980321" TEXT="#.4 It really is best"/>
 </node>
-<node COLOR="#338800" CREATED="1634442474453" ID="ID_1482374116" MODIFIED="1634442516652" TEXT="#6 Corollary 2.4.5 Every integer"/>
+<node COLOR="#338800" CREATED="1634442474453" ID="ID_1482374116" MODIFIED="1645944980321" TEXT="#6 Corollary 2.4.5 Every integer"/>
 <node COLOR="#338800" CREATED="1634442474453" FOLDED="true" ID="ID_1124391673" MODIFIED="1640189541746" TEXT="#7 Ex 2.4.1 Prove">
 <node COLOR="#338800" CREATED="1634442474453" ID="ID_264763734" MODIFIED="1634442516650" TEXT="#.1 Ex 2.4.3 Prove"/>
 </node>
@@ -20419,7 +20461,7 @@
 <node COLOR="#006699" CREATED="1628324631373" FOLDED="true" ID="ID_1228302907" MODIFIED="1634793829728" TEXT="texts">
 <node COLOR="#338800" CREATED="1634547641472" FOLDED="true" ID="ID_112713615" MODIFIED="1634547650988" TEXT="#1">
 <node COLOR="#338800" CREATED="1634547641472" ID="ID_1959172109" MODIFIED="1634547646425" TEXT="#.1 A word of caution"/>
-<node COLOR="#338800" CREATED="1634547641472" ID="ID_944793983" MODIFIED="1634547646425" TEXT="*#.2  While we are studying"/>
+<node COLOR="#338800" CREATED="1634547641472" ID="ID_944793983" MODIFIED="1645944980321" TEXT="*#.2  While we are studying"/>
 <node COLOR="#338800" CREATED="1634547641472" ID="ID_1105531019" MODIFIED="1634547646425" TEXT="#.3 It is also possible that"/>
 </node>
 <node COLOR="#338800" CREATED="1634547641472" ID="ID_1447700732" MODIFIED="1634547646409" TEXT="#2 A second reason is theoretical: the"/>
@@ -20427,10 +20469,10 @@
 <node COLOR="#338800" CREATED="1634547641487" FOLDED="true" ID="ID_628345517" MODIFIED="1634621370276" TEXT="#4 Theorem 2.2.1">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_853896562" ENDARROW="Default" ENDINCLINATION="1139;0;" ID="Arrow_ID_330417946" STARTARROW="None" STARTINCLINATION="1139;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_872340940" ENDARROW="Default" ENDINCLINATION="1139;0;" ID="Arrow_ID_841290830" STARTARROW="None" STARTINCLINATION="1139;0;"/>
-<node COLOR="#338800" CREATED="1634621363919" ID="ID_1292352871" MODIFIED="1634621366969" TEXT="#.1 Corollary 2.2.2"/>
+<node COLOR="#338800" CREATED="1634621363919" ID="ID_1292352871" MODIFIED="1645944980321" TEXT="#.1 Corollary 2.2.2"/>
 </node>
 <node COLOR="#338800" CREATED="1634621364075" FOLDED="true" ID="ID_1566182147" MODIFIED="1634621369863" TEXT="#5 is called prime if">
-<node COLOR="#338800" CREATED="1634621364075" ID="ID_14023973" MODIFIED="1634621366922" TEXT="#.1 There are many theorems"/>
+<node COLOR="#338800" CREATED="1634621364075" ID="ID_14023973" MODIFIED="1645944980321" TEXT="#.1 There are many theorems"/>
 </node>
 <node COLOR="#338800" CREATED="1634621364075" ID="ID_472145135" MODIFIED="1634709702637" TEXT="#6 Ex 2.2.2 Prove,">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1721909734" ENDARROW="Default" ENDINCLINATION="1222;0;" ID="Arrow_ID_151973840" STARTARROW="None" STARTINCLINATION="1222;0;"/>
@@ -20480,7 +20522,7 @@
 <node COLOR="#338800" CREATED="1634802822105" FOLDED="true" ID="ID_250289993" MODIFIED="1640189541749" TEXT="#5 Once again, the most">
 <node COLOR="#338800" CREATED="1634802822105" FOLDED="true" ID="ID_1078550343" MODIFIED="1640189541749" TEXT="#.1  Note well that">
 <node COLOR="#006699" CREATED="1634802822105" FOLDED="true" ID="ID_113568595" MODIFIED="1640189541749" TEXT="memos">
-<node CREATED="1634802822105" ID="ID_1242487919" MODIFIED="1634802822105" TEXT="&quot;try looking at some particular cases&quot;"/>
+<node CREATED="1634802822105" ID="ID_1242487919" MODIFIED="1645944980321" TEXT="&quot;try looking at some particular cases&quot;"/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1634802822105" ID="ID_590917760" MODIFIED="1634802827432" TEXT="#.2 There are occasions"/>
@@ -20488,10 +20530,10 @@
 </node>
 <node CREATED="1634802881361" FOLDED="true" ID="ID_70225912" MODIFIED="1634802906929" TEXT="#6~">
 <node COLOR="#338800" CREATED="1634802822105" FOLDED="true" ID="ID_510383784" MODIFIED="1634802892157" TEXT="#6 Example 2.3.5 Using">
-<node COLOR="#338800" CREATED="1634802822121" ID="ID_378621166" MODIFIED="1634802827432" TEXT="#.1 If you consult a good"/>
+<node COLOR="#338800" CREATED="1634802822121" ID="ID_378621166" MODIFIED="1645944980321" TEXT="#.1 If you consult a good"/>
 <node COLOR="#338800" CREATED="1634802822121" ID="ID_1936166790" MODIFIED="1634802827432" TEXT="#.2  At no point are"/>
 <node COLOR="#338800" CREATED="1634802822121" ID="ID_1614233236" MODIFIED="1634802827432" TEXT="#.3 In general, then,"/>
-<node COLOR="#338800" CREATED="1634802822121" ID="ID_1266759403" MODIFIED="1634802827417" TEXT="#.4 Trying to prove"/>
+<node COLOR="#338800" CREATED="1634802822121" ID="ID_1266759403" MODIFIED="1645944980321" TEXT="#.4 Trying to prove"/>
 </node>
 <node COLOR="#338800" CREATED="1634802822121" ID="ID_1454359699" MODIFIED="1634802827417" TEXT="#7 Example 2.3.6 There"/>
 <node COLOR="#338800" CREATED="1634802822121" ID="ID_1416428474" MODIFIED="1634802904761" TEXT="#8 Example 2.3.7"/>
@@ -20680,7 +20722,7 @@
 <node COLOR="#990000" CREATED="1632817018067" ID="ID_872386047" MODIFIED="1632817021600" TEXT="20210928_171655/"/>
 <node COLOR="#338800" CREATED="1632819330521" FOLDED="true" ID="ID_1181457380" MODIFIED="1633073955216" TEXT="#.1 &#x4e0a;&#x306e;&#x4f8b;&#x306f;&#x540c;&#x3058;&#x9806;&#x5e8f;&#x306b;&#x3064;&#x3044;&#x3066;&#x306e;">
 <node COLOR="#006699" CREATED="1632819330537" FOLDED="true" ID="ID_1203288149" MODIFIED="1633073955216" TEXT="related">
-<node CREATED="1632819330537" ID="ID_1813075227" LINK="https://www.rapidtables.com/convert/number/binary-to-decimal.html" MODIFIED="1632819351325">
+<node CREATED="1632819330537" ID="ID_1813075227" LINK="https://www.rapidtables.com/convert/number/binary-to-decimal.html" MODIFIED="1645944980321">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -20799,7 +20841,7 @@
 <node CREATED="1632732364862" FOLDED="true" ID="ID_1615142413" LINK="https://q.hatena.ne.jp/1461983533" MODIFIED="1633073955216" TEXT="https://q.hatena.ne.jp/1461983533">
 <node COLOR="#990000" CREATED="1632732364862" ID="ID_1871217327" MODIFIED="1632732380740" TEXT="&lt;= terrible"/>
 </node>
-<node CREATED="1632732364862" ID="ID_945999647" LINK="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12159738947" MODIFIED="1632732364862" TEXT="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12159738947"/>
+<node CREATED="1632732364862" ID="ID_945999647" LINK="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12159738947" MODIFIED="1645944980319" TEXT="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12159738947"/>
 </node>
 </node>
 </node>
@@ -20863,7 +20905,7 @@
 <node CREATED="1632905164332" MODIFIED="1632905164332" TEXT="&quot;&#x9589;&#x8def;&#x306e;&#x306a;&#x3044;&#x7121;&#x5411;&#x30b0;&#x30e9;&#x30d5;&quot;"/>
 </node>
 <node COLOR="#006699" CREATED="1632905164332" FOLDED="true" ID="ID_1200924361" MODIFIED="1633073955263" TEXT="words">
-<node CREATED="1632905164348" MODIFIED="1632905164348" TEXT="polytree"/>
+<node CREATED="1632905164348" ID="ID_437142871" MODIFIED="1645944980319" TEXT="polytree"/>
 </node>
 <node COLOR="#338800" CREATED="1632905164348" ID="ID_581235822" MODIFIED="1632905257464" TEXT="#.1 &#x3057;&#x304b;&#x3057;&#x306a;&#x304c;&#x3089;&#x3001;&#x7121;&#x5411;&#x975e;&#x5de1;&#x56de;"/>
 <node COLOR="#338800" CREATED="1632905164348" ID="ID_957156636" MODIFIED="1632905257462" TEXT="#.2 &#x306a;&#x304a;&#x3001;&#x6709;&#x5411;&#x975e;&#x5de1;&#x56de;&#x30b0;&#x30e9;&#x30d5;&#x3092;"/>
@@ -20963,7 +21005,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1633076366821" FOLDED="true" ID="ID_326353158" MODIFIED="1633574693519" TEXT="#.1 More specifically,">
+<node COLOR="#338800" CREATED="1633076366821" FOLDED="true" ID="ID_326353158" MODIFIED="1645944980319" TEXT="#.1 More specifically,">
 <node COLOR="#006699" CREATED="1633076366821" FOLDED="true" ID="ID_1235292299" MODIFIED="1633574693519" TEXT="words">
 <node CREATED="1633076366821" ID="ID_999028896" LINK="https://en.wikipedia.org/wiki/Point_(geometry)" MODIFIED="1633076388702">
 <richcontent TYPE="NODE"><html>
@@ -21010,7 +21052,7 @@
 <node CREATED="1633076366836" MODIFIED="1633076366836" TEXT="connectedness"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1633076366836" FOLDED="true" ID="ID_678068784" MODIFIED="1633574693519" TEXT="#.3 Although very general, topological spaces">
+<node COLOR="#338800" CREATED="1633076366836" FOLDED="true" ID="ID_678068784" MODIFIED="1645944980319" TEXT="#.3 Although very general, topological spaces">
 <node COLOR="#006699" CREATED="1633076366836" FOLDED="true" ID="ID_762714018" MODIFIED="1633574693519" TEXT="words">
 <node CREATED="1633076366836" MODIFIED="1633076366836" TEXT="point-set topology"/>
 <node CREATED="1633076366836" MODIFIED="1633076366836" TEXT="general topology"/>
@@ -21046,7 +21088,7 @@
 </node>
 </node>
 <node CREATED="1631604438362" ID="ID_1761926574" MODIFIED="1643862425548" TEXT="~2">
-<node CREATED="1631604438362" ID="ID_118615655" LINK="https://en.wikipedia.org/wiki/Pythagoras#See_also" MODIFIED="1631722766332">
+<node CREATED="1631604438362" ID="ID_118615655" LINK="https://en.wikipedia.org/wiki/Pythagoras#See_also" MODIFIED="1645944980319">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22608,7 +22650,7 @@
 <node CREATED="1640150338476" FOLDED="true" ID="ID_1106684220" LINK="https://duckduckgo.com/?q=freeware+fluid+simulation&amp;ia=web" MODIFIED="1640189541856" TEXT="freeware+fluid+simulation">
 <node COLOR="#006699" CREATED="1640150338479" FOLDED="true" ID="ID_1705241653" MODIFIED="1640189541856" TEXT="docs">
 <node CREATED="1640150338480" ID="ID_675503482" LINK="https://listoffreeware.com/free-flow-simulation-software-windows/" MODIFIED="1640150338480" TEXT="https://listoffreeware.com/free-flow-simulation-software-windows/"/>
-<node CREATED="1640150338481" ID="ID_1497779248" LINK="https://physics.weber.edu/schroeder/fluids/" MODIFIED="1640150338481" TEXT="https://physics.weber.edu/schroeder/fluids/"/>
+<node CREATED="1640150338481" ID="ID_1497779248" LINK="https://physics.weber.edu/schroeder/fluids/" MODIFIED="1645944980317" TEXT="https://physics.weber.edu/schroeder/fluids/"/>
 <node CREATED="1640150338482" LINK="https://david.li/fluid/" MODIFIED="1640150338482" TEXT="https://david.li/fluid/"/>
 </node>
 </node>
@@ -22756,7 +22798,7 @@
 <node CREATED="1633829009175" FOLDED="true" ID="ID_268728157" MODIFIED="1643862520127" TEXT="12.X [&#x89e3;&#x6790;">
 <node CREATED="1618040452701" FOLDED="true" ID="ID_444990794" MODIFIED="1639967515713" TEXT="12.1 / &#x7121;&#x9650;&#x89e3;&#x6790;">
 <node CREATED="1633828642365" FOLDED="true" ID="ID_1893693433" LINK="https://duckduckgo.com/?q=&#x7121;&#x9650;&#x89e3;&#x6790;&amp;ia=web" MODIFIED="1640189541860" TEXT="search">
-<node CREATED="1633828675948" ID="ID_1797202324" LINK="https://www.ms.u-tokyo.ac.jp/~yasuyuki/suri0806.pdf" MODIFIED="1633828680808" TEXT="https://www.ms.u-tokyo.ac.jp/~yasuyuki/suri0806.pdf"/>
+<node CREATED="1633828675948" ID="ID_1797202324" LINK="https://www.ms.u-tokyo.ac.jp/~yasuyuki/suri0806.pdf" MODIFIED="1645944980317" TEXT="https://www.ms.u-tokyo.ac.jp/~yasuyuki/suri0806.pdf"/>
 </node>
 <node CREATED="1631604438362" FOLDED="true" ID="ID_1992876982" MODIFIED="1640189541866" TEXT="~1">
 <node CREATED="1631604438362" FOLDED="true" ID="ID_1933884208" LINK="https://www.ms.u-tokyo.ac.jp/~yasuyuki/suri0806.pdf" MODIFIED="1640189541866">
@@ -23174,7 +23216,7 @@
 <node COLOR="#338800" CREATED="1643943223532" ID="ID_1331202920" MODIFIED="1643943226338" TEXT=".2 Discrete calculus has two entry"/>
 <node COLOR="#338800" CREATED="1643943223532" ID="ID_17748126" MODIFIED="1643943226338" TEXT=".3 Integral calculus concerns"/>
 </node>
-<node COLOR="#338800" CREATED="1643943223532" FOLDED="true" ID="ID_1954402597" MODIFIED="1644220548932" TEXT="#2 The study of the concepts">
+<node COLOR="#338800" CREATED="1643943223532" FOLDED="true" ID="ID_1954402597" MODIFIED="1645944980317" TEXT="#2 The study of the concepts">
 <node COLOR="#338800" CREATED="1643943223543" ID="ID_1805317827" MODIFIED="1643943226348" TEXT=".1 If we so choose,"/>
 <node COLOR="#338800" CREATED="1643943223544" ID="ID_785367613" MODIFIED="1643943226348" TEXT=".2 Even though it serves"/>
 </node>
@@ -23184,7 +23226,7 @@
 </node>
 <node COLOR="#338800" CREATED="1644220526668" FOLDED="true" ID="ID_1283677610" MODIFIED="1644220538354" TEXT="#3.0">
 <node COLOR="#338800" CREATED="1643943223549" ID="ID_256257555" MODIFIED="1643943242770" TEXT=".1 Given a function"/>
-<node COLOR="#338800" CREATED="1643943223549" ID="ID_1307087868" MODIFIED="1643943242770" TEXT=".2 By finding the difference"/>
+<node COLOR="#338800" CREATED="1643943223549" ID="ID_1307087868" MODIFIED="1645944980317" TEXT=".2 By finding the difference"/>
 <node COLOR="#338800" CREATED="1643943223550" ID="ID_284315720" MODIFIED="1643943242770" TEXT=".3 it is possible"/>
 <node COLOR="#338800" CREATED="1643943223551" ID="ID_802597658" MODIFIED="1643943242770" TEXT=".4 This is more"/>
 <node COLOR="#338800" CREATED="1643943223552" ID="ID_292419393" MODIFIED="1643943242770" TEXT=".5 For example, if 1]"/>
@@ -23219,7 +23261,7 @@
 <node COLOR="#338800" CREATED="1644309033432" ID="ID_1993020105" MODIFIED="1644309036078" TEXT=".1 The Riemann sum inputs"/>
 <node COLOR="#338800" CREATED="1644309033432" ID="ID_1749318384" MODIFIED="1644309036078" TEXT=".2 A motivating example is"/>
 <node COLOR="#338800" CREATED="1644309033432" ID="ID_1839510843" MODIFIED="1644309036068" TEXT=".3 If the speed is constant,"/>
-<node COLOR="#338800" CREATED="1644309033432" ID="ID_433470867" MODIFIED="1644309036068" TEXT=".4 When velocity is constant,"/>
+<node COLOR="#338800" CREATED="1644309033432" ID="ID_433470867" MODIFIED="1645944980317" TEXT=".4 When velocity is constant,"/>
 <node COLOR="#338800" CREATED="1644309033432" ID="ID_68798810" MODIFIED="1644309036058" TEXT=".5 In the diagram on the left,"/>
 <node COLOR="#338800" CREATED="1644309033432" ID="ID_1667569352" MODIFIED="1644309036058" TEXT=".6  Therefore, the product of"/>
 <node COLOR="#338800" CREATED="1644309033432" ID="ID_182361324" MODIFIED="1644309036058" TEXT=".7 If the bars in the diagram"/>
@@ -23310,13 +23352,13 @@
 </node>
 </node>
 <node CREATED="1635224573301" FOLDED="true" ID="ID_149202983" MODIFIED="1640189541872" TEXT="2">
-<node COLOR="#338800" CREATED="1635224586894" ID="ID_1388533827" MODIFIED="1635657302478" TEXT="copy id string : &quot;r-5-1~4 / &quot;"/>
+<node COLOR="#338800" CREATED="1635224586894" ID="ID_1388533827" MODIFIED="1645944980317" TEXT="copy id string : &quot;r-5-1~4 / &quot;"/>
 </node>
 <node CREATED="1635224574152" FOLDED="true" ID="ID_912901397" MODIFIED="1640189541873" TEXT="3">
 <node COLOR="#338800" CREATED="1635224597696" ID="ID_1888692552" MODIFIED="1635657303547" TEXT="move to source / add id string"/>
 </node>
 <node CREATED="1635224574905" FOLDED="true" ID="ID_658417861" MODIFIED="1640189541873" TEXT="4">
-<node COLOR="#338800" CREATED="1635224656281" ID="ID_1400182290" MODIFIED="1635657319607" TEXT="copy : linked node to the list"/>
+<node COLOR="#338800" CREATED="1635224656281" ID="ID_1400182290" MODIFIED="1645944980317" TEXT="copy : linked node to the list"/>
 <node COLOR="#338800" CREATED="1635657352211" ID="ID_1644880686" MODIFIED="1635657413550" TEXT="delete  : link bet/ copied orig node and &quot;~1&quot; node"/>
 </node>
 <node CREATED="1635224575736" FOLDED="true" ID="ID_1544078717" MODIFIED="1640189541873" TEXT="5">
@@ -23333,7 +23375,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1618040452701" FOLDED="true" ID="ID_1516466345" MODIFIED="1645605066668" TEXT="8-1">
+<node CREATED="1618040452701" ID="ID_1516466345" MODIFIED="1645946938661" TEXT="8-1">
 <node CREATED="1631604438362" ID="ID_1900846191" MODIFIED="1645434093875" TEXT="~1">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1462798020" ENDARROW="Default" ENDINCLINATION="1326;0;" ID="Arrow_ID_1357794579" STARTARROW="None" STARTINCLINATION="1326;0;"/>
 <node CREATED="1635652926420" FOLDED="true" ID="ID_1668097211" LINK="https://ja.wikipedia.org/wiki/&#x4f4d;&#x76f8;&#x7a7a;&#x9593;" MODIFIED="1645434096651">
@@ -23498,7 +23540,7 @@
 <node COLOR="#006699" CREATED="1642384452703" FOLDED="true" ID="ID_1248951206" MODIFIED="1645602854422" TEXT="texts">
 <node COLOR="#338800" CREATED="1645518179588" FOLDED="true" ID="ID_300376880" MODIFIED="1645518269274" TEXT="#1">
 <node COLOR="#006699" CREATED="1645518179588" ID="ID_363050595" MODIFIED="1645518184264" TEXT="related">
-<node COLOR="#338800" CREATED="1645518179588" FOLDED="true" ID="ID_407201080" LINK="http://physics.thick.jp/Mechanics/Section2/2-3.html" MODIFIED="1645518251085" TEXT="*r-8-1~3.3 / #1~d-1 / 2&#x6b21;&#x5143;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / physics.thick.jp">
+<node COLOR="#338800" CREATED="1645518179588" FOLDED="true" ID="ID_407201080" LINK="http://physics.thick.jp/Mechanics/Section2/2-3.html" MODIFIED="1645944980317" TEXT="*r-8-1~3.3 / #1~d-1 / 2&#x6b21;&#x5143;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / physics.thick.jp">
 <node COLOR="#006699" CREATED="1645518244598" FOLDED="true" ID="ID_1782890680" MODIFIED="1645518248364" TEXT="texts">
 <node COLOR="#338800" CREATED="1645518179588" FOLDED="true" ID="ID_1094465157" MODIFIED="1645518242978" TEXT="#1">
 <node COLOR="#338800" CREATED="1645518179588" ID="ID_1779132253" MODIFIED="1645518232511" TEXT=".1 &#x3053;&#x3053;&#x3067;&#x306f;&#x3001;&#x554f;&#x984c;&#x3092;">
@@ -23551,7 +23593,7 @@
 </node>
 </node>
 <node CREATED="1642384452713" ID="ID_1507200028" MODIFIED="1645515077580" TEXT="~3.3">
-<node CREATED="1635653563632" ID="ID_695391115" LINK="http://physics.thick.jp/Mechanics/Section2/2-3.html" MODIFIED="1645515154549">
+<node CREATED="1635653563632" ID="ID_695391115" LINK="http://physics.thick.jp/Mechanics/Section2/2-3.html" MODIFIED="1645944980317">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23602,16 +23644,60 @@
 </node>
 </node>
 </node>
-<node CREATED="1635653563632" FOLDED="true" ID="ID_265863848" MODIFIED="1645605059244" TEXT="~4">
+<node CREATED="1635653563632" ID="ID_265863848" MODIFIED="1645952069941" TEXT="~4">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_265863848" ENDARROW="Default" ENDINCLINATION="3427;0;" ID="Arrow_ID_416030094" SOURCE="ID_411605521" STARTARROW="None" STARTINCLINATION="3427;0;"/>
 <node CREATED="1635653563632" ID="ID_570993213" MODIFIED="1645434094007" TEXT="r-8-1~4"/>
 <node COLOR="#006699" CREATED="1635653563632" ID="ID_1634426056" MODIFIED="1635653568999" TEXT="texts"/>
 <node COLOR="#006633" CREATED="1645604434107" ID="ID_900541691" MODIFIED="1645604693714" TEXT="s: &#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;+&#x30aa;&#x30a4;&#x30e9;&#x30fc;"/>
 <node CREATED="1642384452703" ID="ID_418947959" MODIFIED="1645604661939" TEXT="~4.1">
-<node CREATED="1645604434117" ID="ID_1104209090" LINK="https://www.sky-engin.jp/blog/eulers-equations-of-motion/" MODIFIED="1645604987461" TEXT="r-8-1~4.1 / &#x525b;&#x4f53;&#x306e;&#x56de;&#x8ee2;&#x904b;&#x52d5;&#x3092;&#x652f;&#x914d;&#x3059;&#x308b;&#x30aa;&#x30a4;&#x30e9;&#x30fc;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / sky-engin">
+<node CREATED="1645604434117" ID="ID_1104209090" LINK="https://www.sky-engin.jp/blog/eulers-equations-of-motion/" MODIFIED="1645944980314" TEXT="r-8-1~4.1 / &#x525b;&#x4f53;&#x306e;&#x56de;&#x8ee2;&#x904b;&#x52d5;&#x3092;&#x652f;&#x914d;&#x3059;&#x308b;&#x30aa;&#x30a4;&#x30e9;&#x30fc;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / sky-engin">
 <arrowlink DESTINATION="ID_1918401526" ENDARROW="Default" ENDINCLINATION="941;0;" ID="Arrow_ID_1671185862" STARTARROW="None" STARTINCLINATION="941;0;"/>
+<arrowlink DESTINATION="ID_110687153" ENDARROW="Default" ENDINCLINATION="941;0;" ID="Arrow_ID_316334904" STARTARROW="None" STARTINCLINATION="941;0;"/>
 <node COLOR="#990000" CREATED="1645604434127" ID="ID_831008238" MODIFIED="1645604458839" TEXT="&lt;= good : &#x7c21;&#x660e;&#x306a;&#x8aac;&#x660e;"/>
-<node COLOR="#006699" CREATED="1642384452703" ID="ID_1519543080" MODIFIED="1645604783311" TEXT="texts"/>
+<node COLOR="#006699" CREATED="1642384452703" ID="ID_1519543080" MODIFIED="1645604783311" TEXT="texts">
+<node CREATED="1645951952327" ID="ID_832243747" MODIFIED="1645951952327" TEXT="#1">
+<node COLOR="#006699" CREATED="1645951952327" ID="ID_660177789" MODIFIED="1645951961890" TEXT="words">
+<node CREATED="1645951952327" ID="ID_1355546262" MODIFIED="1645951952327" TEXT="&#x56de;&#x8ee2;&#x884c;&#x5217;">
+<node COLOR="#006699" CREATED="1645951952327" ID="ID_416825192" MODIFIED="1645951963772" TEXT="docs">
+<node CREATED="1645951952357" ID="ID_1717896684" LINK="https://k-san.link/rotation-matrix/" MODIFIED="1645951952357" TEXT="https://k-san.link/rotation-matrix/">
+<node COLOR="#990000" CREATED="1645951952357" ID="ID_777253" MODIFIED="1645952086670" TEXT="&lt;== cannot copy"/>
+</node>
+<node CREATED="1645951952357" ID="ID_533496548" LINK="https://www.mynote-jp.com/entry/2016/04/30/201249" MODIFIED="1645952081221" TEXT="&#x56de;&#x8ee2;&#x884c;&#x5217;&#x306e;&#x8868;&#x5f0f;&#x3068;&#x5c0e;&#x51fa;&#xff08;2&#x6b21;&#x5143;&#x30fb;3&#x6b21;&#x5143;&#xff09; / mynote-jp">
+<node COLOR="#990000" CREATED="1645951952357" ID="ID_359448861" MODIFIED="1645952086669" TEXT="&lt;== other interesting pages"/>
+</node>
+<node CREATED="1645951952337" ID="ID_926749773" LINK="https://www.sky-engin.jp/blog/rotation-matrix/" MODIFIED="1645952175862" TEXT="#1~d-1 / &#x56de;&#x8ee2;&#x884c;&#x5217;&#xff08;&#x65b9;&#x5411;&#x4f59;&#x5f26;&#x884c;&#x5217;&#xff09;&#x3068;&#x306f;&#xff1f; / sky-engin">
+<node COLOR="#006699" CREATED="1645951952337" ID="ID_285010927" MODIFIED="1645951974621" TEXT="texts">
+<node COLOR="#338800" CREATED="1645951952337" ID="ID_1401419882" MODIFIED="1645952183950" TEXT="#1"/>
+<node COLOR="#338800" CREATED="1645951952337" ID="ID_655003742" MODIFIED="1645952183951" TEXT="#1.1 &#x3092;&#x56de;&#x8ee2;&#x884c;&#x5217;"/>
+<node COLOR="#338800" CREATED="1645951952337" ID="ID_151818259" MODIFIED="1645952183951" TEXT="*#2 &#x56de;&#x8ee2;&#x884c;&#x5217;&#x306e;&#x6027;&#x8cea; 2]">
+<node COLOR="#006699" CREATED="1645951952337" ID="ID_135311995" MODIFIED="1645952049281" TEXT="related">
+<node COLOR="#338800" CREATED="1645951952347" FOLDED="true" ID="ID_1328576238" LINK="https://ja.wikipedia.org/wiki/&#x5358;&#x4f4d;&#x884c;&#x5217;#&#x6027;&#x8cea;" MODIFIED="1645952169918" TEXT="#1~d-2 / &#x5358;&#x4f4d;&#x884c;&#x5217;#&#x6027;&#x8cea; / wi">
+<node COLOR="#006699" CREATED="1645951952347" ID="ID_392061726" MODIFIED="1645952113352" TEXT="texts">
+<node CREATED="1645951952347" ID="ID_1606561517" MODIFIED="1645951952347" TEXT="#1">
+<node COLOR="#006633" CREATED="1645951952347" ID="ID_457276016" LINK="https://duckduckgo.com/?q=&#x5358;&#x4f4d;&#x884c;&#x5217;+&#x8ee2;&#x7f6e;&amp;ia=web" MODIFIED="1645952125853" TEXT="s: &#x5358;&#x4f4d;&#x884c;&#x5217;+&#x8ee2;&#x7f6e;">
+<node COLOR="#006699" CREATED="1645951952347" FOLDED="true" ID="ID_1549056602" MODIFIED="1645952146961" TEXT="docs">
+<node CREATED="1645951952347" ID="ID_145523288" LINK="https://nekochem.com/inverse-matrix/2346/" MODIFIED="1645952137699" TEXT="&#x3010;&#x5927;&#x5b66;&#x306e;&#x6570;&#x5b66;&#x3011;&#x5358;&#x4f4d;&#x884c;&#x5217;&#x3001;&#x8ee2;&#x7f6e;&#x884c;&#x5217;&#x3001;&#x9006;&#x884c;&#x5217;&#x306e;&#x5b9a;&#x7fa9;">
+<node COLOR="#990000" CREATED="1645951952357" ID="ID_117861320" MODIFIED="1645952132433" TEXT="&lt;== other interesting pages"/>
+</node>
+<node CREATED="1645951952357" ID="ID_211453416" LINK="https://www.risalc.info/src/identity-matrix.html" MODIFIED="1645952144018" TEXT="&#x5358;&#x4f4d;&#x884c;&#x5217;&#x306e;&#x6027;&#x8cea;&#x3068;&#x516c;&#x5f0f; &#xff5e; &#x8a3c;&#x660e;&#x4ed8; &#xff5e;"/>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1645952157007" ID="ID_1762248896" MODIFIED="1645952161258" TEXT="==&gt; ENOUGH"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1645951952357" ID="ID_396738529" MODIFIED="1645952193270" TEXT="#3 &#x5fc5;&#x8981;&#x5341;&#x5206;&#x6761;&#x4ef6; 2]">
+<arrowlink DESTINATION="ID_1112399045" ENDARROW="Default" ENDINCLINATION="1597;0;" ID="Arrow_ID_1888710868" STARTARROW="None" STARTINCLINATION="1597;0;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1642384452703" ID="ID_1233016216" MODIFIED="1645604661939" TEXT="~4.2">
@@ -23689,7 +23775,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1618040454402" ID="ID_517040383" MODIFIED="1643862906095" TEXT="9">
+<node CREATED="1618040454402" ID="ID_517040383" MODIFIED="1645944905669" TEXT="9">
 <node CREATED="1640150539528" ID="ID_726497995" MODIFIED="1640150546086" TEXT="9 / eman"/>
 <node CREATED="1618040452701" ID="ID_1166733435" MODIFIED="1640218350251" TEXT="1">
 <node CREATED="1640934168513" FOLDED="true" ID="ID_1446431005" MODIFIED="1644822710119" TEXT="9-1 / &#x7269;&#x7406;&#x6570;&#x5b66;">
@@ -23895,7 +23981,7 @@
 </node>
 <node CREATED="1640484759268" ID="ID_286955253" LINK="https://ko.wikipedia.org/wiki/&#xd574;&#xc11d;_&#xd568;&#xc218;" MODIFIED="1640484818019" TEXT="&#xd574;&#xc11d;_&#xd568;&#xc218;">
 <node COLOR="#006699" CREATED="1640484759268" ID="ID_1235720947" MODIFIED="1640484802197" TEXT="memos">
-<node CREATED="1640484759278" ID="ID_172508218" MODIFIED="1640484759278" TEXT="&#xad6d;&#xc18c;&#xc801;&#xc73c;&#xb85c;(locally) / &#xc218;&#xb834;&#xd558;&#xb294;"/>
+<node CREATED="1640484759278" ID="ID_172508218" MODIFIED="1645944980314" TEXT="&#xad6d;&#xc18c;&#xc801;&#xc73c;&#xb85c;(locally) / &#xc218;&#xb834;&#xd558;&#xb294;"/>
 <node CREATED="1640484759288" MODIFIED="1640484759288" TEXT="&#xba71;&#xae09;&#xc218;&#xb85c; / &#xb098;&#xd0c0;&#xb0bc;"/>
 </node>
 </node>
@@ -24088,7 +24174,7 @@
 <node CREATED="1640758086907" ID="ID_999237160" LINK="https://www.desmos.com/calculator/wgbbz0s8rc" MODIFIED="1640758115379" TEXT="\sin\left(x\right)\cdot\cosh\left(x\right)"/>
 </node>
 <node COLOR="#006699" CREATED="1640758086907" FOLDED="true" ID="ID_1360601418" MODIFIED="1640758140233" TEXT="graph-math3d">
-<node CREATED="1640758086907" ID="ID_625982191" LINK="https://www.math3d.org/lit5p04gp" MODIFIED="1640758127421" TEXT="\cos \left(x\right)\cdot \sinh \left(y\right)"/>
+<node CREATED="1640758086907" ID="ID_625982191" LINK="https://www.math3d.org/lit5p04gp" MODIFIED="1645944980314" TEXT="\cos \left(x\right)\cdot \sinh \left(y\right)"/>
 <node CREATED="1640758086907" ID="ID_1170533" LINK="https://www.math3d.org/ihMwpi0YC" MODIFIED="1640758135795" TEXT="\cos \left(v\right)\sinh \left(u\right),\ \cosh \left(u\right)\cdot \sin \left(v\right),\ u"/>
 </node>
 </node>
@@ -24158,7 +24244,7 @@
 <node COLOR="#006699" CREATED="1640851299566" FOLDED="true" ID="ID_768508705" MODIFIED="1640851379749" TEXT="unrelated">
 <node COLOR="#006633" CREATED="1640851299566" ID="ID_1264126389" MODIFIED="1640851326694" TEXT="s: complex number caclucator">
 <node COLOR="#006699" CREATED="1640851299566" ID="ID_1137737007" MODIFIED="1640851309390" TEXT="docs">
-<node CREATED="1640851299566" ID="ID_917491105" LINK="https://www.symbolab.com/solver/complex-number-calculator" MODIFIED="1640851299566" TEXT="https://www.symbolab.com/solver/complex-number-calculator"/>
+<node CREATED="1640851299566" ID="ID_917491105" LINK="https://www.symbolab.com/solver/complex-number-calculator" MODIFIED="1645944980314" TEXT="https://www.symbolab.com/solver/complex-number-calculator"/>
 </node>
 </node>
 </node>
@@ -24187,13 +24273,13 @@
 <node COLOR="#338800" CREATED="1640934067995" ID="ID_164192829" MODIFIED="1640934074593" TEXT=".1 &#x96e3;&#x3057;&#x305d;&#x3046;&#x306b; 2:/"/>
 <node COLOR="#338800" CREATED="1640934068005" ID="ID_1107493684" MODIFIED="1640934074593" TEXT=".2 &#x3053;&#x308c;&#x304c;&#x4e8c;&#x3064;&#x76ee;">
 <node COLOR="#006699" CREATED="1640934068005" ID="ID_1774368417" MODIFIED="1640934078147" TEXT="graph-desmos">
-<node CREATED="1640934068005" LINK="https://www.desmos.com/calculator/scyhueogtk" MODIFIED="1640934068005" TEXT="https://www.desmos.com/calculator/scyhueogtk"/>
+<node CREATED="1640934068005" ID="ID_1766452068" LINK="https://www.desmos.com/calculator/scyhueogtk" MODIFIED="1645944980314" TEXT="https://www.desmos.com/calculator/scyhueogtk"/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1640934068005" ID="ID_116536707" MODIFIED="1640934074591" TEXT=".3 &#x3055;&#x3066;,&#x4eca;&#x56de;&#x306e;"/>
 </node>
 <node CREATED="1640934068005" ID="ID_1533270322" MODIFIED="1640934068005" TEXT="#10 &#x5177;&#x4f53;&#x4f8b;&#xff08;&#x305d;&#x306e;2&#xff09;"/>
-<node COLOR="#990000" CREATED="1640934068005" ID="ID_985286493" MODIFIED="1640934070381" TEXT="==&gt; ENOUGH : the rest --&gt; later, gdy czuje_ sie_ potrzeba">
+<node COLOR="#990000" CREATED="1640934068005" ID="ID_985286493" MODIFIED="1645944980314" TEXT="==&gt; ENOUGH : the rest --&gt; later, gdy czuje_ sie_ potrzeba">
 <node COLOR="#990000" CREATED="1640934089533" ID="ID_1617710244" MODIFIED="1640934091614" TEXT="/20211231_160126"/>
 </node>
 </node>
@@ -24749,7 +24835,7 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1694165868" ENDARROW="Default" ENDINCLINATION="1121;0;" ID="Arrow_ID_1402457600" STARTARROW="None" STARTINCLINATION="1121;0;"/>
 <node COLOR="#338800" CREATED="1642559199185" ID="ID_998948397" MODIFIED="1642559201722" TEXT=".1">
 <node COLOR="#006699" CREATED="1642559199186" ID="ID_1319626439" MODIFIED="1642559204483" TEXT="graph-desmos">
-<node CREATED="1642559199187" ID="ID_1949845176" LINK="https://www.desmos.com/calculator/dytrziwwbn" MODIFIED="1642559199187" TEXT="https://www.desmos.com/calculator/dytrziwwbn"/>
+<node CREATED="1642559199187" ID="ID_1949845176" LINK="https://www.desmos.com/calculator/dytrziwwbn" MODIFIED="1645944980314" TEXT="https://www.desmos.com/calculator/dytrziwwbn"/>
 <node CREATED="1642559199189" LINK="https://www.desmos.com/calculator/vdqlu4tnw5" MODIFIED="1642559199189" TEXT="https://www.desmos.com/calculator/vdqlu4tnw5"/>
 </node>
 </node>
@@ -25010,10 +25096,10 @@
 </node>
 <node COLOR="#006699" CREATED="1641195811871" ID="ID_570574040" MODIFIED="1641195820132" TEXT="unrelated">
 <node COLOR="#006633" CREATED="1641195811872" ID="ID_1807093037" MODIFIED="1641195827477" TEXT="graph-desmos">
-<node CREATED="1641195811873" ID="ID_1685562559" LINK="https://www.desmos.com/calculator/lqtvsggsle" MODIFIED="1641281879246" TEXT="y = x&#x221a;(x)"/>
+<node CREATED="1641195811873" ID="ID_1685562559" LINK="https://www.desmos.com/calculator/lqtvsggsle" MODIFIED="1645944980314" TEXT="y = x&#x221a;(x)"/>
 </node>
 </node>
-<node COLOR="#006633" CREATED="1641281831064" ID="ID_1468396564" MODIFIED="1641281844980" TEXT="calc-symbo">
+<node COLOR="#006633" CREATED="1641281831064" ID="ID_1468396564" MODIFIED="1645944980314" TEXT="calc-symbo">
 <node CREATED="1641281831066" ID="ID_1134016295" LINK="https://www.symbolab.com/solver/equation-calculator/2\cdot x^{2}+3\cdot y^{2}=4?or=inputhttps://www.symbolab.com/solver/equation-calculator/2\cdot x^{2}+3\cdot y^{2}=4?or=input" MODIFIED="1641281860201" TEXT="&#x6955;&#x5186;&#x306e;&#x3001;&#x5bfe;&#x89d2;&#x5316;"/>
 </node>
 <node COLOR="#006633" CREATED="1641281831069" ID="ID_248023750" MODIFIED="1641281844979" TEXT="graph-desoms">
@@ -25193,7 +25279,7 @@
 </node>
 </node>
 <node CREATED="1618040452701" ID="ID_857186275" MODIFIED="1640150527073" TEXT="2">
-<node CREATED="1618040454402" ID="ID_1888805380" MODIFIED="1645515115022">
+<node CREATED="1618040454402" FOLDED="true" ID="ID_1888805380" MODIFIED="1645944881452">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -25339,7 +25425,7 @@
 <node COLOR="#006699" CREATED="1642927721442" ID="ID_1320507605" MODIFIED="1642927733336" TEXT="related">
 <node CREATED="1642927721444" ID="ID_1636032087" LINK="https://ja.wikipedia.org/wiki/&#x8aa4;&#x5dee;&#x95a2;&#x6570;" MODIFIED="1642927721444" TEXT="&#x8aa4;&#x5dee;&#x95a2;&#x6570; / wi https://ja.wikipedia.org/wiki/&#x8aa4;&#x5dee;&#x95a2;&#x6570;"/>
 <node COLOR="#006699" CREATED="1642927721446" ID="ID_420225754" MODIFIED="1642927734250" TEXT="graph-des">
-<node CREATED="1642927721447" ID="ID_737150614" LINK="https://www.desmos.com/calculator/h5k1zgy8r4" MODIFIED="1642927721447" TEXT="&#x8aa4;&#x5dee;&#x95a2;&#x6570; https://www.desmos.com/calculator/h5k1zgy8r4"/>
+<node CREATED="1642927721447" ID="ID_737150614" LINK="https://www.desmos.com/calculator/h5k1zgy8r4" MODIFIED="1645944980314" TEXT="&#x8aa4;&#x5dee;&#x95a2;&#x6570; https://www.desmos.com/calculator/h5k1zgy8r4"/>
 </node>
 </node>
 </node>
@@ -25573,7 +25659,7 @@
 <node COLOR="#338800" CREATED="1643174077355" ID="ID_175001590" MODIFIED="1643174079953" TEXT=".3 &#x3053;&#x308c;&#x3067;&#x3082;&#x307e;&#x3060;"/>
 <node COLOR="#338800" CREATED="1643174077355" ID="ID_1734694444" MODIFIED="1643174079953" TEXT=".4 &#x6b21;&#x306b;&#x3053;&#x306e;&#x5f0f;"/>
 <node COLOR="#338800" CREATED="1643174077355" ID="ID_887052157" MODIFIED="1643174079953" TEXT=".5 &#x7d50;&#x679c;&#x3068;&#x3057;&#x3066; 1:/">
-<node COLOR="#006699" CREATED="1643174077365" ID="ID_1061377686" MODIFIED="1643174085988" TEXT="calc-symbo">
+<node COLOR="#006699" CREATED="1643174077365" ID="ID_1061377686" MODIFIED="1645944980314" TEXT="calc-symbo">
 <node CREATED="1643174077365" ID="ID_1537437105" LINK="https://www.symbolab.com/solver/derivative-calculator/\lim_{x\to\infty}\left(-\frac{\left(-2\cdot x+a-1\right)}{\left(x+2\right)\left(x+1\right)}\right)?or=input" MODIFIED="1643174103982" TEXT="-\frac{\left(-2\cdot \:x+a-1\right)}{\left(x+2\right)\left(x+1\right)}"/>
 </node>
 </node>
@@ -25770,7 +25856,7 @@
 <node COLOR="#338800" CREATED="1643613572228" FOLDED="true" ID="ID_634238456" MODIFIED="1643613602649" TEXT="#5 &#x898f;&#x683c;&#x76f4;&#x4ea4;&#x7cfb; 3]">
 <node COLOR="#338800" CREATED="1643613572229" ID="ID_1534804134" MODIFIED="1643613592498" TEXT=".1 &#x3055;&#x3066;&#x300c;&#x76f4;&#x4ea4;&#x7cfb;&#x300d;">
 <node COLOR="#006699" CREATED="1643613572230" ID="ID_1721939807" MODIFIED="1643613595204" TEXT="graph-des">
-<node CREATED="1643613572231" ID="ID_25751499" LINK="https://www.desmos.com/calculator/vjevl0vdhv" MODIFIED="1643613572231" TEXT="YE7Z : https://www.desmos.com/calculator/vjevl0vdhv"/>
+<node CREATED="1643613572231" ID="ID_25751499" LINK="https://www.desmos.com/calculator/vjevl0vdhv" MODIFIED="1645944980314" TEXT="YE7Z : https://www.desmos.com/calculator/vjevl0vdhv"/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1643613572234" ID="ID_1130419953" MODIFIED="1643613592496" TEXT=".2 &#x95a2;&#x6570;&#x7cfb;&#x3092;&#x898f;&#x683c;&#x5316;"/>
@@ -25850,7 +25936,7 @@
 <node CREATED="1643692371071" ID="ID_1112850732" LINK="https://matrixcalc.org/en/" MODIFIED="1643692401995" TEXT="matrixcalc.org">
 <node COLOR="#990000" CREATED="1643692371071" ID="ID_329922485" MODIFIED="1643692406059" TEXT="==&gt; steps shown"/>
 </node>
-<node CREATED="1643692371071" ID="ID_1662838170" LINK="https://www.symbolab.com/solver/matrix-calculator" MODIFIED="1643692414504" TEXT="www.symbolab.com"/>
+<node CREATED="1643692371071" ID="ID_1662838170" LINK="https://www.symbolab.com/solver/matrix-calculator" MODIFIED="1645944980314" TEXT="www.symbolab.com"/>
 </node>
 </node>
 <node COLOR="#338800" CREATED="1643692371071" ID="ID_1342802675" MODIFIED="1643692448341" TEXT=".5 &#x57fa;&#x5e95;&#x30d9;&#x30af;&#x30c8;&#x30eb;&#x3092; 1]"/>
@@ -26490,8 +26576,8 @@
 <node COLOR="#006699" CREATED="1642384452713" ID="ID_1671104345" MODIFIED="1642384456333" TEXT="texts">
 <node CREATED="1644900732360" ID="ID_499273347" MODIFIED="1644900732360" TEXT="#1">
 <node COLOR="#006699" CREATED="1644900732362" ID="ID_401830023" MODIFIED="1644900735690" TEXT="related">
-<node CREATED="1644900732363" ID="ID_1518356304" LINK="https://storytellphys.wordpress.com/2021/01/24/&#x9759;&#x78c1;&#x5834;/" MODIFIED="1644900747148" TEXT="#3.2~d-1 / &#x9759;&#x78c1;&#x5834; / storytellphys"/>
-<node CREATED="1644900915528" ID="ID_1490401274" LINK="https://storytellphys.wordpress.com/2021/01/16/&#x9759;&#x96fb;&#x5834;/" MODIFIED="1644900942711" TEXT="#3.2~d-2 / &#x9759;&#x96fb;&#x5834; / storytellphys">
+<node CREATED="1644900732363" ID="ID_1518356304" LINK="https://storytellphys.wordpress.com/2021/01/24/&#x9759;&#x78c1;&#x5834;/" MODIFIED="1645944980314" TEXT="#3.2~d-1 / &#x9759;&#x78c1;&#x5834; / storytellphys"/>
+<node CREATED="1644900915528" ID="ID_1490401274" LINK="https://storytellphys.wordpress.com/2021/01/16/&#x9759;&#x96fb;&#x5834;/" MODIFIED="1645944980314" TEXT="#3.2~d-2 / &#x9759;&#x96fb;&#x5834; / storytellphys">
 <node COLOR="#338800" CREATED="1644900915538" FOLDED="true" ID="ID_830134300" MODIFIED="1644900953022" TEXT="#1">
 <node COLOR="#338800" CREATED="1644900915538" ID="ID_1695169312" MODIFIED="1644900947267" TEXT=".1 &#x30db;&#x30b3;&#x30ea;&#x3068;&#x308a;&#x306f;"/>
 <node COLOR="#338800" CREATED="1644900915538" ID="ID_179252858" MODIFIED="1644900947267" TEXT=".2 &#x9759;&#x96fb;&#x6c17;&#x529b;&#x306e;&#x5927;&#x304d;&#x3055;"/>
@@ -26519,7 +26605,7 @@
 </node>
 <node COLOR="#006633" CREATED="1644900915548" ID="ID_1139224884" LINK="https://duckduckgo.com/?q=&#x9759;&#x96fb;&#x30dd;&#x30c6;&#x30f3;&#x30b7;&#x30e3;&#x30eb;&amp;ia=web" MODIFIED="1644901015973" TEXT="s: &#x9759;&#x96fb;&#x30dd;&#x30c6;&#x30f3;&#x30b7;&#x30e3;&#x30eb;">
 <node COLOR="#006699" CREATED="1644900915548" ID="ID_415354028" MODIFIED="1644901005662" TEXT="docs">
-<node CREATED="1644900915548" ID="ID_374048165" LINK="https://diracphysics.com/portfolio/electromagnetism/S2/escalerpotential.html" MODIFIED="1644901001119" TEXT="&#x9759;&#x96fb;&#x30dd;&#x30c6;&#x30f3;&#x30b7;&#x30e3;&#x30eb;&#x306e;&#x57fa;&#x672c;&#x4e8b;&#x9805; / diracphysics"/>
+<node CREATED="1644900915548" ID="ID_374048165" LINK="https://diracphysics.com/portfolio/electromagnetism/S2/escalerpotential.html" MODIFIED="1645944980314" TEXT="&#x9759;&#x96fb;&#x30dd;&#x30c6;&#x30f3;&#x30b7;&#x30e3;&#x30eb;&#x306e;&#x57fa;&#x672c;&#x4e8b;&#x9805; / diracphysics"/>
 </node>
 </node>
 </node>
@@ -26528,7 +26614,7 @@
 <node CREATED="1644900915561" ID="ID_1732580792" LINK="https://diracphysics.com/portfolio/electromagnetism/S2/escalerpotential.html" MODIFIED="1644900990792" TEXT="#3.2~d-3 / &#x9759;&#x96fb;&#x30dd;&#x30c6;&#x30f3;&#x30b7;&#x30e3;&#x30eb;&#x306e;&#x57fa;&#x672c;&#x4e8b;&#x9805;">
 <node CREATED="1644900915565" ID="ID_1592723851" MODIFIED="1644900915565" TEXT="#1">
 <node COLOR="#006633" CREATED="1644900915565" ID="ID_965972283" MODIFIED="1644901118434" TEXT="SEG">
-<node CREATED="1644900915566" ID="ID_611657224" LINK="https://diracphysics.com/portfolio/mechanics/S2/mpolereom.html" MODIFIED="1644901112014" TEXT="#3.2~d-4 / &#x6975;&#x5ea7;&#x6a19;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / diracphysics">
+<node CREATED="1644900915566" ID="ID_611657224" LINK="https://diracphysics.com/portfolio/mechanics/S2/mpolereom.html" MODIFIED="1645944980314" TEXT="#3.2~d-4 / &#x6975;&#x5ea7;&#x6a19;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / diracphysics">
 <node CREATED="1644900915569" ID="ID_948817636" MODIFIED="1644913796527" TEXT="#1">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_35615716" ENDARROW="Default" ENDINCLINATION="2404;0;" ID="Arrow_ID_521956772" STARTARROW="None" STARTINCLINATION="2404;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1960025963" ENDARROW="Default" ENDINCLINATION="2404;0;" ID="Arrow_ID_1557460471" STARTARROW="None" STARTINCLINATION="2404;0;"/>
@@ -26722,7 +26808,7 @@
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_457256456" ENDARROW="Default" ENDINCLINATION="331;0;" ID="Arrow_ID_1729232550" SOURCE="ID_671411329" STARTARROW="None" STARTINCLINATION="331;0;"/>
 <node COLOR="#006699" CREATED="1645513977331" ID="ID_1086827127" MODIFIED="1645513980690" TEXT="texts"/>
 </node>
-<node CREATED="1645433948343" ID="ID_229478170" LINK="https://physnotes.jp/mechanics/pol2-coordinate-system/" MODIFIED="1645434266348" TEXT="&#x9ad8;&#x6821;&#x7269;&#x7406;&#x306e;&#x5099;&#x5fd8;&#x9332; https://physnotes.jp/mechanics/pol2-coordinate-system/">
+<node CREATED="1645433948343" ID="ID_229478170" LINK="https://physnotes.jp/mechanics/pol2-coordinate-system/" MODIFIED="1645944980314" TEXT="&#x9ad8;&#x6821;&#x7269;&#x7406;&#x306e;&#x5099;&#x5fd8;&#x9332; https://physnotes.jp/mechanics/pol2-coordinate-system/">
 <node COLOR="#ff0000" CREATED="1645434235598" ID="ID_1975255216" MODIFIED="1645434241013" TEXT="==&gt; NO"/>
 </node>
 </node>
@@ -26730,9 +26816,9 @@
 </node>
 <node CREATED="1645604434107" ID="ID_1891458538" MODIFIED="1645604434107" TEXT=".2 &#x3053;&#x306e;&#x3068;&#x304d;&#x5730;&#x7403;">
 <node COLOR="#006633" CREATED="1645604434107" ID="ID_1055574464" LINK="https://duckduckgo.com/?q=&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;+&#x30aa;&#x30a4;&#x30e9;&#x30fc;&amp;ia=web" MODIFIED="1645604451626" TEXT="s: &#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f;+&#x30aa;&#x30a4;&#x30e9;&#x30fc;">
-<node COLOR="#006699" CREATED="1645604434107" ID="ID_411605521" MODIFIED="1645604713262" TEXT="docs">
+<node COLOR="#006699" CREATED="1645604434107" ID="ID_411605521" MODIFIED="1645952069941" TEXT="docs">
 <arrowlink DESTINATION="ID_265863848" ENDARROW="Default" ENDINCLINATION="3427;0;" ID="Arrow_ID_416030094" STARTARROW="None" STARTINCLINATION="3427;0;"/>
-<node CREATED="1645604434117" ID="ID_460725355" MODIFIED="1645604892727" TEXT="&#x525b;&#x4f53;&#x306e;&#x56de;&#x8ee2;&#x904b;&#x52d5;&#x3092;&#x652f;&#x914d;&#x3059;&#x308b;&#x30aa;&#x30a4;&#x30e9;&#x30fc;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / sky-engin">
+<node CREATED="1645604434117" ID="ID_460725355" MODIFIED="1645944980314" TEXT="&#x525b;&#x4f53;&#x306e;&#x56de;&#x8ee2;&#x904b;&#x52d5;&#x3092;&#x652f;&#x914d;&#x3059;&#x308b;&#x30aa;&#x30a4;&#x30e9;&#x30fc;&#x306e;&#x904b;&#x52d5;&#x65b9;&#x7a0b;&#x5f0f; / sky-engin">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_460725355" ENDARROW="Default" ENDINCLINATION="540;0;" ID="Arrow_ID_428257740" SOURCE="ID_513713866" STARTARROW="None" STARTINCLINATION="540;0;"/>
 <node COLOR="#990000" CREATED="1645604434127" ID="ID_21819353" MODIFIED="1645604458839" TEXT="&lt;= good : &#x7c21;&#x660e;&#x306a;&#x8aac;&#x660e;"/>
 </node>
@@ -26872,53 +26958,53 @@
 </node>
 </node>
 <node CREATED="1635387683163" FOLDED="true" ID="ID_1938062153" MODIFIED="1645515039509" TEXT="XY">
-<node CREATED="1635387683163" FOLDED="true" ID="ID_60117390" MODIFIED="1645515039489" TEXT="~Y1">
-<node CREATED="1635387683163" FOLDED="true" ID="ID_1166939188" MODIFIED="1645515039489" TEXT="r-9-1~Y1">
+<node CREATED="1635387683163" FOLDED="true" ID="ID_60117390" MODIFIED="1645944980314" TEXT="~Y1">
+<node CREATED="1635387683163" FOLDED="true" ID="ID_1166939188" MODIFIED="1645944980314" TEXT="r-9-1~Y1">
 <node COLOR="#006699" CREATED="1635387683163" ID="ID_276690742" MODIFIED="1635387706593" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1635387683163" FOLDED="true" ID="ID_1576333288" MODIFIED="1645515039489" TEXT="~Y2">
-<node CREATED="1635387683163" FOLDED="true" ID="ID_474693763" MODIFIED="1645515039489" TEXT="r-9-1~Y2">
+<node CREATED="1635387683163" FOLDED="true" ID="ID_1576333288" MODIFIED="1645944980314" TEXT="~Y2">
+<node CREATED="1635387683163" FOLDED="true" ID="ID_474693763" MODIFIED="1645944980314" TEXT="r-9-1~Y2">
 <node COLOR="#006699" CREATED="1635387683178" ID="ID_203975674" MODIFIED="1635387706595" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1635387683178" FOLDED="true" ID="ID_657242300" MODIFIED="1645515039489" TEXT="~Y3">
-<node CREATED="1635387683178" FOLDED="true" ID="ID_670394208" MODIFIED="1645515039489" TEXT="r-9-1~Y3">
+<node CREATED="1635387683178" FOLDED="true" ID="ID_657242300" MODIFIED="1645944980314" TEXT="~Y3">
+<node CREATED="1635387683178" FOLDED="true" ID="ID_670394208" MODIFIED="1645944980314" TEXT="r-9-1~Y3">
 <node COLOR="#006699" CREATED="1635387683178" ID="ID_734179019" MODIFIED="1635387706595" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1635387683178" FOLDED="true" ID="ID_961968391" MODIFIED="1645515039499" TEXT="~Y4">
-<node CREATED="1635387683178" FOLDED="true" ID="ID_1429021154" MODIFIED="1645515039489" TEXT="r-9-1~Y4">
+<node CREATED="1635387683178" FOLDED="true" ID="ID_961968391" MODIFIED="1645944980314" TEXT="~Y4">
+<node CREATED="1635387683178" FOLDED="true" ID="ID_1429021154" MODIFIED="1645944980314" TEXT="r-9-1~Y4">
 <node COLOR="#006699" CREATED="1635387683178" ID="ID_1703462023" MODIFIED="1635387706595" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1635387683178" FOLDED="true" ID="ID_1824196584" MODIFIED="1645515039499" TEXT="~Y5">
-<node CREATED="1635387683178" FOLDED="true" ID="ID_125786614" MODIFIED="1645515039499" TEXT="r-9-1~Y5">
+<node CREATED="1635387683178" FOLDED="true" ID="ID_1824196584" MODIFIED="1645944980314" TEXT="~Y5">
+<node CREATED="1635387683178" FOLDED="true" ID="ID_125786614" MODIFIED="1645944980314" TEXT="r-9-1~Y5">
 <node COLOR="#006699" CREATED="1635387683178" ID="ID_1132679958" MODIFIED="1635387706595" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1635387683178" FOLDED="true" ID="ID_478239704" MODIFIED="1645515039499" TEXT="~Y6">
-<node CREATED="1635387683178" FOLDED="true" ID="ID_433571908" MODIFIED="1645515039499" TEXT="r-9-1~Y6">
+<node CREATED="1635387683178" FOLDED="true" ID="ID_478239704" MODIFIED="1645944980314" TEXT="~Y6">
+<node CREATED="1635387683178" FOLDED="true" ID="ID_433571908" MODIFIED="1645944980314" TEXT="r-9-1~Y6">
 <node COLOR="#006699" CREATED="1635387683178" ID="ID_794621072" MODIFIED="1635387706595" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1635387683178" FOLDED="true" ID="ID_942530436" MODIFIED="1645515039509" TEXT="~Y7">
-<node CREATED="1635387683178" FOLDED="true" ID="ID_1788295413" MODIFIED="1645515039499" TEXT="r-9-1~Y7">
+<node CREATED="1635387683178" FOLDED="true" ID="ID_942530436" MODIFIED="1645944980314" TEXT="~Y7">
+<node CREATED="1635387683178" FOLDED="true" ID="ID_1788295413" MODIFIED="1645944980314" TEXT="r-9-1~Y7">
 <node COLOR="#006699" CREATED="1635387683178" ID="ID_1155658028" MODIFIED="1635387706595" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1635387683194" FOLDED="true" ID="ID_275916576" MODIFIED="1645515039509" TEXT="~Y8">
-<node CREATED="1635387683194" FOLDED="true" ID="ID_75625494" MODIFIED="1645515039509" TEXT="r-9-1~Y8">
+<node CREATED="1635387683194" FOLDED="true" ID="ID_275916576" MODIFIED="1645944980314" TEXT="~Y8">
+<node CREATED="1635387683194" FOLDED="true" ID="ID_75625494" MODIFIED="1645944980314" TEXT="r-9-1~Y8">
 <node COLOR="#006699" CREATED="1635387683194" ID="ID_134970654" MODIFIED="1635387706595" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1635387683194" FOLDED="true" ID="ID_1779097927" MODIFIED="1645515039509" TEXT="~Y9">
-<node CREATED="1635387683194" FOLDED="true" ID="ID_1270701983" MODIFIED="1645515039509" TEXT="r-9-1~Y9">
+<node CREATED="1635387683194" FOLDED="true" ID="ID_1779097927" MODIFIED="1645944980314" TEXT="~Y9">
+<node CREATED="1635387683194" FOLDED="true" ID="ID_1270701983" MODIFIED="1645944980314" TEXT="r-9-1~Y9">
 <node COLOR="#006699" CREATED="1635387683194" ID="ID_296330" MODIFIED="1635387706595" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1635387683194" FOLDED="true" ID="ID_1121653703" MODIFIED="1645515039509" TEXT="~Y0">
-<node CREATED="1635387683194" FOLDED="true" ID="ID_136375949" MODIFIED="1645515039509" TEXT="r-9-1~Y0">
+<node CREATED="1635387683194" FOLDED="true" ID="ID_1121653703" MODIFIED="1645944980314" TEXT="~Y0">
+<node CREATED="1635387683194" FOLDED="true" ID="ID_136375949" MODIFIED="1645944980314" TEXT="r-9-1~Y0">
 <node COLOR="#006699" CREATED="1635387683194" ID="ID_1505334903" MODIFIED="1635387706595" TEXT="texts"/>
 </node>
 </node>
@@ -26974,9 +27060,224 @@
 </node>
 </node>
 </node>
+<node CREATED="1645945106453" ID="ID_836623060" MODIFIED="1645945107844" TEXT="11">
+<node CREATED="1645945108322" ID="ID_148981884" MODIFIED="1645945118257" TEXT="11 / math-related"/>
+<node CREATED="1645945233572" ID="ID_1370890677" MODIFIED="1645945242775" TEXT="1 / configuration">
+<node CREATED="1642384120947" ID="ID_1887636778" MODIFIED="1643862564217" TEXT="~1">
+<node CREATED="1635314283352" ID="ID_310661649" LINK="https://en.wikipedia.org/wiki/Configuration_(geometry)" MODIFIED="1645945279762" TEXT="r-11-1~1 / Configuration_(geometry) / wiki">
+<node COLOR="#990000" CREATED="1645945428951" ID="ID_365415816" MODIFIED="1645945438102" TEXT="from / 76_physics"/>
+<node CREATED="1645945788774" ID="ID_361514770" MODIFIED="1645945804677" TEXT="read-1">
+<node COLOR="#006699" CREATED="1642384120947" ID="ID_715040214" MODIFIED="1645945949463" TEXT="texts">
+<node COLOR="#338800" CREATED="1637483034326" FOLDED="true" ID="ID_1655559549" MODIFIED="1639796374716" TEXT="#1">
+<node COLOR="#006699" CREATED="1637483034329" ID="ID_1071825337" MODIFIED="1639796349187" TEXT="words">
+<node CREATED="1637483034330" ID="ID_503117705" LINK="https://en.wikipedia.org/wiki/Arrangement_of_lines" MODIFIED="1637483046294" TEXT="arrangement of lines"/>
+<node CREATED="1637483034332" ID="ID_1185033719" LINK="https://en.wikipedia.org/wiki/Discrete_geometry" MODIFIED="1637483057465" TEXT="Discrete geometry"/>
+</node>
+<node COLOR="#338800" CREATED="1637483034334" ID="ID_813134250" MODIFIED="1637483036454" TEXT="#.1 Although certain"/>
+<node COLOR="#338800" CREATED="1637483034335" ID="ID_1755872271" MODIFIED="1637548024487" TEXT="#.2 Configurations may be">
+<node COLOR="#006699" CREATED="1637548018367" ID="ID_760906214" MODIFIED="1637548026755" TEXT="words">
+<node CREATED="1637548018384" ID="ID_1774626527" MODIFIED="1637548018384" TEXT="incidence geometry"/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1637548018385" ID="ID_465787731" MODIFIED="1637548024477" TEXT="#.3 In the latter case">
+<node COLOR="#006699" CREATED="1637548018386" ID="ID_787962295" MODIFIED="1637548026753" TEXT="words">
+<node CREATED="1637548018389" ID="ID_950317469" MODIFIED="1637548018389" TEXT="regular hypergraphs"/>
+<node CREATED="1637548018390" MODIFIED="1637548018390" TEXT="biregular bipartite graphs"/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1637548018391" ID="ID_590336160" MODIFIED="1637548024477" TEXT="#.4 every two points"/>
+</node>
+<node COLOR="#338800" CREATED="1637548018392" FOLDED="true" ID="ID_93561949" LINK="https://en.wikipedia.org/wiki/Configuration_(geometry)#Notation" MODIFIED="1639796375838" TEXT="#2 Notation">
+<node COLOR="#338800" CREATED="1637548018395" ID="ID_1498847339" MODIFIED="1637548024477" TEXT="#.1 These numbers necessarily satisfy"/>
+<node COLOR="#338800" CREATED="1637548018396" ID="ID_1782076240" MODIFIED="1639796349191" TEXT="#.2 Configurations having the">
+<node COLOR="#006699" CREATED="1637548018397" ID="ID_244999552" MODIFIED="1637548069225" TEXT="words">
+<node CREATED="1637548018398" ID="ID_1245200301" LINK="https://en.wikipedia.org/wiki/Incidence_structure" MODIFIED="1637548065329" TEXT="incidence structures">
+<node COLOR="#990000" CREATED="1637548018399" ID="ID_1403573795" MODIFIED="1637548067502" TEXT="&lt;= lets-read"/>
+</node>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1637548018401" ID="ID_1494660252" MODIFIED="1637548076358" TEXT="#.3 In some configurations,"/>
+</node>
+<node COLOR="#338800" CREATED="1637548018402" ID="ID_927761045" LINK="https://en.wikipedia.org/wiki/Configuration_(geometry)#Examples" MODIFIED="1637570637810" TEXT="#3 Examples">
+<node COLOR="#006633" CREATED="1637570625866" ID="ID_1064723942" MODIFIED="1637570629687" TEXT="s: configuration math list"/>
+</node>
+<node CREATED="1637570625866" FOLDED="true" ID="ID_1566260399" MODIFIED="1645945931158" TEXT="#3.1 the complete quadrangle and">
+<node COLOR="#006699" CREATED="1637570625866" ID="ID_1190033287" MODIFIED="1639796349255" TEXT="words">
+<node COLOR="#990000" CREATED="1637570625866" ID="ID_1275958830" LINK="https://en.wikipedia.org/wiki/Complete_quadrangle" MODIFIED="1637805218644" TEXT="#3.1.d-1 / complete quadrangle">
+<node COLOR="#006699" CREATED="1637570625866" ID="ID_1533813026" MODIFIED="1637570647387" TEXT="texts">
+<node COLOR="#338800" CREATED="1637570625866" ID="ID_949603114" MODIFIED="1637570649527" TEXT="#1"/>
+<node CREATED="1637570625866" ID="ID_607668911" MODIFIED="1637570665007" TEXT="#2 Dually, a complete quadrilateral"/>
+</node>
+<node COLOR="#990000" CREATED="1637717324972" ID="ID_59758051" MODIFIED="1637717330016" TEXT="==&gt; ENOUGH"/>
+<node COLOR="#990000" CREATED="1637717334136" ID="ID_65772299" MODIFIED="1637717335368" TEXT="/20211124_102853"/>
+</node>
+<node CREATED="1637805269784" ID="ID_43142526" LINK="https://en.wikipedia.org/wiki/Fano_plane" MODIFIED="1637805314257" TEXT="#3.1~d-3 / Fano plane">
+<node COLOR="#006699" CREATED="1637805269799" ID="ID_1308557468" MODIFIED="1637805292985" TEXT="texts">
+<node CREATED="1637805269799" ID="ID_718603549" MODIFIED="1637805269799" TEXT="#1">
+<node COLOR="#006699" CREATED="1637805269799" ID="ID_226445429" MODIFIED="1637805295699" TEXT="words">
+<node CREATED="1637805269799" ID="ID_1129097964" MODIFIED="1637805269799" TEXT="finite projective plane"/>
+</node>
+<node COLOR="#006699" CREATED="1637805269799" ID="ID_1742262034" MODIFIED="1637805300937" TEXT="related">
+<node CREATED="1637805269799" ID="ID_1311345416" LINK="https://en.wikipedia.org/wiki/Projective_plane" MODIFIED="1637805269799" TEXT="Projective_plane https://en.wikipedia.org/wiki/Projective_plane"/>
+<node CREATED="1637805269799" ID="ID_1471358667" LINK="https://ko.wikipedia.org/wiki/&#xc0ac;&#xc601;_&#xd3c9;&#xba74;" MODIFIED="1637805325513" TEXT="#3.1~d-2 / &#xc0ac;&#xc601;_&#xd3c9;&#xba74;">
+<node COLOR="#006699" CREATED="1637805270080" ID="ID_1695598827" MODIFIED="1637805329005" TEXT="texts">
+<node CREATED="1637805270080" MODIFIED="1637805270080" TEXT="#1"/>
+<node CREATED="1637805270080" ID="ID_1805530619" LINK="https://ko.wikipedia.org/wiki/&#xc0ac;&#xc601;_&#xd3c9;&#xba74;#&#xc815;&#xc758;" MODIFIED="1637805379218" TEXT="#2 &#xc815;&#xc758;">
+<node COLOR="#006699" CREATED="1637805270080" ID="ID_238308169" MODIFIED="1637805331614" TEXT="words">
+<node CREATED="1637805270080" ID="ID_1130861432" MODIFIED="1645946841774">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      r-11-1~1.1 / &#44208;&#54633; &#44396;&#51312;
+    </p>
+  </body>
+</html></richcontent>
+<arrowlink DESTINATION="ID_1089670160" ENDARROW="Default" ENDINCLINATION="1337;0;" ID="Arrow_ID_994044347" STARTARROW="None" STARTINCLINATION="1337;0;"/>
+<node COLOR="#006699" CREATED="1637805354536" ID="ID_687129075" MODIFIED="1637805360094" TEXT="texts">
+<node CREATED="1637805366068" ID="ID_1317023160" MODIFIED="1637805367444" TEXT="#1"/>
+<node CREATED="1637805270096" ID="ID_607086960" MODIFIED="1637805365120" TEXT="#1.1 &#xc784;&#xc758;&#xc758; &#xc11c;&#xb85c; &#xb2e4;&#xb978; &#xb450; &#xc810;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1645945784302" ID="ID_402020841" MODIFIED="1645945785946" TEXT="read-2">
+<node COLOR="#990000" CREATED="1645945801693" ID="ID_1263071307" MODIFIED="1645945803545" TEXT="20220227_161000/"/>
+<node COLOR="#006699" CREATED="1642384120947" ID="ID_389998650" MODIFIED="1645945949463" TEXT="texts">
+<node CREATED="1645946686653" ID="ID_1619687557" MODIFIED="1645946686653" TEXT="#1">
+<node COLOR="#006699" CREATED="1645946686653" ID="ID_728976305" MODIFIED="1645946702202" TEXT="words">
+<node CREATED="1645946686653" ID="ID_1592867496" MODIFIED="1645946850848" TEXT="#1~d-1 / r-11-1~1.2 / arrangement of lines / wi">
+<arrowlink DESTINATION="ID_848950154" ENDARROW="Default" ENDINCLINATION="739;0;" ID="Arrow_ID_1935741747" STARTARROW="None" STARTINCLINATION="739;0;"/>
+<node COLOR="#006699" CREATED="1645946686663" ID="ID_1489746263" MODIFIED="1645946726062" TEXT="texts">
+<node COLOR="#338800" CREATED="1645946686663" ID="ID_279958753" MODIFIED="1645946735361" TEXT="#1"/>
+<node COLOR="#338800" CREATED="1645946686663" ID="ID_12497057" LINK="https://en.wikipedia.org/wiki/Arrangement_of_lines#Definition" MODIFIED="1645946741975" TEXT="#2 Definition"/>
+<node CREATED="1645946686663" ID="ID_287178762" MODIFIED="1645946732358" TEXT="#2.1 In this classification,">
+<node COLOR="#006699" CREATED="1645946686663" ID="ID_1556069287" MODIFIED="1645946748564" TEXT="words">
+<node CREATED="1645946686663" ID="ID_1356865792" MODIFIED="1645946888787" TEXT="#1~d-2 / r-11-1~1.3 / Equivalence_class / wi">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1356865792" ENDARROW="Default" ENDINCLINATION="1096;0;" ID="Arrow_ID_541444604" SOURCE="ID_1489766135" STARTARROW="None" STARTINCLINATION="1188;0;"/>
+<node COLOR="#006699" CREATED="1645946686663" ID="ID_1836649708" MODIFIED="1645946726062" TEXT="texts"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1642384452703" ID="ID_1435959632" MODIFIED="1645946841774" TEXT="~1.1">
+<node CREATED="1637805270080" ID="ID_1881518425" LINK="https://ko.wikipedia.org/wiki/&#xacb0;&#xd569;_&#xad6c;&#xc870;" MODIFIED="1645945516661" TEXT="r-11-1~1.1 / &#xacb0;&#xd569; &#xad6c;&#xc870;">
+<arrowlink DESTINATION="ID_1632543759" ENDARROW="Default" ENDINCLINATION="1233;0;" ID="Arrow_ID_1600269856" STARTARROW="None" STARTINCLINATION="1233;0;"/>
+<node COLOR="#006699" CREATED="1642384452703" ID="ID_1529806139" MODIFIED="1645945058204" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384452703" ID="ID_848950154" MODIFIED="1645946850848" TEXT="~1.2">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_848950154" ENDARROW="Default" ENDINCLINATION="739;0;" ID="Arrow_ID_1935741747" SOURCE="ID_1592867496" STARTARROW="None" STARTINCLINATION="739;0;"/>
+<node CREATED="1645946686653" ID="ID_97917459" LINK="https://en.wikipedia.org/wiki/Arrangement_of_lines" MODIFIED="1645946723252" TEXT="#1~d-1 / r-11-1~1.2 / arrangement of lines / wi">
+<node COLOR="#006699" CREATED="1642384452713" ID="ID_619467341" MODIFIED="1645946828695" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384452713" ID="ID_754725299" MODIFIED="1645945346188" TEXT="~1.3">
+<node CREATED="1645946686663" ID="ID_1489766135" LINK="https://en.wikipedia.org/wiki/Equivalence_class" MODIFIED="1645952002852" TEXT="r-11-1~1.3 / Equivalence_class / wi">
+<arrowlink DESTINATION="ID_1356865792" ENDARROW="Default" ENDINCLINATION="1096;0;" ID="Arrow_ID_541444604" STARTARROW="None" STARTINCLINATION="1188;0;"/>
+<arrowlink DESTINATION="ID_1755639504" ENDARROW="Default" ENDINCLINATION="1080;0;" ID="Arrow_ID_563493205" STARTARROW="None" STARTINCLINATION="1080;0;"/>
+<node COLOR="#006699" CREATED="1642384452713" ID="ID_773560329" MODIFIED="1645946800006" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384452713" ID="ID_83821818" MODIFIED="1645945346188" TEXT="~1.4">
+<node CREATED="1642384452713" ID="ID_124415424" MODIFIED="1645945346188" TEXT="r-11-1~1.4 /">
+<node COLOR="#006699" CREATED="1642384452713" ID="ID_1357956045" MODIFIED="1642384456335" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384452713" ID="ID_921930050" MODIFIED="1645945346188" TEXT="~1.5">
+<node CREATED="1642384452713" ID="ID_461624853" MODIFIED="1645945346188" TEXT="r-11-1~1.5 /">
+<node COLOR="#006699" CREATED="1642384452723" ID="ID_201131256" MODIFIED="1642384456345" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384452723" ID="ID_1831104155" MODIFIED="1645945346188" TEXT="~1.6">
+<node CREATED="1642384452723" ID="ID_1592435498" MODIFIED="1645945346188" TEXT="r-11-1~1.6 /">
+<node COLOR="#006699" CREATED="1642384452723" ID="ID_380981998" MODIFIED="1642384456345" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384452723" ID="ID_1282695727" MODIFIED="1645945346188" TEXT="~1.7">
+<node CREATED="1642384452723" ID="ID_1949612831" MODIFIED="1645945346188" TEXT="r-11-1~1.7 /">
+<node COLOR="#006699" CREATED="1642384452723" ID="ID_521578163" MODIFIED="1642384459960" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384452723" ID="ID_1178632828" MODIFIED="1645945346188" TEXT="~1.8">
+<node CREATED="1642384452723" ID="ID_1131981240" MODIFIED="1645945346188" TEXT="r-11-1~1.8 /">
+<node COLOR="#006699" CREATED="1642384452723" ID="ID_429360763" MODIFIED="1642384459960" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384452723" ID="ID_1109334533" MODIFIED="1645945346188" TEXT="~1.9">
+<node CREATED="1642384452723" ID="ID_1981634363" MODIFIED="1645945346188" TEXT="r-11-1~1.9 /">
+<node COLOR="#006699" CREATED="1642384452723" ID="ID_166016788" MODIFIED="1642384459959" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384452723" ID="ID_325949518" MODIFIED="1645945346188" TEXT="~1.0">
+<node CREATED="1642384452733" ID="ID_1696336444" MODIFIED="1645945346188" TEXT="r-11-1~1.0 /">
+<node COLOR="#006699" CREATED="1642384452733" ID="ID_799502907" MODIFIED="1642384459958" TEXT="texts"/>
+</node>
+</node>
+</node>
+<node CREATED="1642384120957" ID="ID_1544453424" MODIFIED="1643862564217" TEXT="~2">
+<node CREATED="1642384120957" ID="ID_866891361" MODIFIED="1645945151604" TEXT="r-11-1~2 /">
+<node COLOR="#006699" CREATED="1642384120957" ID="ID_1356846384" MODIFIED="1642384132674" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384120957" ID="ID_417605702" MODIFIED="1643862564227" TEXT="~3">
+<node CREATED="1642384120957" ID="ID_48028484" MODIFIED="1645945151604" TEXT="r-11-1~3 /">
+<node COLOR="#006699" CREATED="1642384120957" ID="ID_330919590" MODIFIED="1642384132674" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384120957" ID="ID_1727612653" MODIFIED="1643862564227" TEXT="~4">
+<node CREATED="1642384120967" ID="ID_829128509" MODIFIED="1645945151604" TEXT="r-11-1~4 /">
+<node COLOR="#006699" CREATED="1642384120967" ID="ID_1631280792" MODIFIED="1642384132674" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384120967" ID="ID_837934580" MODIFIED="1643862564227" TEXT="~5">
+<node CREATED="1642384120967" ID="ID_601111907" MODIFIED="1645945151604" TEXT="r-11-1~5 /">
+<node COLOR="#006699" CREATED="1642384120967" ID="ID_494808514" MODIFIED="1642384132672" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384120967" ID="ID_511245786" MODIFIED="1643862564237" TEXT="~6">
+<node CREATED="1642384120967" ID="ID_213866707" MODIFIED="1645945151605" TEXT="r-11-1~6 /">
+<node COLOR="#006699" CREATED="1642384120967" ID="ID_1508323782" MODIFIED="1642384134670" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384120978" ID="ID_629257691" MODIFIED="1643862564237" TEXT="~7">
+<node CREATED="1642384120979" ID="ID_1216918573" MODIFIED="1645945151605" TEXT="r-11-1~7 /">
+<node COLOR="#006699" CREATED="1642384120980" ID="ID_1830241648" MODIFIED="1642384134670" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384120980" ID="ID_1687250335" MODIFIED="1643862564237" TEXT="~8">
+<node CREATED="1642384120981" ID="ID_1703947753" MODIFIED="1645945151605" TEXT="r-11-1~8 /">
+<node COLOR="#006699" CREATED="1642384120982" ID="ID_586178299" MODIFIED="1642384134669" TEXT="texts"/>
+</node>
+</node>
+<node CREATED="1642384120983" ID="ID_1241900581" MODIFIED="1643862564237" TEXT="~9">
+<node CREATED="1642384120984" ID="ID_1453877311" MODIFIED="1645945151605" TEXT="r-11-1~9 /">
+<node COLOR="#006699" CREATED="1642384120985" ID="ID_1696936999" MODIFIED="1642384134668" TEXT="texts"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1618040454402" ID="ID_1860676142" MODIFIED="1645515042539" TEXT="X">
-<node CREATED="1642384120947" FOLDED="true" ID="ID_1508248835" MODIFIED="1643862895957" TEXT="1">
+<node CREATED="1642384120947" ID="ID_1508248835" MODIFIED="1645945126359" TEXT="1">
 <node CREATED="1642384120947" ID="ID_1225298901" MODIFIED="1643862564217" TEXT="~1">
 <node CREATED="1642384120947" ID="ID_484928457" MODIFIED="1643862564217" TEXT="r-X-1~1 /">
 <node COLOR="#006699" CREATED="1642384120947" ID="ID_1007151784" MODIFIED="1642384132684" TEXT="texts"/>
@@ -27082,105 +27383,106 @@
 </node>
 <node CREATED="1635387683163" ID="ID_1893850197" MODIFIED="1644736724451" TEXT="XY">
 <node CREATED="1642384452703" FOLDED="true" ID="ID_1214282437" MODIFIED="1644736838719" TEXT="XY">
-<node CREATED="1642384452703" ID="ID_375072481" MODIFIED="1643862564277" TEXT="~Y.1">
-<node CREATED="1642384452703" ID="ID_1402372443" MODIFIED="1643862564277" TEXT="r-X-1~Y.1 /">
+<node CREATED="1642384452703" ID="ID_375072481" MODIFIED="1645944980314" TEXT="~Y.1">
+<node CREATED="1642384452703" ID="ID_1402372443" MODIFIED="1645944980314" TEXT="r-X-1~Y.1 /">
 <node COLOR="#006699" CREATED="1642384452703" ID="ID_1507048977" MODIFIED="1642384457415" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452703" ID="ID_832241357" MODIFIED="1643862564277" TEXT="~Y.2">
-<node CREATED="1642384452703" ID="ID_1047809704" MODIFIED="1643862564277" TEXT="r-X-1~Y.2 /">
+<node CREATED="1642384452703" ID="ID_832241357" MODIFIED="1645944980314" TEXT="~Y.2">
+<node CREATED="1642384452703" ID="ID_1047809704" MODIFIED="1645944980314" TEXT="r-X-1~Y.2 /">
 <node COLOR="#006699" CREATED="1642384452713" ID="ID_1725628399" MODIFIED="1642384456333" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452713" ID="ID_1134319684" MODIFIED="1643862564287" TEXT="~Y.3">
-<node CREATED="1642384452713" ID="ID_1752465669" MODIFIED="1643862564287" TEXT="r-X-1~Y.3 /">
+<node CREATED="1642384452713" ID="ID_1134319684" MODIFIED="1645944980314" TEXT="~Y.3">
+<node CREATED="1642384452713" ID="ID_1752465669" MODIFIED="1645944980314" TEXT="r-X-1~Y.3 /">
 <node COLOR="#006699" CREATED="1642384452713" ID="ID_613171927" MODIFIED="1642384456335" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452713" ID="ID_223212949" MODIFIED="1643862564287" TEXT="~Y.4">
-<node CREATED="1642384452713" ID="ID_196984353" MODIFIED="1643862564287" TEXT="r-X-1~Y.4 /">
+<node CREATED="1642384452713" ID="ID_223212949" MODIFIED="1645944980314" TEXT="~Y.4">
+<node CREATED="1642384452713" ID="ID_196984353" MODIFIED="1645944980314" TEXT="r-X-1~Y.4 /">
 <node COLOR="#006699" CREATED="1642384452713" ID="ID_1290176196" MODIFIED="1642384456335" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452713" ID="ID_407560724" MODIFIED="1643862564287" TEXT="~Y.5">
-<node CREATED="1642384452713" ID="ID_1781402122" MODIFIED="1643862564287" TEXT="r-X-1~Y.5 /">
+<node CREATED="1642384452713" ID="ID_407560724" MODIFIED="1645944980314" TEXT="~Y.5">
+<node CREATED="1642384452713" ID="ID_1781402122" MODIFIED="1645944980314" TEXT="r-X-1~Y.5 /">
 <node COLOR="#006699" CREATED="1642384452723" ID="ID_1306543745" MODIFIED="1642384456345" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452723" ID="ID_1209524268" MODIFIED="1643862564287" TEXT="~Y.6">
-<node CREATED="1642384452723" ID="ID_1506519801" MODIFIED="1643862564287" TEXT="r-X-1~Y.6 /">
+<node CREATED="1642384452723" ID="ID_1209524268" MODIFIED="1645944980314" TEXT="~Y.6">
+<node CREATED="1642384452723" ID="ID_1506519801" MODIFIED="1645944980314" TEXT="r-X-1~Y.6 /">
 <node COLOR="#006699" CREATED="1642384452723" ID="ID_289132088" MODIFIED="1642384456345" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452723" ID="ID_920589708" MODIFIED="1643862564287" TEXT="~Y.7">
-<node CREATED="1642384452723" ID="ID_112678035" MODIFIED="1643862564287" TEXT="r-X-1~Y.7 /">
+<node CREATED="1642384452723" ID="ID_920589708" MODIFIED="1645944980314" TEXT="~Y.7">
+<node CREATED="1642384452723" ID="ID_112678035" MODIFIED="1645944980314" TEXT="r-X-1~Y.7 /">
 <node COLOR="#006699" CREATED="1642384452723" ID="ID_1844913486" MODIFIED="1642384459960" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452723" ID="ID_980775831" MODIFIED="1643862564287" TEXT="~Y.8">
-<node CREATED="1642384452723" ID="ID_1727587386" MODIFIED="1643862564287" TEXT="r-X-1~Y.8 /">
+<node CREATED="1642384452723" ID="ID_980775831" MODIFIED="1645944980314" TEXT="~Y.8">
+<node CREATED="1642384452723" ID="ID_1727587386" MODIFIED="1645944980314" TEXT="r-X-1~Y.8 /">
 <node COLOR="#006699" CREATED="1642384452723" ID="ID_1875461525" MODIFIED="1642384459960" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452723" ID="ID_1303893623" MODIFIED="1643862564287" TEXT="~Y.9">
-<node CREATED="1642384452723" ID="ID_572181157" MODIFIED="1643862564287" TEXT="r-X-1~Y.9 /">
+<node CREATED="1642384452723" ID="ID_1303893623" MODIFIED="1645944980314" TEXT="~Y.9">
+<node CREATED="1642384452723" ID="ID_572181157" MODIFIED="1645944980314" TEXT="r-X-1~Y.9 /">
 <node COLOR="#006699" CREATED="1642384452723" ID="ID_694840485" MODIFIED="1642384459959" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452723" ID="ID_701907046" MODIFIED="1643862564297" TEXT="~Y.0">
-<node CREATED="1642384452733" ID="ID_617049666" MODIFIED="1643862564297" TEXT="r-X-1~Y.0 /">
+<node CREATED="1642384452723" ID="ID_701907046" MODIFIED="1645944980314" TEXT="~Y.0">
+<node CREATED="1642384452733" ID="ID_617049666" MODIFIED="1645944980314" TEXT="r-X-1~Y.0 /">
 <node COLOR="#006699" CREATED="1642384452733" ID="ID_150458955" MODIFIED="1642384459958" TEXT="texts"/>
 </node>
 </node>
 </node>
-<node CREATED="1642384452703" ID="ID_833157672" MODIFIED="1644736824473" TEXT="XYZ">
-<node CREATED="1642384452703" ID="ID_1089670160" MODIFIED="1643862564277" TEXT="~Y.1">
-<node CREATED="1642384452703" ID="ID_1764953284" MODIFIED="1644736815518" TEXT="r-X-Z~Y.1 /">
+<node CREATED="1642384452703" ID="ID_833157672" MODIFIED="1645944980313" TEXT="XYZ">
+<node CREATED="1642384452703" ID="ID_1089670160" MODIFIED="1645944980313" TEXT="~Y.1">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1089670160" ENDARROW="Default" ENDINCLINATION="1337;0;" ID="Arrow_ID_994044347" SOURCE="ID_1130861432" STARTARROW="None" STARTINCLINATION="1337;0;"/>
+<node CREATED="1642384452703" ID="ID_1764953284" MODIFIED="1645944980313" TEXT="r-X-Z~Y.1 /">
 <node COLOR="#006699" CREATED="1642384452703" ID="ID_1992410504" MODIFIED="1642384457415" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452703" ID="ID_478369401" MODIFIED="1643862564277" TEXT="~Y.2">
-<node CREATED="1642384452703" ID="ID_432036214" MODIFIED="1644736815519" TEXT="r-X-Z~Y.2 /">
+<node CREATED="1642384452703" ID="ID_478369401" MODIFIED="1645944980313" TEXT="~Y.2">
+<node CREATED="1642384452703" ID="ID_432036214" MODIFIED="1645944980313" TEXT="r-X-Z~Y.2 /">
 <node COLOR="#006699" CREATED="1642384452713" ID="ID_1021635500" MODIFIED="1642384456333" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452713" ID="ID_1108776090" MODIFIED="1643862564287" TEXT="~Y.3">
-<node CREATED="1642384452713" ID="ID_1254494820" MODIFIED="1644736815519" TEXT="r-X-Z~Y.3 /">
+<node CREATED="1642384452713" ID="ID_1108776090" MODIFIED="1645944980313" TEXT="~Y.3">
+<node CREATED="1642384452713" ID="ID_1254494820" MODIFIED="1645944980313" TEXT="r-X-Z~Y.3 /">
 <node COLOR="#006699" CREATED="1642384452713" ID="ID_1781474316" MODIFIED="1642384456335" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452713" ID="ID_1575724342" MODIFIED="1643862564287" TEXT="~Y.4">
-<node CREATED="1642384452713" ID="ID_514340854" MODIFIED="1644736815519" TEXT="r-X-Z~Y.4 /">
+<node CREATED="1642384452713" ID="ID_1575724342" MODIFIED="1645944980313" TEXT="~Y.4">
+<node CREATED="1642384452713" ID="ID_514340854" MODIFIED="1645944980313" TEXT="r-X-Z~Y.4 /">
 <node COLOR="#006699" CREATED="1642384452713" ID="ID_498977247" MODIFIED="1642384456335" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452713" ID="ID_325348118" MODIFIED="1643862564287" TEXT="~Y.5">
-<node CREATED="1642384452713" ID="ID_463174976" MODIFIED="1644736815519" TEXT="r-X-Z~Y.5 /">
+<node CREATED="1642384452713" ID="ID_325348118" MODIFIED="1645944980313" TEXT="~Y.5">
+<node CREATED="1642384452713" ID="ID_463174976" MODIFIED="1645944980313" TEXT="r-X-Z~Y.5 /">
 <node COLOR="#006699" CREATED="1642384452723" ID="ID_1817295830" MODIFIED="1642384456345" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452723" ID="ID_1371680834" MODIFIED="1643862564287" TEXT="~Y.6">
-<node CREATED="1642384452723" ID="ID_1022932425" MODIFIED="1644736815519" TEXT="r-X-Z~Y.6 /">
+<node CREATED="1642384452723" ID="ID_1371680834" MODIFIED="1645944980313" TEXT="~Y.6">
+<node CREATED="1642384452723" ID="ID_1022932425" MODIFIED="1645944980313" TEXT="r-X-Z~Y.6 /">
 <node COLOR="#006699" CREATED="1642384452723" ID="ID_1725402368" MODIFIED="1642384456345" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452723" ID="ID_507600637" MODIFIED="1643862564287" TEXT="~Y.7">
-<node CREATED="1642384452723" ID="ID_1524191819" MODIFIED="1644736815519" TEXT="r-X-Z~Y.7 /">
+<node CREATED="1642384452723" ID="ID_507600637" MODIFIED="1645944980313" TEXT="~Y.7">
+<node CREATED="1642384452723" ID="ID_1524191819" MODIFIED="1645944980313" TEXT="r-X-Z~Y.7 /">
 <node COLOR="#006699" CREATED="1642384452723" ID="ID_189132669" MODIFIED="1642384459960" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452723" ID="ID_1154629161" MODIFIED="1643862564287" TEXT="~Y.8">
-<node CREATED="1642384452723" ID="ID_107512554" MODIFIED="1644736815529" TEXT="r-X-Z~Y.8 /">
+<node CREATED="1642384452723" ID="ID_1154629161" MODIFIED="1645944980313" TEXT="~Y.8">
+<node CREATED="1642384452723" ID="ID_107512554" MODIFIED="1645944980313" TEXT="r-X-Z~Y.8 /">
 <node COLOR="#006699" CREATED="1642384452723" ID="ID_1071241119" MODIFIED="1642384459960" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452723" ID="ID_271551062" MODIFIED="1643862564287" TEXT="~Y.9">
-<node CREATED="1642384452723" ID="ID_240212942" MODIFIED="1644736815529" TEXT="r-X-Z~Y.9 /">
+<node CREATED="1642384452723" ID="ID_271551062" MODIFIED="1645944980313" TEXT="~Y.9">
+<node CREATED="1642384452723" ID="ID_240212942" MODIFIED="1645944980313" TEXT="r-X-Z~Y.9 /">
 <node COLOR="#006699" CREATED="1642384452723" ID="ID_406975446" MODIFIED="1642384459959" TEXT="texts"/>
 </node>
 </node>
-<node CREATED="1642384452723" ID="ID_618077216" MODIFIED="1643862564297" TEXT="~Y.0">
-<node CREATED="1642384452733" ID="ID_1083195982" MODIFIED="1644736815529" TEXT="r-X-Z~Y.0 /">
+<node CREATED="1642384452723" ID="ID_618077216" MODIFIED="1645944980313" TEXT="~Y.0">
+<node CREATED="1642384452733" ID="ID_1083195982" MODIFIED="1645944980313" TEXT="r-X-Z~Y.0 /">
 <node COLOR="#006699" CREATED="1642384452733" ID="ID_1448444993" MODIFIED="1642384459958" TEXT="texts"/>
 </node>
 </node>
@@ -27197,99 +27499,99 @@
 </node>
 <node CREATED="1642230661025" ID="ID_1463952370" MODIFIED="1643862564307" TEXT="1~10">
 <node CREATED="1642230661025" ID="ID_1635859181" MODIFIED="1643862564307" TEXT="~1">
-<node CREATED="1642230661025" ID="ID_754470326" MODIFIED="1643862564307" TEXT="r-X-Z~Y.1 /">
+<node CREATED="1642230661025" ID="ID_754470326" MODIFIED="1645944980313" TEXT="r-X-Z~Y.1 /">
 <node COLOR="#006699" CREATED="1642230661025" ID="ID_154781477" MODIFIED="1642230675088" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230661025" ID="ID_1044776282" MODIFIED="1643862564307" TEXT="~2">
-<node CREATED="1642230661025" ID="ID_1678444748" MODIFIED="1643862564307" TEXT="r-X-Z~Y.2 /">
+<node CREATED="1642230661025" ID="ID_1678444748" MODIFIED="1645944980313" TEXT="r-X-Z~Y.2 /">
 <node COLOR="#006699" CREATED="1642230661025" ID="ID_1965867428" MODIFIED="1642230675088" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230661025" ID="ID_593369875" MODIFIED="1643862564307" TEXT="~3">
-<node CREATED="1642230661035" ID="ID_764905271" MODIFIED="1643862564307" TEXT="r-X-Z~Y.3 /">
+<node CREATED="1642230661035" ID="ID_764905271" MODIFIED="1645944980313" TEXT="r-X-Z~Y.3 /">
 <node COLOR="#006699" CREATED="1642230661035" ID="ID_402601926" MODIFIED="1642230675088" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230661035" ID="ID_15931205" MODIFIED="1643862564317" TEXT="~4">
-<node CREATED="1642230661035" ID="ID_669530687" MODIFIED="1643862564317" TEXT="r-X-Z~Y.4 /">
+<node CREATED="1642230661035" ID="ID_669530687" MODIFIED="1645944980313" TEXT="r-X-Z~Y.4 /">
 <node COLOR="#006699" CREATED="1642230661035" ID="ID_20309674" MODIFIED="1642230675088" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230661035" ID="ID_1547581904" MODIFIED="1643862564317" TEXT="~5">
-<node CREATED="1642230661035" ID="ID_1170710086" MODIFIED="1643862564317" TEXT="r-X-Z~Y.5 /">
+<node CREATED="1642230661035" ID="ID_1170710086" MODIFIED="1645944980313" TEXT="r-X-Z~Y.5 /">
 <node COLOR="#006699" CREATED="1642230661035" ID="ID_543286383" MODIFIED="1642230675088" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230661035" ID="ID_484051585" MODIFIED="1643862564317" TEXT="~6">
-<node CREATED="1642230661035" ID="ID_365071487" MODIFIED="1643862564317" TEXT="r-X-Z~Y.6 /">
+<node CREATED="1642230661035" ID="ID_365071487" MODIFIED="1645944980313" TEXT="r-X-Z~Y.6 /">
 <node COLOR="#006699" CREATED="1642230661035" ID="ID_1198322751" MODIFIED="1642230675088" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230661035" ID="ID_1212450324" MODIFIED="1643862564317" TEXT="~7">
-<node CREATED="1642230661045" ID="ID_1258995348" MODIFIED="1643862564317" TEXT="r-X-Z~Y.7 /">
+<node CREATED="1642230661045" ID="ID_1258995348" MODIFIED="1645944980313" TEXT="r-X-Z~Y.7 /">
 <node COLOR="#006699" CREATED="1642230661045" ID="ID_1727312919" MODIFIED="1642230675088" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230661045" ID="ID_874242552" MODIFIED="1643862564317" TEXT="~8">
-<node CREATED="1642230661045" ID="ID_1781630532" MODIFIED="1643862564327" TEXT="r-X-Z~Y.8 /">
+<node CREATED="1642230661045" ID="ID_1781630532" MODIFIED="1645944980313" TEXT="r-X-Z~Y.8 /">
 <node COLOR="#006699" CREATED="1642230661045" ID="ID_1103607878" MODIFIED="1642230675087" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230661045" ID="ID_1471061836" MODIFIED="1643862564327" TEXT="~9">
-<node CREATED="1642230661045" ID="ID_1757070502" MODIFIED="1643862564327" TEXT="r-X-Z~Y.9 /">
+<node CREATED="1642230661045" ID="ID_1757070502" MODIFIED="1645944980313" TEXT="r-X-Z~Y.9 /">
 <node COLOR="#006699" CREATED="1642230661045" ID="ID_1403042345" MODIFIED="1642230675086" TEXT="texts"/>
 </node>
 </node>
 </node>
 <node CREATED="1642230722805" ID="ID_1622735779" MODIFIED="1643862564337" TEXT="11~">
 <node CREATED="1642230722805" ID="ID_1995055802" MODIFIED="1643862564337" TEXT="~10">
-<node CREATED="1642230722815" ID="ID_1581714935" MODIFIED="1643862564337" TEXT="r-X-Z~Y.10 /">
+<node CREATED="1642230722815" ID="ID_1581714935" MODIFIED="1645944980313" TEXT="r-X-Z~Y.10 /">
 <node COLOR="#006699" CREATED="1642230722815" ID="ID_1231137671" MODIFIED="1642230730597" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230722815" ID="ID_1678344105" MODIFIED="1643862564337" TEXT="~11">
-<node CREATED="1642230722815" ID="ID_968235060" MODIFIED="1643862564337" TEXT="r-X-Z~Y.11 /">
+<node CREATED="1642230722815" ID="ID_968235060" MODIFIED="1645944980312" TEXT="r-X-Z~Y.11 /">
 <node COLOR="#006699" CREATED="1642230722815" ID="ID_1316554609" MODIFIED="1642230730597" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230722815" ID="ID_1923828154" MODIFIED="1643862564337" TEXT="~12">
-<node CREATED="1642230722815" ID="ID_113233808" MODIFIED="1643862564337" TEXT="r-X-Z~Y.12 /">
+<node CREATED="1642230722815" ID="ID_113233808" MODIFIED="1645944980312" TEXT="r-X-Z~Y.12 /">
 <node COLOR="#006699" CREATED="1642230722815" ID="ID_332197483" MODIFIED="1642230730597" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230722815" ID="ID_733066417" MODIFIED="1643862564347" TEXT="~13">
-<node CREATED="1642230722815" ID="ID_1781969597" MODIFIED="1643862564347" TEXT="r-X-Z~Y.13 /">
+<node CREATED="1642230722815" ID="ID_1781969597" MODIFIED="1645944980312" TEXT="r-X-Z~Y.13 /">
 <node COLOR="#006699" CREATED="1642230722815" ID="ID_159937875" MODIFIED="1642230730597" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230722815" ID="ID_677862644" MODIFIED="1643862564347" TEXT="~14">
-<node CREATED="1642230722825" ID="ID_1249137599" MODIFIED="1643862564347" TEXT="r-X-Z~Y.14 /">
+<node CREATED="1642230722825" ID="ID_1249137599" MODIFIED="1645944980312" TEXT="r-X-Z~Y.14 /">
 <node COLOR="#006699" CREATED="1642230722825" ID="ID_168892203" MODIFIED="1642230730597" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230722825" ID="ID_1115116657" MODIFIED="1643862564357" TEXT="~15">
-<node CREATED="1642230722825" ID="ID_685656697" MODIFIED="1643862564357" TEXT="r-X-Z~Y.15 /">
+<node CREATED="1642230722825" ID="ID_685656697" MODIFIED="1645944980312" TEXT="r-X-Z~Y.15 /">
 <node COLOR="#006699" CREATED="1642230722825" ID="ID_1907295590" MODIFIED="1642230730597" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230722825" ID="ID_1986922070" MODIFIED="1643862564357" TEXT="~16">
-<node CREATED="1642230722825" ID="ID_1221991384" MODIFIED="1643862564357" TEXT="r-X-Z~Y.16 /">
+<node CREATED="1642230722825" ID="ID_1221991384" MODIFIED="1645944980312" TEXT="r-X-Z~Y.16 /">
 <node COLOR="#006699" CREATED="1642230722825" ID="ID_870468714" MODIFIED="1642230730597" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230722825" ID="ID_525566759" MODIFIED="1643862564367" TEXT="~17">
-<node CREATED="1642230722825" ID="ID_1545320713" MODIFIED="1643862564368" TEXT="r-X-Z~Y.17 /">
+<node CREATED="1642230722825" ID="ID_1545320713" MODIFIED="1645944980312" TEXT="r-X-Z~Y.17 /">
 <node COLOR="#006699" CREATED="1642230722825" ID="ID_987510407" MODIFIED="1642230730597" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230722825" ID="ID_555940661" MODIFIED="1643862564369" TEXT="~18">
-<node CREATED="1642230722825" ID="ID_394669702" MODIFIED="1643862564370" TEXT="r-X-Z~Y.18 /">
+<node CREATED="1642230722825" ID="ID_394669702" MODIFIED="1645944980312" TEXT="r-X-Z~Y.18 /">
 <node COLOR="#006699" CREATED="1642230722835" ID="ID_701750693" MODIFIED="1642230730596" TEXT="texts"/>
 </node>
 </node>
 <node CREATED="1642230722835" ID="ID_764367247" MODIFIED="1643862564371" TEXT="~19">
-<node CREATED="1642230722835" ID="ID_1040616683" MODIFIED="1643862564372" TEXT="r-X-Z~Y.19 /">
+<node CREATED="1642230722835" ID="ID_1040616683" MODIFIED="1645944980312" TEXT="r-X-Z~Y.19 /">
 <node COLOR="#006699" CREATED="1642230722835" ID="ID_1813334874" MODIFIED="1642230730595" TEXT="texts"/>
 </node>
 </node>
@@ -27672,7 +27974,7 @@
 </node>
 </node>
 <node CREATED="1635584516358" ID="ID_954515348" MODIFIED="1635584518963" POSITION="left" TEXT="links">
-<node CREATED="1635584519953" ID="ID_1507111416" LINK="../76_physics/76_physics.mm" MODIFIED="1635653208814">
+<node CREATED="1635584519953" ID="ID_1507111416" LINK="../76_physics/76_physics.mm" MODIFIED="1645944980300">
 <richcontent TYPE="NODE"><html>
   <head>
     
