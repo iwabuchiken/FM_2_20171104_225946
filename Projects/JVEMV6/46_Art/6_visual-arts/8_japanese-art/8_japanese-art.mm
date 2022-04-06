@@ -77,6 +77,9 @@
 <node CREATED="1646200169950" ID="ID_249322431" MODIFIED="1646200171093" TEXT="files">
 <node CREATED="1646200178456" ID="ID_1788730592" LINK="C:\WORKS_2\shortcuts_docs\log_JVE_46-6-8_japanese-art.log" MODIFIED="1646200181843" TEXT="log file"/>
 </node>
+<node CREATED="1649235204072" ID="ID_1279030968" MODIFIED="1649235205874" TEXT="folders">
+<node CREATED="1649235207473" ID="ID_14841878" LINK="C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\8_japanese-art" MODIFIED="1649235214614" TEXT="8_japanese-art"/>
+</node>
 </node>
 </node>
 </map>
