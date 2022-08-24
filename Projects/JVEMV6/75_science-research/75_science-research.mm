@@ -1,6 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1622881662995" ID="ID_917639241" LINK="../../JVEMV6.mm" MODIFIED="1638487760947" TEXT="75. science research">
+<node CREATED="1622881662995" ID="ID_917639241" LINK="../../JVEMV6.mm" MODIFIED="1661316642274" TEXT="75. science research">
+<hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <node CREATED="1622935164565" ID="ID_1563587897" MODIFIED="1638488733778" POSITION="right" TEXT="genres">
 <node CREATED="1622935223805" ID="ID_1804347149" MODIFIED="1638488735137" TEXT="g-1">
 <node CREATED="1622881084940" ID="ID_232345121" MODIFIED="1622881086221" TEXT="plastic decomposition"/>
@@ -479,6 +480,7 @@
 <node CREATED="1640044927221" ID="ID_206780270" MODIFIED="1640044928572" TEXT="files">
 <node CREATED="1640044935294" ID="ID_1888399418" LINK="C:\WORKS_2\shortcuts_docs\log-session_JVE_READ_ALL.log" MODIFIED="1640044943648" TEXT="log-session_JVE_READ_ALL.log"/>
 </node>
+<node CREATED="1661316864697" ID="ID_1496363523" LINK="../79_science-and-technology_st/79_science-and-technology_st.mm" MODIFIED="1661316899205" TEXT="this map was continued to... : 79_science-and-technology_st.mm"/>
 </node>
 </node>
 </map>
