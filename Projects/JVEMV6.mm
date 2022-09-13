@@ -134,6 +134,7 @@
 <node CREATED="1632579823601" ID="ID_1320319082" LINK="JVEMV6/77_green-technology/77_green-technology.mm" MODIFIED="1632579823601" TEXT="77. green technology"/>
 <node CREATED="1633245681798" ID="ID_1313857552" LINK="JVEMV6/78_Theology-for-Japanese/78_Theology-for-Japanese.mm" MODIFIED="1633245747801" TEXT="78. Theology for Japanese"/>
 <node CREATED="1638487508440" ID="ID_118731911" LINK="JVEMV6/79_science-and-technology_st/79_science-and-technology_st.mm" MODIFIED="1638487508440" TEXT="79. science and technology (st)"/>
+<node CREATED="1663054286802" ID="ID_220727074" LINK="JVEMV6/80_microbiology/80_microbiology.mm" MODIFIED="1663054286805" TEXT="80. microbiology"/>
 </node>
 <node CREATED="1598259875393" ID="ID_1229597463" LINK="C:\WORKS_2\Utils\commands\push_fm.bat" MODIFIED="1598259892267" POSITION="left" TEXT="git"/>
 </node>
