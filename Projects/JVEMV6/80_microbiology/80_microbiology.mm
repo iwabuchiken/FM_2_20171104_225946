@@ -2,10 +2,10 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1663054220219" ID="ID_319492395" LINK="../../JVEMV6.mm" MODIFIED="1663054286766" TEXT="80. microbiology">
 <node CREATED="1608648934595" ID="ID_1345375819" MODIFIED="1663047422558" POSITION="right" TEXT="sessions">
-<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1123059716" MODIFIED="1663056533335" TEXT="s-1">
-<node CREATED="1663054748199" FOLDED="true" ID="ID_1867388059" MODIFIED="1663056521561" TEXT="do">
+<node COLOR="#338800" CREATED="1615187554513" ID="ID_1123059716" MODIFIED="1663134333607" TEXT="s-1">
+<node CREATED="1663054748199" ID="ID_1867388059" MODIFIED="1663134334859" TEXT="do">
 <node COLOR="#338800" CREATED="1663054750508" ID="ID_42656301" MODIFIED="1663055464292" TEXT="1">
-<node COLOR="#006633" CREATED="1663054793755" FOLDED="true" ID="ID_454329021" LINK="https://duckduckgo.com/?q=&#x5fdc;&#x7528;&#x5fae;&#x751f;&#x7269;&#x5b66;+&#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8;&amp;ia=web" MODIFIED="1663055376765">
+<node COLOR="#006633" CREATED="1663054793755" FOLDED="true" ID="ID_454329021" LINK="https://duckduckgo.com/?q=&#x5fdc;&#x7528;&#x5fae;&#x751f;&#x7269;&#x5b66;+&#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8;&amp;ia=web" MODIFIED="1663134424659">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23,7 +23,7 @@
 <node CREATED="1663054793786" LINK="https://hp.brs.nihon-u.ac.jp/~syllabus/DATA/kg/11abs.pdf" MODIFIED="1663054793786" TEXT="&#x8b1b;&#x7fa9;&#x6982;&#x8981; / nihon-u.ac.jp https://hp.brs.nihon-u.ac.jp/~syllabus/DATA/kg/11abs.pdf"/>
 </node>
 </node>
-<node COLOR="#006633" CREATED="1663054793786" FOLDED="true" ID="ID_504468502" LINK="https://duckduckgo.com/?q=applied+microbiology+introduction&amp;ia=web" MODIFIED="1663055461491" TEXT="s: applied+microbiology+introduction">
+<node COLOR="#006633" CREATED="1663054793786" FOLDED="true" ID="ID_504468502" LINK="https://duckduckgo.com/?q=applied+microbiology+introduction&amp;ia=web" MODIFIED="1663134423996" TEXT="s: applied+microbiology+introduction">
 <node COLOR="#006699" CREATED="1663054793786" ID="ID_1058432108" MODIFIED="1663054852045" TEXT="docs">
 <node CREATED="1663054793786" ID="ID_87015787" LINK="https://bio.libretexts.org/Bookshelves/Microbiology/Book%3A_Microbiology_" MODIFIED="1663054793786" TEXT="https://bio.libretexts.org/Bookshelves/Microbiology/Book%3A_Microbiology_(Boundless)/1%3A_Introduction_to_Microbiology/1.3%3A_The_Science_of_Microbiology/1.3D%3A_Modern_Microbiology"/>
 <node CREATED="1663054793786" ID="ID_176032949" LINK="https://www.biologydiscussion.com/microbiology-2/microbiology-introduction-history-branches-principles-and-applications-biology/85740" MODIFIED="1663054793786" TEXT="https://www.biologydiscussion.com/microbiology-2/microbiology-introduction-history-branches-principles-and-applications-biology/85740"/>
@@ -131,7 +131,7 @@
 <node CREATED="1624859724607" ID="ID_502901422" MODIFIED="1654661607506" TEXT="X"/>
 </node>
 </node>
-<node CREATED="1618040450002" FOLDED="true" ID="ID_772378789" MODIFIED="1663056474806" POSITION="right" TEXT="read">
+<node CREATED="1618040450002" ID="ID_772378789" MODIFIED="1663059380850" POSITION="right" TEXT="read">
 <node CREATED="1663054972468" ID="ID_450982037" MODIFIED="1663054977953" TEXT="1 / r-1 / topics">
 <node CREATED="1663055000843" ID="ID_1866838861" MODIFIED="1663055027369" TEXT="r-1-1 / plastic decomposition ">
 <node CREATED="1663055000843" ID="ID_911952934" MODIFIED="1663055071752" TEXT="r-1-1~1 / initial docs">
