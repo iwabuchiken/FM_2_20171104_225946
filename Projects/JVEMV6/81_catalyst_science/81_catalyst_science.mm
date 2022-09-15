@@ -85,7 +85,7 @@
 <node CREATED="1624859724607" ID="ID_502901422" MODIFIED="1654661607506" TEXT="X"/>
 </node>
 </node>
-<node CREATED="1618040450002" FOLDED="true" ID="ID_432853827" MODIFIED="1663141636427" POSITION="right" TEXT="read">
+<node CREATED="1618040450002" ID="ID_432853827" MODIFIED="1663223025314" POSITION="right" TEXT="read">
 <node CREATED="1663133992294" ID="ID_831231915" MODIFIED="1663134005923" TEXT="1 / r-1 / initial">
 <node CREATED="1663134007591" ID="ID_1734565225" MODIFIED="1663134013957" TEXT="r-1-1 / init">
 <node CREATED="1663055000843" ID="ID_1916798196" MODIFIED="1663134135479" TEXT="r-1-1~1 / initial docs">
@@ -148,8 +148,7 @@
       s: &#12471;&#12522;&#12459;&#25285;&#25345;&#37329;&#23646;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1663141433941" FOLDED="true" ID="ID_96896065" LINK="https://www.jstage.jst.go.jp/article/jpi/54/2/54_2_80/_article/-char/ja/" MODIFIED="1663141584578">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -163,8 +162,7 @@
       &#39640;&#27231;&#33021;&#21270;&#160;/ jst.go.jp&#160;https://www.jstage.jst.go.jp/article/jpi/54/2/54_2_80/_article/-char/ja/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1663141433951" FOLDED="true" ID="ID_843289000" MODIFIED="1663141506571" TEXT="words">
 <node CREATED="1663141433959" ID="ID_229494002" MODIFIED="1663141433959" TEXT="&#x89e6;&#x5a92;&#x62c5;&#x4f53;">
 <node COLOR="#006633" CREATED="1663141433960" ID="ID_1388923615" LINK="https://duckduckgo.com/?q=&#x89e6;&#x5a92;&#x62c5;&#x4f53;&amp;ia=web" MODIFIED="1663141504425">
@@ -177,8 +175,7 @@
       s: &#35302;&#23186;&#25285;&#20307;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1663141433964" FOLDED="true" ID="ID_1139817323" MODIFIED="1663141496256" TEXT="docs">
 <node CREATED="1663141433973" LINK="https://www.jstage.jst.go.jp/article/nikkashi1972/1972/9/1972_9_1603/_pdf" MODIFIED="1663141433973" TEXT="&#x91d1;&#x5c5e;&#x89e6;&#x5a92;&#x4f53;&#x7528;&#x30b7; &#x30ea;&#x30ab;&#x30ad;&#x30bb;&#x30ed;&#x30b2;&#x30eb;&#x62c5;&#x4f53;&#x306e;&#x7269;&#x7406;&#x69cb;&#x9020; &#x3068;&#x62c5;&#x4f53;&#x4f5c;&#x7528; / jst.go.jp https://www.jstage.jst.go.jp/article/nikkashi1972/1972/9/1972_9_1603/_pdf"/>
 <node CREATED="1663141433981" ID="ID_373139652" LINK="https://patents.google.com/patent/JPH06127932A/ja" MODIFIED="1663141433981" TEXT="&#x91d1;&#x5c5e;&#x9178;&#x5316;&#x7269;&#x62c5;&#x6301;&#x30b7;&#x30ea;&#x30ab;&#x304a;&#x3088;&#x3073;&#x305d;&#x306e;&#x88fd;&#x9020;&#x65b9;&#x6cd5; / patents.google https://patents.google.com/patent/JPH06127932A/ja"/>
@@ -205,8 +202,7 @@
       s: &#19968;&#37240;&#21270;&#28845;&#32032;+&#21560;&#21454;&#12473;&#12506;&#12463;&#12488;&#12523;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1663141434009" FOLDED="true" ID="ID_229299969" MODIFIED="1663141579710" TEXT="docs">
 <node CREATED="1663141434010" ID="ID_1982392520" LINK="https://www.jstage.jst.go.jp/article/shikizai1937/69/11/69_784/_pdf/-char/ja" MODIFIED="1663141560061">
 <richcontent TYPE="NODE"><html>
@@ -221,8 +217,7 @@
       &#160;https://www.jstage.jst.go.jp/article/shikizai1937/69/11/69_784/_pdf/-char/ja
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#338800" CREATED="1663141434017" ID="ID_1370461094" MODIFIED="1663141566338" TEXT="#1 &#x306f; &#x3058;&#x3081; &#x306b;"/>
 <node CREATED="1663141434018" ID="ID_609095450" MODIFIED="1663141434018" TEXT="n: &#x8d64;&#x5916; &#x5438;&#x53ce; &#x30b9;&#x30da; &#x30af; &#x30c8;&#x30eb;&#x304c;&#x7279; &#x306b;&#x6709;&#x6a5f;&#x7269;&#x8cea;">
 <node COLOR="#990000" CREATED="1663141573817" ID="ID_470174575" MODIFIED="1663141575268" TEXT="20220914_164612"/>
@@ -251,8 +246,7 @@
       s: &#12466;&#12523;&#12510;&#12531;+&#29105;&#20998;&#35299;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1663141434030" ID="ID_859660584" LINK="https://ja.wikipedia.org/wiki/&#x30b2;&#x30eb;&#x30de;&#x30f3;_" MODIFIED="1663141434030" TEXT="&#x30b2;&#x30eb;&#x30de;&#x30f3;_(&#x5316;&#x5408;&#x7269;) / wi https://ja.wikipedia.org/wiki/&#x30b2;&#x30eb;&#x30de;&#x30f3;_(&#x5316;&#x5408;&#x7269;)"/>
 </node>
 </node>
@@ -354,8 +348,7 @@
       sakura &quot;C:\WORKS_2\shortcuts_docs\end_batch\end_log_JVE_68.[tp_v-2.0].[git].bat&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
