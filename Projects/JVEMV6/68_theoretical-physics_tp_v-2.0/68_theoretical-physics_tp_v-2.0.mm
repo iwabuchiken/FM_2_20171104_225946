@@ -24456,7 +24456,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_911605669" MODIFIED="1663227979563" TEXT="s-362">
+<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_911605669" MODIFIED="1663230930081" TEXT="s-362">
 <node CREATED="1663223522772" ID="ID_1886145344" MODIFIED="1663223526602" TEXT="do">
 <node COLOR="#338800" CREATED="1662972883655" ID="ID_313321102" MODIFIED="1663227956259" TEXT="1">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_555810582" ENDARROW="Default" ENDINCLINATION="190;0;" ID="Arrow_ID_596496405" STARTARROW="None" STARTINCLINATION="190;0;"/>
@@ -24479,6 +24479,37 @@
 </node>
 <node COLOR="#990000" CREATED="1663227959951" ID="ID_1713160012" MODIFIED="1663227961612" TEXT="/20220915_164558"/>
 </node>
+<node COLOR="#338800" CREATED="1663230103199" ID="ID_1993967402" MODIFIED="1663230919838" TEXT="add">
+<node COLOR="#006633" CREATED="1663230895953" ID="ID_607258925" LINK="https://duckduckgo.com/?q=&#x76f8;&#x5bfe;&#x6027;&#x7406;&#x8ad6;+&#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8;&amp;ia=web" MODIFIED="1663230907709">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      s: &#30456;&#23550;&#24615;&#29702;&#35542;+&#35611;&#32681;&#12494;&#12540;&#12488;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#006699" CREATED="1663230895969" FOLDED="true" ID="ID_1584257976" MODIFIED="1663230916508" TEXT="docs">
+<node CREATED="1663230895969" LINK="http://t-ikeda.akira.ne.jp/enter/science/phys/relativity/relativity18.pdf" MODIFIED="1663230895969" TEXT="&#x76f8;&#x5bfe;&#x6027;&#x7406;&#x8ad6;&#x3000;&#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8; / akira.ne.jp http://t-ikeda.akira.ne.jp/enter/science/phys/relativity/relativity18.pdf"/>
+<node CREATED="1663230895969" LINK="http://yoshi.sci.ibaraki.ac.jp/&#x7279;&#x6b8a;&#x76f8;&#x5bfe;&#x6027;&#x7406;&#x8ad6;&#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8;.pdf" MODIFIED="1663230895969" TEXT="&#x76f8;&#x5bfe;&#x6027;&#x7406;&#x8ad6;&#x306e;&#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8; / ibaraki.ac.jp http://yoshi.sci.ibaraki.ac.jp/&#x7279;&#x6b8a;&#x76f8;&#x5bfe;&#x6027;&#x7406;&#x8ad6;&#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8;.pdf">
+<node CREATED="1663230895969" MODIFIED="1663230895969" TEXT="&lt;= lets-read"/>
+</node>
+<node CREATED="1663230895969" ID="ID_419117054" LINK="http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/KikanButsuri-2/Note_relativity/Note-SR-intro.pdf" MODIFIED="1663230895969" TEXT="&#x7279;&#x6b8a;&#x76f8;&#x5bfe;&#x6027;&#x7406;&#x8ad6;&#x5165;&#x9580; &#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8; / kyushu-u.ac.jp http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/KikanButsuri-2/Note_relativity/Note-SR-intro.pdf"/>
+<node CREATED="1663230895985" FOLDED="true" ID="ID_409586032" LINK="https://www2.yukawa.kyoto-u.ac.jp/~norihiro.tanahashi/pdf/SR/note_SR-2.pdf" MODIFIED="1663230915505" TEXT="&#x7b2c; 2 &#x56de; &#x7279;&#x6b8a;&#x76f8;&#x5bfe;&#x6027;&#x7406;&#x8ad6;&#x306e;&#x767a;&#x898b; / kyoto-u.ac.jp https://www2.yukawa.kyoto-u.ac.jp/~norihiro.tanahashi/pdf/SR/note_SR-2.pdf">
+<node COLOR="#990000" CREATED="1663230896000" ID="ID_483387249" MODIFIED="1663230912044" TEXT="&lt;= want-to-read"/>
+<node CREATED="1663230896016" ID="ID_1141487333" MODIFIED="1663230896016" TEXT="&quot;2.1.2 &#x30de;&#x30af;&#x30b9;&#x30a6;&#x30a7;&#x30eb;&#x65b9;&#x7a0b;&#x5f0f;&#x306e;&#x30ac;&#x30ea;&#x30ec;&#x30a4;&#x5909;&#x63db;&#x6027;&quot;"/>
+<node CREATED="1663230896016" ID="ID_923728407" LINK="https://www2.yukawa.kyoto-u.ac.jp/~norihiro.tanahashi/lecture.html" MODIFIED="1663230896016" TEXT="https://www2.yukawa.kyoto-u.ac.jp/~norihiro.tanahashi/lecture.html"/>
+</node>
+<node CREATED="1663230896016" FOLDED="true" ID="ID_296227191" LINK="https://research.kek.jp/people/hkodama/lectures/GeneralRelativity/GR_LN_Master.pdf" MODIFIED="1663230915088" TEXT="&#x5927;&#x5b66;&#x9662;&#x4e00;&#x822c;&#x76f8;&#x5bfe;&#x8ad6;&#x8b1b;&#x7fa9;&#x30de;&#x30b9;&#x30bf;&#x30fc;&#x30d5;&#x30a1;&#x30a4;&#x30eb; / kek.jp https://research.kek.jp/people/hkodama/lectures/GeneralRelativity/GR_LN_Master.pdf">
+<node COLOR="#990000" CREATED="1663230896031" ID="ID_1658039392" MODIFIED="1663230913316" TEXT="&lt;= want-to-read : &#x3086;&#x304f;&#x3086;&#x304f;&#x306f;"/>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1663230925812" ID="ID_754837065" MODIFIED="1663230927678" TEXT="/20220915_173523"/>
+</node>
 </node>
 <node CREATED="1610723630275" ID="ID_344819792" MODIFIED="1653446767675" TEXT="n:">
 <node CREATED="1663227937412" ID="ID_1344175190" MODIFIED="1663227955169" TEXT="X">
@@ -24500,6 +24531,7 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1663228104442" ID="ID_199932450" MODIFIED="1663228120597" TEXT="-&gt; kontynuuomy"/>
 </node>
 <node CREATED="1624859724607" ID="ID_261204291" MODIFIED="1654661607506" TEXT="X"/>
 </node>
@@ -24532,7 +24564,7 @@
 <node CREATED="1624859724607" ID="ID_502901422" MODIFIED="1654661607506" TEXT="X"/>
 </node>
 </node>
-<node CREATED="1618040450002" FOLDED="true" ID="ID_583841632" MODIFIED="1663227944411" POSITION="right" TEXT="read">
+<node CREATED="1618040450002" FOLDED="true" ID="ID_583841632" MODIFIED="1663228023929" POSITION="right" TEXT="read">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_389875018" ENDARROW="Default" ENDINCLINATION="314;0;" ID="Arrow_ID_572666218" STARTARROW="None" STARTINCLINATION="314;0;"/>
 <node CREATED="1633241239751" ID="ID_1079241047" MODIFIED="1663054923826" TEXT="1~">
 <node CREATED="1618040451479" ID="ID_1863172685" MODIFIED="1663054926125" TEXT="1">
@@ -46572,7 +46604,7 @@
 <node CREATED="1650335295143" FOLDED="true" ID="ID_496694388" LINK="https://language-and-engineering.hatenablog.jp/entry/20121203/QuantumPhysicsNoteLinks#&#x6771;&#x5de5;&#x5927;2010&#x5e74;" MODIFIED="1654670866035" TEXT="&#x91cf;&#x5b50;&#x529b;&#x5b66;&#x30fb;&#x91cf;&#x5b50;&#x8ad6;&#x306e;&#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8;&#x306e;&#x30ea;&#x30f3;&#x30af;&#x96c6;">
 <node COLOR="#990000" CREATED="1650335295148" ID="ID_872659241" MODIFIED="1650335317861" TEXT="&lt;= good"/>
 </node>
-<node CREATED="1650335295149" ID="ID_1506719593" LINK="https://ocw.ilas.nagoya-u.ac.jp/files/487/qm1-17v3.pdf" MODIFIED="1663223558184">
+<node CREATED="1650335295149" FOLDED="true" ID="ID_1506719593" LINK="https://ocw.ilas.nagoya-u.ac.jp/files/487/qm1-17v3.pdf" MODIFIED="1663228022618">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -54268,6 +54300,7 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1663228029188" ID="ID_565161087" LINK="../jve_admin/JVE_activity_log.mm" MODIFIED="1663228048430" TEXT="JVE_activity_log.mm"/>
 </node>
 </node>
 </map>
