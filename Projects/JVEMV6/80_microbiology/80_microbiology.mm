@@ -2,8 +2,8 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1663054220219" ID="ID_319492395" LINK="../../JVEMV6.mm" MODIFIED="1663054286766" TEXT="80. microbiology">
 <node CREATED="1608648934595" ID="ID_1345375819" MODIFIED="1663047422558" POSITION="right" TEXT="sessions">
-<node CREATED="1663219202138" FOLDED="true" ID="ID_746771318" MODIFIED="1663310401155" TEXT="s-1~">
-<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1123059716" MODIFIED="1663219200381" TEXT="s-1">
+<node CREATED="1663219202138" FOLDED="true" ID="ID_746771318" MODIFIED="1663311025244" TEXT="s-1~">
+<node COLOR="#338800" CREATED="1615187554513" ID="ID_1123059716" MODIFIED="1663310816943" TEXT="s-1">
 <node CREATED="1663054748199" ID="ID_1867388059" MODIFIED="1663134334859" TEXT="do">
 <node COLOR="#338800" CREATED="1663054750508" ID="ID_42656301" MODIFIED="1663055464292" TEXT="1">
 <node COLOR="#006633" CREATED="1663054793755" FOLDED="true" ID="ID_454329021" LINK="https://duckduckgo.com/?q=&#x5fdc;&#x7528;&#x5fae;&#x751f;&#x7269;&#x5b66;+&#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8;&amp;ia=web" MODIFIED="1663134424659">
@@ -24,7 +24,7 @@
 <node CREATED="1663054793786" LINK="https://hp.brs.nihon-u.ac.jp/~syllabus/DATA/kg/11abs.pdf" MODIFIED="1663054793786" TEXT="&#x8b1b;&#x7fa9;&#x6982;&#x8981; / nihon-u.ac.jp https://hp.brs.nihon-u.ac.jp/~syllabus/DATA/kg/11abs.pdf"/>
 </node>
 </node>
-<node COLOR="#006633" CREATED="1663054793786" FOLDED="true" ID="ID_504468502" LINK="https://duckduckgo.com/?q=applied+microbiology+introduction&amp;ia=web" MODIFIED="1663134423996" TEXT="s: applied+microbiology+introduction">
+<node COLOR="#006633" CREATED="1663054793786" ID="ID_504468502" LINK="https://duckduckgo.com/?q=applied+microbiology+introduction&amp;ia=web" MODIFIED="1663310816961" TEXT="s: applied+microbiology+introduction">
 <node COLOR="#006699" CREATED="1663054793786" ID="ID_1058432108" MODIFIED="1663054852045" TEXT="docs">
 <node CREATED="1663054793786" ID="ID_87015787" LINK="https://bio.libretexts.org/Bookshelves/Microbiology/Book%3A_Microbiology_" MODIFIED="1663054793786" TEXT="https://bio.libretexts.org/Bookshelves/Microbiology/Book%3A_Microbiology_(Boundless)/1%3A_Introduction_to_Microbiology/1.3%3A_The_Science_of_Microbiology/1.3D%3A_Modern_Microbiology"/>
 <node CREATED="1663054793786" ID="ID_176032949" LINK="https://www.biologydiscussion.com/microbiology-2/microbiology-introduction-history-branches-principles-and-applications-biology/85740" MODIFIED="1663054793786" TEXT="https://www.biologydiscussion.com/microbiology-2/microbiology-introduction-history-branches-principles-and-applications-biology/85740"/>
@@ -166,8 +166,8 @@
 <node COLOR="#990000" CREATED="1663219212379" ID="ID_662478676" MODIFIED="1663219214103" TEXT="20220915_141958/"/>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1938687772" MODIFIED="1663310398518" TEXT="s-3">
-<node CREATED="1610723630275" ID="ID_257815489" MODIFIED="1663305214615" TEXT="do">
+<node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1938687772" MODIFIED="1663312585075" TEXT="s-3">
+<node CREATED="1610723630275" FOLDED="true" ID="ID_257815489" MODIFIED="1663312584241" TEXT="do">
 <node COLOR="#338800" CREATED="1663222079858" ID="ID_774840347" MODIFIED="1663310368352" TEXT="1">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1142099003" ENDARROW="Default" ENDINCLINATION="200;0;" ID="Arrow_ID_1592887605" STARTARROW="None" STARTINCLINATION="200;0;"/>
 <node CREATED="1663222572215" ID="ID_618547429" MODIFIED="1663222624691" TEXT="kontynuujmy czytanie dokumentu"/>
@@ -190,12 +190,28 @@
 </node>
 <node COLOR="#990000" CREATED="1663310373423" ID="ID_499192547" MODIFIED="1663310375740" TEXT="/20220916_153931"/>
 </node>
+<node COLOR="#338800" CREATED="1663311030354" ID="ID_84305045" MODIFIED="1663312572298" TEXT="add">
+<node COLOR="#006633" CREATED="1663312545550" ID="ID_1111321207" LINK="https://yandex.ru/search/?text=bacteria+Polyvinyl+chloride+degradation&amp;lr=21433&amp;clid=2270485&amp;win=540" MODIFIED="1663312559858" TEXT="s: bacteria+Polyvinyl+chloride+degradation">
+<node COLOR="#006699" CREATED="1663312545565" FOLDED="true" ID="ID_1447008272" MODIFIED="1663312567839" TEXT="docs">
+<node CREATED="1663312545565" LINK="https://academicjournals.org/article/article1380882944_Patil%20and%20Bagde.pdf" MODIFIED="1663312545565" TEXT="Isolation of polyvinyl chloride degrading bacterial strains / academicjournals.org https://academicjournals.org/article/article1380882944_Patil%20and%20Bagde.pdf"/>
+<node CREATED="1663312545565" LINK="https://www.nature.com/search?q=bacteria%20Polyvinyl" MODIFIED="1663312545565" TEXT="bacteria%20Polyvinyl / nature.com https://www.nature.com/search?q=bacteria%20Polyvinyl"/>
+<node CREATED="1663312545565" ID="ID_1342756570" LINK="https://www.researchgate.net/publication/344318725_Biodegradation_of_Polyvinyl_Chloride_PVC_in_Tenebrio_molitor_Coleoptera_Tenebrionidae_larvae" MODIFIED="1663312545565" TEXT="Biodegradation of Polyvinyl Chloride (PVC) in Tenebrio molitor / researchgate.net https://www.researchgate.net/publication/344318725_Biodegradation_of_Polyvinyl_Chloride_PVC_in_Tenebrio_molitor_Coleoptera_Tenebrionidae_larvae">
+<node COLOR="#990000" CREATED="1663312545565" ID="ID_1566265357" MODIFIED="1663312566614" TEXT="==&gt; not copyable"/>
+</node>
+<node CREATED="1663312545565" ID="ID_1055172873" LINK="https://www.semanticscholar.org/paper/Polyvinyl-chloride-biodegradation-by-Pseudomonas-Giacomucci-Raddadi/78c17f25a34759909e31695ad4320328b67b4aa6" MODIFIED="1663312545565" TEXT="Polyvinyl chloride biodegradation / semanticscholar.org https://www.semanticscholar.org/paper/Polyvinyl-chloride-biodegradation-by-Pseudomonas-Giacomucci-Raddadi/78c17f25a34759909e31695ad4320328b67b4aa6">
+<node COLOR="#990000" CREATED="1663312545565" ID="ID_704771101" MODIFIED="1663312566613" TEXT="==&gt; not readable; list of readable docs"/>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1663312581712" ID="ID_149696538" MODIFIED="1663312583327" TEXT="/20220916_161617"/>
+</node>
 <node CREATED="1624859724607" ID="ID_581003052" MODIFIED="1654661607506" TEXT="X"/>
 </node>
 <node CREATED="1610723630275" ID="ID_253125489" MODIFIED="1653446767675" TEXT="n:">
 <node CREATED="1663310343277" ID="ID_1615170058" MODIFIED="1663310356685" TEXT="X">
 <arrowlink DESTINATION="ID_714148804" ENDARROW="Default" ENDINCLINATION="172;0;" ID="Arrow_ID_1055314078" STARTARROW="None" STARTINCLINATION="172;0;"/>
-<node CREATED="1663056481958" ID="ID_1042446031" MODIFIED="1663056502889" TEXT="r-c">
+</node>
+<node CREATED="1663056481958" ID="ID_1042446031" MODIFIED="1663310784063" TEXT="r-c">
 <node CREATED="1663056494474" ID="ID_925055432" MODIFIED="1663056494474">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -213,7 +229,6 @@
 </node>
 </node>
 <node CREATED="1663222572215" ID="ID_1080104224" MODIFIED="1663222624691" TEXT="kontynuujmy czytanie dokumentu"/>
-</node>
 <node CREATED="1624859724607" ID="ID_210021452" MODIFIED="1654661607506" TEXT="X"/>
 </node>
 <node COLOR="#990000" CREATED="1663305203777" ID="ID_484388963" MODIFIED="1663305205649" TEXT="20220916_141313/"/>
@@ -237,12 +252,12 @@
 </node>
 </node>
 </node>
-<node CREATED="1615187554513" ID="ID_699627215" MODIFIED="1663054721804" POSITION="right" TEXT="s-">
+<node CREATED="1615187554513" ID="ID_699627215" MODIFIED="1663312539461" POSITION="right" TEXT="s-">
 <node CREATED="1610723630275" ID="ID_1040116369" MODIFIED="1653446767675" TEXT="n:">
 <node CREATED="1624859724607" ID="ID_502901422" MODIFIED="1654661607506" TEXT="X"/>
 </node>
 </node>
-<node CREATED="1618040450002" FOLDED="true" ID="ID_772378789" MODIFIED="1663310350461" POSITION="right" TEXT="read">
+<node CREATED="1618040450002" FOLDED="true" ID="ID_772378789" MODIFIED="1663312540046" POSITION="right" TEXT="read">
 <node CREATED="1663054972468" ID="ID_450982037" MODIFIED="1663054977953" TEXT="1 / r-1 / topics">
 <node CREATED="1663055000843" ID="ID_1866838861" MODIFIED="1663055027369" TEXT="r-1-1 / plastic decomposition ">
 <node CREATED="1663055000843" ID="ID_911952934" MODIFIED="1663055071752" TEXT="r-1-1~1 / initial docs">
@@ -317,8 +332,8 @@
 </node>
 </node>
 <node COLOR="#338800" CREATED="1663222053801" FOLDED="true" ID="ID_1142099003" MODIFIED="1663306753909" TEXT="#5 Discovery of strain EBML-1">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1142099003" ENDARROW="Default" ENDINCLINATION="200;0;" ID="Arrow_ID_1592887605" SOURCE="ID_774840347" STARTARROW="None" STARTINCLINATION="200;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1142099003" ENDARROW="Default" ENDINCLINATION="200;0;" ID="Arrow_ID_733710224" SOURCE="ID_320587894" STARTARROW="None" STARTINCLINATION="200;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1142099003" ENDARROW="Default" ENDINCLINATION="200;0;" ID="Arrow_ID_1592887605" SOURCE="ID_774840347" STARTARROW="None" STARTINCLINATION="200;0;"/>
 <node COLOR="#006699" CREATED="1663306720863" FOLDED="true" ID="ID_1976821184" MODIFIED="1663306729644" TEXT="words">
 <node CREATED="1663306720865" MODIFIED="1663306720865" TEXT="Klebsiella sp. EMBL-1"/>
 <node CREATED="1663306720868" MODIFIED="1663306720868" TEXT="biofilm"/>
