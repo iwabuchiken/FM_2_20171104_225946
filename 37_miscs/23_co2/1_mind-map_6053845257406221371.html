@@ -1,0 +1,508 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>20201221_151929</title>
+<style type="text/css">
+    li { list-style: none;  margin: 0; }
+    p { margin: 0; }
+    span.foldopened { color: white; font-size: xx-small;
+    border-width: 1; font-family: monospace; padding: 0em 0.25em 0em 0.25em; background: #e0e0e0;
+    VISIBILITY: visible;
+    cursor:pointer; }
+
+
+    span.foldclosed { color: #666666; font-size: xx-small;
+    border-width: 1; font-family: monospace; padding: 0em 0.25em 0em 0.25em; background: #e0e0e0;
+    VISIBILITY: hidden;
+    cursor:pointer; }
+
+    span.foldspecial { color: #666666; font-size: xx-small; border-style: none solid solid none;
+    border-color: #CCCCCC; border-width: 1; font-family: sans-serif; padding: 0em 0.1em 0em 0.1em; background: #e0e0e0;
+    cursor:pointer; }
+
+    span.l { color: red; font-weight: bold; }
+
+    a.mapnode:link {text-decoration: none; color: black; }
+    a.mapnode:visited {text-decoration: none; color: black; }
+    a.mapnode:active {text-decoration: none; color: black; }
+    a.mapnode:hover {text-decoration: none; color: black; background: #eeeee0; }
+
+</style>
+<!-- ^ Position is not set to relative / absolute here because of Mozilla -->
+</head>
+<body>
+
+<script type="text/javascript">
+   // Here we implement folding. It works fine with MSIE5.5, MSIE6.0 and
+   // Mozilla 0.9.6.
+
+   if (document.layers) {
+      //Netscape 4 specific code
+      pre = 'document.';
+      post = ''; }
+   if (document.getElementById) {
+      //Netscape 6 specific code
+      pre = 'document.getElementById("';
+      post = '").style'; }
+   if (document.all) {
+      //IE4+ specific code
+      pre = 'document.all.';
+      post = '.style'; }
+
+function layer_exists(layer) {
+   try {
+      eval(pre + layer + post);
+      return true; }
+   catch (error) {
+      return false; }}
+
+function show_layer(layer) {
+   eval(pre + layer + post).position = 'relative'; 
+   eval(pre + layer + post).visibility = 'visible'; }
+
+function hide_layer(layer) {
+   eval(pre + layer + post).visibility = 'hidden';
+   eval(pre + layer + post).position = 'absolute'; }
+
+function hide_folder(folder) {
+    hide_folding_layer(folder)
+    show_layer('show'+folder);
+
+    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+}
+
+function show_folder(folder) {
+    // Precondition: all subfolders are folded
+
+    show_layer('hide'+folder);
+    hide_layer('show'+folder);
+    show_layer('fold'+folder);
+
+    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+
+    var i;
+    for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       show_layer('show'+folder+'_'+i); }
+}
+function show_folder_completely(folder) {
+    // Precondition: all subfolders are folded
+
+    show_layer('hide'+folder);
+    hide_layer('show'+folder);
+    show_layer('fold'+folder);
+
+    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+
+    var i;
+    for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       show_folder_completely(folder+'_'+i); }
+}
+
+
+
+function hide_folding_layer(folder) {
+   var i;
+   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       hide_folding_layer(folder+'_'+i); }
+
+   hide_layer('hide'+folder);
+   hide_layer('show'+folder);
+   hide_layer('fold'+folder);
+
+   scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+}
+
+function fold_document() {
+   var i;
+   var folder = '1';
+   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       hide_folder(folder+'_'+i); }
+}
+
+function unfold_document() {
+   var i;
+   var folder = '1';
+   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       show_folder_completely(folder+'_'+i); }
+}
+
+</script>
+<SPAN class="foldspecial" onclick="fold_document()">All +</SPAN>
+<SPAN class="foldspecial" onclick="unfold_document()">All -</SPAN>
+<p>20201221_151929
+<ul><li><span style="color: #006699;font-family: SansSerif, sans-serif; ">texts_47.[#23~].odt</span>
+
+</li>
+<li><span id="show1_1" class="foldclosed" onClick="show_folder('1_1')" style="POSITION: absolute">+</span> <span id="hide1_1" class="foldopened" onClick="hide_folder('1_1')">-</span>
+storage
+<ul id="fold1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #338800;">#23.1</span>
+
+</li>
+<li><span id="show1_1_1" class="foldclosed" onClick="show_folder('1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_1_1" class="foldopened" onClick="hide_folder('1_1_1')">-</span>
+<span style="color: #338800;">#23.2</span>
+<ul id="fold1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_1_1" class="foldclosed" onClick="show_folder('1_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_1_1_1" class="foldopened" onClick="hide_folder('1_1_1_1')">-</span>
+words
+<ul id="fold1_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>product separation
+
+</li>
+<li>post-processing separation step
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">#23.3</span>
+
+</li>
+<li><span id="show1_1_2" class="foldclosed" onClick="show_folder('1_1_2')" style="POSITION: absolute">+</span> <span id="hide1_1_2" class="foldopened" onClick="hide_folder('1_1_2')">-</span>
+<span style="color: #338800;">#23.3.1</span>
+<ul id="fold1_1_2" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_2_1" class="foldclosed" onClick="show_folder('1_1_2_1')" style="POSITION: absolute">+</span> <span id="hide1_1_2_1" class="foldopened" onClick="hide_folder('1_1_2_1')">-</span>
+words
+<ul id="fold1_1_2_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_2_1_1" class="foldclosed" onClick="show_folder('1_1_2_1_1')" style="POSITION: absolute">+</span> <span id="hide1_1_2_1_1" class="foldopened" onClick="hide_folder('1_1_2_1_1')">-</span>
+CO2 splitting
+<ul id="fold1_1_2_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>MW
+
+</li>
+<li>GA discharges
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_2_1_2" class="foldclosed" onClick="show_folder('1_1_2_1_2')" style="POSITION: absolute">+</span> <span id="hide1_1_2_1_2" class="foldopened" onClick="hide_folder('1_1_2_1_2')">-</span>
+CO2 conversion
+<ul id="fold1_1_2_1_2" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_2_1_2_1" class="foldclosed" onClick="show_folder('1_1_2_1_2_1')" style="POSITION: absolute">+</span> <span id="hide1_1_2_1_2_1" class="foldopened" onClick="hide_folder('1_1_2_1_2_1')">-</span>
+processing methods
+<ul id="fold1_1_2_1_2_1" style="POSITION: relative; VISIBILITY: visible;"><li>the dry reforming of methane (DRM)
+
+</li>
+<li><span id="show1_1_2_1_2_1_1" class="foldclosed" onClick="show_folder('1_1_2_1_2_1_1')" style="POSITION: absolute">+</span> <span id="hide1_1_2_1_2_1_1" class="foldopened" onClick="hide_folder('1_1_2_1_2_1_1')">-</span>
+the hydrogenation of CO2
+<ul id="fold1_1_2_1_2_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>=&gt; "inefficient in a plasma-only set-up"
+
+</li>
+
+</ul>
+</li>
+<li>artificial photosynthesis
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>co-reactant
+
+</li>
+<li>hydrogen source
+
+</li>
+<li>DRM
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">#23.3.2</span>
+
+</li>
+<li><span id="show1_1_3" class="foldclosed" onClick="show_folder('1_1_3')" style="POSITION: absolute">+</span> <span id="hide1_1_3" class="foldopened" onClick="hide_folder('1_1_3')">-</span>
+<span style="color: #338800;">#23.3.3</span>
+<ul id="fold1_1_3" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_3_1" class="foldclosed" onClick="show_folder('1_1_3_1')" style="POSITION: absolute">+</span> <span id="hide1_1_3_1" class="foldopened" onClick="hide_folder('1_1_3_1')">-</span>
+words
+<ul id="fold1_1_3_1" style="POSITION: relative; VISIBILITY: visible;"><li>catalysis
+
+</li>
+<li>electrolysis
+
+</li>
+<li>energy efficiency target
+
+</li>
+<li>solar-to-fuel conversion efficiency
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_4" class="foldclosed" onClick="show_folder('1_1_4')" style="POSITION: absolute">+</span> <span id="hide1_1_4" class="foldopened" onClick="hide_folder('1_1_4')">-</span>
+<span style="color: #338800;">#23.3.4</span>
+<ul id="fold1_1_4" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_4_1" class="foldclosed" onClick="show_folder('1_1_4_1')" style="POSITION: absolute">+</span> <span id="hide1_1_4_1" class="foldopened" onClick="hide_folder('1_1_4_1')">-</span>
+words
+<ul id="fold1_1_4_1" style="POSITION: relative; VISIBILITY: visible;"><li>trapping of the O2
+
+</li>
+<li>scavengers
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_5" class="foldclosed" onClick="show_folder('1_1_5')" style="POSITION: absolute">+</span> <span id="hide1_1_5" class="foldopened" onClick="hide_folder('1_1_5')">-</span>
+<span style="color: #338800;">#23.3.5</span>
+<ul id="fold1_1_5" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_5_1" class="foldclosed" onClick="show_folder('1_1_5_1')" style="POSITION: absolute">+</span> <span id="hide1_1_5_1" class="foldopened" onClick="hide_folder('1_1_5_1')">-</span>
+<span style="color: #990000;">about</span>
+<ul id="fold1_1_5_1" style="POSITION: relative; VISIBILITY: visible;"><li>In the long run
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_5_2" class="foldclosed" onClick="show_folder('1_1_5_2')" style="POSITION: absolute">+</span> <span id="hide1_1_5_2" class="foldopened" onClick="hide_folder('1_1_5_2')">-</span>
+<span style="color: #990000;">words</span>
+<ul id="fold1_1_5_2" style="POSITION: relative; VISIBILITY: visible;"><li>direct oxidative pathway
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_5_3" class="foldclosed" onClick="show_folder('1_1_5_3')" style="POSITION: absolute">+</span> <span id="hide1_1_5_3" class="foldopened" onClick="hide_folder('1_1_5_3')">-</span>
+<span style="color: #990000;">search</span>
+<ul id="fold1_1_5_3" style="POSITION: relative; VISIBILITY: visible;"><li><a href="https://3g2upl4pq6kufc4m.onion/?q=oxidative+pathway+meaning&ia=web" target="_blank"><span class=l>~</span>&nbsp;1. direct oxidative pathway plasma
+</a>
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_5_4" class="foldclosed" onClick="show_folder('1_1_5_4')" style="POSITION: absolute">+</span> <span id="hide1_1_5_4" class="foldopened" onClick="hide_folder('1_1_5_4')">-</span>
+<span style="color: #990000;">found</span>
+<ul id="fold1_1_5_4" style="POSITION: relative; VISIBILITY: visible;"><li><a href="http://bioprinciples.biosci.gatech.edu/module-3-molecules-membranes-and-metabolism/06-oxidative-pathways-electrons-from-food-to-electron-carriers/" target="_blank"><span class=l>~</span>&nbsp;1. Oxidative pathways: electrons from food to electron carriers
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_6" class="foldclosed" onClick="show_folder('1_1_6')" style="POSITION: absolute">+</span> <span id="hide1_1_6" class="foldopened" onClick="hide_folder('1_1_6')">-</span>
+<span style="color: #338800;">#23.3.6</span>
+<ul id="fold1_1_6" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_6_1" class="foldclosed" onClick="show_folder('1_1_6_1')" style="POSITION: absolute">+</span> <span id="hide1_1_6_1" class="foldopened" onClick="hide_folder('1_1_6_1')">-</span>
+<span style="color: #990000;">words</span>
+<ul id="fold1_1_6_1" style="POSITION: relative; VISIBILITY: visible;"><li>selectivity
+
+</li>
+<li>catalysts
+
+</li>
+
+</ul>
+</li>
+<li><span style="color: #990000;">info</span>
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_1_7" class="foldclosed" onClick="show_folder('1_1_7')" style="POSITION: absolute">+</span> <span id="hide1_1_7" class="foldopened" onClick="hide_folder('1_1_7')">-</span>
+<span style="color: #338800;">#23.3.7</span>
+<ul id="fold1_1_7" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_1_7_1" class="foldclosed" onClick="show_folder('1_1_7_1')" style="POSITION: absolute">+</span> <span id="hide1_1_7_1" class="foldopened" onClick="hide_folder('1_1_7_1')">-</span>
+<span style="color: #990000;">quotes</span>
+<ul id="fold1_1_7_1" style="POSITION: relative; VISIBILITY: visible;"><li>several important challenges remain
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_2" class="foldclosed" onClick="show_folder('1_2')" style="POSITION: absolute">+</span> <span id="hide1_2" class="foldopened" onClick="hide_folder('1_2')">-</span>
+<span style="color: #338800;">#23.4</span>
+<ul id="fold1_2" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_2_1" class="foldclosed" onClick="show_folder('1_2_1')" style="POSITION: absolute">+</span> <span id="hide1_2_1" class="foldopened" onClick="hide_folder('1_2_1')">-</span>
+<span style="color: #990000;">info</span>
+<ul id="fold1_2_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_2_1_1" class="foldclosed" onClick="show_folder('1_2_1_1')" style="POSITION: absolute">+</span> <span id="hide1_2_1_1" class="foldopened" onClick="hide_folder('1_2_1_1')">-</span>
+General challenges
+<ul id="fold1_2_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>==&gt; fundamental research
+
+</li>
+<li><span id="show1_2_1_1_1" class="foldclosed" onClick="show_folder('1_2_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_2_1_1_1" class="foldopened" onClick="hide_folder('1_2_1_1_1')">-</span>
+1) warm discharges
+<ul id="fold1_2_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>MW
+
+</li>
+<li><span id="show1_2_1_1_1_1" class="foldclosed" onClick="show_folder('1_2_1_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_2_1_1_1_1" class="foldopened" onClick="hide_folder('1_2_1_1_1_1')">-</span>
+GA
+<ul id="fold1_2_1_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>==&gt; the most energy-efficient dissociation pathway
+
+</li>
+
+</ul>
+</li>
+<li>==&gt; stimulate vibrational excitation
+
+</li>
+
+</ul>
+</li>
+<li>2) with catalysis
+
+</li>
+<li>3) in situ O/O2 trapping
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_2_2" class="foldclosed" onClick="show_folder('1_2_2')" style="POSITION: absolute">+</span> <span id="hide1_2_2" class="foldopened" onClick="hide_folder('1_2_2')">-</span>
+words
+<ul id="fold1_2_2" style="POSITION: relative; VISIBILITY: visible;"><li>non-equilibrium character
+
+</li>
+<li>SOEC
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_3" class="foldclosed" onClick="show_folder('1_3')" style="POSITION: absolute">+</span> <span id="hide1_3" class="foldopened" onClick="hide_folder('1_3')">-</span>
+<span style="color: #338800;">#23.4.1</span>
+<ul id="fold1_3" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_3_1" class="foldclosed" onClick="show_folder('1_3_1')" style="POSITION: absolute">+</span> <span id="hide1_3_1" class="foldopened" onClick="hide_folder('1_3_1')">-</span>
+info
+<ul id="fold1_3_1" style="POSITION: relative; VISIBILITY: visible;"><li>4) scale-up
+
+</li>
+<li>5) efficient power supplies
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_4" class="foldclosed" onClick="show_folder('1_4')" style="POSITION: absolute">+</span> <span id="hide1_4" class="foldopened" onClick="hide_folder('1_4')">-</span>
+<span style="color: #338800;">#23.5</span>
+<ul id="fold1_4" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_4_1" class="foldclosed" onClick="show_folder('1_4_1')" style="POSITION: absolute">+</span> <span id="hide1_4_1" class="foldopened" onClick="hide_folder('1_4_1')">-</span>
+about
+<ul id="fold1_4_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_4_1_1" class="foldclosed" onClick="show_folder('1_4_1_1')" style="POSITION: absolute">+</span> <span id="hide1_4_1_1" class="foldopened" onClick="hide_folder('1_4_1_1')">-</span>
+discharge-specific research challenges
+<ul id="fold1_4_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_4_1_1_1" class="foldclosed" onClick="show_folder('1_4_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_4_1_1_1" class="foldopened" onClick="hide_folder('1_4_1_1_1')">-</span>
+MW plasmas
+<ul id="fold1_4_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>energy efficiency
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_4_1_1_2" class="foldclosed" onClick="show_folder('1_4_1_1_2')" style="POSITION: absolute">+</span> <span id="hide1_4_1_1_2" class="foldopened" onClick="hide_folder('1_4_1_1_2')">-</span>
+DRM
+<ul id="fold1_4_1_1_2" style="POSITION: relative; VISIBILITY: visible;"><li>more research
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_4_1_1_3" class="foldclosed" onClick="show_folder('1_4_1_1_3')" style="POSITION: absolute">+</span> <span id="hide1_4_1_1_3" class="foldopened" onClick="hide_folder('1_4_1_1_3')">-</span>
+GA plasmas
+<ul id="fold1_4_1_1_3" style="POSITION: relative; VISIBILITY: visible;"><li>limited amount of gas
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_5" class="foldclosed" onClick="show_folder('1_5')" style="POSITION: absolute">+</span> <span id="hide1_5" class="foldopened" onClick="hide_folder('1_5')">-</span>
+<span style="color: #338800;">#23.5.1</span>
+<ul id="fold1_5" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_5_1" class="foldclosed" onClick="show_folder('1_5_1')" style="POSITION: absolute">+</span> <span id="hide1_5_1" class="foldopened" onClick="hide_folder('1_5_1')">-</span>
+<span style="color: #990000;">topics</span>
+<ul id="fold1_5_1" style="POSITION: relative; VISIBILITY: visible;"><li>some other plasma reactors
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">#23.5.2</span>
+
+</li>
+<li><span id="show1_6" class="foldclosed" onClick="show_folder('1_6')" style="POSITION: absolute">+</span> <span id="hide1_6" class="foldopened" onClick="hide_folder('1_6')">-</span>
+<span style="color: #338800;">#23.5.3</span>
+<ul id="fold1_6" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_6_1" class="foldclosed" onClick="show_folder('1_6_1')" style="POSITION: absolute">+</span> <span id="hide1_6_1" class="foldopened" onClick="hide_folder('1_6_1')">-</span>
+<span style="color: #990000;">info</span>
+<ul id="fold1_6_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_6_1_1" class="foldclosed" onClick="show_folder('1_6_1_1')" style="POSITION: absolute">+</span> <span id="hide1_6_1_1" class="foldopened" onClick="hide_folder('1_6_1_1')">-</span>
+a system
+<ul id="fold1_6_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>a high electron density (Ne)
+
+</li>
+<li>a low electron temperature (Te)
+
+</li>
+<li>a low reduced electric field (E/n)
+
+</li>
+<li>a low gas temperature (Tg)
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_6_2" class="foldclosed" onClick="show_folder('1_6_2')" style="POSITION: absolute">+</span> <span id="hide1_6_2" class="foldopened" onClick="hide_folder('1_6_2')">-</span>
+<span style="color: #990000;">words</span>
+<ul id="fold1_6_2" style="POSITION: relative; VISIBILITY: visible;"><li>vibrational excitation
+
+</li>
+<li>VT relaxation losses
+
+</li>
+<li>backward recombination reactions
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_7" class="foldclosed" onClick="show_folder('1_7')" style="POSITION: absolute">+</span> <span id="hide1_7" class="foldopened" onClick="hide_folder('1_7')">-</span>
+n:
+<ul id="fold1_7" style="POSITION: relative; VISIBILITY: visible;"><li>#23.6
+
+</li>
+
+</ul>
+</li>
+
+</ul><SCRIPT type="text/javascript">
+fold_document();
+</SCRIPT>
+</body>
+</html>
