@@ -74,7 +74,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1661319577443" FOLDED="true" ID="ID_1685695909" MODIFIED="1661319581601" TEXT="storage">
+<node CREATED="1661319577443" ID="ID_1685695909" MODIFIED="1664773918179" TEXT="storage">
 <node CREATED="1618886168751" ID="ID_1641120082" MODIFIED="1661319580354">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -131,8 +131,7 @@
       C:\WORKS_2\shortcuts_docs\log_files\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:&quot;=%
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -150,8 +149,7 @@
       log-session_JVE_57-programming.dat
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1661319544803" ID="ID_1866508024" LINK="C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_57-programming.log" MODIFIED="1661319552778">
 <richcontent TYPE="NODE"><html>
@@ -163,8 +161,7 @@
       log-session_JVE_57-programming.log
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1635584516358" ID="ID_900649522" MODIFIED="1653446767706" TEXT="links"/>

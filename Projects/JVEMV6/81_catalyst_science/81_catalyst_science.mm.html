@@ -1,0 +1,1163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>81. catalyst science</title>
+<style type="text/css">
+    li { list-style: none;  margin: 0; }
+    p { margin: 0; }
+    span.foldopened { color: white; font-size: xx-small;
+    border-width: 1; font-family: monospace; padding: 0em 0.25em 0em 0.25em; background: #e0e0e0;
+    VISIBILITY: visible;
+    cursor:pointer; }
+
+
+    span.foldclosed { color: #666666; font-size: xx-small;
+    border-width: 1; font-family: monospace; padding: 0em 0.25em 0em 0.25em; background: #e0e0e0;
+    VISIBILITY: hidden;
+    cursor:pointer; }
+
+    span.foldspecial { color: #666666; font-size: xx-small; border-style: none solid solid none;
+    border-color: #CCCCCC; border-width: 1; font-family: sans-serif; padding: 0em 0.1em 0em 0.1em; background: #e0e0e0;
+    cursor:pointer; }
+
+    span.l { color: red; font-weight: bold; }
+
+    a.mapnode:link {text-decoration: none; color: black; }
+    a.mapnode:visited {text-decoration: none; color: black; }
+    a.mapnode:active {text-decoration: none; color: black; }
+    a.mapnode:hover {text-decoration: none; color: black; background: #eeeee0; }
+
+</style>
+<!-- ^ Position is not set to relative / absolute here because of Mozilla -->
+</head>
+<body>
+
+<script type="text/javascript">
+   // Here we implement folding. It works fine with MSIE5.5, MSIE6.0 and
+   // Mozilla 0.9.6.
+
+   if (document.layers) {
+      //Netscape 4 specific code
+      pre = 'document.';
+      post = ''; }
+   if (document.getElementById) {
+      //Netscape 6 specific code
+      pre = 'document.getElementById("';
+      post = '").style'; }
+   if (document.all) {
+      //IE4+ specific code
+      pre = 'document.all.';
+      post = '.style'; }
+
+function layer_exists(layer) {
+   try {
+      eval(pre + layer + post);
+      return true; }
+   catch (error) {
+      return false; }}
+
+function show_layer(layer) {
+   eval(pre + layer + post).position = 'relative'; 
+   eval(pre + layer + post).visibility = 'visible'; }
+
+function hide_layer(layer) {
+   eval(pre + layer + post).visibility = 'hidden';
+   eval(pre + layer + post).position = 'absolute'; }
+
+function hide_folder(folder) {
+    hide_folding_layer(folder)
+    show_layer('show'+folder);
+
+    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+}
+
+function show_folder(folder) {
+    // Precondition: all subfolders are folded
+
+    show_layer('hide'+folder);
+    hide_layer('show'+folder);
+    show_layer('fold'+folder);
+
+    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+
+    var i;
+    for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       show_layer('show'+folder+'_'+i); }
+}
+function show_folder_completely(folder) {
+    // Precondition: all subfolders are folded
+
+    show_layer('hide'+folder);
+    hide_layer('show'+folder);
+    show_layer('fold'+folder);
+
+    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+
+    var i;
+    for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       show_folder_completely(folder+'_'+i); }
+}
+
+
+
+function hide_folding_layer(folder) {
+   var i;
+   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       hide_folding_layer(folder+'_'+i); }
+
+   hide_layer('hide'+folder);
+   hide_layer('show'+folder);
+   hide_layer('fold'+folder);
+
+   scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
+}
+
+function fold_document() {
+   var i;
+   var folder = '1';
+   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       hide_folder(folder+'_'+i); }
+}
+
+function unfold_document() {
+   var i;
+   var folder = '1';
+   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
+       show_folder_completely(folder+'_'+i); }
+}
+
+</script>
+<SPAN class="foldspecial" onclick="fold_document()">All +</SPAN>
+<SPAN class="foldspecial" onclick="unfold_document()">All -</SPAN>
+<p><a href="../../JVEMV6.mm.html" target="_blank"><span class=l>~</span>&nbsp;81. catalyst science
+</a>
+<ul><li>utils
+<ul><li><a href="C:\WORKS_2\t.bat" target="_blank"><span class=l>~</span>&nbsp;time
+</a>
+
+</li>
+<li>console
+<ul><li>e3
+
+</li>
+
+</ul>
+</li>
+<li>git
+<ul><li>2
+<ul><li><span id="show1_1" class="foldclosed" onClick="show_folder('1_1')" style="POSITION: absolute">+</span> <span id="hide1_1" class="foldopened" onClick="hide_folder('1_1')">-</span>
+backup
+<ul id="fold1_1" style="POSITION: relative; VISIBILITY: visible;"><li>1
+<ul><li>mm file
+<ul><li><a href="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0" target="_blank"><span class=l>~</span>&nbsp;C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0
+</a>
+
+</li>
+<li><a href="F:\backup_20220505_151606\JVE_68_physics_related" target="_blank"><span class=l>~</span>&nbsp;F:\backup_20220505_151606\JVE_68_physics_related
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>2
+<ul><li><a href="C:\WORKS_2\shortcuts_docs" target="_blank"><span class=l>~</span>&nbsp;C:\WORKS_2\shortcuts_docs
+</a>
+<ul><li>C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.dat
+
+</li>
+<li>C:\WORKS_2\shortcuts_docs\log-session_JVE_68_tp.log
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>1
+<ul><li><a href="C:\WORKS_2\shortcuts_docs\end_batch\end_log_JVE_81_catalyst_science_git.bat" target="_blank"><span class=l>~</span>&nbsp;&#xd;&#xa;    <p>&#xd;&#xa;      end : git&#xd;&#xa;    </p>&#xd;&#xa;  
+</a>
+
+</li>
+<li><a href="C:\WORKS_2\shortcuts_docs\end_batch\end_log_JVE_68.[tp_v-2.0].bat" target="_blank"><span class=l>~</span>&nbsp;&#xd;&#xa;    <p>&#xd;&#xa;      end apps&#xd;&#xa;    </p>&#xd;&#xa;  
+</a>
+
+</li>
+
+</ul>
+</li>
+<li>console
+<ul><li>&#xa;    <p>&#xa;      sakura &quot;C:\WORKS_2\shortcuts_docs\end_batch\end_log_JVE_68.[tp_v-2.0].[git].bat&quot;&#xa;    </p>&#xa;  
+</li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li>files
+<ul><li><a href="C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_81_catalyst_science.log" target="_blank"><span class=l>~</span>&nbsp;&#xa;    <p>&#xa;      log-session_JVE_81_catalyst_science.log&#xa;    </p>&#xa;  
+</a>
+<a href="C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_81_catalyst_science.dat" target="_blank"><span class=l>~</span>&nbsp;&#xa;    <p>&#xa;      log-session_JVE_81_catalyst_science.dat&#xa;    </p>&#xa;  
+</a>
+</li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li>sessions
+<ul><li><span id="show1_2" class="foldclosed" onClick="show_folder('1_2')" style="POSITION: absolute">+</span> <span id="hide1_2" class="foldopened" onClick="hide_folder('1_2')">-</span>
+s-1~
+<ul id="fold1_2" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_2_1" class="foldclosed" onClick="show_folder('1_2_1')" style="POSITION: absolute">+</span> <span id="hide1_2_1" class="foldopened" onClick="hide_folder('1_2_1')">-</span>
+<span style="color: #338800;">s-1</span>
+<ul id="fold1_2_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_2_1_1" class="foldclosed" onClick="show_folder('1_2_1_1')" style="POSITION: absolute">+</span> <span id="hide1_2_1_1" class="foldopened" onClick="hide_folder('1_2_1_1')">-</span>
+do
+<ul id="fold1_2_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>1
+<ul><li><a href="https://duckduckgo.com/?q=&#x89e6;&#x5a92;+&#x8b1b;&#x7fa9;&#x30ce;&#x30fc;&#x30c8;&ia=web" target="_blank"><span class=l>~</span>&nbsp;<span style="color: #006633;">s: &#35302;&#23186;+&#35611;&#32681;&#12494;&#12540;&#12488;</span>
+</a>
+<ul><li>&#xa;    <p>&#xa;      r-1-1~1.1 / &#21270;&#23398;&#21560;&#30528;&#12392;&#35302;&#23186;&#20316;&#29992; / kyoto-u.ac.jp https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/89175/1/KJ00004808461.pdf&#xa;    </p>&#xa;  
+<p><a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201902914" target="_blank"><span class=l>~</span>&nbsp;&#35611;&#32681;&#12398;&#27010;&#35201;&#12392;&#12397;&#12425;&#12356;
+</a>
+<a href="https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/89176/1/KJ00004808460.pdf" target="_blank"><span class=l>~</span>&nbsp;&#xa;    <p>&#xa;      &#22266;&#20307;&#34920;&#38754;&#12398;&#38651;&#23376;&#35542; / kyoto-u.ac.jp https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/89176/1/KJ00004808460.pdf&#xa;    </p>&#xa;  
+</a>
+</li>
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>n:
+<ul><li>X
+<ul><li>ANY
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #990000;">20220913_180428/</span>
+
+</li>
+<li><span style="color: #990000;">/20220913_180656</span>
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_2_2" class="foldclosed" onClick="show_folder('1_2_2')" style="POSITION: absolute">+</span> <span id="hide1_2_2" class="foldopened" onClick="hide_folder('1_2_2')">-</span>
+<span style="color: #338800;">s-2</span>
+<ul id="fold1_2_2" style="POSITION: relative; VISIBILITY: visible;"><li>do
+<ul><li><span style="color: #338800;">1</span>
+<ul><li>r-n
+<ul><li>r-1-1~1.1 / &#21270;&#23398;&#21560;&#30528;&#12392;&#35302;&#23186;&#20316;&#29992;&nbsp;/ kyoto-u.ac.jp
+
+</li>
+
+</ul>
+</li>
+<li><span style="color: #990000;">/20220914_164734</span>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>n:
+<ul><li>X
+<ul><li>r-c
+<ul><li>r-1-1~1.1 / &#21270;&#23398;&#21560;&#30528;&#12392;&#35302;&#23186;&#20316;&#29992;&nbsp;/ kyoto-u.ac.jp
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>X
+
+</li>
+
+</ul>
+</li>
+<li><span style="color: #990000;">20220914_144330/</span>
+
+</li>
+<li><span style="color: #990000;">/20220914_164734</span>
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_2_3" class="foldclosed" onClick="show_folder('1_2_3')" style="POSITION: absolute">+</span> <span id="hide1_2_3" class="foldopened" onClick="hide_folder('1_2_3')">-</span>
+<span style="color: #338800;">s-3</span>
+<ul id="fold1_2_3" style="POSITION: relative; VISIBILITY: visible;"><li>do
+<ul><li><span style="color: #338800;">1</span>
+<ul><li>r-c
+<ul><li>r-1-1~1.1 / &#21270;&#23398;&#21560;&#30528;&#12392;&#35302;&#23186;&#20316;&#29992;&nbsp;/ kyoto-u.ac.jp
+
+</li>
+
+</ul>
+</li>
+<li><span style="color: #990000;">/20220916_114105</span>
+
+</li>
+
+</ul>
+</li>
+<li>2
+<ul><li>r-c
+<ul><li>r-1-1~1.1 / &#21270;&#23398;&#21560;&#30528;&#12392;&#35302;&#23186;&#20316;&#29992;&nbsp;/ kyoto-u.ac.jp
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #990000;">20220916_154043/</span>
+
+</li>
+<li>X
+
+</li>
+
+</ul>
+</li>
+<li>n:
+<ul><li>X
+
+</li>
+
+</ul>
+</li>
+<li><span style="color: #990000;">20220916_095040/</span>
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_2_4" class="foldclosed" onClick="show_folder('1_2_4')" style="POSITION: absolute">+</span> <span id="hide1_2_4" class="foldopened" onClick="hide_folder('1_2_4')">-</span>
+<span style="color: #338800;">s-4</span>
+<ul id="fold1_2_4" style="POSITION: relative; VISIBILITY: visible;"><li>do
+<ul><li><span style="color: #338800;">1</span>
+<ul><li>r-c
+<ul><li>r-1-1~1.1 / &#21270;&#23398;&#21560;&#30528;&#12392;&#35302;&#23186;&#20316;&#29992;&nbsp;/ kyoto-u.ac.jp
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>n:
+<ul><li>X
+
+</li>
+<li>r-c
+<ul><li>r-1-1~1.1 / &#21270;&#23398;&#21560;&#30528;&#12392;&#35302;&#23186;&#20316;&#29992;&nbsp;/ kyoto-u.ac.jp
+
+</li>
+
+</ul>
+</li>
+<li>X
+
+</li>
+
+</ul>
+</li>
+<li><span style="color: #990000;">20220919_161356/</span>
+
+</li>
+<li><span style="color: #990000;">/20220919_175250</span>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">s-5</span>
+<ul><li>do
+<ul><li><span style="color: #338800;">1</span>
+<ul><li>r-c
+<ul><li>r-1-1~1.1 / &#21270;&#23398;&#21560;&#30528;&#12392;&#35302;&#23186;&#20316;&#29992;&nbsp;/ kyoto-u.ac.jp
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>X
+
+</li>
+
+</ul>
+</li>
+<li>n:
+<ul><li>X
+
+</li>
+<li>r-c
+<ul><li>r-1-1~1.1 / &#21270;&#23398;&#21560;&#30528;&#12392;&#35302;&#23186;&#20316;&#29992;&nbsp;/ kyoto-u.ac.jp
+
+</li>
+
+</ul>
+</li>
+<li>X
+
+</li>
+
+</ul>
+</li>
+<li><span style="color: #990000;">20220924_140012/</span>
+
+</li>
+<li><span style="color: #990000;">/20220924_171926</span>
+
+</li>
+
+</ul>
+</li>
+<li>s-6
+<ul><li>n:
+<ul><li>X
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><a href="C:\WORKS_2\t.bat" target="_blank"><span class=l>~</span>&nbsp;time
+</a>
+
+</li>
+<li>storage
+<ul><li>s-7
+<ul><li>n:
+<ul><li>X
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>s-
+<ul><li>n:
+<ul><li>X
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>read
+<ul><li>1 / r-1 / initial
+<ul><li>r-1-1 / init
+<ul><li>r-1-1~1 / initial docs
+<ul><li>s: &#35302;&#23186;+&#35611;&#32681;&#12494;&#12540;&#12488;
+
+</li>
+<li>~1.1
+<ul><li>r-1-1~1.1 / 
+<ul><li><a href="https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/89175/1/KJ00004808461.pdf" target="_blank"><span class=l>~</span>&nbsp;&#xa;    <p>&#xa;      r-1-1~1.1 / &#21270;&#23398;&#21560;&#30528;&#12392;&#35302;&#23186;&#20316;&#29992; / kyoto-u.ac.jp&#xa;    </p>&#xa;  
+</a>
+<ul><li><span style="color: #006699;">texts</span>
+<ul><li><span id="show1_3" class="foldclosed" onClick="show_folder('1_3')" style="POSITION: absolute">+</span> <span id="hide1_3" class="foldopened" onClick="hide_folder('1_3')">-</span>
+#1~
+<ul id="fold1_3" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #338800;">#1 1. &#12399;&nbsp;&#12376;&nbsp;&#12417;&nbsp;&#12395;</span>
+
+</li>
+<li><span id="show1_3_1" class="foldclosed" onClick="show_folder('1_3_1')" style="POSITION: absolute">+</span> <span id="hide1_3_1" class="foldopened" onClick="hide_folder('1_3_1')">-</span>
+<span style="color: #338800;">#2 2.&#35302;&#23186;&#21453;&#24540;&#12395;&#12362;&#12369;&#12427;&#21270;&#23398;&#21560;</span>
+<ul id="fold1_3_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_3_1_1" class="foldclosed" onClick="show_folder('1_3_1_1')" style="POSITION: absolute">+</span> <span id="hide1_3_1_1" class="foldopened" onClick="hide_folder('1_3_1_1')">-</span>
+<span style="color: #006699;">words</span>
+<ul id="fold1_3_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#21270;&#23398;&#21560;&#30528;
+<ul><li><span style="color: #006699;">docs</span>
+<ul><li><a href="https://pl.wikipedia.org/wiki/Chemisorpcja" target="_blank"><span class=l>~</span>&nbsp;Chemisorpcja / wi https://pl.wikipedia.org/wiki/Chemisorpcja
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">.1 &#12371;&#12398;&#20108;&#27573;&#38542;&#12398;&#21453;&#24540;</span>
+<ul><li><span id="show1_3_1_2" class="foldclosed" onClick="show_folder('1_3_1_2')" style="POSITION: absolute">+</span> <span id="hide1_3_1_2" class="foldopened" onClick="hide_folder('1_3_1_2')">-</span>
+<span style="color: #006699;">words</span>
+<ul id="fold1_3_1_2" style="POSITION: relative; VISIBILITY: visible;"><li>chain carrier
+<ul><li><a href="https://es.wikipedia.org/wiki/Propagaci&#xf3;n_en_cadena" target="_blank"><span class=l>~</span>&nbsp;https://es.wikipedia.org/wiki/Propagaci&#243;n_en_cadena
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">.2 &#20855;&#20307;&#30340;&#12394;&#20363;&nbsp;&#12392;&#12375;&#12390;,&#37509;&#12398;&#19978;</span>
+
+</li>
+<li><span style="color: #338800;">.3 &#12392;&#12371;&#12429;&#12364;,&#21516;&#12376;&#37329;&#23646; &#12391;&#12418;</span>
+
+</li>
+<li><span style="color: #338800;">.4 &#12427;&#65377;&nbsp;&#12354;&#12427;&#29289;&#36074;&#12364;&#35302;&#23186;&#12395;&#12394;&nbsp;&#12427;&#12383;</span>
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_3_2" class="foldclosed" onClick="show_folder('1_3_2')" style="POSITION: absolute">+</span> <span id="hide1_3_2" class="foldopened" onClick="hide_folder('1_3_2')">-</span>
+<span style="color: #338800;">#2-1 &#12392;&#12371;&#12429;&#12391;, &#12354;&#12427;&#29289;&#36074;&#12364;&nbsp;&#30446;&#30340;</span>
+<ul id="fold1_3_2" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #006699;">words</span>
+<ul><li>&#36984;&#25246;&#24615;
+
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">.1 &#20363;&#31034;&#12377;&#12427;&#12392;, &#12462;&#37240;HCOOH&#12398;</span>
+
+</li>
+<li><span style="color: #338800;">.2 &#12414;&#12383;,CO&#12392;H2&#12392;</span>
+
+</li>
+<li><span style="color: #338800;">.3 &#12371;&#12398;&#36984;&#25246;&#24615;&#12398;&#21839;&#38988;&nbsp;&#12418;</span>
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_3_3" class="foldclosed" onClick="show_folder('1_3_3')" style="POSITION: absolute">+</span> <span id="hide1_3_3" class="foldopened" onClick="hide_folder('1_3_3')">-</span>
+<span style="color: #338800;">#2-2 ,&#12356;&#12429;&#12356;&#12429;&#12394;&#12471;&#12522;&#12459;&#25285;&#25345;&#37329;&#23646;&#35302;</span>
+<ul id="fold1_3_3" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #006699;">words</span>
+<ul><li><span id="show1_3_3_1" class="foldclosed" onClick="show_folder('1_3_3_1')" style="POSITION: absolute">+</span> <span id="hide1_3_3_1" class="foldopened" onClick="hide_folder('1_3_3_1')">-</span>
+<a href="https://ja.wikipedia.org/wiki/&#x30b7;&#x30ea;&#x30ab;" target="_blank"><span class=l>~</span>&nbsp;&#12471;&#12522;&#12459; / wi https://ja.wikipedia.org/wiki/&#12471;&#12522;&#12459;
+</a>
+<ul id="fold1_3_3_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_3_3_1_1" class="foldclosed" onClick="show_folder('1_3_3_1_1')" style="POSITION: absolute">+</span> <span id="hide1_3_3_1_1" class="foldopened" onClick="hide_folder('1_3_3_1_1')">-</span>
+<a href="https://duckduckgo.com/?q=&#x30b7;&#x30ea;&#x30ab;&#x62c5;&#x6301;&#x91d1;&#x5c5e;&ia=web" target="_blank"><span class=l>~</span>&nbsp;<span style="color: #006633;">&#xa;    <p>&#xa;      s: &#12471;&#12522;&#12459;&#25285;&#25345;&#37329;&#23646;&#xa;    </p>&#xa;  </span>
+</a>
+<ul id="fold1_3_3_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_3_3_1_1_1" class="foldclosed" onClick="show_folder('1_3_3_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_3_3_1_1_1" class="foldopened" onClick="hide_folder('1_3_3_1_1_1')">-</span>
+<a href="https://www.jstage.jst.go.jp/article/jpi/54/2/54_2_80/_article/-char/ja/" target="_blank"><span class=l>~</span>&nbsp;&#xa;    <p>&#xa;      &#12471;&#12522;&#12459;&#12391;&#12398;&#34987;&#35206;&#12395;&#12424;&#12427;&#12459;&#12540;&#12508;&#12531;&#12490;&#12494;&#12481;&#12517;&#12540;&#12502;&#25285;&#25345;&#37329;&#23646;&#12490;&#12494;&#31890;&#23376;&#35302;&#23186;&#12398;&#xa;    </p>&#xa;    <p>&#xa;      &#39640;&#27231;&#33021;&#21270;&#160;/ jst.go.jp&#160;https://www.jstage.jst.go.jp/article/jpi/54/2/54_2_80/_article/-char/ja/&#xa;    </p>&#xa;  
+</a>
+<ul id="fold1_3_3_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_3_3_1_1_1_1" class="foldclosed" onClick="show_folder('1_3_3_1_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_3_3_1_1_1_1" class="foldopened" onClick="hide_folder('1_3_3_1_1_1_1')">-</span>
+<span style="color: #006699;">words</span>
+<ul id="fold1_3_3_1_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#35302;&#23186;&#25285;&#20307;
+<ul><li><a href="https://duckduckgo.com/?q=&#x89e6;&#x5a92;&#x62c5;&#x4f53;&ia=web" target="_blank"><span class=l>~</span>&nbsp;<span style="color: #006633;">&#xa;    <p>&#xa;      s: &#35302;&#23186;&#25285;&#20307;&#xa;    </p>&#xa;  </span>
+</a>
+<ul><li><span id="show1_3_3_1_1_1_1_1" class="foldclosed" onClick="show_folder('1_3_3_1_1_1_1_1')" style="POSITION: absolute">+</span> <span id="hide1_3_3_1_1_1_1_1" class="foldopened" onClick="hide_folder('1_3_3_1_1_1_1_1')">-</span>
+<span style="color: #006699;">docs</span>
+<ul id="fold1_3_3_1_1_1_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><p><a href="https://www.jstage.jst.go.jp/article/nikkashi1972/1972/9/1972_9_1603/_pdf" target="_blank"><span class=l>~</span>&nbsp;&#37329;&#23646;&#35302;&#23186;&#20307;&#29992;&#12471; &#12522;&#12459;&#12461;&#12475;&#12525;&#12466;&#12523;&#25285;&#20307;&#12398;&#29289;&#29702;&#27083;&#36896;&nbsp;&#12392;&#25285;&#20307;&#20316;&#29992;&nbsp;/ jst.go.jp https://www.jstage.jst.go.jp/article/nikkashi1972/1972/9/1972_9_1603/_pdf
+</a>
+<p><a href="https://patents.google.com/patent/JPH06127932A/ja" target="_blank"><span class=l>~</span>&nbsp;&#37329;&#23646;&#37240;&#21270;&#29289;&#25285;&#25345;&#12471;&#12522;&#12459;&#12362;&#12424;&#12403;&#12381;&#12398;&#35069;&#36896;&#26041;&#27861; / patents.google https://patents.google.com/patent/JPH06127932A/ja
+</a>
+<p><a href="https://www.jstage.jst.go.jp/article/nikkashi1972/1990/1/1990_1_12/_pdf/-char/ja" target="_blank"><span class=l>~</span>&nbsp;&#12471; &#12522;&#12459;&#25285;&#25345;&nbsp;&#12491;&#12483;&#12465;&#12523;&#35302;&#23186;&#12398;&#27083;&#36896;&nbsp;&#12392;&#35302;&#23186;&#27963;&#24615;&#12395;&#12362;&nbsp;&#12424;&#12412;&#12378;&#12491;&#12483;&nbsp;&#12465;&#12523;&#20986;&#30330;&#21407;&#26009;&#12398;&#24433;&#38911;&nbsp;/ jst.go.jp https://www.jstage.jst.go.jp/article/nikkashi1972/1990/1/1990_1_12/_pdf/-char/ja
+</a>
+<p><a href="https://www.iwatani.co.jp/jpn/business/material/resources-advanced/products/catalyst-carrier/" target="_blank"><span class=l>~</span>&nbsp;&#12450;&#12523;&#12511;&#12490;&#12539;&#12473;&#12486;&#12450;&#12479;&#12452;&#12488;&#12394;&#12393;&#39640;&#21697;&#36074;&#12394;&#35302;&#23186;&#25285;&#20307;&#12434;&#23433;&#23450;&#20379;&#32102; / iwatani.co.jp https://www.iwatani.co.jp/jpn/business/material/resources-advanced/products/catalyst-carrier/
+</a>
+</li>
+</ul>
+</li>
+
+</ul></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_3_3_1_1_1_2" class="foldclosed" onClick="show_folder('1_3_3_1_1_1_2')" style="POSITION: absolute">+</span> <span id="hide1_3_3_1_1_1_2" class="foldopened" onClick="hide_folder('1_3_3_1_1_1_2')">-</span>
+<span style="color: #006699;">memos</span>
+<ul id="fold1_3_3_1_1_1_2" style="POSITION: relative; VISIBILITY: visible;"><li>&#12471;&#12522;&#12459;&#12391;&#34987;&#35206;&#12377;&#12427;&#12371;&#12392;&#12391;[...]&#33073;&#33853;&#12434;&#25233;&#21046;
+
+</li>
+
+</ul>
+</li>
+
+</ul></li>
+</ul></li>
+</ul>
+</li>
+<li><span id="show1_3_3_2" class="foldclosed" onClick="show_folder('1_3_3_2')" style="POSITION: absolute">+</span> <span id="hide1_3_3_2" class="foldopened" onClick="hide_folder('1_3_3_2')">-</span>
+IR&#21560;&#21454;&#12473;&#12506;&#12463;&#12488;&#12523;
+<ul id="fold1_3_3_2" style="POSITION: relative; VISIBILITY: visible;"><li><a href="https://duckduckgo.com/?q=&#x4e00;&#x9178;&#x5316;&#x70ad;&#x7d20;+&#x5438;&#x53ce;&#x30b9;&#x30da;&#x30af;&#x30c8;&#x30eb;&ia=web" target="_blank"><span class=l>~</span>&nbsp;<span style="color: #006633;">&#xa;    <p>&#xa;      s: &#19968;&#37240;&#21270;&#28845;&#32032;+&#21560;&#21454;&#12473;&#12506;&#12463;&#12488;&#12523;&#xa;    </p>&#xa;  </span>
+</a>
+<ul><li><span id="show1_3_3_2_1" class="foldclosed" onClick="show_folder('1_3_3_2_1')" style="POSITION: absolute">+</span> <span id="hide1_3_3_2_1" class="foldopened" onClick="hide_folder('1_3_3_2_1')">-</span>
+<span style="color: #006699;">docs</span>
+<ul id="fold1_3_3_2_1" style="POSITION: relative; VISIBILITY: visible;"><li><a href="https://www.jstage.jst.go.jp/article/shikizai1937/69/11/69_784/_pdf/-char/ja" target="_blank"><span class=l>~</span>&nbsp;&#xa;    <p>&#xa;      FT-IR&#20998; &#20809; &#27861; &#12395;&#12424;&#12427;&#26448;&#26009;&#35299;&#26512; / jst.go.jp&#xa;    </p>&#xa;    <p>&#xa;      &#160;https://www.jstage.jst.go.jp/article/shikizai1937/69/11/69_784/_pdf/-char/ja&#xa;    </p>&#xa;  
+</a>
+<ul><li><span style="color: #338800;">#1 &#12399;&nbsp;&#12376;&#12417;&nbsp;&#12395;</span>
+
+</li>
+<li>n: &#36196;&#22806;&nbsp;&#21560;&#21454;&nbsp;&#12473;&#12506;&nbsp;&#12463;&nbsp;&#12488;&#12523;&#12364;&#29305;&nbsp;&#12395;&#26377;&#27231;&#29289;&#36074;
+<ul><li><span style="color: #990000;">20220914_164612</span>
+
+</li>
+
+</ul>
+</li>
+
+</ul><p>https://www.jstage.jst.go.jp/article/shikizai1937/69/11/69_784/_pdf/-char/ja
+<p><a href="http://www.erc.pref.fukui.jp/erc/measure/m-co.html" target="_blank"><span class=l>~</span>&nbsp;&#19968;&#37240;&#21270;&#28845;&#32032;&#33258;&#21205;&#28204;&#23450;&#27231;&#12398;&#28204;&#23450;&#21407;&#29702; / pref.fukui.jp http://www.erc.pref.fukui.jp/erc/measure/m-co.html
+</a>
+</li>
+</ul>
+</li>
+
+</ul></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">.1 CO&#12399;, Cu&#12420; Pt&#12398; &#19978;&#12391;&#12399;</span>
+
+</li>
+<li><span style="color: #338800;">.2 &#12373;&#12390;,&#35302;&#23186;&#19978;-&#12398;&#21453;&#24540;&#29289;&#36074;&#12398;&#21270;</span>
+
+</li>
+
+</ul>
+</li>
+<li>#3/
+<ul><li><span id="show1_3_4" class="foldclosed" onClick="show_folder('1_3_4')" style="POSITION: absolute">+</span> <span id="hide1_3_4" class="foldopened" onClick="hide_folder('1_3_4')">-</span>
+<span style="color: #338800;">#3 3. &#35302;&#23186;&#21453;&#24540;&nbsp;&#12392;&#21270;&#23398;&#21560;&#30528;</span>
+<ul id="fold1_3_4" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #338800;">.1 &#12466;&#12523;&#12510;&#12531;&#12398;&#20998;&#35299;&#21453;</span>
+<ul><li><span id="show1_3_4_1" class="foldclosed" onClick="show_folder('1_3_4_1')" style="POSITION: absolute">+</span> <span id="hide1_3_4_1" class="foldopened" onClick="hide_folder('1_3_4_1')">-</span>
+<span style="color: #006699;">words</span>
+<ul id="fold1_3_4_1" style="POSITION: relative; VISIBILITY: visible;"><li>&#12466;&#12523;&#12510;&#12531;
+<ul><li><span id="show1_3_4_1_1" class="foldclosed" onClick="show_folder('1_3_4_1_1')" style="POSITION: absolute">+</span> <span id="hide1_3_4_1_1" class="foldopened" onClick="hide_folder('1_3_4_1_1')">-</span>
+<a href="https://duckduckgo.com/?q=&#x30b2;&#x30eb;&#x30de;&#x30f3;+&#x71b1;&#x5206;&#x89e3;&ia=web" target="_blank"><span class=l>~</span>&nbsp;<span style="color: #006633;">&#xa;    <p>&#xa;      s: &#12466;&#12523;&#12510;&#12531;+&#29105;&#20998;&#35299;&#xa;    </p>&#xa;  </span>
+</a>
+<ul id="fold1_3_4_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><a href="https://ja.wikipedia.org/wiki/&#x30b2;&#x30eb;&#x30de;&#x30f3;_" target="_blank"><span class=l>~</span>&nbsp;&#12466;&#12523;&#12510;&#12531;_(&#21270;&#21512;&#29289;) / wi https://ja.wikipedia.org/wiki/&#12466;&#12523;&#12510;&#12531;_(&#21270;&#21512;&#29289;)
+</a>
+
+</li>
+
+</ul></li>
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">#3.2 &#26032;&#39854;&nbsp;&#12394;&nbsp;Ge&#34920;&#38754;&#12391;&#12398;&#27700;&#32032;&#12398;&#21560;&#30528;&#23455;</span>
+<ul><li><span style="color: #006699;">words</span>
+<ul><li><span id="show1_3_4_2" class="foldclosed" onClick="show_folder('1_3_4_2')" style="POSITION: absolute">+</span> <span id="hide1_3_4_2" class="foldopened" onClick="hide_folder('1_3_4_2')">-</span>
+&#35299;&#38626;&#21560;&#30528;
+<ul id="fold1_3_4_2" style="POSITION: relative; VISIBILITY: visible;"><li><p><a href="https://kotobank.jp/word/&#x89e3;&#x96e2;&#x5438;&#x7740;-2124822" target="_blank"><span class=l>~</span>&nbsp;https://kotobank.jp/word/&#35299;&#38626;&#21560;&#30528;-2124822
+</a>
+<ul><li><span style="color: #006699;">memos</span>
+<ul><li>&#35299;&#38626;&#21560;&#30528;&#12399;&#12375;&#12400;&#12375;&#12400;&#19981;&#21487;&#36870;&#30340;
+
+</li>
+<li>&#20998;&#23376;&#20869;&#32080;&#21512;&#12364;&#20999;&#26029;
+
+</li>
+
+</ul>
+</li>
+
+</ul><p><a href="https://www.jstage.jst.go.jp/article/materia1994/34/2/34_2_106/_pdf" target="_blank"><span class=l>~</span>&nbsp;&#37329;&#23646; &#12392;&#37329;&#23646;&#37240;&#21270;&#29289;&#34920;&#38754;&#12408;&#12398;&#27700;&#32032;&#12398;&#21560;&#30528;&nbsp;&#12392;&#21270;&#23398;&#21453;&#24540;&nbsp;/ jst.go.jp https://www.jstage.jst.go.jp/article/materia1994/34/2/34_2_106/_pdf
+</a>
+<p><a href="http://www2.meijo-u.ac.jp/~tnagata/education/react/2019/react_13_slides.pdf" target="_blank"><span class=l>~</span>&nbsp;&#21560;&#30528;&#65306;&#22266;&#20307;&#34920;&#38754;&#12395;&#30064;&#31278;&#29289;&#36074;&#12364;&#20184;&#30528;&#12377;&#12427;&#29694;&#35937; / meijo-u.ac.jp http://www2.meijo-u.ac.jp/~tnagata/education/react/2019/react_13_slides.pdf
+</a>
+<p><a href="https://www.jstage.jst.go.jp/article/jsssj/28/10/28_10_548/_pdf" target="_blank"><span class=l>~</span>&nbsp;TiO2(110)&#34920;&#38754;&#12398;&#27700;&#12398;&#21560;&#30528; / jst.go.jp https://www.jstage.jst.go.jp/article/jsssj/28/10/28_10_548/_pdf
+</a>
+<p><a href="http://sekatsu-kagaku.sub.jp/surface-chemistry.htm#a" target="_blank"><span class=l>~</span>&nbsp;&#30028;&#38754;&#21270;&#23398; / sekatsu-kagaku.sub http://sekatsu-kagaku.sub.jp/surface-chemistry.htm#a
+</a>
+</li>
+</ul>
+</li>
+<li>&#21560;&#30528;&#31561;&#28201;&#24335;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">#3.3 &#20998;&#35299;&#21453;&#24540;&#20013;, (&#22025; &#34920;&#38754;&#12399;</span>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_4" class="foldclosed" onClick="show_folder('1_4')" style="POSITION: absolute">+</span> <span id="hide1_4" class="foldopened" onClick="hide_folder('1_4')">-</span>
+<span style="color: #338800;">#3-1 &#35302;&#23186;&#12398;&#38651;&#23376;&#29366;&#24907;&nbsp;&#12392;&#35302;&#23186;&#21453;&#24540;</span>
+<ul id="fold1_4" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #006699;">words</span>
+<ul><li><span id="show1_4_1" class="foldclosed" onClick="show_folder('1_4_1')" style="POSITION: absolute">+</span> <span id="hide1_4_1" class="foldopened" onClick="hide_folder('1_4_1')">-</span>
+<span style="color: #990000;">&#12472;&#12513;&#12488;&#12461;&#12471;&#12456;&#12479;&#12531;</span>
+<ul id="fold1_4_1" style="POSITION: relative; VISIBILITY: visible;"><li><a href="https://ja.wikipedia.org/wiki/1" target="_blank"><span class=l>~</span>&nbsp;1,2-&#12472;&#12513;&#12488;&#12461;&#12471;&#12456;&#12479;&#12531; / wi https://ja.wikipedia.org/wiki/1,2-&#12472;&#12513;&#12488;&#12461;&#12471;&#12456;&#12479;&#12531;
+</a>
+<ul><li><span style="color: #006699;">memos</span>
+<ul><li>&#12456;&#12540;&#12486;&#12523;&#31995;&#28342;&#23186;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #006699;">related</span>
+<ul><li><a href="https://ja.wikipedia.org/wiki/&#x30e1;&#x30c8;&#x30ad;&#x30b7;&#x57fa;" target="_blank"><span class=l>~</span>&nbsp;https://ja.wikipedia.org/wiki/&#12513;&#12488;&#12461;&#12471;&#22522;
+</a>
+
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/&#x30a8;&#x30fc;&#x30c6;&#x30eb;_" target="_blank"><span class=l>~</span>&nbsp;https://ja.wikipedia.org/wiki/&#12456;&#12540;&#12486;&#12523;_(&#21270;&#23398;)
+</a>
+
+</li>
+<li><a href="https://zh.wikipedia.org/wiki/&#x919a;" target="_blank"><span class=l>~</span>&nbsp;&#37274; / wi https://zh.wikipedia.org/wiki/&#37274;
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/&#x30a2;&#x30f3;&#x30c8;&#x30e9;&#x30bb;&#x30f3;" target="_blank"><span class=l>~</span>&nbsp;<span style="color: #990000;">&#12450;&#12531;&#12488;&#12521;&#12475;&#12531; https://ja.wikipedia.org/wiki/&#12450;&#12531;&#12488;&#12521;&#12475;&#12531;</span>
+</a>
+<ul><li><span style="color: #006699;">memos</span>
+<ul><li>&#26408;&#26448;&#12398;&#20445;&#23384;&#21092;
+
+</li>
+<li>&#12460;&#12477;&#12522;&#12531;&#12398;&#23433;&#23450;&#21092;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/&#x30a4;&#x30aa;&#x30f3;#&#x9670;&#x30a4;&#x30aa;&#x30f3;" target="_blank"><span class=l>~</span>&nbsp;<span style="color: #990000;">&#12450;&#12491;&#12458;&#12531; https://ja.wikipedia.org/wiki/&#12452;&#12458;&#12531;#&#38512;&#12452;&#12458;&#12531;</span>
+</a>
+<ul><li><span style="color: #006699;">memos</span>
+<ul><li>&#38651;&#23376;&#12434;&#21463;&#12369;&#21462;&#12387;&#12390; / &#36000;&#12398;&#38651;&#33655;&#12434;&#24111;&#12403;&#12383;&nbsp;/ &#21407;&#23376;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">.1 &#38754;&nbsp;&#30333;&#12356;&#12371;&#12392;&#12395;, &#12371;&#12398;&#28342;&#28082;&#12395;&#37325;&#27700;&#32032;&nbsp;&#12434;&#21561;&#12365;&#36796;&#12416;&nbsp;&#12392;</span>
+
+</li>
+<li><span style="color: #338800;">.2 &#12371;&#12398;&#31278;&#12398;&#20132;&#25563;&#21453;&#24540;&#12398;&#36895;&#24230;&nbsp;&#12434;&#12356;&#12429;&#12356;&#12429;&#12394;&#32302;&#21512;&#33459;&#39321;&#26063;</span>
+<ul><li><span id="show1_4_2" class="foldclosed" onClick="show_folder('1_4_2')" style="POSITION: absolute">+</span> <span id="hide1_4_2" class="foldopened" onClick="hide_folder('1_4_2')">-</span>
+<span style="color: #006699;">words</span>
+<ul id="fold1_4_2" style="POSITION: relative; VISIBILITY: visible;"><li>&#32302;&#21512;&#33459;&#39321;&#26063;&#28845;&#21270;&#27700;&#32032;
+<ul><li><span id="show1_4_2_1" class="foldclosed" onClick="show_folder('1_4_2_1')" style="POSITION: absolute">+</span> <span id="hide1_4_2_1" class="foldopened" onClick="hide_folder('1_4_2_1')">-</span>
+<a href="https://duckduckgo.com/?q=&#x7e2e;&#x5408;&#x82b3;&#x9999;&#x65cf;&#x70ad;&#x5316;&#x6c34;&#x7d20;&ia=web" target="_blank"><span class=l>~</span>&nbsp;<span style="color: #006633;">&#xa;    <p>&#xa;      s: &#32302;&#21512;&#33459;&#39321;&#26063;&#28845;&#21270;&#27700;&#32032;&#xa;    </p>&#xa;  </span>
+</a>
+<ul id="fold1_4_2_1" style="POSITION: relative; VISIBILITY: visible;"><li><a href="https://www.chem-station.com/yukitopics/no-3.htm" target="_blank"><span class=l>~</span>&nbsp;&#32302;&#21512;&#22810;&#29872;&#28845;&#21270;&#27700;&#32032; / chem-station.com https://www.chem-station.com/yukitopics/no-3.htm
+</a>
+<ul><li><span style="color: #006699;">memos</span>
+<ul><li>&#21629;&#21517;&#12398;&#29305;&#24500;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><a href="https://www.nite.go.jp/nbrc/mifup/note/view/6" target="_blank"><span class=l>~</span>&nbsp;&#33459;&#39321;&#26063;&#28845;&#21270;&#27700;&#32032;&#20998;&#35299; / nite.go.jp https://www.nite.go.jp/nbrc/mifup/note/view/6
+</a>
+
+</li>
+
+</ul></li>
+</ul>
+</li>
+<li>&#37329;&#23646;&#12501;&#12479;&#12525;&#12471;&#12450;&#12491;&#12531;
+
+</li>
+<li>&#38651;&#33655;&#31227;&#21205;&#37679;&#20307;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span id="show1_5" class="foldclosed" onClick="show_folder('1_5')" style="POSITION: absolute">+</span> <span id="hide1_5" class="foldopened" onClick="hide_folder('1_5')">-</span>
+<span style="color: #338800;">#3-2 &#12450;&#12531;&#12514;&#12491;&#12450;&#20998;&#35299;&#21453;&#24540;</span>
+<ul id="fold1_5" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #338800;">.1 &#32771;&nbsp;&#12360;&#12427;o&#12375;&#12363;&#12375;, NH3 &#12392;ND</span>
+
+</li>
+<li><span style="color: #338800;">.2 O&#20170;&#12398;&#22580;&#21512;,&#30452;&#25509;&#21453;&#24540;&#20013;&#12395;&#21560;&#30528;</span>
+<ul><li><span style="color: #006699;">related</span>
+<ul><li><a href="https://zh.wikipedia.org/zh-cn/&#x6c2e;&#x5316;&#x7269;" target="_blank"><span class=l>~</span>&nbsp;https://zh.wikipedia.org/zh-cn/&#27694;&#21270;&#29289;
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">.3 &#65377;&#31378;&#21270;&#29289;&#12398;&#23652;&#12399;&#12450;&#12531;&#12514;&#12491;&#12450;&#12398;&#20998;&#35299;&#21453;&#24540;&#12398;</span>
+<ul><li><a href="https://duckduckgo.com/?q=&#x30a2;&#x30f3;&#x30e2;&#x30cb;&#x30a2;+&#x5206;&#x89e3;&#x53cd;&#x5fdc;&ia=web" target="_blank"><span class=l>~</span>&nbsp;s: https://duckduckgo.com/?q=&#12450;&#12531;&#12514;&#12491;&#12450;+&#20998;&#35299;&#21453;&#24540;&amp;ia=web
+</a>
+
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">.4 &#12427;&#65377;&#22259;&nbsp;6&#12398;&#12424; &#12358;&#12394;&#36899;&#36890;&#31649;&nbsp;&#12434;&#12514;&#12487;&#12523;&#12395;&#32771;&nbsp;&#12360;&#12424;</span>
+
+</li>
+<li><span style="color: #338800;">.5 &#12427;&#65377;&nbsp;&#12371;&#12371;&#12391;,&#34920;&#38754;&#12398;&#31378;&#21270;</span>
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_6" class="foldclosed" onClick="show_folder('1_6')" style="POSITION: absolute">+</span> <span id="hide1_6" class="foldopened" onClick="hide_folder('1_6')">-</span>
+<span style="color: #338800;">#4 4.&#34920;&#38754;&#12398;&#20998;</span>
+<ul id="fold1_6" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #006699;">words</span>
+<ul><li>&#12458;&#12540; &#12472;&#12455;&#38651;&#23376;&#20998;&#20809;&#27861;&nbsp;(AES)
+
+</li>
+<li>&#32043;&#22806;&#20809;&#38651;&#23376;&#20998;&#20809;&#27861;(UPS)
+
+</li>
+<li>X&#20809;&#38651;&#23376;&#20998;&#20809;&#27861;(XPS)
+
+</li>
+
+</ul>
+</li>
+<li><span id="show1_6_1" class="foldclosed" onClick="show_folder('1_6_1')" style="POSITION: absolute">+</span> <span id="hide1_6_1" class="foldopened" onClick="hide_folder('1_6_1')">-</span>
+<span style="color: #338800;">#4.1 &#12458;&#12540;&#12472;&#12455;&#38651;&#23376;&nbsp;&#20998;&#20809;&#27861;&#12364;&#23450;&#19982;&#20803;&#32032;&#20998;&#26512;&#12395;&#24540;&#29992;</span>
+<ul id="fold1_6_1" style="POSITION: relative; VISIBILITY: visible;"><li><p><span style="color: #006699;">words</span>
+<ul><li>&#23450;&#19982;&#20803;&#32032;&#20998;&#26512;
+
+</li>
+
+</ul><p><span style="color: #006699;">related</span>
+<ul><li><a href="https://zh.wikipedia.org/zh-cn/&#x4fc4;&#x6b47;&#x7535;&#x5b50;" target="_blank"><span class=l>~</span>&nbsp;&#12458;&#12540;&#12472;&#12455;&#38651;&#23376; / &#20420;&#27463;&#30005;&#23376;e2xie1 / wi https://zh.wikipedia.org/zh-cn/&#20420;&#27463;&#30005;&#23376;
+</a>
+
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/&#x30aa;&#x30fc;&#x30b8;&#x30a7;&#x96fb;&#x5b50;" target="_blank"><span class=l>~</span>&nbsp;&#12458;&#12540;&#12472;&#12455;&#38651;&#23376; / wi https://ja.wikipedia.org/wiki/&#12458;&#12540;&#12472;&#12455;&#38651;&#23376;
+</a>
+
+</li>
+
+</ul><a href="https://duckduckgo.com/?q=+&#x30aa;&#x30fc;&#x30b8;&#x30a7;+&#xff65;&#x30d4;&#x30fc;&#x30af;&ia=web" target="_blank"><span class=l>~</span>&nbsp;<span style="color: #006633;">&#xa;    <p>&#xa;      s: &#12458;&#12540;&#12472;&#12455;+&#65381;&#12500;&#12540;&#12463;&#xa;    </p>&#xa;  </span>
+</a>
+<ul><li><span style="color: #006699;">docs</span>
+<ul><li><p><a href="https://www.jstage.jst.go.jp/article/tanso1949/2000/195/2000_195_446/_pdf" target="_blank"><span class=l>~</span>&nbsp;&#12458;&#12540;&#12472; &#12455;&#38651;&#23376;&#20998;&#20809;&#27861;&nbsp;/ jst.go.jp https://www.jstage.jst.go.jp/article/tanso1949/2000/195/2000_195_446/_pdf
+</a>
+<a href="https://www.jstage.jst.go.jp/article/sfj/66/12/66_621/_pdf/-char/ja" target="_blank"><span class=l>~</span>&nbsp;&#xa;    <p>&#xa;      &#12458;&#12540;&#12472;&#12455;&#38651;&#23376;&#20998;&#20809;&#27861;&#12395;&#12424;&#12427;&#34920;&#38754;&#12539;&#30028;&#38754;&#12398;&#21270;&#23398;&#29366;&#24907;&#20998;&#26512; / jst.go.jp&#160;&#xa;    </p>&#xa;    <p>&#xa;      https://www.jstage.jst.go.jp/article/sfj/66/12/66_621/_pdf/-char/ja&#xa;    </p>&#xa;  
+</a>
+<ul><li>&lt;== cannot copy
+
+</li>
+
+</ul></li>
+</ul>
+</li>
+
+</ul></li>
+</ul>
+</li>
+<li><span style="color: #338800;">.2 &#13080;&nbsp;&#22259;&nbsp;8&#12399;, Pt3 S&#65377;&#21512;&#37329;&#12398;&#34920;&#38754; &#12398;&#32068;&#25104;</span>
+<ul><li><span id="show1_6_2" class="foldclosed" onClick="show_folder('1_6_2')" style="POSITION: absolute">+</span> <span id="hide1_6_2" class="foldopened" onClick="hide_folder('1_6_2')">-</span>
+<span style="color: #006699;">words</span>
+<ul id="fold1_6_2" style="POSITION: relative; VISIBILITY: visible;"><li>*&#12450;&#12523;&#12468;&#12531;&#12452;&#12458;&#12531;&#34909;&#25731;
+<ul><li><span style="color: #006699;">docs</span>
+<ul><li><p><a href="https://www.jstage.jst.go.jp/article/jinstmet1952/60/3/60_3_331/_pdf/-char/ja" target="_blank"><span class=l>~</span>&nbsp;&#12450;&#12523;&#12468;&#12531;&#12452;&#12458;&#12531;&#34909;&#25731;&#12375;&#12383;&#37509;&#12398;&#34920;&#38754;&#12362;&#12424;&#12403;&#25313;&#25955;&#25509;&#21512;&#37096;&#12391;&#12398;&#12450;&#12523;&#12468;&#12531;&#12398;&#25369;&#21205; / jst.go.jp https://www.jstage.jst.go.jp/article/jinstmet1952/60/3/60_3_331/_pdf/-char/ja
+</a>
+<ul><li>doc C:\WORKS_2\Downloads\lecture_notes\60_331.pdf
+
+</li>
+
+</ul></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li><a href="https://kotobank.jp/word/&#x713c;&#x920d;-79636" target="_blank"><span class=l>~</span>&nbsp;<span style="color: #990000;">&#28988;&#37389; https://kotobank.jp/word/&#28988;&#37389;-79636</span>
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">.3 &#65377;&nbsp;&#21512;&#37329;&#12398;&#34920;&#38754;&#12398;&#32068;&#25104;&nbsp;&#12434;&#12458;&#12540;&#12472;&#12455;&#38651;</span>
+<ul><li><span id="show1_6_3" class="foldclosed" onClick="show_folder('1_6_3')" style="POSITION: absolute">+</span> <span id="hide1_6_3" class="foldopened" onClick="hide_folder('1_6_3')">-</span>
+<span style="color: #006699;">words</span>
+<ul id="fold1_6_3" style="POSITION: relative; VISIBILITY: visible;"><li>*&#12471;&#12463;&#12525;&#12504;&#12461;&#12469;&#12531;
+
+</li>
+<li>&#33073;&#27700;&#32032;&#21453;&#24540;
+
+</li>
+<li>&#12505;&#12531;&#12476;&#12531;
+
+</li>
+<li>&#12456;&#12479;&#12531;
+
+</li>
+<li>*&#27700;&#32032;&#21270;&#20998;&#35299;&#21453;&#24540;
+
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Hydrogenolysis" target="_blank"><span class=l>~</span>&nbsp;Hydrogenolysis https://en.wikipedia.org/wiki/Hydrogenolysis
+</a>
+
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Hydrogenation" target="_blank"><span class=l>~</span>&nbsp;Hydrogenation https://en.wikipedia.org/wiki/Hydrogenation
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">.4 &#12458;&#12540;&nbsp;&#12472;&#12455;&#38651;&#23376;&nbsp;&#12473;&#12506;&nbsp;&#12463;&nbsp;&#12488;&#12523;&#12395;&#29694;&#12431;&#12428;&#12427;&#21270;&#23398;&#21177;</span>
+<ul><li><span style="color: #006699;">words</span>
+<ul><li>&#19981;&#22343;&#21270;&#21453;&#24540;
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span style="color: #338800;">.5 &nbsp;13&#12399;X&#32218;&#20809;&#38651;&#23376; &#12473;&#12506;&#12463;&nbsp;&#12488;&#12523;&#12398;&#20363;&#12391;,&#37444;</span>
+<ul><li><span id="show1_6_4" class="foldclosed" onClick="show_folder('1_6_4')" style="POSITION: absolute">+</span> <span id="hide1_6_4" class="foldopened" onClick="hide_folder('1_6_4')">-</span>
+<span style="color: #006699;">words</span>
+<ul id="fold1_6_4" style="POSITION: relative; VISIBILITY: visible;"><li>&#37444;&#12501;&#12479;&#12525;&#12471;&#12450;&#12491;&#12531;
+<ul><li><a href="https://duckduckgo.com/?q=&#x9244;&#x30d5;&#x30bf;&#x30ed;&#x30b7;&#x30a2;&#x30cb;&#x30f3;&ia=web" target="_blank"><span class=l>~</span>&nbsp;https://duckduckgo.com/?q=&#37444;&#12501;&#12479;&#12525;&#12471;&#12450;&#12491;&#12531;&amp;ia=web
+</a>
+<ul><li><span id="show1_6_4_1" class="foldclosed" onClick="show_folder('1_6_4_1')" style="POSITION: absolute">+</span> <span id="hide1_6_4_1" class="foldopened" onClick="hide_folder('1_6_4_1')">-</span>
+<span style="color: #006699;">docs</span>
+<ul id="fold1_6_4_1" style="POSITION: relative; VISIBILITY: visible;"><li><a href="https://www.chemicalbook.com/ChemicalProductProperty_JP_CB1207817.htm" target="_blank"><span class=l>~</span>&nbsp;https://www.chemicalbook.com/ChemicalProductProperty_JP_CB1207817.htm
+</a>
+
+</li>
+<li><span id="show1_6_4_1_1" class="foldclosed" onClick="show_folder('1_6_4_1_1')" style="POSITION: absolute">+</span> <span id="hide1_6_4_1_1" class="foldopened" onClick="hide_folder('1_6_4_1_1')">-</span>
+<a href="https://ja.wikipedia.org/wiki/&#x30d5;&#x30bf;&#x30ed;&#x30b7;&#x30a2;&#x30cb;&#x30f3;" target="_blank"><span class=l>~</span>&nbsp;#4.5~d-1 / &#12501;&#12479;&#12525;&#12471;&#12450;&#12491;&#12531;&nbsp;/ wi https://ja.wikipedia.org/wiki/&#12501;&#12479;&#12525;&#12471;&#12450;&#12491;&#12531;
+</a>
+<ul id="fold1_6_4_1_1" style="POSITION: relative; VISIBILITY: visible;"><li><span style="color: #006699;">related</span>
+<ul><li><a href="https://ja.wikipedia.org/wiki/&#x30d5;&#x30bf;&#x30eb;&#x9178;" target="_blank"><span class=l>~</span>&nbsp;#4.5~d-2 / &#12501;&#12479;&#12523;&#37240;&nbsp;/ wi https://ja.wikipedia.org/wiki/&#12501;&#12479;&#12523;&#37240;
+</a>
+
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/&#x30dd;&#x30eb;&#x30d5;&#x30a3;&#x30ea;&#x30f3;" target="_blank"><span class=l>~</span>&nbsp;#4.5~d-3 / &#12509;&#12523;&#12501;&#12451;&#12522;&#12531;&nbsp;/ wi https://ja.wikipedia.org/wiki/&#12509;&#12523;&#12501;&#12451;&#12522;&#12531;
+</a>
+<ul><li><span style="color: #006699;">related</span>
+<ul><li><a href="https://ja.wikipedia.org/wiki/&#x30d4;&#x30ed;&#x30fc;&#x30eb;" target="_blank"><span class=l>~</span>&nbsp;#4.5~d-4 / &#12500;&#12525;&#12540;&#12523;&nbsp;/ wi https://ja.wikipedia.org/wiki/&#12500;&#12525;&#12540;&#12523;
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><a href="http://www.ach.nitech.ac.jp/~organic/shibata/research-phthalocyanine.html" target="_blank"><span class=l>~</span>&nbsp;ach.nitech.ac.jp &gt; Organic &gt; Shibata &gt; Research-phthalocyanine
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>&#12462;&#37240;
+<ul><li><a href="https://ja.wikipedia.org/wiki/&#x30ae;&#x9178;" target="_blank"><span class=l>~</span>&nbsp;#4.5~d-5 / https://ja.wikipedia.org/wiki/&#12462;&#37240;
+</a>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>#5 &#34920;&#38754;&#12398;&#27083;&#36896;&nbsp;&#12392;&#35302;&#23186;&#21453;&#24540;
+
+</li>
+
+</ul>
+</li>
+
+</ul></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li>~1.2
+<ul><li>r-1-1~1.2 /
+<ul><li><span style="color: #006699;">texts</span>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>~1.3
+<ul><li>r-1-1~1.3 /
+<ul><li><span style="color: #006699;">texts</span>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>~1.4
+<ul><li>r-1-1~1.4 /
+<ul><li><span style="color: #006699;">texts</span>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>~1.5
+<ul><li>r-1-1~1.5 /
+<ul><li><span style="color: #006699;">texts</span>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li>~1.6
+<ul><li>r-1-1~1.6 /
+<ul><li><span style="color: #006699;">texts</span>
+
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul><SCRIPT type="text/javascript">
+fold_document();
+</SCRIPT>
+</body>
+</html>
