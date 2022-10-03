@@ -484,7 +484,51 @@
 </node>
 <node CREATED="1609453656833" ID="ID_37527138" MODIFIED="1610686025388" POSITION="left" TEXT="utils">
 <node CREATED="1609426935847" ID="ID_677494908" LINK="C:\WORKS_2\t.bat" MODIFIED="1609426941038" TEXT="time"/>
-<node CREATED="1608627704595" ID="ID_1116133850" MODIFIED="1610686026668" TEXT="git">
+<node CREATED="1610762153011" ID="ID_1685385670" MODIFIED="1610762155265" TEXT="console">
+<node CREATED="1610762155865" ID="ID_1410328441" MODIFIED="1610762157174" TEXT="e3"/>
+</node>
+<node CREATED="1617515827355" ID="ID_261421940" MODIFIED="1617515829814" TEXT="steps">
+<node CREATED="1617515829815" ID="ID_1123020409" MODIFIED="1617515831562" TEXT="closing">
+<node CREATED="1617515832426" ID="ID_94076224" MODIFIED="1617515838137" TEXT="add timestamp"/>
+<node CREATED="1617515839235" ID="ID_633166525" MODIFIED="1617515846304" TEXT="session label ==&gt; green"/>
+<node CREATED="1617515847604" ID="ID_1918558258" MODIFIED="1617515852380" TEXT="C/P --&gt; next session"/>
+</node>
+</node>
+<node CREATED="1647835285153" ID="ID_1126137801" MODIFIED="1647835286980" TEXT="utils">
+<node CREATED="1647835287724" ID="ID_1912794852" MODIFIED="1647835289436" TEXT="files">
+<node CREATED="1647835463527" ID="ID_83898779" LINK="C:\WORKS_2\shortcuts_docs\log_files\storage_log_files\log_JVE_63_social-issues.log" MODIFIED="1664779121340" TEXT="log_JVE_63_social-issues.log"/>
+</node>
+<node CREATED="1617515853868" ID="ID_970861100" MODIFIED="1664779390326" TEXT="git">
+<node CREATED="1608627706371" ID="ID_471174875" MODIFIED="1653446767706" TEXT="1">
+<node CREATED="1608627706941" ID="ID_379061315" LINK="C:\WORKS_2\shortcuts_docs\end_batch\end_log_JVE_63_social-issues.git.bat" MODIFIED="1664779188160">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      end : git
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1608627706941" ID="ID_1551104871" LINK="C:\WORKS_2\shortcuts_docs\end_batch\end_log_JVE_68.[tp_v-2.0].bat" MODIFIED="1656831850539">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      end apps
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1664779378303" FOLDED="true" ID="ID_361236473" MODIFIED="1664779383485" TEXT="storage">
+<node CREATED="1608627704595" ID="ID_1116133850" MODIFIED="1664779382237" TEXT="git">
 <node CREATED="1608627706371" ID="ID_492644994" MODIFIED="1610686027385" TEXT="1">
 <node CREATED="1608627706941" ID="ID_607619239" LINK="C:\WORKS_2\shortcuts_docs\end_log_JVE_63.[social-issues].bat" MODIFIED="1618622684766">
 <richcontent TYPE="NODE"><html>
@@ -530,48 +574,6 @@
 </html></richcontent>
 </node>
 </node>
-</node>
-<node CREATED="1610762153011" ID="ID_1685385670" MODIFIED="1610762155265" TEXT="console">
-<node CREATED="1610762155865" ID="ID_1410328441" MODIFIED="1610762157174" TEXT="e3"/>
-</node>
-<node CREATED="1617515827355" ID="ID_261421940" MODIFIED="1617515829814" TEXT="steps">
-<node CREATED="1617515829815" ID="ID_1123020409" MODIFIED="1617515831562" TEXT="closing">
-<node CREATED="1617515832426" ID="ID_94076224" MODIFIED="1617515838137" TEXT="add timestamp"/>
-<node CREATED="1617515839235" ID="ID_633166525" MODIFIED="1617515846304" TEXT="session label ==&gt; green"/>
-<node CREATED="1617515847604" ID="ID_1918558258" MODIFIED="1617515852380" TEXT="C/P --&gt; next session"/>
-<node CREATED="1617515853868" ID="ID_970861100" MODIFIED="1617515854743" TEXT="git">
-<node CREATED="1608627706371" ID="ID_471174875" MODIFIED="1653446767706" TEXT="1">
-<node CREATED="1608627706941" ID="ID_379061315" LINK="C:\WORKS_2\shortcuts_docs\end_batch\end_log_JVE_63_social-issues.git.bat" MODIFIED="1664779188160">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      end : git
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1608627706941" ID="ID_1551104871" LINK="C:\WORKS_2\shortcuts_docs\end_batch\end_log_JVE_68.[tp_v-2.0].bat" MODIFIED="1656831850539">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      end apps
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1647835285153" ID="ID_1126137801" MODIFIED="1647835286980" TEXT="utils">
-<node CREATED="1647835287724" ID="ID_1912794852" MODIFIED="1647835289436" TEXT="files">
-<node CREATED="1647835463527" ID="ID_83898779" LINK="C:\WORKS_2\shortcuts_docs\log_files\storage_log_files\log_JVE_63_social-issues.log" MODIFIED="1664779121340" TEXT="log_JVE_63_social-issues.log"/>
 </node>
 </node>
 </node>
