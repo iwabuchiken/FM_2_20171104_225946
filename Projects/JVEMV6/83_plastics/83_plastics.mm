@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1665646513629" ID="ID_46980908" LINK="../../JVEMV6.mm" MODIFIED="1665646552387" TEXT="83. plastics">
-<node CREATED="1608648934595" ID="ID_1730009514" MODIFIED="1665646579451" POSITION="right" TEXT="sessions">
+<node CREATED="1608648934595" FOLDED="true" ID="ID_1730009514" MODIFIED="1665993611968" POSITION="right" TEXT="sessions">
 <node CREATED="1665820854854" FOLDED="true" ID="ID_223342973" MODIFIED="1665975357945" TEXT="s-1~">
 <node COLOR="#338800" CREATED="1615187554513" FOLDED="true" ID="ID_1610988966" MODIFIED="1665736446718" TEXT="s-1">
 <node CREATED="1665648675073" ID="ID_674917966" MODIFIED="1665648678480" TEXT="do">
@@ -199,7 +199,7 @@
 <node COLOR="#990000" CREATED="1665899730289" ID="ID_273690371" MODIFIED="1665899731872" TEXT="20221016_145528/"/>
 <node COLOR="#990000" CREATED="1665907376273" ID="ID_1867889351" MODIFIED="1665907378008" TEXT="/20221016_170254"/>
 </node>
-<node CREATED="1615187554513" FOLDED="true" ID="ID_3939700" MODIFIED="1665978432264" TEXT="s-5">
+<node CREATED="1615187554513" ID="ID_3939700" MODIFIED="1665987288016" TEXT="s-5">
 <node CREATED="1610723630275" ID="ID_1705031534" MODIFIED="1665975370458" TEXT="do">
 <node COLOR="#338800" CREATED="1665907334945" ID="ID_1177199913" MODIFIED="1665978419283" TEXT="1">
 <arrowlink DESTINATION="ID_975445057" ENDARROW="Default" ENDINCLINATION="324;0;" ID="Arrow_ID_904945873" STARTARROW="None" STARTINCLINATION="324;0;"/>
@@ -219,11 +219,7 @@
 </node>
 <node COLOR="#990000" CREATED="1665978429641" ID="ID_43532956" MODIFIED="1665978431349" TEXT="/20221017_124704"/>
 </node>
-<node CREATED="1624859724607" ID="ID_1160842961" MODIFIED="1654661607506" TEXT="X"/>
-</node>
-<node CREATED="1610723630275" ID="ID_1777392996" MODIFIED="1653446767675" TEXT="n:">
-<node CREATED="1624859724607" ID="ID_1582739201" MODIFIED="1654661607506" TEXT="X"/>
-<node CREATED="1665978403086" ID="ID_1824359357" MODIFIED="1665978414511" TEXT="X">
+<node COLOR="#338800" CREATED="1665978403086" ID="ID_1824359357" MODIFIED="1665993577777" TEXT="2">
 <arrowlink DESTINATION="ID_668226925" ENDARROW="Default" ENDINCLINATION="320;0;" ID="Arrow_ID_1082986687" STARTARROW="None" STARTINCLINATION="320;0;"/>
 <node CREATED="1665648671952" ID="ID_1980284356" MODIFIED="1665736432514" TEXT="r-c">
 <node CREATED="1665648663026" ID="ID_1547141416" MODIFIED="1665648663026">
@@ -240,8 +236,31 @@
 </node>
 </node>
 </node>
+<node COLOR="#990000" CREATED="1665987296135" ID="ID_1615482970" MODIFIED="1665987304860" TEXT="20221017_151454/"/>
+<node CREATED="1624859724607" ID="ID_1160842961" MODIFIED="1654661607506" TEXT="X"/>
+</node>
+<node CREATED="1610723630275" ID="ID_1777392996" MODIFIED="1653446767675" TEXT="n:">
+<node CREATED="1665993559463" ID="ID_1094816854" MODIFIED="1665993573302" TEXT="X">
+<arrowlink DESTINATION="ID_1513080786" ENDARROW="Default" ENDINCLINATION="357;0;" ID="Arrow_ID_1557972393" STARTARROW="None" STARTINCLINATION="357;0;"/>
+<node CREATED="1665648671952" ID="ID_704668675" MODIFIED="1665736432514" TEXT="r-c">
+<node CREATED="1665648663026" ID="ID_1271244924" MODIFIED="1665648663026">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      r-1-1~1.1 /&#160;&#12302;&#26377;&#27231;&#21270;&#23398;&#12398;&#22522;&#30990;&#12303;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1624859724607" ID="ID_1582739201" MODIFIED="1654661607506" TEXT="X"/>
 </node>
 <node COLOR="#990000" CREATED="1665975361381" ID="ID_1220168446" MODIFIED="1665975363649" TEXT="20221017_115559/"/>
+<node COLOR="#990000" CREATED="1665993584193" ID="ID_1318379790" MODIFIED="1665993585827" TEXT="/20221017_165941"/>
 </node>
 <node CREATED="1609426935847" ID="ID_103785999" LINK="C:\WORKS_2\t.bat" MODIFIED="1662877755138" STYLE="fork" TEXT="time"/>
 <node CREATED="1660983203343" ID="ID_1035444976" MODIFIED="1665820850980" TEXT="storage">
@@ -257,7 +276,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1665646573474" FOLDED="true" ID="ID_772528641" MODIFIED="1665978410399" POSITION="right" TEXT="read">
+<node CREATED="1665646573474" FOLDED="true" ID="ID_772528641" MODIFIED="1665993565948" POSITION="right" TEXT="read">
 <node CREATED="1663133992294" ID="ID_831231915" MODIFIED="1665899780136" TEXT="1 / r-1 / initial">
 <node CREATED="1663134007591" ID="ID_1734565225" MODIFIED="1664867024169" TEXT="r-1-1 / init">
 <node CREATED="1663055000843" ID="ID_1916798196" MODIFIED="1665802489846" TEXT="r-1-1~1 / initial docs">
@@ -444,8 +463,7 @@
       &#31532; 14 &#22238;&#12300;&#12521;&#12472;&#12459;&#12523;&#21453;&#24540;&#12301;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1665978327548" ID="ID_760426981" LINK="C:\WORKS_2\Downloads\lecture_notes\ochem1_14.pdf" MODIFIED="1665978348357">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -456,8 +474,7 @@
       file
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#006699" CREATED="1665978360200" ID="ID_1721316251" LINK="http://www2.meijo-u.ac.jp/~tnagata/education/ochem1/2021/ochem1_14.pdf" MODIFIED="1665978363007" TEXT="url"/>
 </node>
@@ -478,8 +495,7 @@
       &#20849;&#26377;&#32080;&#21512;&#65288;&#20363;&#12539;&#12452;&#12458;&#12531;&#32080;&#21512;&#12420;&#37197;&#20301;&#32080;&#21512;&#12392;&#12398;&#36949;&#12356;&#12394;&#12393;&#65289;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#006699" CREATED="1665978383518" ID="ID_1963655178" LINK="https://kimika.net/r3kyouyuuketsugo.html" MODIFIED="1665978394867" TEXT="url">
 <node CREATED="1665978389126" MODIFIED="1665978389126">
 <richcontent TYPE="NODE"><html>
@@ -491,15 +507,82 @@
       https://kimika.net/r3kyouyuuketsugo.html
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1665978327595" ID="ID_668226925" MODIFIED="1665978407349" TEXT="L.~1 &#x96fb;&#x8377;&#x3092;&#x3082;&#x3064;">
+<node COLOR="#338800" CREATED="1665978327595" ID="ID_668226925" MODIFIED="1665989754104" TEXT="L.~1 &#x96fb;&#x8377;&#x3092;&#x3082;&#x3064;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_668226925" ENDARROW="Default" ENDINCLINATION="320;0;" ID="Arrow_ID_1082986687" SOURCE="ID_1824359357" STARTARROW="None" STARTINCLINATION="320;0;"/>
+<node COLOR="#006699" CREATED="1665989740190" FOLDED="true" ID="ID_1632243086" MODIFIED="1665989752475" TEXT="words">
+<node CREATED="1665989733120" ID="ID_1975585652" MODIFIED="1665989733120" TEXT="&#x6c42;&#x6838;&#x8a66;&#x85ac;">
+<node COLOR="#006699" CREATED="1665989733151" ID="ID_1271485600" MODIFIED="1665989746335" TEXT="docs">
+<node CREATED="1665989733151" LINK="https://ja.wikipedia.org/wiki/&#x6c42;&#x6838;&#x5264;" MODIFIED="1665989733151" TEXT="L.~1~d-1 https://ja.wikipedia.org/wiki/&#x6c42;&#x6838;&#x5264;"/>
+<node CREATED="1665989733151" LINK="https://netdekagaku.com/nucleophile/" MODIFIED="1665989733151" TEXT="L.~1~d-2 https://netdekagaku.com/nucleophile/"/>
+</node>
+</node>
+<node CREATED="1665989733151" ID="ID_1102895130" MODIFIED="1665989733151" TEXT="&#x96fb;&#x5b50;&#x4e0d;&#x8db3;&#x4e2d;&#x5fc3;">
+<node CREATED="1665989733151" LINK="https://ja.wikipedia.org/wiki/&#x4e09;&#x4e2d;&#x5fc3;&#x4e8c;&#x96fb;&#x5b50;&#x7d50;&#x5408;" MODIFIED="1665989733151" TEXT="https://ja.wikipedia.org/wiki/&#x4e09;&#x4e2d;&#x5fc3;&#x4e8c;&#x96fb;&#x5b50;&#x7d50;&#x5408;"/>
+<node CREATED="1665989733151" LINK="https://kotobank.jp/word/&#x96fb;&#x5b50;&#x4e0d;&#x8db3;&#x5316;&#x5408;&#x7269;-1188153" MODIFIED="1665989733151" TEXT="https://kotobank.jp/word/&#x96fb;&#x5b50;&#x4e0d;&#x8db3;&#x5316;&#x5408;&#x7269;-1188153"/>
+</node>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1665989733151" FOLDED="true" ID="ID_696846049" MODIFIED="1665993541147" TEXT="L.~1-~1 &#x305f;&#x3068;&#x3048;&#x3070;&#x3001;">
+<node COLOR="#006699" CREATED="1665989733151" ID="ID_354674909" MODIFIED="1665989755640" TEXT="related">
+<node CREATED="1665989733167" LINK="https://ja.wikipedia.org/wiki/&#x56db;&#x5869;&#x5316;&#x70ad;&#x7d20;" MODIFIED="1665989733167" TEXT="L.~1-~1~d-1 https://ja.wikipedia.org/wiki/&#x56db;&#x5869;&#x5316;&#x70ad;&#x7d20;"/>
+<node CREATED="1665989733167" MODIFIED="1665989733167" TEXT="&#x96fb;&#x6c17;&#x9670;&#x6027;&#x5ea6;"/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1665993519233" FOLDED="true" ID="ID_1013065598" MODIFIED="1665993543090" TEXT="R.2 &#x6709;&#x6a5f;&#x5316;&#x5408;&#x7269;&#x306e;">
+<node COLOR="#006699" CREATED="1665993525956" ID="ID_449506010" MODIFIED="1665993529949" TEXT="words">
+<node CREATED="1665993519248" FOLDED="true" ID="ID_407261626" MODIFIED="1665993538569" TEXT="&#x30da;&#x30f3;&#x30bf;&#x30f3;&#x30b8;&#x30aa;&#x30f3;">
+<node CREATED="1665993519248" LINK="https://duckduckgo.com/?q=&#x30da;&#x30f3;&#x30bf;&#x30f3;&#x30b8;&#x30aa;&#x30f3;&amp;ia=web" MODIFIED="1665993519248" TEXT="https://duckduckgo.com/?q=&#x30da;&#x30f3;&#x30bf;&#x30f3;&#x30b8;&#x30aa;&#x30f3;&amp;ia=web"/>
+<node CREATED="1665993519248" LINK="https://anzeninfo.mhlw.go.jp/anzen/gmsds/123-54-6.html" MODIFIED="1665993519248" TEXT="R.2~d-1 https://anzeninfo.mhlw.go.jp/anzen/gmsds/123-54-6.html"/>
+<node COLOR="#006699" CREATED="1665993519264" FOLDED="true" ID="ID_649059856" MODIFIED="1665993537063" TEXT="related">
+<node CREATED="1665993519264" MODIFIED="1665993519264" TEXT="&#x30aa;&#x30ad;&#x30bd;&#x30d7;&#x30ed;&#x30d4;&#x30eb;">
+<node CREATED="1665993519264" LINK="https://en.wikipedia.org/wiki/Propyl_group" MODIFIED="1665993519264" TEXT="https://en.wikipedia.org/wiki/Propyl_group"/>
+<node CREATED="1665993519264" LINK="https://ko.wikipedia.org/wiki/&#xd504;&#xb85c;&#xd544;&#xae30;" MODIFIED="1665993519264" TEXT="R.2~d-2 https://ko.wikipedia.org/wiki/&#xd504;&#xb85c;&#xd544;&#xae30;"/>
+</node>
+<node CREATED="1665993519311" ID="ID_1551244170" LINK="http://www.chemdict.com/datcdc0yan/" MODIFIED="1665993519311" TEXT="&#x4e59;&#x916e; http://www.chemdict.com/datcdc0yan/"/>
+<node CREATED="1665993519326" LINK="https://ja.wikipedia.org/wiki/&#x30a8;&#x30c1;&#x30eb;&#x57fa;" MODIFIED="1665993519326" TEXT="https://ja.wikipedia.org/wiki/&#x30a8;&#x30c1;&#x30eb;&#x57fa;"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1665993519326" ID="ID_510144726" MODIFIED="1665993524201" TEXT="R.2-~1 &#x751f;&#x6210;&#x3057;&#x305f;&#x30a2;&#x30cb;&#x30aa;&#x30f3;">
+<node COLOR="#006699" CREATED="1665993519326" FOLDED="true" ID="ID_482884813" MODIFIED="1665993548396" TEXT="words">
+<node CREATED="1665993519326" ID="ID_1684824382" MODIFIED="1665993519326" TEXT="&#x30ab;&#x30eb;&#x30dc;&#x30a2;&#x30cb;&#x30aa;&#x30f3;">
+<node CREATED="1665993519326" ID="ID_396861798" LINK="https://kusuri-new.link/category21/entry541.html" MODIFIED="1665993519326" TEXT="https://kusuri-new.link/category21/entry541.html">
+<node COLOR="#006699" CREATED="1665993519326" ID="ID_1888166524" MODIFIED="1665993546655" TEXT="memos">
+<node CREATED="1665993519326" MODIFIED="1665993519326" TEXT="&#x30de;&#x30a4;&#x30ca;&#x30b9;&#x306b;&#x8377;&#x96fb;&#x3057;&#x305f;&#x70ad;&#x7d20;"/>
+</node>
+</node>
+</node>
+<node CREATED="1665993519326" ID="ID_909895848" MODIFIED="1665993519326" TEXT="&#x7570;&#x6027;&#x5316;"/>
+<node CREATED="1665993519342" MODIFIED="1665993519342" TEXT="&#x30a8;&#x30ce;&#x30e9;&#x30fc;&#x30c8;&#x30a2;&#x30cb;&#x30aa;&#x30f3;">
+<node CREATED="1665993519342" LINK="https://www2.meijo-u.ac.jp/~tnagata/education/ochem2/2019/ochem2_24_slides.pdf" MODIFIED="1665993519342" TEXT="&#x30a8;&#x30ce;&#x30e9;&#x30fc;&#x30c8;&#x3068;&#x306f;&#x4f55;&#x304b; https://www2.meijo-u.ac.jp/~tnagata/education/ochem2/2019/ochem2_24_slides.pdf"/>
+<node CREATED="1665993519342" LINK="http://sekatsu-kagaku.sub.jp/organic-reaction-mechanisim3.htm" MODIFIED="1665993519342" TEXT="&#x30a8;&#x30ce;&#x30e9;&#x30fc;&#x30c8;&#x30a2;&#x30cb;&#x30aa;&#x30f3;&#x306e;&#x751f;&#x6210; http://sekatsu-kagaku.sub.jp/organic-reaction-mechanisim3.htm"/>
+<node CREATED="1665993519342" LINK="https://ja.wikipedia.org/wiki/&#x30a8;&#x30ce;&#x30e9;&#x30fc;&#x30c8;" MODIFIED="1665993519342" TEXT="https://ja.wikipedia.org/wiki/&#x30a8;&#x30ce;&#x30e9;&#x30fc;&#x30c8;"/>
+</node>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1665993519342" FOLDED="true" ID="ID_404271206" MODIFIED="1665993555268" TEXT="R.3 &#x305d;&#x306e;&#x305f;&#x3081;">
+<node COLOR="#006699" CREATED="1665993519342" ID="ID_1230160326" MODIFIED="1665993550321" TEXT="words">
+<node CREATED="1665993519342" FOLDED="true" ID="ID_736750481" MODIFIED="1665993551594" TEXT="R.3~d-1 &#x30af;&#x30ed;&#x30ed;&#x30e1;&#x30c1;&#x30eb;&#x30e1;&#x30c1;&#x30eb;&#x30a8;&#x30fc;&#x30c6;&#x30eb;">
+<node CREATED="1665993519342" LINK="https://ja.wikipedia.org/wiki/&#x30af;&#x30ed;&#x30ed;&#x30e1;&#x30c1;&#x30eb;&#x30e1;&#x30c1;&#x30eb;&#x30a8;&#x30fc;&#x30c6;&#x30eb;" MODIFIED="1665993519342" TEXT="https://ja.wikipedia.org/wiki/&#x30af;&#x30ed;&#x30ed;&#x30e1;&#x30c1;&#x30eb;&#x30e1;&#x30c1;&#x30eb;&#x30a8;&#x30fc;&#x30c6;&#x30eb;"/>
+<node CREATED="1665993519342" LINK="https://anzeninfo.mhlw.go.jp/anzen/gmsds/107-30-2.html" MODIFIED="1665993519342" TEXT="https://anzeninfo.mhlw.go.jp/anzen/gmsds/107-30-2.html"/>
+<node CREATED="1665993519342" LINK="https://es.wikipedia.org/wiki/&#xc9;ter_" MODIFIED="1665993519342" TEXT="R.3~d-2 https://es.wikipedia.org/wiki/&#xc9;ter_(qu&#xed;mica)"/>
+</node>
+<node CREATED="1665993519342" FOLDED="true" ID="ID_1807466741" MODIFIED="1665993552725" TEXT="&#x81ed;&#x5316;&#x30d6;&#x30c1;&#x30eb;">
+<node CREATED="1665993519357" LINK="https://ja.wikipedia.org/wiki/1-&#x30d6;&#x30ed;&#x30e2;&#x30d6;&#x30bf;&#x30f3;" MODIFIED="1665993519357" TEXT="https://ja.wikipedia.org/wiki/1-&#x30d6;&#x30ed;&#x30e2;&#x30d6;&#x30bf;&#x30f3;"/>
+<node CREATED="1665993519357" LINK="https://ja.wikipedia.org/wiki/&#x30d6;&#x30c1;&#x30eb;&#x57fa;#n-&#x30d6;&#x30c1;&#x30eb;&#x57fa;" MODIFIED="1665993519357" TEXT="https://ja.wikipedia.org/wiki/&#x30d6;&#x30c1;&#x30eb;&#x57fa;#n-&#x30d6;&#x30c1;&#x30eb;&#x57fa;"/>
+<node CREATED="1665993519357" LINK="https://anzeninfo.mhlw.go.jp/anzen/gmsds/109-65-9.html" MODIFIED="1665993519357" TEXT="https://anzeninfo.mhlw.go.jp/anzen/gmsds/109-65-9.html"/>
+</node>
+</node>
+</node>
+<node CREATED="1665993519357" ID="ID_1513080786" MODIFIED="1665993563506" TEXT="R.~1 HSAB &#x306e;&#x539f;&#x7406;&#x306f;&#x3001;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1513080786" ENDARROW="Default" ENDINCLINATION="357;0;" ID="Arrow_ID_1557972393" SOURCE="ID_1094816854" STARTARROW="None" STARTINCLINATION="357;0;"/>
 </node>
 </node>
 </node>
@@ -580,7 +663,8 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1663566825744" ID="ID_1110092082" LINK="C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_68_tp.log" MODIFIED="1663566834919">
+<node CREATED="1665993626205" FOLDED="true" ID="ID_1179349172" MODIFIED="1665993630707" TEXT="storage">
+<node CREATED="1663566825744" ID="ID_1110092082" LINK="C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_68_tp.log" MODIFIED="1665993629429">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -592,7 +676,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1664958502375" ID="ID_586286441" LINK="G:\photo-books_HD\196_chem_organic_araki_etal\196.1_chem_organic_araki_etal" MODIFIED="1665646811043">
+<node CREATED="1664958502375" ID="ID_586286441" LINK="G:\photo-books_HD\196_chem_organic_araki_etal\196.1_chem_organic_araki_etal" MODIFIED="1665993629429">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -605,7 +689,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1635584516358" ID="ID_954515348" MODIFIED="1653446767706" TEXT="links">
+</node>
+<node CREATED="1635584516358" FOLDED="true" ID="ID_954515348" MODIFIED="1665993635497" TEXT="links">
 <node CREATED="1635584519953" ID="ID_1507111416" LINK="../76_physics/76_physics.mm" MODIFIED="1653446767706">
 <richcontent TYPE="NODE"><html>
   <head>
