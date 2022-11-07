@@ -1584,7 +1584,7 @@
 <node CREATED="1664856271301" ID="ID_844271890" LINK="../63_social-issues/63_social-issues.mm" MODIFIED="1664935649849" TEXT="a-5">
 <node CREATED="1664775072418" ID="ID_993059354" LINK="../63_social-issues/63_social-issues.mm" MODIFIED="1664856305430" TEXT="63_social-issues.mm"/>
 </node>
-<node CREATED="1665646932212" ID="ID_777503224" LINK="../83_plastics/83_plastics.mm" MODIFIED="1666591908154" TEXT="a-6">
+<node CREATED="1665646932212" ID="ID_777503224" LINK="../83_plastics/83_plastics.mm" MODIFIED="1667805305345" TEXT="a-6">
 <node CREATED="1665646954669" ID="ID_735402710" LINK="../83_plastics/83_plastics.mm" MODIFIED="1665646959254" TEXT="83_plastics.mm">
 <node CREATED="1641998674679" ID="ID_536402603" LINK="C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_83_plastics.dat" MODIFIED="1665646734991">
 <richcontent TYPE="NODE"><html>
